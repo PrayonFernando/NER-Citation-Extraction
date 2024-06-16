@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0118" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="The Oregon">THE OREGON</name>
+          <docketnumber>No. 725</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 826</citation>
+          <citation category="parallel" type="bluebook">116 F. 482</citation>
+          <decisiondate>1902-05-19</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:10Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00419_1" MIMETYPE="image/tiff" CHECKSUM="f44b87f946e03add5c6eaac03cef245d" CHECKSUMTYPE="MD5" SIZE="14482">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00419_1.tif"/>
+      </file>
+      <file ID="tiff_00420_0" MIMETYPE="image/tiff" CHECKSUM="a8ce30e40c142acfe258acf5753425b7" CHECKSUMTYPE="MD5" SIZE="54194">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00420_0.tif"/>
+      </file>
+      <file ID="tiff_00420_1" MIMETYPE="image/tiff" CHECKSUM="738989d2c292eb41d2d82170c99359b2" CHECKSUMTYPE="MD5" SIZE="55376">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00420_1.tif"/>
+      </file>
+      <file ID="tiff_00421_0" MIMETYPE="image/tiff" CHECKSUM="ec3700929e6da40cbb797d620b580f77" CHECKSUMTYPE="MD5" SIZE="41796">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00421_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00419_1" MIMETYPE="image/jpg" CHECKSUM="b6d9f582185c514cf98d621cd9717d62" CHECKSUMTYPE="MD5" SIZE="95222">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00419_1.jpg"/>
+      </file>
+      <file ID="jpg_00420_0" MIMETYPE="image/jpg" CHECKSUM="0e3804b3aff87fad7193cdeb1edc4b9e" CHECKSUMTYPE="MD5" SIZE="198497">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00420_0.jpg"/>
+      </file>
+      <file ID="jpg_00420_1" MIMETYPE="image/jpg" CHECKSUM="ef86def75bfebf4805200d9f5e46df40" CHECKSUMTYPE="MD5" SIZE="214350">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00420_1.jpg"/>
+      </file>
+      <file ID="jpg_00421_0" MIMETYPE="image/jpg" CHECKSUM="a56217f94b04cb87442396f2f01b66e7" CHECKSUMTYPE="MD5" SIZE="163737">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00421_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00419_1" MIMETYPE="text/xml+gzip" CHECKSUM="202fc7af479218ba12e6562a092b74da" CHECKSUMTYPE="MD5" SIZE="4129">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00419_1.xml.gz"/>
+      </file>
+      <file ID="alto_00420_0" MIMETYPE="text/xml+gzip" CHECKSUM="97401f217a6d2ae0afc35bcd16a0e82f" CHECKSUMTYPE="MD5" SIZE="12669">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00420_0.xml.gz"/>
+      </file>
+      <file ID="alto_00420_1" MIMETYPE="text/xml+gzip" CHECKSUM="4023608ff8995648b8d13393fabfbe81" CHECKSUMTYPE="MD5" SIZE="12766">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00420_1.xml.gz"/>
+      </file>
+      <file ID="alto_00421_0" MIMETYPE="text/xml+gzip" CHECKSUM="25febc7d24b8fc2c788df96721f47adb" CHECKSUMTYPE="MD5" SIZE="10220">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00421_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0118" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="826" lastpage="829">
+              <court pgmap="838" id="b838-15">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="838" id="b838-14">No. 725.</docketnumber>
+              <citation pgmap="838" id="b838-12">116 F. 482</citation>
+              <parties pgmap="838" id="b838-13">THE OREGON.</parties>
+              <decisiondate pgmap="838" id="b838-16">May 19, 1902.</decisiondate>
+              <judges pgmap="838" id="AV2">Before GILBERT, ROSS, and MORROW, Circuit Judges.</judges>
+              <attorneys pgmap="838" id="b838-20">Page, McCutchen, Harding &amp; Knight, for appellants.</attorneys>
+              <opinion type="majority">
+                <author pgmap="839" id="b839-3">ROSS, Circuit Judge.</author>
+                <p pgmap="839(405) 840(269)" id="b839-4">The amended libel in this case alleged that on the 21st day of October, 1900, the appellee shipped by the steamship Oregon from the port of Nome, Alaska, to the port of Teller, in that territory, 5 Yz tons of merchandise, consist­ing of groceries, provisions, furniture, hardware, and wear­ing apparel, the property of the appellee, on which he paid freight amounting to $159.25, and for which the steamship company, through its agent, issued to the appellee a bill of lading; that the Oregon sailed from Nome for the port of Teller on or about October 28, 1900, with the appellee’s goods on board, which were not delivered, “owing to the want of proper care on the part of said master (the master of the ship), his officers and crew, and persons employed by him or them, and by reason of the careless, negligent, and improper manner in which said merchandise was handled, to wit, carelessness and negligence in unloading the same upon a light boat, by reason of the careless and negligent handling of which said light boat the said light boat shipped water, so that the said merchandise was wholly lost; and, owing to the failure qf the said master to deliver the said merchandise in good order and well conditioned, said li­belant and plaintiff lost a large amount of time, and was hindered in carrying on his business, and was compelled to purchase merchandise at greatly enhanced prices to replace the merchandise lost as aforesaid, whereby the libelant and plaintiff herein has sustained damage to the amount of two thousand dollars.” The amended libel was verified by C. A. S. Frost, one of the proctors for the libelant, the veri­fication stating “that the libelant in this cause is absent from Nome, and at Teller, Alaska, and is unable to be present at Nome, his duties requiring his constant personal attention in Teller; that deponent is authorized to act for him herein, and that the foregoing libel is true, according to his information and belief; that the source of deponent’s knowledge is information derived from letters written by the libelant and plaintiff.” To the amended libel the re­spondents filed exceptions, upon the grounds, among others, that its verification is not such as is required by the rules and practice of the court, and that no maritime or other lien against the steamer is thereby shown to exist in favor of the' libelant. The exceptions were overruled, and the respondents thereupon filed an answer, in which are set up the uncertainties of and inconsistencies in the averments of the libel in respect to the cause of the alleged nondelivery of the appellee’s merchandise in good order and well con­ditioned, and, in effect, denying that the merchandise in question was lost through any carelessness on the part of the ship or its officers or agents, and alleging that all of the ship’s cargo from Nome to Teller was carefully unloaded at the latter place; that the lighter there used was in good, seaworthy condition, and was loaded and handled in a prop­er, seamanlike way; and that, if any, loss occurred, it was beyond appellants’ control. By their answer the appellants further alleged that the appellee received a large part of the goods so shipped by him, and denied that he sustained any damage by reason of any carelessness, negligence, or improper conduct in loading, transporting, or unloading the goods in question. The answer concluded by propounding to the appellee the following interrogatories: “(1) Was said merchandise all placed on board said ship at Nome? If not, how much? (2) Was any of .said merchandise placed upon the beach at-or near Teller; and, if so, how much, of what particular character, and the value thereof? (3) What merchandise was lost in the light boat referred to; and, if any, the character and value of each article? (4) Has the libelant the bill of lading referred to in the libel; and, if so, what are the words and figures thereof?”</p>
+                <p pgmap="840(142) 841(126)" id="b840-6">With issues thus distinctly raised by the answer, and with the interrogatories wholly unanswered that were pro­pounded under and by virtue of admiralty rule No. 32 (ad­miralty rule 31 note in 28 U.S.C.A. following section 723) prescribed by the supreme court, the libelant moved for a judgment on the pleadings, which motion was granted by the court below by the following order: - “Upon reading and filing plaintiff’s motion' for judgment on the pleadings in this cause, and it being ordered by the court that the said motion be submitted on written briefs, and upon reading and filing the brief of .C. A. S. Frost, Esq., counsel for the plaintiff, and the reply brief of Key Pittman, Esq., counsel for the.defendants, and it appearing to the court that the answer of the defendants filed in said cause is sham and frivolous, and that the said answer does not state facts suffi­cient to constitute a defense, and it further appearing to the court that the damages sustained by the plaintiff are unliquidated, and cannot be ascertained without inquiry as to the amount thereof, and the court being fully advised in the premises, it is ordered and adjudged that the plaintiff is entitled to judgment on the pleadings, and, to the end that the amount of damage sustained by the plaintiff may be as­certained, it is further ordered that this cause be, and the same is hereby, referred to W. B. Hauser, Esq., to ascer­tain and find the amount of the damages sustained by the plaintiff, and to report to this court the amount thereof.</p>
+                <blockquote pgmap="841" id="b841-4">“Arthur H. Noyes, Judge.”</blockquote>
+                <p pgmap="841" id="b841-5">The admiralty rule referred to reads as follows: “The defendant shall have a right to require the personal an­swer of the libelant upon oath or solemn affirmation to any interrogatories which he may, at the close of his answer, propound to the libelant touching any matters charged in the libel, or touching any matter of defense set up in the answer, subject to the like exception as to matters which shall expose the libelant to any prosecution, or punishment, or forfeiture, as is provided in the 31st rule. In default of due answer by the libelant to such interrogatories, the court may adjudge the libelant to be in default, and dismiss the libel, or may compel his answer in the premises by attach­ment, or take the subject-matter of the interrogatory pro confesso in favor of the defendant, as the court, in its discretion, shall deem most fit to promote public justice.”</p>
+                <p pgmap="841" id="b841-6">A bare statement of the case is enough to disclose the error of the court below. The judgment is reversed, and the cause remanded for further proceedings.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="838" ORDERLABEL="826" TYPE="page">
+        <fptr FILEID="tiff_00419_1"/>
+        <fptr FILEID="jpg_00419_1"/>
+        <fptr FILEID="alto_00419_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_838.1" BETYPE="IDREF" FILEID="alto_00419_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="839" ORDERLABEL="827" TYPE="page">
+        <fptr FILEID="tiff_00420_0"/>
+        <fptr FILEID="jpg_00420_0"/>
+        <fptr FILEID="alto_00420_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_839.2" BETYPE="IDREF" FILEID="alto_00420_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="840" ORDERLABEL="828" TYPE="page">
+        <fptr FILEID="tiff_00420_1"/>
+        <fptr FILEID="jpg_00420_1"/>
+        <fptr FILEID="alto_00420_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_840.2" BETYPE="IDREF" FILEID="alto_00420_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="841" ORDERLABEL="829" TYPE="page">
+        <fptr FILEID="tiff_00421_0"/>
+        <fptr FILEID="jpg_00421_0"/>
+        <fptr FILEID="alto_00421_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_841.3" BETYPE="IDREF" FILEID="alto_00421_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b841-6" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_841.6" BETYPE="IDREF" FILEID="alto_00421_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b840-6" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_840.4" BETYPE="IDREF" FILEID="alto_00420_1"/>
+            <area BEGIN="BL_841.1" BETYPE="IDREF" FILEID="alto_00421_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b839-4" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_839.4" BETYPE="IDREF" FILEID="alto_00420_0"/>
+            <area BEGIN="BL_840.1" BETYPE="IDREF" FILEID="alto_00420_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b838-20" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_838.21" BETYPE="IDREF" FILEID="alto_00419_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b839-3" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_839.3" BETYPE="IDREF" FILEID="alto_00420_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b841-4" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_841.4" BETYPE="IDREF" FILEID="alto_00421_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b841-5" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_841.5" BETYPE="IDREF" FILEID="alto_00421_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AV2" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_838.22" BETYPE="IDREF" FILEID="alto_00419_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b838-16" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_838.17" BETYPE="IDREF" FILEID="alto_00419_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b838-14" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_838.15" BETYPE="IDREF" FILEID="alto_00419_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b838-15" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_838.16" BETYPE="IDREF" FILEID="alto_00419_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b838-12" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_838.13" BETYPE="IDREF" FILEID="alto_00419_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b838-13" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_838.14" BETYPE="IDREF" FILEID="alto_00419_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,592 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0122" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Dolan v. United States">DOLAN v. UNITED STATES</name>
+          <docketnumber>No. 753</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 865</citation>
+          <citation category="parallel" type="bluebook">116 F. 578</citation>
+          <decisiondate>1902-06-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:11Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00439_0" MIMETYPE="image/tiff" CHECKSUM="6e1b547529e2655c76f02236e0e203fa" CHECKSUMTYPE="MD5" SIZE="10958">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00439_0.tif"/>
+      </file>
+      <file ID="tiff_00439_1" MIMETYPE="image/tiff" CHECKSUM="d106c647d4564deb6a03df96269ea96e" CHECKSUMTYPE="MD5" SIZE="39872">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00439_1.tif"/>
+      </file>
+      <file ID="tiff_00440_0" MIMETYPE="image/tiff" CHECKSUM="a2c71ea26d4e18b6d875c8273a11c9a1" CHECKSUMTYPE="MD5" SIZE="53118">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00440_0.tif"/>
+      </file>
+      <file ID="tiff_00440_1" MIMETYPE="image/tiff" CHECKSUM="a6f587f4ce952d613acf834c09bce2f2" CHECKSUMTYPE="MD5" SIZE="53978">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00440_1.tif"/>
+      </file>
+      <file ID="tiff_00441_0" MIMETYPE="image/tiff" CHECKSUM="7de4a0a77cf841eadffc8ad6e368a32e" CHECKSUMTYPE="MD5" SIZE="53950">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00441_0.tif"/>
+      </file>
+      <file ID="tiff_00441_1" MIMETYPE="image/tiff" CHECKSUM="00ac448e1ad3b795a88825462168b706" CHECKSUMTYPE="MD5" SIZE="52814">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00441_1.tif"/>
+      </file>
+      <file ID="tiff_00442_0" MIMETYPE="image/tiff" CHECKSUM="b236edc7a9824f8c888947229a4f3fba" CHECKSUMTYPE="MD5" SIZE="52788">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00442_0.tif"/>
+      </file>
+      <file ID="tiff_00442_1" MIMETYPE="image/tiff" CHECKSUM="5faaa830fb06e0e653050ab20dc9a28c" CHECKSUMTYPE="MD5" SIZE="36514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00442_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00439_0" MIMETYPE="image/jpg" CHECKSUM="4d3d49b6c213a0956178cba6595ce21b" CHECKSUMTYPE="MD5" SIZE="78768">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00439_0.jpg"/>
+      </file>
+      <file ID="jpg_00439_1" MIMETYPE="image/jpg" CHECKSUM="d97ca1b856da41f1a2b1a0485172fbf8" CHECKSUMTYPE="MD5" SIZE="168185">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00439_1.jpg"/>
+      </file>
+      <file ID="jpg_00440_0" MIMETYPE="image/jpg" CHECKSUM="9d2cac4e90baf66bf40c6abafc2803e7" CHECKSUMTYPE="MD5" SIZE="196722">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00440_0.jpg"/>
+      </file>
+      <file ID="jpg_00440_1" MIMETYPE="image/jpg" CHECKSUM="dcf7a5a43bf4b1ae37172be086d7ea2e" CHECKSUMTYPE="MD5" SIZE="212424">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00440_1.jpg"/>
+      </file>
+      <file ID="jpg_00441_0" MIMETYPE="image/jpg" CHECKSUM="f00e51b44edaa50ac730c91677bff397" CHECKSUMTYPE="MD5" SIZE="200332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00441_0.jpg"/>
+      </file>
+      <file ID="jpg_00441_1" MIMETYPE="image/jpg" CHECKSUM="0988b8300e00afcf3801a25e04b14629" CHECKSUMTYPE="MD5" SIZE="203909">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00441_1.jpg"/>
+      </file>
+      <file ID="jpg_00442_0" MIMETYPE="image/jpg" CHECKSUM="b941ca34b97a789d5fc11fe078248e27" CHECKSUMTYPE="MD5" SIZE="195141">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00442_0.jpg"/>
+      </file>
+      <file ID="jpg_00442_1" MIMETYPE="image/jpg" CHECKSUM="dcd456bcb57c9339344f09e83b9f52b6" CHECKSUMTYPE="MD5" SIZE="168190">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00442_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00439_0" MIMETYPE="text/xml+gzip" CHECKSUM="e16c8ed3ed2133d1b4666a9bedb5e980" CHECKSUMTYPE="MD5" SIZE="3241">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00439_0.xml.gz"/>
+      </file>
+      <file ID="alto_00439_1" MIMETYPE="text/xml+gzip" CHECKSUM="f1f933522e8894e515fd975ce80fd205" CHECKSUMTYPE="MD5" SIZE="9521">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00439_1.xml.gz"/>
+      </file>
+      <file ID="alto_00440_0" MIMETYPE="text/xml+gzip" CHECKSUM="c5c6f5a9360447116db7b4b05d82a320" CHECKSUMTYPE="MD5" SIZE="11965">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00440_0.xml.gz"/>
+      </file>
+      <file ID="alto_00440_1" MIMETYPE="text/xml+gzip" CHECKSUM="4988a5021e889bfad73e15220d790a78" CHECKSUMTYPE="MD5" SIZE="13013">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00440_1.xml.gz"/>
+      </file>
+      <file ID="alto_00441_0" MIMETYPE="text/xml+gzip" CHECKSUM="a62c50b6af039bf92a06e99bfa354e0f" CHECKSUMTYPE="MD5" SIZE="13265">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00441_0.xml.gz"/>
+      </file>
+      <file ID="alto_00441_1" MIMETYPE="text/xml+gzip" CHECKSUM="7eb9bd393e7fe5bb2d296f3b705a990c" CHECKSUMTYPE="MD5" SIZE="12897">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00441_1.xml.gz"/>
+      </file>
+      <file ID="alto_00442_0" MIMETYPE="text/xml+gzip" CHECKSUM="835e25cd521e0f3cd864e97f0fa2fff5" CHECKSUMTYPE="MD5" SIZE="13095">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00442_0.xml.gz"/>
+      </file>
+      <file ID="alto_00442_1" MIMETYPE="text/xml+gzip" CHECKSUM="3e919eaab96915e2ccf9e8ea3e04b04d" CHECKSUMTYPE="MD5" SIZE="9336">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00442_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0122" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="865" lastpage="872">
+              <court pgmap="877" id="b877-9">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="877" id="b877-8">No. 753.</docketnumber>
+              <citation pgmap="877" id="b877-6">116 F. 578</citation>
+              <parties pgmap="877" id="b877-7">DOLAN v. UNITED STATES.</parties>
+              <decisiondate pgmap="877" id="b877-10">June 6, 1902.</decisiondate>
+              <judges pgmap="878" id="b878-8">Before GILBERT, ROSS, and MORROW, Circuit Judges.</judges>
+              <judges pgmap="884" id="b884-6">ROSS, Circuit Judge, dissents. •</judges>
+              <attorneys pgmap="878" id="b878-6">John B. Allen and James E. Fenton, for plaintiff in error.</attorneys>
+              <attorneys pgmap="878" id="b878-7">Joseph K. Wood, U. S. Atty. Second Division, D. Alas­ka (Marshall B. Woodworth, U. S. Atty. N. D. Cal., of counsel).</attorneys>
+              <opinion type="majority">
+                <author pgmap="878" id="b878-9">MORROW, Circuit Judge.</author>
+                <p pgmap="878(255) 879(125)" id="b878-10">The plaintiff in error, together with George Allen and George Hawkins, were jointly charged with the crime of robbery in an indictment filed in the district court of Alas­ka, Second division, on the 23d day of January, 1901. The defendants were each tried separately. The trial of the defendant Allen was commenced before the court and a jury on February 11, 1901, and resulted in a verdict of guilty being returned by the jury on February IS, 1901. The trial of the defendant Hawkins was commenced be­fore the court and a jury on February 18, 1901, and re­sulted in a verdict of guilty being returned by the jury on February 21, 1901. The trial of the defendant in this case was commenced on February 26, 1901, and resulted in a verdict of guilty being returned by the jury on Feb­ruary 28, 1901. In forming the jury for the trial of the present cause, as each juror was called into the box the defendant was required to exhaust all grounds of chal­lenge to the juror, both for cause and peremptorily, before the prosecution was called upon to challenge, and before another juror was called into the box. The court in each instance required the defendant in this order to exercise his peremptory challenge or accept the juror, or, upon fail­ure to do so, to waive his right to thereafter exercise his right to a peremptory challenge. Under the ruling of the court, but under protest, the defendant exercised his right to all of his 10 peremptory challenges, and, after 12 men were in the jury box, he requested the court to be permit­ted to challenge another juror. This request was denied. The defendant also interposed challenges for actual bias against four jurors called to the box for examination. These jurors were afterwards challenged peremptorily by the defendant, and they did not serve upon the jury that tried the case. The action of the court in directing the order in which the defendant might exercise his peremp­tory challenges and in overruling his challenges for actual bias are assigned as error. Exceptions were also taken to certain instructions which the court gave in submitting the case to the jury. These instructions are assigned as error.</p>
+                <p pgmap="879(268) 880(252)" id="b879-4">In the case of Hawkins v. U. S. (just decided by this court) 116 F. S69, we have disposed of all the questions raised by the defendant in the present case with respect to the order in which he should exercise his right to per­emptory challenges. After the defendant had challenged 10 jurors peremptorily, his request to challenge another juror peremptorily was denied by the court. There was nothing in the proceedings that entitled the defendant to the additional challenge, unless there was error in disal­lowing a previous challenge for bias. The four jurors chal­lenged for actual bias were afterwards challenged per­emptorily, and excused from the jury. But these four peremptory challenges, together with six others, exhausted all the defendant’s peremptory challenges allowed by law, and deprived him of the right to challenge peremptorily the twelfth juror sworn to try the case. If this action of the court compelled the defendant to exercise a per­emptory challenge for which no reason was required to be given to exclude a juror against whom a valid reason had been given and denied by the court, the defendant was clearly thereby deprived of a substantial legal right, namely, the right to the full number of peremptory chal­lenges provided by law. The accused has the right to se­cure an impartial jury — First, by excluding from the box all whom he can prove to be legally disqualified; and, second, a certain number, provided by law, whom he may suspect of being unfriendly, or not impartial, but against whom he can bring no proof of disqualification. This light of rejection given to the accused cannot be diminished or refused in either particular without depriving him of -a substantial legal .right. Were the four jurors challenged for actual biás qualified, under the statute, to try the case? H. O. Butler was the first juror challenged for actual bias. He-testified as follows: “That he knew the nature of .the case against the defendant Thomas Dolan; that he did no.t hear the testimony in the case of United States against George Allen and George Hawkins; that he had read an account of the case in the newspapers; that from what he had read he formed an opinion as to the guilt or inno­cence of the persons charged with the crime stated in the indictment; that from what he had read he formed a fixed and decided opinion as to the guilt or innocence of the accused Thomas Dolan as would require evidence to change and remove; that the opinion that he had formed was not such .an opinion that he could not disregard when he went into the jury box, if he was accepted as a juror, to try the case upon the evidence; that he thought that he could wholly disregard the opinion which he had formed, and try the defendant Thomas Dolan according to the evidence as adduced upon the trial, and under the instruc­tions of the court; but that the opinion which he had formed was such an opinion that would require some evi­dence to change.”</p>
+                <p pgmap="880" id="b880-4">And in response to questions propounded by the district attorney, he testified: “That he had never heard any of the evidence in this case, and did not know what the evi­dence was, except from reading what purported to be the evidence in the case of the United States v. George Allen, and that he did not know whether that was the evidence given on the trial of George Allen or not; that he had heard the case talked about upon the street, and that the opinion which he had formed was formed from rumor and from newspaper accounts; that he thought he could, if sworn and accepted as a juror, in this case, disregard the opinion which he had formed, and set it aside, and try the case fairly and impartially, and wholly and solely up­on the evidence that should be given by the witness, and according to the instructions of the court.”</p>
+                <p pgmap="880(19) 881(307)" id="b880-5">Clyde Hatch was the second juror challenged for actual bias. He testified as follows: “That he was working for the A. C. Company, and had been in the employ of said company since the 20th of October; that he had not heard the nature of this case stated by anybody; that he was not present during any part of the trial of the United States v. George Allen and George Hawkins; that he had read an account of the case in the newspapers, and from the ac­count that he had read he at the time formed an opinion as to the guilt or innocence of the persons accused of the crime stated in the indictment; that the opinion that he had so formed was not a fixed and decided opinion; that the opinion that he had formed was not based altogether on a newspaper report or account of the trial; that the newspaper report that he read was a report of what pur­ported to be a part of the evidence of the witnesses in the case; that he (at the time of his examination) had an opinion as to the guilt or innocence of the accused Thomas Dolan; that the opinion which he had was based partly upon what purported to be the testimony of wit­nesses which he had read in newspapers, and partly from what he had heard talked about the case, but that his opin­ion was based mostly on what he had heard; that he did not hear any of the testimony, and did not know whether what he had read in the newspapers was the testimony; that his opinion was not based on what he had read in the newspapers at all; that he had, at the time of his exami­nation, an opinion as to the guilt or innocence of the ac­cused Thomas Dolan, and that the opinion which he then had would require evidence to change.”</p>
+                <p pgmap="881(138) 882(17)" id="b881-4">In response to questions propounded by the district attorney he then testified: “That he had not known of his own knowledge any of the facts connected- with the case of-United-States v. Thomas Dolan; that the opinion which he had formed was based upon what he had read in the newspapers, and street rumor, — talking generally; that he thought he could, notwithstanding that, he had formed an -opinion from listening to street rumor and reading newspapers, go into the jury box, if accepted as a juror in this case, and try the case fairly and impartial­ly, solely upon the testimony of the witnesses that should be given before him on the trial, and under the instructions of the court; that he could disregard any opinion that he might have- formed from street rumor, and try the case from hearing the witnesses on the witness stand, and un­der the instructions given by the court.”</p>
+                <p pgmap="882" id="b882-4">W. P. Sinnott was the third juror challenged for actual bias. He testified as follows: “That he resided in Nome; that he was a miner; that he had heard the nature of this case; that he had read a part of the testimony in the cases of United States v. George Allen and George Hawkins; that he formed an opinion as to the guilt or innocence of the defendants George Allen or George Hawkins; that he did not have, at the time of his examination, any opin­ion as to the guilt or innocence of the accused Thomas Do­lan; that he read nearly all of the accounts of this case in the newspapers; that from what he had read in the newspapers, and from what he had heard of the case, and from the testimony that he had heard in the cases of Unit­ed States v. George Allen and George Hawkins, he might have a slight opinion as to the guilt or innocence of the accused Thomas Dolan; that the opinion that he might have as to the guilt or innocence of the accused Thomas Dolan was not such an opinion as would in any wise in­fluence him in his deliberations as a juror in this case, if he should be accepted as a juror; that he^was satisfied that he would be able to disregard whatever opinion he might have, and try this case according to the evidence and in­structions of the court; that the opinion which he had was based partly upon the evidence which he had heard in the cases of the United States v. George Allen and George Hawkins, and partly upon hearsay, and that he thought that it would require some evidence to change the opinion which he had then.”</p>
+                <p pgmap="882" id="b882-5">And in response to questions by the district attorney he testified: “That, if sworn and accepted as a juror in this case, he would disregard any opinion that he might have formed in any way, and try the case fairly and impartial­ly, and solely upon the evidence given in this case and the instructions given by the court, and that he would try the case according to the evidence in the case; that, if he were sworn and accepted as a juror, he would take his place in the panel, and disregard any opinion that he might have formed.”</p>
+                <p pgmap="882(19) 883(157)" id="b882-6">H. C. Wilkinson was the fourth juror challenged for actual bias. He testified as follows: “That he had heard the nature of this case; that he had heard a part of the testimony in each of the cases of the United States v. George Allen and George Hawkins; that from the testi­mony he had heard in those cases he formed an opinion as to the guilt or innocence of the accused Thomas Dolan; that at the time of his examination as a juror he then had an opinion as to the guilt or innocence of the accused Thomas Dolan; that the opinion which he then had was based upon the testimony which he had heard and what he had read in the newspapers; that he believed that opin­ion which he then had was a fixed and decided opinion, and such an opinion as would require evidence to change; that the opinion which he then had was based partially upon the testimony that he had heard and partially what he had read in the newspapers.”</p>
+                <p pgmap="883" id="b883-4">In response to questions by the district attorney he tes­tified further: “That he had heard some of the testimony in both cases of the United States v. George Aden and George Hawkins; that he formed an opinion as to the guilt or innocence of George Allen and George Hawkins, the defendants then on trial; that from what he had heard he then had an opinion as to the guilt or innocence of the defendant Thomas Dolan; that the opinion which he then had was not such an opinion as he could set aside and try this case between the government and Thomas Dolan as he could have if he had never heard of it; that he did not know what the evidence was in the case of Unit­ed States v. Thomas Dolan; that, if he were sworn and accepted as a juror, he could try this case of the United States v. Thomas Dolan as fairly and impartially as though he had never heard of it; that if he were sworn and ac­cepted as a juror, and called into the panel, he would elim­inate any opinion that he might have formed in his mind, and try this case solely upon the evidence given by the Witness in this case, and according to the instructions of the court.”</p>
+                <p pgmap="883(61) 884(53)" id="b883-5">Section 127, c. 14, tit. 2, of the Criminal Code of Alas­ka, provides as follows: “That a challenge for actual bias may be taken for the cause mentioned in the second sub­division of section one hundred and twenty-eight (125). But on the trial of such challenge, although it should ap­pear that the juror challenged has formed or expressed an opinion' upon the merits of the cause from what he may-­have heard or read, such opinion shall not of itself be sufficient to sustain the challenge, but the court must be satisfied, from all the circumstances, that the juror cannot disregard such opinion and try the issue impartially.” 30 Stat. 1298.</p>
+                <p pgmap="884" id="b884-3">The action of the court in denying challenges for bias interposed by the defendant against these four jurors was founded upon evidence tending to show that they could disregard any opinion they had formed, and try the issues in the case impartially. Besides, the court had an opportunity of observing the manner of these jurors under examination, and determining from their conduct whether their declaration of impartiality was to be be­lieved or not. There is nothing in the proceedings or in the testimony to warrant this court in holding that the court below failed to exercise a proper legal discretion in overruling the challenges. Reynolds v. U. S., 98 U.S. 145, 25 L.Ed. 244; Hopt v. Utah, 120 U.S. 430, 432, 7 S.Ct. 614, 30 L.Ed. 708; Spies v. Illinois, 123 U.S. 131, 170, 8 S.Ct. 21, 22, 31 L.Ed. 80; Connors v. U. S., 158 U.S. 408, 15 S.Ct. 951, 39 L.Ed. 1033; Thiede v. Utah, 159 U.S. 510, 516, 16 S.Ct. 62, 40 L.Ed. 237.</p>
+                <p pgmap="884" id="b884-4">The instructions of the court to the jury, taken as a whole, stated the law of the case correctly.</p>
+                <p pgmap="884" id="b884-5">Finding no error in the proceedings, the judgment of the district court is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="877" ORDERLABEL="865" TYPE="page">
+        <fptr FILEID="tiff_00439_0"/>
+        <fptr FILEID="jpg_00439_0"/>
+        <fptr FILEID="alto_00439_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_877.2" BETYPE="IDREF" FILEID="alto_00439_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="878" ORDERLABEL="866" TYPE="page">
+        <fptr FILEID="tiff_00439_1"/>
+        <fptr FILEID="jpg_00439_1"/>
+        <fptr FILEID="alto_00439_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_878.2" BETYPE="IDREF" FILEID="alto_00439_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="879" ORDERLABEL="867" TYPE="page">
+        <fptr FILEID="tiff_00440_0"/>
+        <fptr FILEID="jpg_00440_0"/>
+        <fptr FILEID="alto_00440_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_879.3" BETYPE="IDREF" FILEID="alto_00440_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="880" ORDERLABEL="868" TYPE="page">
+        <fptr FILEID="tiff_00440_1"/>
+        <fptr FILEID="jpg_00440_1"/>
+        <fptr FILEID="alto_00440_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_880.2" BETYPE="IDREF" FILEID="alto_00440_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="881" ORDERLABEL="869" TYPE="page">
+        <fptr FILEID="tiff_00441_0"/>
+        <fptr FILEID="jpg_00441_0"/>
+        <fptr FILEID="alto_00441_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_881.3" BETYPE="IDREF" FILEID="alto_00441_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="882" ORDERLABEL="870" TYPE="page">
+        <fptr FILEID="tiff_00441_1"/>
+        <fptr FILEID="jpg_00441_1"/>
+        <fptr FILEID="alto_00441_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_882.2" BETYPE="IDREF" FILEID="alto_00441_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="883" ORDERLABEL="871" TYPE="page">
+        <fptr FILEID="tiff_00442_0"/>
+        <fptr FILEID="jpg_00442_0"/>
+        <fptr FILEID="alto_00442_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_883.3" BETYPE="IDREF" FILEID="alto_00442_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="884" ORDERLABEL="872" TYPE="page">
+        <fptr FILEID="tiff_00442_1"/>
+        <fptr FILEID="jpg_00442_1"/>
+        <fptr FILEID="alto_00442_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_884.2" BETYPE="IDREF" FILEID="alto_00442_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b884-3" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_884.4" BETYPE="IDREF" FILEID="alto_00442_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b878-8" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_878.8" BETYPE="IDREF" FILEID="alto_00439_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b884-6" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_884.7" BETYPE="IDREF" FILEID="alto_00442_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b877-10" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_877.10" BETYPE="IDREF" FILEID="alto_00439_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b878-6" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_878.6" BETYPE="IDREF" FILEID="alto_00439_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b878-7" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_878.7" BETYPE="IDREF" FILEID="alto_00439_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b878-9" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_878.9" BETYPE="IDREF" FILEID="alto_00439_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b880-4" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_880.4" BETYPE="IDREF" FILEID="alto_00440_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b879-4" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_879.4" BETYPE="IDREF" FILEID="alto_00440_0"/>
+            <area BEGIN="BL_880.1" BETYPE="IDREF" FILEID="alto_00440_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b882-5" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_882.5" BETYPE="IDREF" FILEID="alto_00441_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b882-4" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_882.4" BETYPE="IDREF" FILEID="alto_00441_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b882-6" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_882.6" BETYPE="IDREF" FILEID="alto_00441_1"/>
+            <area BEGIN="BL_883.1" BETYPE="IDREF" FILEID="alto_00442_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b883-4" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_883.4" BETYPE="IDREF" FILEID="alto_00442_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b877-9" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_877.9" BETYPE="IDREF" FILEID="alto_00439_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b884-4" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_884.5" BETYPE="IDREF" FILEID="alto_00442_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b881-4" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_881.4" BETYPE="IDREF" FILEID="alto_00441_0"/>
+            <area BEGIN="BL_882.1" BETYPE="IDREF" FILEID="alto_00441_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b877-7" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_877.7" BETYPE="IDREF" FILEID="alto_00439_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b877-6" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_877.6" BETYPE="IDREF" FILEID="alto_00439_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b883-5" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_883.5" BETYPE="IDREF" FILEID="alto_00442_0"/>
+            <area BEGIN="BL_884.1" BETYPE="IDREF" FILEID="alto_00442_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b884-5" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_884.6" BETYPE="IDREF" FILEID="alto_00442_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b878-10" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_878.10" BETYPE="IDREF" FILEID="alto_00439_1"/>
+            <area BEGIN="BL_879.1" BETYPE="IDREF" FILEID="alto_00440_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b880-5" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_880.5" BETYPE="IDREF" FILEID="alto_00440_1"/>
+            <area BEGIN="BL_881.1" BETYPE="IDREF" FILEID="alto_00441_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b877-8" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_877.8" BETYPE="IDREF" FILEID="alto_00439_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

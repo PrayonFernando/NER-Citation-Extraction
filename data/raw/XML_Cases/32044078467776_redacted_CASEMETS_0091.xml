@@ -1,0 +1,854 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0091" publicationstatus="published">
+          <court abbreviation="U.S." jurisdiction="United States">Supreme Court of the United States</court>
+          <name abbreviation="Fitzpatrick v. United States">JOHN FITZPATRICK v. UNITED STATES</name>
+          <docketnumber>No. 499</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 625</citation>
+          <citation category="parallel" type="bluebook">178 U.S. 304, 20 S.Ct. 944</citation>
+          <decisiondate>1900-05-28</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:07Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00319_0" MIMETYPE="image/tiff" CHECKSUM="3d4eb998b61171085ea98464d4031e95" CHECKSUMTYPE="MD5" SIZE="15250">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00319_0.tif"/>
+      </file>
+      <file ID="tiff_00319_1" MIMETYPE="image/tiff" CHECKSUM="0b3a14b7e63b5b4ca145131f306d6ed0" CHECKSUMTYPE="MD5" SIZE="3694">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00319_1.tif"/>
+      </file>
+      <file ID="tiff_00320_0" MIMETYPE="image/tiff" CHECKSUM="f3b2b0e0fdec846f1b77b67be1790c35" CHECKSUMTYPE="MD5" SIZE="3190">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00320_0.tif"/>
+      </file>
+      <file ID="tiff_00320_1" MIMETYPE="image/tiff" CHECKSUM="0315678eb37e9b8bb6a8d1c12a384d60" CHECKSUMTYPE="MD5" SIZE="47342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00320_1.tif"/>
+      </file>
+      <file ID="tiff_00321_0" MIMETYPE="image/tiff" CHECKSUM="6e84f7035606476724588a29bf48fc43" CHECKSUMTYPE="MD5" SIZE="49236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00321_0.tif"/>
+      </file>
+      <file ID="tiff_00321_1" MIMETYPE="image/tiff" CHECKSUM="5e946b3ab483e1f2fa8be7dddb9aab84" CHECKSUMTYPE="MD5" SIZE="53122">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00321_1.tif"/>
+      </file>
+      <file ID="tiff_00322_0" MIMETYPE="image/tiff" CHECKSUM="244afce843f829d1a883d712f61c2cfc" CHECKSUMTYPE="MD5" SIZE="55422">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00322_0.tif"/>
+      </file>
+      <file ID="tiff_00322_1" MIMETYPE="image/tiff" CHECKSUM="08199f90743439cbae370015709929fc" CHECKSUMTYPE="MD5" SIZE="56726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00322_1.tif"/>
+      </file>
+      <file ID="tiff_00323_0" MIMETYPE="image/tiff" CHECKSUM="e364e590aa121629e4ac01f14939a989" CHECKSUMTYPE="MD5" SIZE="54036">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00323_0.tif"/>
+      </file>
+      <file ID="tiff_00323_1" MIMETYPE="image/tiff" CHECKSUM="732dd3d054e0e1c040732f408e3ea11a" CHECKSUMTYPE="MD5" SIZE="56556">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00323_1.tif"/>
+      </file>
+      <file ID="tiff_00324_0" MIMETYPE="image/tiff" CHECKSUM="d69759ef76df80356d63950e847de85d" CHECKSUMTYPE="MD5" SIZE="56580">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00324_0.tif"/>
+      </file>
+      <file ID="tiff_00324_1" MIMETYPE="image/tiff" CHECKSUM="ba96cb33516bfb40e91089a50d908aee" CHECKSUMTYPE="MD5" SIZE="52506">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00324_1.tif"/>
+      </file>
+      <file ID="tiff_00325_0" MIMETYPE="image/tiff" CHECKSUM="78887ba3652d3e85164dead30b733727" CHECKSUMTYPE="MD5" SIZE="53534">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00325_0.tif"/>
+      </file>
+      <file ID="tiff_00325_1" MIMETYPE="image/tiff" CHECKSUM="3ee7e91b82e8aecb9f5ea16059a7b224" CHECKSUMTYPE="MD5" SIZE="25652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00325_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00319_0" MIMETYPE="image/jpg" CHECKSUM="123bfb882c78985e1c1d064874745f0a" CHECKSUMTYPE="MD5" SIZE="93719">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00319_0.jpg"/>
+      </file>
+      <file ID="jpg_00319_1" MIMETYPE="image/jpg" CHECKSUM="010551432734b1cf406d86dd23cb2650" CHECKSUMTYPE="MD5" SIZE="57851">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00319_1.jpg"/>
+      </file>
+      <file ID="jpg_00320_0" MIMETYPE="image/jpg" CHECKSUM="84dc2781749389428c8d2d4a376fcd31" CHECKSUMTYPE="MD5" SIZE="40302">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00320_0.jpg"/>
+      </file>
+      <file ID="jpg_00320_1" MIMETYPE="image/jpg" CHECKSUM="a338073072f9126c96b4852e8fe5dd9c" CHECKSUMTYPE="MD5" SIZE="192500">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00320_1.jpg"/>
+      </file>
+      <file ID="jpg_00321_0" MIMETYPE="image/jpg" CHECKSUM="d88cff4448998618521ff517cd653c3d" CHECKSUMTYPE="MD5" SIZE="183887">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00321_0.jpg"/>
+      </file>
+      <file ID="jpg_00321_1" MIMETYPE="image/jpg" CHECKSUM="05cf9a5617b28a74e6ab5df376ae5ee2" CHECKSUMTYPE="MD5" SIZE="201262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00321_1.jpg"/>
+      </file>
+      <file ID="jpg_00322_0" MIMETYPE="image/jpg" CHECKSUM="5d8e08226c68a9206a50deb49430b0c4" CHECKSUMTYPE="MD5" SIZE="199483">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00322_0.jpg"/>
+      </file>
+      <file ID="jpg_00322_1" MIMETYPE="image/jpg" CHECKSUM="c8acfbfe90f3a27d38891b1695ba04ce" CHECKSUMTYPE="MD5" SIZE="212060">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00322_1.jpg"/>
+      </file>
+      <file ID="jpg_00323_0" MIMETYPE="image/jpg" CHECKSUM="c305374be33043893505e1021734af6e" CHECKSUMTYPE="MD5" SIZE="192076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00323_0.jpg"/>
+      </file>
+      <file ID="jpg_00323_1" MIMETYPE="image/jpg" CHECKSUM="bd0f71c3216d71822822689c3df37e24" CHECKSUMTYPE="MD5" SIZE="209904">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00323_1.jpg"/>
+      </file>
+      <file ID="jpg_00324_0" MIMETYPE="image/jpg" CHECKSUM="33e11ea4acb7931b60cea9dbaca219aa" CHECKSUMTYPE="MD5" SIZE="199609">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00324_0.jpg"/>
+      </file>
+      <file ID="jpg_00324_1" MIMETYPE="image/jpg" CHECKSUM="d1101794714514330029d0ca5cdacb05" CHECKSUMTYPE="MD5" SIZE="204185">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00324_1.jpg"/>
+      </file>
+      <file ID="jpg_00325_0" MIMETYPE="image/jpg" CHECKSUM="3c367c4c0f8fe5e6aaa5ace9659b9137" CHECKSUMTYPE="MD5" SIZE="192857">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00325_0.jpg"/>
+      </file>
+      <file ID="jpg_00325_1" MIMETYPE="image/jpg" CHECKSUM="48987222d4e9f400a7cddf115b19ae90" CHECKSUMTYPE="MD5" SIZE="123334">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00325_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00319_0" MIMETYPE="text/xml+gzip" CHECKSUM="88fdf6404bad857bebf55712dec69621" CHECKSUMTYPE="MD5" SIZE="4448">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00319_0.xml.gz"/>
+      </file>
+      <file ID="alto_00319_1" MIMETYPE="text/xml+gzip" CHECKSUM="3da5caecd511a1f99c610c04b60d43cd" CHECKSUMTYPE="MD5" SIZE="887">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00319_1.xml.gz"/>
+      </file>
+      <file ID="alto_00320_0" MIMETYPE="text/xml+gzip" CHECKSUM="990180f61ca1d3f8ea0e4fab4ee7b3ce" CHECKSUMTYPE="MD5" SIZE="914">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00320_0.xml.gz"/>
+      </file>
+      <file ID="alto_00320_1" MIMETYPE="text/xml+gzip" CHECKSUM="778e842ec15858b714ed326e850fb30d" CHECKSUMTYPE="MD5" SIZE="11669">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00320_1.xml.gz"/>
+      </file>
+      <file ID="alto_00321_0" MIMETYPE="text/xml+gzip" CHECKSUM="5df45be9a3e97d9cc8f4815eaea1a828" CHECKSUMTYPE="MD5" SIZE="12371">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00321_0.xml.gz"/>
+      </file>
+      <file ID="alto_00321_1" MIMETYPE="text/xml+gzip" CHECKSUM="e84f91fbb1be84201154901e5dab7bc7" CHECKSUMTYPE="MD5" SIZE="12879">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00321_1.xml.gz"/>
+      </file>
+      <file ID="alto_00322_0" MIMETYPE="text/xml+gzip" CHECKSUM="eadee24cb3e12120fe508adb12241283" CHECKSUMTYPE="MD5" SIZE="12037">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00322_0.xml.gz"/>
+      </file>
+      <file ID="alto_00322_1" MIMETYPE="text/xml+gzip" CHECKSUM="3a6cc72dd617a12ade2d48d111c2cb55" CHECKSUMTYPE="MD5" SIZE="13268">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00322_1.xml.gz"/>
+      </file>
+      <file ID="alto_00323_0" MIMETYPE="text/xml+gzip" CHECKSUM="f9264195d20d7c7cd18732f0dea2000e" CHECKSUMTYPE="MD5" SIZE="12939">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00323_0.xml.gz"/>
+      </file>
+      <file ID="alto_00323_1" MIMETYPE="text/xml+gzip" CHECKSUM="3b45320a58ef7de516d94433614c1fa8" CHECKSUMTYPE="MD5" SIZE="12926">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00323_1.xml.gz"/>
+      </file>
+      <file ID="alto_00324_0" MIMETYPE="text/xml+gzip" CHECKSUM="b9bdaef10d97505aedfe55ef8daf12d3" CHECKSUMTYPE="MD5" SIZE="13360">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00324_0.xml.gz"/>
+      </file>
+      <file ID="alto_00324_1" MIMETYPE="text/xml+gzip" CHECKSUM="bb182ecacbc101bae16a50efecf0bed2" CHECKSUMTYPE="MD5" SIZE="12515">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00324_1.xml.gz"/>
+      </file>
+      <file ID="alto_00325_0" MIMETYPE="text/xml+gzip" CHECKSUM="32d311febb4560d7b57fe8d91f0e1b07" CHECKSUMTYPE="MD5" SIZE="12921">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00325_0.xml.gz"/>
+      </file>
+      <file ID="alto_00325_1" MIMETYPE="text/xml+gzip" CHECKSUM="f93ff77d847776905678fb4df1e1ca67" CHECKSUMTYPE="MD5" SIZE="6486">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00325_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0091" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="625" lastpage="638">
+              <court pgmap="637" id="b637-8">Supreme Court of the United States.</court>
+              <docketnumber pgmap="637" id="b637-7">No. 499.</docketnumber>
+              <citation pgmap="637" id="b637-5">178 U.S. 304, 20 S.Ct. 944</citation>
+              <parties pgmap="637" id="b637-6">JOHN FITZPATRICK; v. UNITED STATES.</parties>
+              <decisiondate pgmap="637" id="A5B">Decided May 28, 1900.</decisiondate>
+              <otherdate pgmap="637" id="b637-9">Submitted April 30, 1900.</otherdate>
+              <attorneys pgmap="640" id="b640-4">Messrs. A. B. Browne, Alex. .Britton, and Julius Kahn, for plaintiff in error.</attorneys>
+              <attorneys pgmap="640" id="b640-5">Solicitor General Richards for defendant in error.</attorneys>
+              <opinion type="majority">
+                <author pgmap="640" id="b640-6">Mr. Justice BROWN</author>
+                <p pgmap="640" id="ABd">delivered the opinion of the court:</p>
+                <p pgmap="640(344) 641(51)" id="b640-7">1. A suggestion is made by the government of a want of jurisdiction in this case, upon the ground that it is not one of a “conviction of a capital crime” within § 5 of the court of appeals act of March 3, 1891 (26 Stat. at L. 826, chap. 517), as amended'by act of January 20, 1897 (29 Stat. at L. 492, chap. 68), specifying the cases in which a writ of error may be issued directly to a district court. It is clear, however, that, as § 5339 of the Revised Statutes in­flicts the penalty of death for murder, the power given the jury by the act of January 15, 1897 (29 Stat. at L. 487, chap. 29), to qualify the verdict of guilty by adding the words “without capital punishment,” does not make the crime of murder anything less than a capital offense, or a conviction for murder anything less than a conviction for a capital crime, by reason of the fact that the punishment actually imposed is imprisonment for life. The test is not the punishment which is imposed, but that which maybe imposed under the statute. As was observed in Re Claasen, 140 U.S. 200, 205, 11 S.Ct. 735, 737, 35 L.Ed. 409, 411, with respect to infamous crimes under the court of appeals act prior to its amendment: “A crime which is punishable by imprisonment in the state prison or penitentiary, as the crime of which the defendant was convicted, is an in­famous crime whether the accused is or is not sentenced or put to hard lqbor; and that, in determining whether the crime is infamous, the question is whether it is one for which the statute authorizes the court to award an infamous punishment, and not whether the punishment ultimately awarded is an infamous one.” See also Ex parte Wilson, 114 U.S. 417, 426, 5 S.Ct. 935, 29 L.Ed. 89, 92; Logan v. United States, 144 U.S. 263, 308, 12 S.Ct. 617, 36 L.Ed. 429, 445; The Paquete Habana, 175 U.S. 677, 682, 20 S. Ct. 290, 44 L.Ed. 320; Motes v. United States, 178 U.S. 458, 20 S.Ct. 993, 44 L.Ed. 1150. A conviction of murder, punishable with death, is not the less a conviction for a capital crime by reason of the fact that the jury, in a par­ticular case, qualifies the punishment.</p>
+                <p pgmap="641" id="b641-4">2. The first question raised by the plaintiff in error re­lates to the sufficiency of the indictment, which was for a violation of Rev.Stat. § 5339. This section, eliminating the immaterial clauses, declares that “every person who com­mits murder * * * within any fort * * * or in any other place or district or country under the exclusive jurisdiction of the United States * * * shall suffer death.” This section does not define the crime of murder, but prescribes its punishment.</p>
+                <p pgmap="641" id="b641-7">By § 7 of an act providing a civil government for Alaska, approved May 17, 1884 (23 Stat. at L. 24, chap. 53), it is enacted “that the general laws of the state of Oregon now in force are hereby declared to be the law in said district, so far as the same may be applicable and not in conflict with the provisions of this act or the laws of the United States.” We are, therefore, to look to the law of Oregon and the interpretation put thereon by the highest court of that state, as they stood on the day this act was passed, for the requi­sites for an indictment for murder, rather than to the rules of the common law.</p>
+                <p pgmap="641" id="b641-8">By Hill’s Annotated Laws of Oregon, § 1268, relating to criminal procedure, an indictment must contain :</p>
+                <blockquote pgmap="641" id="b641-9">“1. The title of the action, specifying the name of the court to which the indictment is presented, and the names of the parties;</blockquote>
+                <blockquote pgmap="641" id="b641-10">“2. A statement of the acts constituting the offense, in ordinary and concise language, without repetition, and in such manner as to enable a person of common understand­ing to know what is intended.”</blockquote>
+                <p pgmap="641(61) 642(12)" id="b641-11">In State v. Dougherty, 4 Or. 200, the supreme court of that state had held that “the indictment should contain such a specification of acts and descriptive circumstances as will, upon its face, fix and determine the identity of the offense, and enable the court, by an inspection of the record alone, to determine whether, admitting the truth of the specific acts charged, a thing has been done which is forbidden by law.”</p>
+                <p pgmap="642" id="b642-4">By § 1270, Hill’s Laws, it is provided that “the manner of stating the act constituting the crime, as set forth in the appendix to this Code, is sufficient, in all cases where the forms there given are applicable, and in other cases forms may be used as nearly similar as the nature of the case will permit;” and in an appendix to this section the following form is given for murder: “And purposely and of deliber­ate and premeditated malice killed C. D. by shooting him with a gun or pistol, or by administering to him poison, or,” etc.</p>
+                <p pgmap="642" id="b642-5">It will be noticed that § 1270 only declares that the form given in the appendix is sufficient in all cases where the forms there given are applicable, but it does not purport to be exclusive of other forms the pleader may choose to adopt. It does not declare the insufficiency of other forms, but merely the sufficiency of those contained in the appen­dix. We are therefore remitted to § 1268 to inquire wheth­er the indictment contains “a statement of the acts consti­tuting the offense, in ordinary and concise language, with­out repetition, and in such manner as to enable a person of common understanding to know what is intended.” This section was doubtless intended to modify to a certain ex­tent the strictness of the common-law indictment, and sim­ply to require the statement of the elements of the of­fense in language adapted to the common understanding of the people, whether it would be regarded as sufficient by the rules of the common law or not. People v. Dolan, 9 Cal. 576; People v. Ah Woo, 28 Cal. 205; People v. Rodriguez, 10 Cal. 50. As was said by this court in United States v. Cruikshank, 92 U.S. 558, 23 L.Ed. 593 : “The object of the indictment is, first, to furnish the accused with such a de­scription of the charge against him as will enable him to make his defense, and avail himself of his conviction • or acquittal for protection against a further prosecution for the same cause; and, second, to inform the court of the facts alleged, so that it may decide whether they are suffi­cient in law to support a conviction, if one should be had.”</p>
+                <p pgmap="642(16) 643(118)" id="b642-6">The indictment in this case, omitting the immaterial parts,' avers that the accused “did unlawfully, wilfully, knowingly, feloniously, purposely, and of deliberate and premeditated malice, make an assault upon one Samuel Roberts,” and a certain loaded revolver “then and there feloniously, purposely, and of deliberate and premeditated malice did discharge and shoot off to, against, and upon the said Samuel Roberts,” and one of the bullets aforesaid, discharged as aforesaid, “feloniously, purposely, and de­liberate and premeditated malice did strike, penetrate, and wound him, the said Samuel Roberts, in and upon the right breast, * * * one mortal wound, of which he, the said Samuel Roberts, instantly died;” and further, that the defendants “did then and there kill and murder the said Samuel Roberts in the manner and form aforesaid, con­trary,” etc.</p>
+                <p pgmap="643(281) 644(69)" id="b643-5">Defendant criticises this indictment as failing to aver de­liberate and premeditated malice in killing Roberts, al­though it is averred that the defendants did, with deliberate and premeditated malice, inflict a mortal wound, of which he instantly died, and that they killed and murdered him in the manner and form aforesaid. If, as alleged in the in­dictment, they, with deliberate and premeditated malice, shot Roberts in the breast with a revolver, and inflicted a mortal wound, of which he instantly died, they would be presumed to contemplate and intend the natural and prob­able consequences of such act; and an additional averment that they, with deliberate and premeditated malice, intend­ed to kill him, was quite unnecessary to apprise the common understanding of their purpose. If they purposely inflicted a mortal wound, they must have intended to kill. No per­son could have a moment’s hesitation as to what it was in­tended to aver, namely, that the defendants had been guilty of a deliberate and premeditated murder; and while a num­ber of cases are cited which lend some support to the argu­ment of the defendant, there was no such statute involved as § 1268 of the Oregon Code. We have no doubt the in­dictment furnished the accused with such a description of the charge as would enable him to avail himself of a plea of former jeopardy, and also to inform the court whether the facts were sufficient in law to support' a conviction, within the ruling in the Cruikshank Case. While we should hold an indictment to be insufficient that did not charge in defi­nite language all the elements constituting the offense, we have no desire to be hypercritical or to require the pleader to unduly repeat as to every incident of the offense the alle­gation of deliberateness and premeditation. We are'bound to give some effect to the provisions of § 1268 in its evi­dent purpose to authorize a relaxation of the extreme stringency of criminal pleadings, and make that sufficient in law which satisfies the “common understanding" of men.</p>
+                <p pgmap="644" id="b644-3">3. Certain exceptions to the admission of testimony render it necessary to notice the more prominent facts of the case. The murder took place at Dyea, Alaska, just out­side the cabin of Roberts. Roberts conducted certain games at the Wonder Hotel, or saloon, and slept in his cabin across the street, about 150 feet from the saloon. Ross and Brennan, two of the government witnesses, were employed by Roberts in connection with the games. Ross testified-­that, about 2 o’clock in the morning, Roberts, the deceased, asked the witnesses to accompany him from the Wonder Hotel to the cabin, and to carry a sack of money used at the games. Roberts was in the habit of going to his cabin every night accompanied by a man carrying the sack. They entered the cabin, and, while Roberts struck a match, some­thing suspicious seemed to occur, and both stepped outside the door. Instantly there was a report of a gun inside the cabin. Roberts crowded witness off the porch, the sack of money fell off witness’s shoulder, and he fell off the steps. As he fell he heard the report of a pistol from outside the cabin, and soon heard hurried footsteps close to him. He then heard the report of a gun from inside the cabin, and in a few seconds a man came out, stood on the porch, raised his gun and fired two shots in the direction of the Wonder Hotel, turned to the right in a leisurely manner, got off the steps and disappeared behind the north side of the house. Witness recognized this man as Fitzpatrick, the defendant. As Fitzpatrick disappeared, witness called for help, and Brennan and others came over from the hotel with a lan­tern. Roberts was found lying on his back, fatally wound­ed, and almost immediately died.</p>
+                <p pgmap="644(57) 645(38)" id="b644-4">Brennan, .who was at the hotel, saw Roberts start with Ross, with the sack, to go to the cabin. In a few minutes he heard a shot, and started toward the door, but before he got to the door there was another shot, and, when he reach­ed the pavement, still another, which seemed to come from the cabin. Witness ran back to the hotel, got a gun and lantern, ran across the street, found Ross first, and then Roberts on his back dying. There was some other testi­mony to the same general effect.</p>
+                <p pgmap="645" id="b645-4">The testimony to which objection was made was that of Ballard, a soldier on guard duty at Dyea on the night of the occurrence, who testified that about 2 o’clock in the morning he heard foúr or five shots from the direction of Roberts’ cabin and the Wonder Hotel, and that some' fifteen or twenty minutes or half an hour thereafter, a man came to him. “I was in the cabin, and he rapped on the door, and I went and opened the door for him, and he said he would like to get a doctor. He was shot. * * * I directed him to the hospital in town, and he went that way.” Wit­ness said that he did not know the man, but was afterwards told that his name was Corbett. He was brought into court, but witness could not identify him with certainty.</p>
+                <p pgmap="645" id="b645-6">Objection was also made to the testimony of Dr. Price, who swore that about 3 o’clock in the morning Corbett ap­plied to him for medical assistance; that he was wounded in the right shoulder, and witness was in attendance upon him about three weeks or a month. Also to the testimony of John Cudihee, deputy United States marshal, who ar­rested Fitzpatrick, Brooks, and Corbett the day of the mur­der, and made an investigation. He found Roberts in his cabin dead, then went to Fitzpatrick and Corbett’s cabin, and found there a lot of shoes and clothing covered with blood. The witness produced the shoes in evidence, pointed out which pair was Fitzpatrick’s and which was Corbett’s, explained that Fitzpatrick had identified the shoes in his office, and pointed out which pair was Corbett’s and which was his. Witness also pointed out the blood stains on both shoes. Corbett’s shoe fitted the footprints in the sand which the witness found in the rear of Roberts’s cabin, where the shooting occurred. The shoe had hobnails in it, and the heel of one was worn off so the print in the sand was a peculiar one.</p>
+                <p pgmap="645(39) 646(316)" id="b645-7">Objection was made to the admission of any testimony relating to the acts of Corbett, and especially that which oc­curred after the alleged crime had been committed. No di­rect testimony appears in the record showing the presence of Corbett at the cabin before, during, or after the com­mission of the crime for which Fitzpatrick was then on trial. Had the statement of Corbett, that he was shot, and inquiring for a doctor, tended in any way to connect Fitz­patrick with the murder, it would doubtless have been in­admissible against him upon the principle announced in Sparf v. United States, 156 U.S. 51, 15 S.Ct. 273, 34 L.­Ed. 343, that statements made by one of two joint defend­ants in the absence of the other defendant, while admissible against the party making the statement, are inadmissible against the other party. In that case declarations of Han­sen connecting Sparf with the homicide there involved, tending to prove the guilt of both, and made in the ab­sence of Sparf, were held inadmissible against the latter. This is a familiar principle of law; but the statement of Ballard was not within this rule. Corbett had. evidently been wounded, and was asking for a doctor. His accom­panying statement that he was shot was clearly competent to explain his condition, and had no tendency whatever to connect Fitzpatrick with the transaction. This statement, as well as that of Dr. Price, to the effect that he found Corbett with a wound in his right shoulder, and that of Cudihee as to finding a lot of shoes and clothing covered with blood, and connecting one pair of these shoes with the footprints found near Roberts’s cabin, were all facts con­nected with the crime which the government was entitled to lay before the jury.. Fitzpatrick and Corbett roomed together. Their bloody clothes and shoes were found in their cabin the morning after the murder. Brooks had roomed with them. Brooks and Corbett in their affidavit for a continuance swore in effect that they were together that night, and attempted to establish a joint alibi.</p>
+                <p pgmap="646(100) 647(179)" id="b646-3">There was no doubt that a homicide had been committed, and it was the province of the jury to determine whether the defendant was a guilty party. Any fact which had a bearing upon this question, immediate or remote, and oc­curring at any time before the incident was closed, was proper for the consideration of the jury. Of course, state­ments made in the absence of Fitzpatrick implicating him with the murder would not be competent, but none such were admitted; but any act done, whether in Fitzpatrick’s presence or not, which had a tendency to connect him with the crime, was proper for the consideration of the jury, and the fact that Corbett was not then on trial is immaterial in this connection. As there was some evidence tending to show a joint action on the part of the three defendants, any fact having a tendency to connect them with the murder was competent upon the trial of Fitzpatrick. The true dis­tinction is between statements made after the fact, which are competent only against the party making the statement, and facts connecting either party with the crime which are competent as a part of the whole transaction. In the trial of either party it is proper to lay before the jury the entire affair, including the acts and conduct of all the defendants from the time the homicide was first contemplated to the time the transaction was closed. It may have a bearing only against the party doing the act, or it may have a re­moter bearing upon the other defendants; but such as it is, it is competent to be laid before the jury.</p>
+                <p pgmap="647" id="b647-4">In People v. Cleveland, 107 Mich. 367, 65 N.W. 216, er­ror was assigned by the defendant in permitting the prose­cution to show the acts of one Mehan, jointly indicted with Cleveland in the affray; his appearance on the way to Jack­son,( and on the succeeding days; the excuse he gave for his then condition, and the result of an examination of his clothing. But the court said: “It is apparent from the tes­timony that the three parties, when they left Jackson, had arranged to engage in this robbery, * * * and the ar­rangement had been carried out so far as they were able to do so. It was therefore proper to show the condition of Mehan, who was not on trial for the purpose of establish­ing his identity as one of the men who accompanied the respondent Cleveland from Jackson to Somerset Center, thus identifying the latter’s connection with the robbery.”</p>
+                <p pgmap="647(103) 648(30)" id="b647-6">So, in Angley v. State, 35 Tex.Cr.R. 427, 34 S.W. 116, error was assigned upon the admission of testimony to show' the character of shoes Rice (who was connected with the transaction but not jointly indicted) had on when ar­rested the day after the assault. One ground of the objection was that Rice was not jointly indicted with Angley. When Rice was arrested and his shoes examined it was found that one of them had a hole in the sole fitting a correspond­ing peculiarity in the track found upon the ground. The court held this testimony proper, though Rice was separate­ly indicted, because the conspiracy had been shown. This was a circumstance tending to show that he was one of the parties present at the time the assault was committed.</p>
+                <p pgmap="648" id="b648-4">4. Error is also assigned in not restricting the cross-­examination of the plaintiff in error. Defendant, himself was the only witness put upon the stand by the defense, who was connected with the transaction; and he was asked but a single question, and that related to his whereabouts upon the night of the murder. To this he answered:' “I was up between Clancy’s and Kennedy’s. I had been in Clancy’s up to about half-past twelve or one o’clock — about one o’clock, I guess. I went up to Kennedy’s and had a few drinks with Captain Wallace and Billy Kennedy, and I told them I was getting kind of full and I was going home, and along about quarter past one Wallace brought me down about as far as Clancy’s, and then he took me down to the cabin and left me in the cabin, and we wound the alarm clock and set it to go off at six o’clock, and I took off my shoes and lay down on the bunk and woke up at six o’clock in the morning, and went up the street.”</p>
+                <p pgmap="648" id="b648-5">On cross-examination the government was permitted, over the objection of defendant’s counsel, to ask questions relating to the witness’s attire on the night of the shooting, to his acquaintance with Corbett, whether Corbett had shoes of a certain kind, whether witness saw Corbett on the evening of March 12, the night preceding the shooting, whether Corbett roomed with Fitzpatrick in the latter’s cabin, and whether witness saw anyone else in the cabin be­sides Brooks and Corbett. The court permitted this upon the theory that it was competent for the prosecution to show every movement of the prisoner during the night, the character, of his dress, the places he had visited, and the company he had kept. e</p>
+                <p pgmap="648(71) 649(362)" id="b648-6">Where an accused party waives his constitutional privi­lege of silence, takes the stand in his own behalf and makes his own statement, it is clear that the prosecution has a right to cross-examine upon such statement with the same latitude as would be exercised in the case of an ordinary witness, as to the circumstances connecting him with the al­leged crime. While no inference of guilt can be drawn from his refusal to avail himself of the privilege of testify­ing, he has no right to set forth to the jury all the facts which tend in his favor without laying himself open to a cross-examination upon those facts. The witness having sworn to an alibi, it was perfectly competent for the gov­ernment to cross-examine him as to every fact which had a bearing upon his whereabouts upon the night of the mur­der, and as to what he did and the persons with whom he associated that night. Indeed, we know of no reason why an accused person who takes the stand as a witness should not be subject to cross-examination as other witnesses are. Had another witness been placed upon the stand by the defense, and sworn that he was with the prisoner at Clan­cy’s and Kennedy’s that night, it would clearly have been competent to ask what the prisoner wore, and whether the witness saw Corbett the same night or the night before, and whether they were fellow occupants of the same room. While the court would probably have no power of com­pelling an answer to any question, a refusal to answer a proper question put upon cross-examination has been held to be a proper subject of comment to the jury (State v. Ober, 52 N.H. 459); and it is also held in a large number of cases that when an accused person takes the stand in his own behalf, he is subject to impeachment like other witnesses. If the prosecution should go farther and com­pel the defendant, on cross-examination, to write his own name or .that of another person, when he had not testified in reference thereto in his direct examination, the case of State v. Lurch, 12 Or. 99, 6 P. 408, is authority for say­ing that this would be error. It would be a clear case of the defendant being compelled to furnish original evidence against himself. State v. Saunders, 14 Or. 300, 12 P. 441, is also authority for the proposition that he cannot be com­pelled to answer as to any facts not relevant to his direct examination.</p>
+                <p pgmap="649(63) 650(15)" id="b649-4">5. Error is also assigned to the action of the court in permitting the government to call and examine witnesses in rebuttal with respect to the effect of light from the flash of a revolver, and whether such light would be sufficient to enable a person firing the revolver to be identified. ■ One of the witnesses, Ross, testified on cross-examination that al­though the night was dark, he identified Fitzpatrick by the flash of the pistol shots.</p>
+                <p pgmap="650" id="b650-4">Had the defense put in no evidence whatever upon the subject, the question would have been presented whether it was or was not a matter of discretion for the court to ad­mit this testimony in rebuttal,; but in view of the fact that the defense put in a calendar apparently for the purpose of showing the time that the moon rose that night as having some bearing upon this question, there was no impropriety in putting in this testimony.</p>
+                <p pgmap="650" id="b650-5">There was no error conynitted upon the trial prejudicial to the defendant, and the judgment of the District Court is therefore affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="637" ORDERLABEL="625" TYPE="page">
+        <fptr FILEID="tiff_00319_0"/>
+        <fptr FILEID="jpg_00319_0"/>
+        <fptr FILEID="alto_00319_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_637.3" BETYPE="IDREF" FILEID="alto_00319_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="638" ORDERLABEL="626" TYPE="page">
+        <fptr FILEID="tiff_00319_1"/>
+        <fptr FILEID="jpg_00319_1"/>
+        <fptr FILEID="alto_00319_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_638.2" BETYPE="IDREF" FILEID="alto_00319_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="639" ORDERLABEL="627" TYPE="page">
+        <fptr FILEID="tiff_00320_0"/>
+        <fptr FILEID="jpg_00320_0"/>
+        <fptr FILEID="alto_00320_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_639.2" BETYPE="IDREF" FILEID="alto_00320_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="640" ORDERLABEL="628" TYPE="page">
+        <fptr FILEID="tiff_00320_1"/>
+        <fptr FILEID="jpg_00320_1"/>
+        <fptr FILEID="alto_00320_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_640.2" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="641" ORDERLABEL="629" TYPE="page">
+        <fptr FILEID="tiff_00321_0"/>
+        <fptr FILEID="jpg_00321_0"/>
+        <fptr FILEID="alto_00321_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_641.3" BETYPE="IDREF" FILEID="alto_00321_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="642" ORDERLABEL="630" TYPE="page">
+        <fptr FILEID="tiff_00321_1"/>
+        <fptr FILEID="jpg_00321_1"/>
+        <fptr FILEID="alto_00321_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_642.2" BETYPE="IDREF" FILEID="alto_00321_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="643" ORDERLABEL="631" TYPE="page">
+        <fptr FILEID="tiff_00322_0"/>
+        <fptr FILEID="jpg_00322_0"/>
+        <fptr FILEID="alto_00322_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_643.3" BETYPE="IDREF" FILEID="alto_00322_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="644" ORDERLABEL="632" TYPE="page">
+        <fptr FILEID="tiff_00322_1"/>
+        <fptr FILEID="jpg_00322_1"/>
+        <fptr FILEID="alto_00322_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_644.2" BETYPE="IDREF" FILEID="alto_00322_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="645" ORDERLABEL="633" TYPE="page">
+        <fptr FILEID="tiff_00323_0"/>
+        <fptr FILEID="jpg_00323_0"/>
+        <fptr FILEID="alto_00323_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_645.3" BETYPE="IDREF" FILEID="alto_00323_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="646" ORDERLABEL="634" TYPE="page">
+        <fptr FILEID="tiff_00323_1"/>
+        <fptr FILEID="jpg_00323_1"/>
+        <fptr FILEID="alto_00323_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_646.2" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="647" ORDERLABEL="635" TYPE="page">
+        <fptr FILEID="tiff_00324_0"/>
+        <fptr FILEID="jpg_00324_0"/>
+        <fptr FILEID="alto_00324_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_647.3" BETYPE="IDREF" FILEID="alto_00324_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="648" ORDERLABEL="636" TYPE="page">
+        <fptr FILEID="tiff_00324_1"/>
+        <fptr FILEID="jpg_00324_1"/>
+        <fptr FILEID="alto_00324_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_648.2" BETYPE="IDREF" FILEID="alto_00324_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="649" ORDERLABEL="637" TYPE="page">
+        <fptr FILEID="tiff_00325_0"/>
+        <fptr FILEID="jpg_00325_0"/>
+        <fptr FILEID="alto_00325_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_649.3" BETYPE="IDREF" FILEID="alto_00325_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="650" ORDERLABEL="638" TYPE="page">
+        <fptr FILEID="tiff_00325_1"/>
+        <fptr FILEID="jpg_00325_1"/>
+        <fptr FILEID="alto_00325_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_650.2" BETYPE="IDREF" FILEID="alto_00325_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-10" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.8" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-11" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.9" BETYPE="IDREF" FILEID="alto_00321_0"/>
+            <area BEGIN="BL_642.1" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b648-5" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_648.5" BETYPE="IDREF" FILEID="alto_00324_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b648-4" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_648.4" BETYPE="IDREF" FILEID="alto_00324_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b648-6" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_648.6" BETYPE="IDREF" FILEID="alto_00324_1"/>
+            <area BEGIN="BL_649.1" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-3" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.4" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            <area BEGIN="BL_647.1" BETYPE="IDREF" FILEID="alto_00324_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-4" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.4" BETYPE="IDREF" FILEID="alto_00325_0"/>
+            <area BEGIN="BL_650.1" BETYPE="IDREF" FILEID="alto_00325_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-6" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.6" BETYPE="IDREF" FILEID="alto_00321_1"/>
+            <area BEGIN="BL_643.1" BETYPE="IDREF" FILEID="alto_00322_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-5" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.5" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-4" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.4" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5B" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.11" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b644-4" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.5" BETYPE="IDREF" FILEID="alto_00322_1"/>
+            <area BEGIN="BL_645.1" BETYPE="IDREF" FILEID="alto_00323_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b645-4" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_645.4" BETYPE="IDREF" FILEID="alto_00323_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b645-6" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_645.5" BETYPE="IDREF" FILEID="alto_00323_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b645-7" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_645.6" BETYPE="IDREF" FILEID="alto_00323_0"/>
+            <area BEGIN="BL_646.1" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b647-6" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_647.5" BETYPE="IDREF" FILEID="alto_00324_0"/>
+            <area BEGIN="BL_648.1" BETYPE="IDREF" FILEID="alto_00324_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b647-4" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_647.4" BETYPE="IDREF" FILEID="alto_00324_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b644-3" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.4" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b650-4" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_650.4" BETYPE="IDREF" FILEID="alto_00325_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b650-5" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_650.5" BETYPE="IDREF" FILEID="alto_00325_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABd" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.7" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-9" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.10" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-8" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.9" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-7" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.8" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-6" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.7" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-5" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.6" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-5" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.5" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-4" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.4" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-7" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.8" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            <area BEGIN="BL_641.1" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-6" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.6" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-4" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.4" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-7" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.5" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b643-5" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_643.4" BETYPE="IDREF" FILEID="alto_00322_0"/>
+            <area BEGIN="BL_644.1" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-8" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.6" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-9" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.7" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

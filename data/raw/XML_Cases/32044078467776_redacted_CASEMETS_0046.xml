@@ -1,0 +1,999 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0046" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="United States v. The Coquitlam">THE COQUITLAM. UNITED STATES v. THE COQUITLAM</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 317</citation>
+          <citation category="parallel" type="bluebook">57 F. 706</citation>
+          <decisiondate>1893-09-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:04Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00165_0" MIMETYPE="image/tiff" CHECKSUM="b10f02e7a5056d4074bfbf1693380bf5" CHECKSUMTYPE="MD5" SIZE="12254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00165_0.tif"/>
+      </file>
+      <file ID="tiff_00165_1" MIMETYPE="image/tiff" CHECKSUM="ff8a66892a7292df416ed05ee04dd042" CHECKSUMTYPE="MD5" SIZE="3962">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00165_1.tif"/>
+      </file>
+      <file ID="tiff_00166_0" MIMETYPE="image/tiff" CHECKSUM="453d0d2cdc5b83394b2f11e814758b57" CHECKSUMTYPE="MD5" SIZE="11394">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00166_0.tif"/>
+      </file>
+      <file ID="tiff_00166_1" MIMETYPE="image/tiff" CHECKSUM="0dfbbec85afdae5517aa610a3edefef9" CHECKSUMTYPE="MD5" SIZE="53076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00166_1.tif"/>
+      </file>
+      <file ID="tiff_00167_0" MIMETYPE="image/tiff" CHECKSUM="6dc96937847bea8647eef3a03e86f291" CHECKSUMTYPE="MD5" SIZE="50108">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00167_0.tif"/>
+      </file>
+      <file ID="tiff_00167_1" MIMETYPE="image/tiff" CHECKSUM="f502f36ada62cc2ae8082631d113a542" CHECKSUMTYPE="MD5" SIZE="52742">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00167_1.tif"/>
+      </file>
+      <file ID="tiff_00168_0" MIMETYPE="image/tiff" CHECKSUM="c1311c3418f3094aaed868816849a1ed" CHECKSUMTYPE="MD5" SIZE="51116">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00168_0.tif"/>
+      </file>
+      <file ID="tiff_00168_1" MIMETYPE="image/tiff" CHECKSUM="c8a4c4fbe131e0a0a653c4d89dc244c6" CHECKSUMTYPE="MD5" SIZE="51840">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00168_1.tif"/>
+      </file>
+      <file ID="tiff_00169_0" MIMETYPE="image/tiff" CHECKSUM="d11bf0a01f2ead0ac32dc2ee13015293" CHECKSUMTYPE="MD5" SIZE="51088">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00169_0.tif"/>
+      </file>
+      <file ID="tiff_00169_1" MIMETYPE="image/tiff" CHECKSUM="8d5f24ccb26890aa7456139399e484c1" CHECKSUMTYPE="MD5" SIZE="52958">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00169_1.tif"/>
+      </file>
+      <file ID="tiff_00170_0" MIMETYPE="image/tiff" CHECKSUM="58bd580a51b616651bd7d4dcb333679b" CHECKSUMTYPE="MD5" SIZE="53134">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00170_0.tif"/>
+      </file>
+      <file ID="tiff_00170_1" MIMETYPE="image/tiff" CHECKSUM="204f88ce710301f0f68ed8e208b18ddb" CHECKSUMTYPE="MD5" SIZE="52792">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00170_1.tif"/>
+      </file>
+      <file ID="tiff_00171_0" MIMETYPE="image/tiff" CHECKSUM="9ea707778d3148a0a77eb4b409e909d3" CHECKSUMTYPE="MD5" SIZE="52220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00171_0.tif"/>
+      </file>
+      <file ID="tiff_00171_1" MIMETYPE="image/tiff" CHECKSUM="0391a2115b453aca257367efcfcb4b75" CHECKSUMTYPE="MD5" SIZE="55208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00171_1.tif"/>
+      </file>
+      <file ID="tiff_00172_0" MIMETYPE="image/tiff" CHECKSUM="4628649962a27204608d7c39e06c53d0" CHECKSUMTYPE="MD5" SIZE="52960">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00172_0.tif"/>
+      </file>
+      <file ID="tiff_00172_1" MIMETYPE="image/tiff" CHECKSUM="7f13a384fbe1417da30f16940348f3ab" CHECKSUMTYPE="MD5" SIZE="53420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00172_1.tif"/>
+      </file>
+      <file ID="tiff_00173_0" MIMETYPE="image/tiff" CHECKSUM="4497518d20b418a2ba45b5fdc9d5d904" CHECKSUMTYPE="MD5" SIZE="53356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00173_0.tif"/>
+      </file>
+      <file ID="tiff_00173_1" MIMETYPE="image/tiff" CHECKSUM="085864ec7ef221fdca68a0febce913ba" CHECKSUMTYPE="MD5" SIZE="53776">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00173_1.tif"/>
+      </file>
+      <file ID="tiff_00174_0" MIMETYPE="image/tiff" CHECKSUM="4640a9f7414f125ce366a1c7aee1a0eb" CHECKSUMTYPE="MD5" SIZE="20562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00174_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00165_0" MIMETYPE="image/jpg" CHECKSUM="998e9467a4f44b7d47f3e2189efa1093" CHECKSUMTYPE="MD5" SIZE="83834">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00165_0.jpg"/>
+      </file>
+      <file ID="jpg_00165_1" MIMETYPE="image/jpg" CHECKSUM="4d64bd4693f76414cdfdba8501de9529" CHECKSUMTYPE="MD5" SIZE="52627">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00165_1.jpg"/>
+      </file>
+      <file ID="jpg_00166_0" MIMETYPE="image/jpg" CHECKSUM="e64b8ef9bdd06cb54a9e1459e99e1d80" CHECKSUMTYPE="MD5" SIZE="81190">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00166_0.jpg"/>
+      </file>
+      <file ID="jpg_00166_1" MIMETYPE="image/jpg" CHECKSUM="2753f2177db611d0e85560c3736d9381" CHECKSUMTYPE="MD5" SIZE="209692">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00166_1.jpg"/>
+      </file>
+      <file ID="jpg_00167_0" MIMETYPE="image/jpg" CHECKSUM="c137c5a5b8d9ed27046bc00dda034a5e" CHECKSUMTYPE="MD5" SIZE="184703">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00167_0.jpg"/>
+      </file>
+      <file ID="jpg_00167_1" MIMETYPE="image/jpg" CHECKSUM="30e7a72bdeceb87bf467be8820ffe970" CHECKSUMTYPE="MD5" SIZE="198538">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00167_1.jpg"/>
+      </file>
+      <file ID="jpg_00168_0" MIMETYPE="image/jpg" CHECKSUM="476d1211fd2934f0e8400de87b1db5f3" CHECKSUMTYPE="MD5" SIZE="182341">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00168_0.jpg"/>
+      </file>
+      <file ID="jpg_00168_1" MIMETYPE="image/jpg" CHECKSUM="9abd2ab29b390f090de8755b52465944" CHECKSUMTYPE="MD5" SIZE="203179">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00168_1.jpg"/>
+      </file>
+      <file ID="jpg_00169_0" MIMETYPE="image/jpg" CHECKSUM="2686f4f698d32d40989b60a81bafbd4a" CHECKSUMTYPE="MD5" SIZE="191426">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00169_0.jpg"/>
+      </file>
+      <file ID="jpg_00169_1" MIMETYPE="image/jpg" CHECKSUM="afc80fed77273b21ddda8cd49039dc02" CHECKSUMTYPE="MD5" SIZE="200037">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00169_1.jpg"/>
+      </file>
+      <file ID="jpg_00170_0" MIMETYPE="image/jpg" CHECKSUM="21c3cbae78f1136564c0cbe16fee2a72" CHECKSUMTYPE="MD5" SIZE="189701">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00170_0.jpg"/>
+      </file>
+      <file ID="jpg_00170_1" MIMETYPE="image/jpg" CHECKSUM="307565e71fcbd8f33c151cf6f979e5ce" CHECKSUMTYPE="MD5" SIZE="208518">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00170_1.jpg"/>
+      </file>
+      <file ID="jpg_00171_0" MIMETYPE="image/jpg" CHECKSUM="3b715e5465c86b397022e4407684e2d2" CHECKSUMTYPE="MD5" SIZE="193696">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00171_0.jpg"/>
+      </file>
+      <file ID="jpg_00171_1" MIMETYPE="image/jpg" CHECKSUM="e277d69c2d73c8298152da8207518ffc" CHECKSUMTYPE="MD5" SIZE="203134">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00171_1.jpg"/>
+      </file>
+      <file ID="jpg_00172_0" MIMETYPE="image/jpg" CHECKSUM="727eecf9aa1679d34570e7ed3e27e30d" CHECKSUMTYPE="MD5" SIZE="186494">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00172_0.jpg"/>
+      </file>
+      <file ID="jpg_00172_1" MIMETYPE="image/jpg" CHECKSUM="72316ebdd52a42806f9532c3ea5e1eaf" CHECKSUMTYPE="MD5" SIZE="205941">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00172_1.jpg"/>
+      </file>
+      <file ID="jpg_00173_0" MIMETYPE="image/jpg" CHECKSUM="04253c6336181a16e9d3bc124cdb1621" CHECKSUMTYPE="MD5" SIZE="195467">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00173_0.jpg"/>
+      </file>
+      <file ID="jpg_00173_1" MIMETYPE="image/jpg" CHECKSUM="4c1300d217264e147dd1ee454aab9bb6" CHECKSUMTYPE="MD5" SIZE="199464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00173_1.jpg"/>
+      </file>
+      <file ID="jpg_00174_0" MIMETYPE="image/jpg" CHECKSUM="85cbe19a1890d845692f18da139567d2" CHECKSUMTYPE="MD5" SIZE="101583">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00174_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00165_0" MIMETYPE="text/xml+gzip" CHECKSUM="ffb5711f72b587b1292f95a3f8e05620" CHECKSUMTYPE="MD5" SIZE="3300">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00165_0.xml.gz"/>
+      </file>
+      <file ID="alto_00165_1" MIMETYPE="text/xml+gzip" CHECKSUM="bd9b0a8a6e5ac2784cabe043e90c7df0" CHECKSUMTYPE="MD5" SIZE="886">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00165_1.xml.gz"/>
+      </file>
+      <file ID="alto_00166_0" MIMETYPE="text/xml+gzip" CHECKSUM="cfbf861e86d29b8a6e216bf23d72f209" CHECKSUMTYPE="MD5" SIZE="3264">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00166_0.xml.gz"/>
+      </file>
+      <file ID="alto_00166_1" MIMETYPE="text/xml+gzip" CHECKSUM="0d48fad356c6520183d7a0c688016b91" CHECKSUMTYPE="MD5" SIZE="12673">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00166_1.xml.gz"/>
+      </file>
+      <file ID="alto_00167_0" MIMETYPE="text/xml+gzip" CHECKSUM="5b0703d3b76f6d60d288c0b393abaf3e" CHECKSUMTYPE="MD5" SIZE="11966">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00167_0.xml.gz"/>
+      </file>
+      <file ID="alto_00167_1" MIMETYPE="text/xml+gzip" CHECKSUM="0be271495c6890a361b89795bbaef6da" CHECKSUMTYPE="MD5" SIZE="12391">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00167_1.xml.gz"/>
+      </file>
+      <file ID="alto_00168_0" MIMETYPE="text/xml+gzip" CHECKSUM="c8ad36d91da29237d092f05ef80a5024" CHECKSUMTYPE="MD5" SIZE="12610">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00168_0.xml.gz"/>
+      </file>
+      <file ID="alto_00168_1" MIMETYPE="text/xml+gzip" CHECKSUM="5de4b62a1b15fe4a4cbb3662949e7a59" CHECKSUMTYPE="MD5" SIZE="12057">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00168_1.xml.gz"/>
+      </file>
+      <file ID="alto_00169_0" MIMETYPE="text/xml+gzip" CHECKSUM="2b554dfa611b60a1ef52e9d28cb25a3a" CHECKSUMTYPE="MD5" SIZE="11774">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00169_0.xml.gz"/>
+      </file>
+      <file ID="alto_00169_1" MIMETYPE="text/xml+gzip" CHECKSUM="c41874efe2af6521cf07eb4941ae798e" CHECKSUMTYPE="MD5" SIZE="12761">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00169_1.xml.gz"/>
+      </file>
+      <file ID="alto_00170_0" MIMETYPE="text/xml+gzip" CHECKSUM="41be38e8feebb830cda8f237527ee9e7" CHECKSUMTYPE="MD5" SIZE="13114">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00170_0.xml.gz"/>
+      </file>
+      <file ID="alto_00170_1" MIMETYPE="text/xml+gzip" CHECKSUM="5f8f797dd5499ce3c3fe17d09fd1dced" CHECKSUMTYPE="MD5" SIZE="12541">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00170_1.xml.gz"/>
+      </file>
+      <file ID="alto_00171_0" MIMETYPE="text/xml+gzip" CHECKSUM="34f688fb74621857b09256d2960d21a5" CHECKSUMTYPE="MD5" SIZE="12788">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00171_0.xml.gz"/>
+      </file>
+      <file ID="alto_00171_1" MIMETYPE="text/xml+gzip" CHECKSUM="2f60a229330d0bf3380998f6e6e95001" CHECKSUMTYPE="MD5" SIZE="13068">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00171_1.xml.gz"/>
+      </file>
+      <file ID="alto_00172_0" MIMETYPE="text/xml+gzip" CHECKSUM="aa15f9556a6b45bc23b95805c475c81f" CHECKSUMTYPE="MD5" SIZE="12930">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00172_0.xml.gz"/>
+      </file>
+      <file ID="alto_00172_1" MIMETYPE="text/xml+gzip" CHECKSUM="94e0cb45c3aee0c6fe55276b8872bc3a" CHECKSUMTYPE="MD5" SIZE="12573">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00172_1.xml.gz"/>
+      </file>
+      <file ID="alto_00173_0" MIMETYPE="text/xml+gzip" CHECKSUM="a470032b6d00f724f1eb2defeb98602c" CHECKSUMTYPE="MD5" SIZE="12741">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00173_0.xml.gz"/>
+      </file>
+      <file ID="alto_00173_1" MIMETYPE="text/xml+gzip" CHECKSUM="dac760af386b1da5f678986e147ea898" CHECKSUMTYPE="MD5" SIZE="13122">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00173_1.xml.gz"/>
+      </file>
+      <file ID="alto_00174_0" MIMETYPE="text/xml+gzip" CHECKSUM="05bf22d89f3e6e6da6cbb8a1ba6f8fa3" CHECKSUMTYPE="MD5" SIZE="5671">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00174_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0046" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="317" lastpage="335">
+              <court pgmap="329" id="b329-7">District Court, D. Alaska.</court>
+              <citation pgmap="329" id="b329-4">57 F. 706</citation>
+              <parties pgmap="329" id="b329-5">THE COQUITLAM. UNITED STATES v. THE COQUITLAM.</parties>
+              <decisiondate pgmap="329" id="b329-8">Sept. 18, 1893.</decisiondate>
+              <attorneys pgmap="331" id="b331-13">C. S. Johnson, U. S. Dist. Atty., (F. P. Dewees, Spe­cial Asst. U. S. Atty., on the brief,) for libelant.</attorneys>
+              <attorneys pgmap="331" id="b331-14">John B. Allen and Hughes, Hastings &amp; Steadman, for respondents.</attorneys>
+              <opinion type="majority">
+                <author pgmap="331" id="b331-15">TRUITT, District Judge.</author>
+                <p pgmap="331(37) 332(25)" id="AO6">The libel of information in this case was filed July 5, 1892. It is voluminous, and consists of four separate counts. Two of these — the first and second — are against the steamer Coquitlam, her boats, tackle, apparel, furniture, boilers, and engines; the third and fourth aré against her cargo. The libel sets out the facts of the seizure as follows:</p>
+                <blockquote pgmap="332" id="b332-4">“That C. L. Hooper, a captain in the United States revenue marine service, duly commissioned by the presi­dent of the United States, and then and there commanding the revenue cutter Corwin, on duty in the waters of Alas­ka, and duly authorized in the premises, on or about the 22d day of June, 1892, at or near Port Etches, Hinchin­brook island, within the district of Alaska, and within the jurisdiction of this court, on waters navigable from the sea by vessels of ten or more tons burden, seized the ship or vessel commonly called a ‘steamer’ and known as the ‘Coquitlam,’ her boats, tackle, apparel, furniture, engines, boilers, and cargo, and turned them over to the collector of customs for the port of Sitka, in the district of Alaska.”</blockquote>
+                <p pgmap="332" id="b332-5">The first count of the libel charges a violation of sec- • tions 2867 and 2868 of the Revised Statutes on the part of the Coquitlam, by receiving or unlading a large amount of merchandise and cargo, consisting of fur sealskins, at or near Afognak island, on the 19th day of June, 1892, within the limits of the United States and the District of Alaska, in the waters thereof, and within four leagues of the coast. It is further alleged in this count that on or about the 20th and 21st days of June, 1892,' within the Gulf of Alaska, in the district of Alaska, and within four leagues of the coast, the sealing schooners, Oscar &amp; Hattie, Viva, and Faun made unladings of cargoes, con­sisting of fur sealskins, to the Coquitlam.</p>
+                <p pgmap="332(114) 333(106)" id="b332-6">The second count charges that said steamer violated section 3109, Rev.St. (19 U.S.C.A. § 275 note), at the same time and place first named in the first count, by transferring merchandise to the British schooners Bren­da, Umbrina, Sea Lion,Venture, Maud S., Winifred, Lib­by, and Walter A. Earle, and then and there receiving as cargo from each of said schooners except the Winifred and Libby, a large quantity of fur sealskins, aggregating in all the number of 3,893. Section 2867 of the Revised Statutes, which is section 27 of the collection act, pro­vides for a case where goods are unladen after a vessel laden with merchandise, and bound for the United States, has arrived within the limits of a collection district, or within four leagues of the coast thereof, and before com­ing to the proper place for the discharge of her cargo, or some portion of it, without being there duly authorized by the proper officer of the customs to unladen the same. The punishment prescribed for a violation of this section is a forfeiture of the goods so unladen, and penalty of one thousand dollars, each against the master and mate, or other person next in command, except in case of un­avoidable accident, necessity, or distress of weather; but the vessel itself is not forfeited.</p>
+                <p pgmap="333" id="b333-4">The next section of the chapter is 2868, which reads as follows:</p>
+                <blockquote pgmap="333" id="b333-5">“If any merchandise, so. unladen from on board any such vessel, shall be put or received into any other vessel, except in the case of such accident, necessity or distress, to be so notified and proved, the master of any such vessel into which the merchandise shall be so put and received, and every other person aiding and assisting therein, shall be liable to a penalty of treble the value of the merchandise, and the vessel in which they shall be so put shall be for­feited.”</blockquote>
+                <p pgmap="333" id="b333-6">This section is invoked for the purpose of forfeiting the Coquitlam, and the question turns upon the sufficiency of the evidence to support the allegations of the first count of the libel.</p>
+                <p pgmap="333(145) 334(17)" id="b333-7">A violation of section 3109 is charged in the second count, and, if the allegations 'thereof are sustained by the evidence, the vessel would also be forfeited under this count. Section 3109 is as follows: “The master of any foreign vessel, laden or in ballast, arriving in waters of the United States from any foreign territory adjacent to the northern, northeastern or northwestern frontiers of the United States, shall report at the office of any collec­tor, or deputy collector of the customs, which shall be nearest to the point at which such vessel may enter such waters; and such vessel shall not proceed further inland, either to unlade or take in cargo, without a special permit from such collector, or deputy collector, issued under and in accordance with such general or special regulations as the secretary of the treasury may in his discretion from time to time prescribe. For any violation of this section such vessel shall be seized and forfeited.”</p>
+                <p pgmap="334" id="b334-4">To the libel of. information herein, the Union Steaim ship Company, Limited, Vancouver, British Columbia, in­tervening for its interest in the steamer Coquitlam, her boats, tackle, apparel, furniture, engines, boilers, and sup­plies, and Thomas Earle, of Victoria, British Columbia, intervening for the interest of William Munsie, R. P. Rithet &amp; Co., Limited, George Collins, Donald Urquhart, Pacific Sealing Company, and Thomas Earle, in the cargo of the Coquitlam, filed their answers. Upon the issues thereby raised, the trial was had. It is admitted, in an­swering the first count, that in the waters of the North Pacific ocean, at or about the dates named in the libel, the sealing schooners therein mentioned did unlade fur seals in the numbers alleged, but it is denied that, at the time of such unlading, any of said vessels were within the limits of the Alaskan collection district, or within four leagues of its coast, or within the waters of the United States, or within the jurisdiction of this court; and, further answering said count, it is admitted that each and all of said vessels so unladen were from Victoria, or some other port of the do.­minion of Canada, but that any of them were bound to the United States, or laden with any merchandise bound to the United States, is specifically denied.</p>
+                <p pgmap="334(162) 335(21)" id="b334-5">In answering the second count it is admitted that the Coquitlam is a foreign vessel; that she cleared on the 8th day of June, 1892, from the foreign port of Victoria; that she was laden with certain general merchandise; that E. E. McLellan was master of said steamer at all times stated in the libel; and that said steamer did transfer certain merchandise to some of said sealing schooners. It is further admitted that about the time alleged in the libel the Coquitlam received the aggregate number of fur sealskins therein named from said schooners, but it is de­nied that the unlading of the merchandise, or the receiv­ing of the sealskins took place within the waters of the United States, or within four leagues of the island of Afognak, or any part of the coast, or within the jurisdic­tion of this court. All the material allegations of the li­bel, in each separate count, are specifically denied by the answers, and then a lengthy statement and explanation of the matters and transactions involved in the case are set out affirmatively.</p>
+                <p pgmap="335" id="A2_">There is no special plea to the jurisdiction, though a general denial of jurisdiction is made in the answers. The act of 1736, (9 Geo. II. c. 35,) sometimes called the “British Hovering Act,” assumed, for certain revenue pur­poses, a? jurisdiction of four leagues from the coast, by pro­hibiting foreign goods from transshipment within that distance without payment of duties; and the collection act of 1799 of the United States is similar in assuming a ju~ risdiction of four leagues from shore for the collection of customs, and to prevent illicit trade. Both of these pro­visions have been declared by judicial authority in each country to be consistent with the law and usages of na­tions; and in Church v. Hubbart, 2 Cranch, 187, the doctrine is announced that nations may prevent the viola­tion of their laws by seizures on the high seas, in the neighborhood of their own coast, and that there is no fixed rule prescribing the distance from the coast within which such seizures may be made; but as the learned advocate who argued this case on behalf of the respondents did not raise the question as to the right of the United States to make seizures of foreign vessels for violation of its col­lection or revenue laws, on waters of the sea, within four leagues of the shore line, I suppose, if such right is not conceded, it is considered a political, and not a judicial, question.</p>
+                <p pgmap="335(139) 336(123)" id="b335-5">As submitted, then, the case, so far as the vessel is con­cerned, must be determined by applying the law of sec­tions 2867, 2868, and 3109 to the circumstances and facts shown and established by the evidence. Whether or not it should be forfeited is simply a question of fact, under the law; but as it is claimed on behalf of the respondents that, since these statutes are highly penal in their nature, they must be strictly construed, and that an act should not be held to fall within their purview unless, upon a fair construction of the language, it comes within the letter of the law and its purpose also, I deem it proper to brief­ly notice this claim before proceeding to pass upon the evidence. The Cargo ex Lady Essex, 39 F. 765, is re­ferred to as authority for a strict construction of these statutes, but I do not think it supports the claim. That was a case where the schooner Victor, laden with lumber, bound from a Canadian to an American port, arrived within the limits of the collection district of Port Huron and was there stranded. The lumber from the stranded vessel was unladen and placed upon the schooner Lady Essex without authority from the customs officers. The stranding of the Victor made a clear case of unavoidable accident under section 2867, and the only irregularity was the failure to give notice to the customs authorities of such contingency. The information was for a forfeiture of the lumber, and Justice Brown, in the opinion, says:</p>
+                <blockquote pgmap="336" id="b336-4">“No forfeiture, however, is imposed for the failure to give such notice, though it would seem from the fol­lowing section that the vessel receiving such lumber from the stranded vessel incurs the penalty of forfeiture, and' the master of such vessel a penalty of treble the value of the merchandise. While it is possible that section 2867 might be construed by inference to work a forfeiture of the cargo where no notice has been given of accident, ne­cessity, or distress, still, although they may not be subject to the strict construction of a penal one, a forfeiture ought not -to be imposed unless the language will bear no other reasonable construction.”</blockquote>
+                <p pgmap="336(157) 337(10)" id="b336-5">It will be observed here that the dictum in this decision is to the effect that the vessel receiving the lumber might be forfeited under the next section, evidently for the rea­son that it is there prescribed that the “accident, neces­sity, or distress” is to be “so notified and proved” before the merchandise can be received without incurring the pen­alty; but as section 2867 does not expressly declare a forfeiture of the cargo for unlading, in case of accident, necessity, or distress, without the notice mentioned there­in, the court did not think proper to supply, by inference or construction, what was not in the text, to work a for­feiture in a case where the want of notice was the only irregularity. However, I understand the true rule of in­terpretation for the statutes upon which the libel in the case at bar is based to be that stated by Judge Deady in Ten Cases of Opium, Fed.Cas.No. 13,828, Deady, 70, as follows:</p>
+                <blockquote pgmap="337" id="b337-3">“Acts declaring forfeitures and imposing penalties for violation of the revenue laws must be construed so as to accomplish the object for which they were intended. In the technical sense they are not penal, but rather remedial— intending to effect a public good and prevent frauds.”</blockquote>
+                <p pgmap="337" id="b337-4">The evidence in this case is voluminous, including the testimony of a large number of witnesses, maps and plats, ship’s papers, and the log book of the Coquitlam, and it is quite conflicting on some points; but after eliminat­ing therefrom the facts which are admitted, and passing over immaterial matters, the real questions to be deter­mined are not numerous. There are only two principal questions involved by the issues in the first count:</p>
+                <p pgmap="337" id="b337-5">(1) Were all or any of the sealing schooners, from which fur sealskins were unladen, bound for the United States? and,</p>
+                <p pgmap="337" id="b337-6">(2) If so, then was the unlading made within the col­lection district of Alaska, or within four leagues of its coast, within the waters of the United States ?</p>
+                <p pgmap="337(187) 338(337)" id="b337-7">The evidence touching these questions is mainly drawn from the witnesses produced by respondents themselves, whose pecuniary interests, prejudices, and influences are such as to make them strongly favor respondents. The masters of the sealing schooners that made exchange of cargo with the Coquitlam at Tonki bay testify most strong­ly of any of the witnesses in favor of the claim that the exchange was made more than 12 miles from the shore, and they stand very much in the light of accomplices. I therefore think their evidence should be received with cau­tion, if not wholly rejected, where it is contradicted by other evidence, or rendered improbable by surrounding circumstances. According to the testimony of Capt. Wil­liam Grant, who was himself interested in three vessels engaged in fur seal hunting that year, there were about 55 of the fleet of sealing vessels in the North Pacific ocean in the spring of 1892, owned in Victoria. During that spring this fleet cleared from there, or other Canadian ports, for said ocean, or Okhotsk sea. The owners of these vessels have an organization known as the Pacific Sealers’ Association; and. I think the evidence and the circumstances show that before their masters left Victoria it was generally understood by them that they should ren­dezvous at Marmot island, or Tonki bay, in Afognak is­land, or at Port Etches, in Hinchinbrook island, in the United States, and within the district of Alaska, and that a supply steamer would be sent out by said association to meet them at these places some time that season, from the middle towards the latter part of June, and take their catch of sealskins, and furnish them with supplies and provi­sions to enable them to pursue their hunting, possibly into Bering sea. Word was passed from one to another, and some of them directed their course to Tonki bay, where they were met by the Coquitlam, while others sailed for Port .Etches, at which place a large number were assem­bled on the day of her seizure there. The schooners Um­brina, Brenda, Sea Lion, Maud S., Walter A. Earle, and Venture, from each of which sealskins were transferred at Tonki bay, and the Oscar &amp; Hattie, Viva, and Faun, from which transfers were made off the coast of Mid­dleton island, belonged to this fleet. The evidence tends very strongly to prove that these vessels were instructed to rendezvous at Tonki bay and Port Etches. It is in evidence that these are uninhabited bays on the remote frontier, where there is no civilized population or inhabi­tants, and respondents claim that this should be taken .in their favor as going to show that these vessels could have no object in going there; but it seems to me that, on the theory of the libelant that they were intentionally seeking to evade our customs laws, it is rather a circumstance against them, for in that case they would naturally try to find just such places to carry out their unlawful inten­tions. Those who seek to break or evade the law are much given to retirement and seclusion.</p>
+                <p pgmap="338(72) 339(244)" id="b338-4">Robert McReid, master of the Maud S., testifies that he was instructed before leaving Victoria to meet a ves­sel the latter part of June off Marmot island, and he says he received the information from Capt. Cox. Now, there is a good deal of significance to this testimony when it is known that Capt. Cox was then the president of the Pa­cific Sealer's’ Association, and was, according to the evi­dence of the master of “the Coquitlam, in such a hurry to get that vessel out on her voyage that he prevailed on the customs officer at Victoria to let her sail without a proper manifest, because “he wanted get the ship away as soon as possible. They were behind then.” If the schooners under control of this association had been instructed to rendezvous at Tonki bay and Port Etches, the middle or latter part of June, to meet a supply steamer and exchange cargoes, there was no time to lose by this steamer in making her clearance, when it was then the 8th day of June. Theodore Magnesen, master of the Walter A. Earle, took his vessel into Tonki bay to meet some kind of a vessel in that vicinity. Charles Campbell, master of the Umbrina, had heard that a vessel was to be sent up in the vicinity of Tonki bay, from Victoria, about the 18th or 19th of June, and this witness says that, when he went into the bay, “numerous vessels were there.” E. E. Mc-­Lellan, master of the Coquitlam, testified that from Vic­toria he made Dixon’s entrance, and took departure for Forester’s island, and steered for Marmot island. He further says: “My instructions were from Capt. Kelly to direct my vessel towards Marmot island, and I took the ship there. He told me that schooners would be found in the vicinity of Marmot island, or Cape Tonki.”</p>
+                <p pgmap="339(183) 340(46)" id="b339-4">The log book of the Coquitlam, kept by Capt. McLel­lan, has this very significant entry under date of June 18, 1892, the day he entered Tonki bay: “At noon, Marmot island abreast. Set course for Cape Tonki. Weathered cape, and steered in for rendezvous.” It is true these vessels all cleared, so far as their papers show, for the North Pacific ocean, but this is a very wide extent of water, in which there are numerous ports and harbors belonging to the United States, and where a vessel is actually bound is not necessarily shown by its clearance. When the clearance is questioned as being intentionally misleading . or fraudulent, the port or harbor for which it is bound may be proved by the course it sails, the land­ings it makes, and other facts connected with its voyage. But counsel for respondents contend that it will not do to say, because a vessel arrives in the United States, it is therefore a vessel bound for the United States, and that, before the first count of the libel can be sustained under sections 2867 and 2868, it must be shown that the unload­ing vessels were bound to the United States, and to some particular port, and to some particular port answering to that designated in the statute as “the proper place for the discharge of her cargo.”</p>
+                <p pgmap="340" id="b340-4">I confess, when I first considered this case, I was some­what in doubt as to the proper construction to be given to section 2867. But the facts do not seem to bring the case within the purview of section 2872, and, further­more, I find from an examination of the authorities that this question was directly passed upon and settled in the case of The Active, Deady, 165, where, following the authority of The Hunter, 1 Pet.C.C. 10, it was held that an illegal unlading within the limits of the United States, and before arrival at any port within such limits, is a vio­lation of section 2867, but an illegal unlading after a ves­sel shall have arrived at some port within the United States should be prosecuted under section 2872. If, there­fore, these vessels did make an unlading of their cargoes within Tonki bay, or within four leagues of the coast in that vicinity, without authority so to do, they cannot be successfully prosecuted for the act under any law that I know of, unless sections 2867 and 2868 do apply. I think if a vessel comes within our waters within four leagues of the shore, and makes an unlading or exchange of mer­chandise with another vessel, without authority, it should be held to have arrived there, and treated as a vessel bound to the United States, within the meaning of the statute, and no refinement of construction, or narrow technical meaning of the words “arrive” and “bound” should be al­lowed to render the law powerless to prevent a wrong. The primary object of these and other sections of the law is to prevent frauds upon the revenue, and, to accomplish this, many acts, indifferent in themselves, but which, if permitted, might be made the means of committing, or facilitate the ■ commission of, such frauds, are prohibited under penalties, and they should be construed so as to ac­complish the object for which they were enacted. The Industry, Fed.Cas.No. 7,028, 1 Gall. 116, 117.</p>
+                <p pgmap="340(22) 341(387)" id="b340-5">I do not think the rule as to the burden of proof and weight of evidence given by counsel for respondents in their brief is the correct one in this case. Section 909, Rev.St., puts the onus probandi to establish the innocence of the property upon the claimant in all cases when prob­able cause for the seizure is shown. This has been held as the rule in Cliquot’s Champagne, 3 Wall. 114, in Taylor v. U. S., 3 How. 197, and by a number of other authori­ties. It is admitted in this case that the unlading and ex­change was made by the schooners and the Coquitlam in the vicinity of Tonki bay, and it is incumbent upon re­spondents to show that it was not illegal, and not within' four leagues of the shore. It is claimed, however, that the meeting of these vessels was accidental, and that the Coquitlam, as well as some of the schooners, put into Tonki bay on account of stress of weather, but I do not think either claim is sustained. The evidence and all the cir­cumstances show that they met in the vicinity of that bay in accordance with instructions sent out by the Pacific Sealers’ Association of Victoria, and, if they were to make a rendezvous near Marmot island, it seems almost beyond question that they would make it in the safe harbor of Tonki bay. The intention of the parties may not have been to violate the letter of our revenue laws, but to evade and break them in spirit, and, if so, they can hardly stand before this court in the light and attitude of parties who unintentionally and innocently make a mistake, not having an opportunity to know the law. Being engaged in the business they were along our coast, it was their duty to know the laws governing their actions. I think the evi­dence shows conclusively that this transfer of cargoes between the schooners Umbrina, Brenda, Maud S., Sea Lion, and Walter A. Earle and the Coquitlam took place inside of what is called the “twelve-mile limit,” some­where between three and seven miles from the coast, and that the sealskins from the Venture were either trans­ferred in Tonki bay, or taken out in small boats at the time the schooners were towed to sea, and taken on board the Coquitlam at the same place where the transfer was made from them.</p>
+                <p pgmap="341(29) 342(316)" id="b341-4">The evidence of the masters of all these vessels, who have testified, is to the effect that they understood the transfer of cargoes could be made without violating the law by going out beyond three miles from shore, and as it was late in the afternoon of the day it was made, and the master of the Coquitlam seems to have been in some­thing of a hurry to proceed on his voyage from Tonki bay to Port Etches, it is highly improbable that he would waste time in towing these vessels beyond twelve miles at sea, when it was only required to tow them beyond three miles. I think the theory that it was necessary to go beyond twelve miles from shore on this occasion, on account of the winds, tides, choppy seas, and ocean swells, is more ingenious than probable. But while I think the transfer was made within four leagues of the shore, I am inclined to hold that, if the purpose of the meeting of these vessels at Tonki bay was for the unlading and receiving of cargo, then the continued, concerted, necessary action for the effectuation of that purpose, including the towing out, was a part of the actual unlading and receipt, and con­stituted essential parts of the res gestae of the’ offense which the statute was enacted to prevent, and would be a violation of it though the final act took place more than twelve miles from shore. With our vast extent of sea­coast in the northwest, if vessels can, by a prearranged plan, rendezvous at one of the numerous bays or inlets along the coast, and after meeting there, if the steamer carrying stores of merchandise, provisions, or liquors-from a foreign port can evade our laws by watching for favora­ble weather, and then simply towing a number of sloops or small sailing vessels to sea beyond the twelve-mile lim­it, and there exchange cargoes or furnish them with trad­ing stores, our laws are inadequate to prevent illicit traf­fic or smuggling along the coast.</p>
+                <p pgmap="342(108) 343(337)" id="b342-3">Under these views of the law and the evidence, I think the schooners'Umbrina, Brenda, Maud S., Sea Lion, Wal­ter A. Earle, and Venture were bound to the United States when they cleared from Victoria; that the unlading and exchange of cargoes by them, made near Tonki bay, with the' Coquitlam, June 19, 1892, was within the collection district of Alaska, within four leagues of the coast, with­in waters of the United States; and that the allegations of the first count of the libel on these points are sustained by the proof; and that their cargoes, together with the Coquitlam, into which they were transferred, should be forfeited under said sections 2867 and 2868. But under the allegations of the libel and the theory of the prosecu­tion it does not appear that the transfers of sealskins from the schooners Oscar &amp; Hattie, Viva, and Faun, to the Coquitlam, were in violation of section 2867, for the proof shows them to have taken place somewhere in the North Pacific ocean, between Middleton island and Cape Cleare, Montague island, about 30 or 40 miles from the nearest land. The allegations that they were made in the collection district of Alaska, and within four leagues of shore, are not, therefore, sustained by the evidence. The second count, which is also against the Coquitlam, charges a violation of section 3109, supra, and I think the testi­mony and circumstances prove that she offended both as to the requirement and the prohibition of this statute. It is admitted she was a foreign vessel from a foreign port or territory, and the proof shows she arrived in waters of the United States at a point about 30 miles from St. Paul or Kadiak island, which is a port of entry where a customs officer is located. She did not report to said of­ficer, but went on through United States waters into Tonki bay. Furthermore, she went directly from this bay on her way towards Port Etches, where she again entered waters of the United States, passed on into the bay, and anchored in the inner harbor, about five or six miles from the open sea, less than half a mile from the land. There seems to be no question but that she was directly bound from Tonki bay to the vicinity of Port Etches, though it is claimed that she entered the harbor to procure fresh water. But if she did not intend to enter this harbor when she left Tonki bay, where there was plenty of fresh water, it is a little singular why water was not taken on at that place if it was getting scarce.</p>
+                <p pgmap="343(85) 344(80)" id="b343-4">It is certainly true that a mere touching or passing through the waters of a country by a ship on her voyage elsewhere is not an arrival in such waters, within the mean­ing of laws for the collection of revenues; but this is not such a case. Besides, as stated by Chief Justice Marshall: “In different seas, and on different coasts, a wider or more contracted range in which to exercise the vigilance of the government will be assented to. Thus, in the Chan­nel, where a very great part of the commerce to and from all the north of Europe passes through a very narrow sea, the seizure of vessels on suspicion of attempting an illicit trade must necessarily be restricted to very narrow lim­its; but on the coast of South America, seldom frequent­ed by vessels but for the purpose of illicit trade, the vigil­ance of the government may be extended somewhat fur­ther.” Church v. Hubbart, 2 Cranch, 235.</p>
+                <p pgmap="344" id="b344-4">There is no highway of commerce along the northwest­ern coast of Alaska where the seizure in this case was made, and it is a matter of general notoriety that very few vessels, except such as are engaged in illicit trade, sea ot­ter or pelagic seal hunting, frequent this coast. Sea otter hunting is forbidden except as regulated and prescribed by the secretary of the treasury, and the United States at that time was asserting an absolute ownership over the fur seals born and reared on Pribyloff islands, which composed the herd the vessels involved in this case were hunting. This claim, it is true, was not recognized by the Paris tribunal of arbitration, but it did recognize the fact that the seals should be protected in their passage through the very waters where these vessels were then en­gaged in killing them. These facts, to say the least, do not put them in a very favorable light, when found break­ing the customs laws while so engaged. I think the proof sustains the allegations 'of the second count, and that the Coquitlam is subject to forfeiture for violation of section 3109.</p>
+                <p pgmap="344(133) 345(19)" id="b344-5">The third count is specially against the fur sealskins unladen from the schooners therein named on June 19, 1892, near Tonki bay, and also those unladen about the 20th and 21st of June, 1892, between Middleton island and Cape Cleare, and charges a violation of section 2867. It is admitted in the answers that the sealskins unladen at said times and places were received upon the Coquitlam, and were a part of the cargo seized upon her. I have al­ready held that the first unlading was illegal, in consid­ering it in reference to the Coquitlam, and that the seal-­skins then received by her should be forfeited under sec­tion 2867, but I also held the allegations that the unlad­ing from the Oscar &amp; Hattie, Viva, and Faun took place in the collection district of Alaska, or within four leagues of the shore, to be unsupported by the proof.</p>
+                <p pgmap="345(397) 346(112)" id="b345-4">The fourth and last count of the libel charges a viola­tion of sections 2806, 2807, and 2809 of the Revised Stat­utes. These sections provide that no merchandise shall be brought into the United States, from any foreign port, in any vessel, unless the master has on board manifests in writing of the cargo, signed by him, and prescribe, as a penalty for their violation, that the master shall be liable for the value of the cargo not included in such manifest, and that all the cargo not so included, belonging or con­signed to the master, mate, officers, or crew of the vessel, shall be forfeited. In the affirmative allegations of their answer the respondents allege “that the whole of said car­go belonged and was consigned to the master, mate, of­ficers, or crew of said steamship.” It is not claimed by them in their argument that there was a manifest of the cargo of the Coquitlam upon her at the time of seizure, though it is contended that one was not required, as she was not bound to the United States, but to the North Pa­cific ocean. The proofs show there was no manifest, such as the law requires, on her at the time of seizure, and Capt. McLellan testifies that they cleared from Vic­toria without it to save time. The fourth count is direct­ed against the entire cargo found upon the Coquitlam; but, while I have considered the sealskins transferred to her at Tonki bay subject to forfeiture under section 2867, those received from the Oscar &amp; Hattie, Viva, and Faun, off Middleton island, and the merchandise listed in Exhibit A of the libel, if subject to forfeiture at all, must be so under the sections named in this count. The merchandise, of which a large part was dutiable, was shipped from Vic­toria, a foreign port, and was brought therefrom directly into the United States. Under the plain letter of the stat­ute I think it is liable to forfeiture. This merchandise consisted principally of supplies for those engaged in seal­ing, and, according to the testimony of Capt. William Grant, was for any vessel owned in Victoria connected with the sealing business. It also appears from the evi­dence that the schooners from which the Coquitlam trans­ferred sealskins at Tonki bay, within the district of Alas­ka, received from her at the same time large quantities of such supplies. It is held in the case of The Mary, Fed.Cas.No. 9,183, 1 Gall. 208, that the mere act of coming into port without breaking bulk is prima facie fevidence of importation. In The Boston, Id. 239, it is held that when foreign goods are put on bpard a vessel with intent to import them into the United States they are forfeited, under act of March 1, 1809, whether there was an intended violation of law or not. If a vessel vol­untarily arrive at her port of destination with a cargo, it constitutes, in point of law, an importation.</p>
+                <p pgmap="346(310) 347(98)" id="b346-3">But the circumstances connected with the lading of the sealskins are different from those connected with the mer­chandise. Part of the sealskins were taken upon the ves­sel at Tonki bay, within four leagues of our coast, and the others were received on the high seas from the schoon­ers Oscar &amp; Hattie, Viva, and Faun; and it is contended on behalf of respondents that “in no event could the seal-­skins be manifested, or required to be, under these stat­utes, and therefore cannot become subject to their penalty.” If the law is to be strictly construed according to the letter, and the spirit and intention be wholly ignored, then this position is correct, and the skins are not liable to for­feiture. But it appears to me that this construction is too narrow, when tested by the rule given in Ten Cases of Opium, supra, and would render the customs laws nuga­tory. I think where a vessel bound from a foreign port to any port in the United States shall on its passage take in cargo, even on the high seas, and bring such cargo into the United States, to all intents and purposes such cargo is brought from a foreign port. If such construction cannot be maintained, the law can at any time be evaded by vessels leaving foreign ports, and meeting and exchang­ing cargoes on the open seas. It is held in U. S. v. Smith, Fed.Cas.No. 16,319, 2 Blatchf. 127, that under the acts of 1821 and 1823 the penalty is incurred by bringing into the United States, from adjacent territory, goods subject to duty, and neglecting to deliver a manifest thereof at the nearest collector’s office, without regard to the intent of the party. Capt. McLellan testified that after seizure, and after demand for the manifest of the cargo of the Coquitlam had been made, he made out a manifest, and offered it to the officers who made the seizure, but they then refused to look at it. I do not see how this could strengthen the case, for, if the law could be complied with after seizure, it would be done in every case, and no con­victions could ever be had. In U. S. v. 10,000 Cigars, Fed.Cas.No. 16,450, 2 Curt. 436, it is held that forfeiture is not saved by making a manifest after arrival at port, though before it is demanded by a customs officer.</p>
+                <p pgmap="347" id="b347-3">A decree will be entered in accordance with this opin­ion, forfeiting the steamer Coquitlam, her boats, tackle, apparel, furniture, boilers, engines, and cargo to the Unit­ed States.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="329" ORDERLABEL="317" TYPE="page">
+        <fptr FILEID="tiff_00165_0"/>
+        <fptr FILEID="jpg_00165_0"/>
+        <fptr FILEID="alto_00165_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_329.3" BETYPE="IDREF" FILEID="alto_00165_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="330" ORDERLABEL="318" TYPE="page">
+        <fptr FILEID="tiff_00165_1"/>
+        <fptr FILEID="jpg_00165_1"/>
+        <fptr FILEID="alto_00165_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_330.1" BETYPE="IDREF" FILEID="alto_00165_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="331" ORDERLABEL="319" TYPE="page">
+        <fptr FILEID="tiff_00166_0"/>
+        <fptr FILEID="jpg_00166_0"/>
+        <fptr FILEID="alto_00166_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_331.3" BETYPE="IDREF" FILEID="alto_00166_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="332" ORDERLABEL="320" TYPE="page">
+        <fptr FILEID="tiff_00166_1"/>
+        <fptr FILEID="jpg_00166_1"/>
+        <fptr FILEID="alto_00166_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_332.2" BETYPE="IDREF" FILEID="alto_00166_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="333" ORDERLABEL="321" TYPE="page">
+        <fptr FILEID="tiff_00167_0"/>
+        <fptr FILEID="jpg_00167_0"/>
+        <fptr FILEID="alto_00167_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_333.3" BETYPE="IDREF" FILEID="alto_00167_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="334" ORDERLABEL="322" TYPE="page">
+        <fptr FILEID="tiff_00167_1"/>
+        <fptr FILEID="jpg_00167_1"/>
+        <fptr FILEID="alto_00167_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_334.2" BETYPE="IDREF" FILEID="alto_00167_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="335" ORDERLABEL="323" TYPE="page">
+        <fptr FILEID="tiff_00168_0"/>
+        <fptr FILEID="jpg_00168_0"/>
+        <fptr FILEID="alto_00168_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_335.3" BETYPE="IDREF" FILEID="alto_00168_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="336" ORDERLABEL="324" TYPE="page">
+        <fptr FILEID="tiff_00168_1"/>
+        <fptr FILEID="jpg_00168_1"/>
+        <fptr FILEID="alto_00168_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_336.2" BETYPE="IDREF" FILEID="alto_00168_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="337" ORDERLABEL="325" TYPE="page">
+        <fptr FILEID="tiff_00169_0"/>
+        <fptr FILEID="jpg_00169_0"/>
+        <fptr FILEID="alto_00169_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_337.2" BETYPE="IDREF" FILEID="alto_00169_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="338" ORDERLABEL="326" TYPE="page">
+        <fptr FILEID="tiff_00169_1"/>
+        <fptr FILEID="jpg_00169_1"/>
+        <fptr FILEID="alto_00169_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_338.2" BETYPE="IDREF" FILEID="alto_00169_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="339" ORDERLABEL="327" TYPE="page">
+        <fptr FILEID="tiff_00170_0"/>
+        <fptr FILEID="jpg_00170_0"/>
+        <fptr FILEID="alto_00170_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_339.3" BETYPE="IDREF" FILEID="alto_00170_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="340" ORDERLABEL="328" TYPE="page">
+        <fptr FILEID="tiff_00170_1"/>
+        <fptr FILEID="jpg_00170_1"/>
+        <fptr FILEID="alto_00170_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_340.2" BETYPE="IDREF" FILEID="alto_00170_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="341" ORDERLABEL="329" TYPE="page">
+        <fptr FILEID="tiff_00171_0"/>
+        <fptr FILEID="jpg_00171_0"/>
+        <fptr FILEID="alto_00171_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_341.3" BETYPE="IDREF" FILEID="alto_00171_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="342" ORDERLABEL="330" TYPE="page">
+        <fptr FILEID="tiff_00171_1"/>
+        <fptr FILEID="jpg_00171_1"/>
+        <fptr FILEID="alto_00171_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_342.2" BETYPE="IDREF" FILEID="alto_00171_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="343" ORDERLABEL="331" TYPE="page">
+        <fptr FILEID="tiff_00172_0"/>
+        <fptr FILEID="jpg_00172_0"/>
+        <fptr FILEID="alto_00172_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_343.3" BETYPE="IDREF" FILEID="alto_00172_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="344" ORDERLABEL="332" TYPE="page">
+        <fptr FILEID="tiff_00172_1"/>
+        <fptr FILEID="jpg_00172_1"/>
+        <fptr FILEID="alto_00172_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_344.2" BETYPE="IDREF" FILEID="alto_00172_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="345" ORDERLABEL="333" TYPE="page">
+        <fptr FILEID="tiff_00173_0"/>
+        <fptr FILEID="jpg_00173_0"/>
+        <fptr FILEID="alto_00173_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_345.3" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="346" ORDERLABEL="334" TYPE="page">
+        <fptr FILEID="tiff_00173_1"/>
+        <fptr FILEID="jpg_00173_1"/>
+        <fptr FILEID="alto_00173_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_346.2" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="347" ORDERLABEL="335" TYPE="page">
+        <fptr FILEID="tiff_00174_0"/>
+        <fptr FILEID="jpg_00174_0"/>
+        <fptr FILEID="alto_00174_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_347.2" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b339-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.4" BETYPE="IDREF" FILEID="alto_00170_0"/>
+            <area BEGIN="BL_340.1" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.8" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b341-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_341.4" BETYPE="IDREF" FILEID="alto_00171_0"/>
+            <area BEGIN="BL_342.1" BETYPE="IDREF" FILEID="alto_00171_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.4" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            <area BEGIN="BL_346.1" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.5" BETYPE="IDREF" FILEID="alto_00172_1"/>
+            <area BEGIN="BL_345.1" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AO6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.16" BETYPE="IDREF" FILEID="alto_00166_0"/>
+            <area BEGIN="BL_331.17" BETYPE="IDREF" FILEID="alto_00166_0"/>
+            <area BEGIN="BL_332.1" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2_" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_335.4" BETYPE="IDREF" FILEID="alto_00168_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.7" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b342-3" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_342.4" BETYPE="IDREF" FILEID="alto_00171_1"/>
+            <area BEGIN="BL_343.1" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.6" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.5" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.6" BETYPE="IDREF" FILEID="alto_00166_1"/>
+            <area BEGIN="BL_333.1" BETYPE="IDREF" FILEID="alto_00167_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.5" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.4" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b343-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.4" BETYPE="IDREF" FILEID="alto_00172_0"/>
+            <area BEGIN="BL_344.1" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b334-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_334.5" BETYPE="IDREF" FILEID="alto_00167_1"/>
+            <area BEGIN="BL_335.1" BETYPE="IDREF" FILEID="alto_00168_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b334-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_334.4" BETYPE="IDREF" FILEID="alto_00167_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b335-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_335.5" BETYPE="IDREF" FILEID="alto_00168_0"/>
+            <area BEGIN="BL_336.1" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-3" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.4" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            <area BEGIN="BL_347.1" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.5" BETYPE="IDREF" FILEID="alto_00170_1"/>
+            <area BEGIN="BL_341.1" BETYPE="IDREF" FILEID="alto_00171_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b333-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_333.6" BETYPE="IDREF" FILEID="alto_00167_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b333-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_333.7" BETYPE="IDREF" FILEID="alto_00167_0"/>
+            <area BEGIN="BL_334.1" BETYPE="IDREF" FILEID="alto_00167_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b333-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_333.4" BETYPE="IDREF" FILEID="alto_00167_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b333-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_333.5" BETYPE="IDREF" FILEID="alto_00167_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.7" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.8" BETYPE="IDREF" FILEID="alto_00169_0"/>
+            <area BEGIN="BL_338.1" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.5" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.6" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-3" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.4" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.4" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.4" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.4" BETYPE="IDREF" FILEID="alto_00169_1"/>
+            <area BEGIN="BL_339.1" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-3" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.4" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b336-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.5" BETYPE="IDREF" FILEID="alto_00168_1"/>
+            <area BEGIN="BL_337.1" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b336-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.4" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-13" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.13" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-14" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.14" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-15" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.15" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

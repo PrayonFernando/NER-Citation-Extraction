@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0002" publicationstatus="published">
+          <court abbreviation="C.C.D. Or." jurisdiction="United States">United States Circuit Court for the District of Oregon</court>
+          <name abbreviation="The Fideliter">THE FIDELITER</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 4</citation>
+          <citation category="parallel" type="bluebook">Fed.Cas.No.4,755</citation>
+          <decisiondate>1870-05-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:01Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00008_1" MIMETYPE="image/tiff" CHECKSUM="18d95005c583f9ee76d4490cca2b14b3" CHECKSUMTYPE="MD5" SIZE="28082">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00008_1.tif"/>
+      </file>
+      <file ID="tiff_00009_0" MIMETYPE="image/tiff" CHECKSUM="40c592fc33087d9efff5e0e323e3aa74" CHECKSUMTYPE="MD5" SIZE="24828">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00009_0.tif"/>
+      </file>
+      <file ID="tiff_00009_1" MIMETYPE="image/tiff" CHECKSUM="9f37c77a6642a4cbde3a19cddd786190" CHECKSUMTYPE="MD5" SIZE="53580">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00009_1.tif"/>
+      </file>
+      <file ID="tiff_00010_0" MIMETYPE="image/tiff" CHECKSUM="4f94192484fc35b36df277b8e085dd3b" CHECKSUMTYPE="MD5" SIZE="33896">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00010_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00008_1" MIMETYPE="image/jpg" CHECKSUM="60a5cf76ee7ad10cf1fc085745e726cf" CHECKSUMTYPE="MD5" SIZE="138028">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00008_1.jpg"/>
+      </file>
+      <file ID="jpg_00009_0" MIMETYPE="image/jpg" CHECKSUM="42142801d8fd00e2c4901ab3724bbd63" CHECKSUMTYPE="MD5" SIZE="122556">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00009_0.jpg"/>
+      </file>
+      <file ID="jpg_00009_1" MIMETYPE="image/jpg" CHECKSUM="1c5c852d9e1b76bf8800195b8be79660" CHECKSUMTYPE="MD5" SIZE="208080">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00009_1.jpg"/>
+      </file>
+      <file ID="jpg_00010_0" MIMETYPE="image/jpg" CHECKSUM="6dac4e5698a3f2c50018dc28b69dd480" CHECKSUMTYPE="MD5" SIZE="140032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00010_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00008_1" MIMETYPE="text/xml+gzip" CHECKSUM="2a10e1770014e27c8c1c9714fbc835d3" CHECKSUMTYPE="MD5" SIZE="7517">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00008_1.xml.gz"/>
+      </file>
+      <file ID="alto_00009_0" MIMETYPE="text/xml+gzip" CHECKSUM="bee558561dc3cd39d84c675e4231a18c" CHECKSUMTYPE="MD5" SIZE="6296">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00009_0.xml.gz"/>
+      </file>
+      <file ID="alto_00009_1" MIMETYPE="text/xml+gzip" CHECKSUM="4287162ee6a520a7c3eed2c849ded05b" CHECKSUMTYPE="MD5" SIZE="13157">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00009_1.xml.gz"/>
+      </file>
+      <file ID="alto_00010_0" MIMETYPE="text/xml+gzip" CHECKSUM="69733bb03366b5e30698d5e96834d8d5" CHECKSUMTYPE="MD5" SIZE="8730">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00010_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0002" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="4" lastpage="7">
+              <court pgmap="16" id="b16-6">Circuit Court, D. Oregon.</court>
+              <citation pgmap="16" id="b16-4">Fed.Cas.No.4,755</citation>
+              <parties pgmap="16" id="b16-5">THE FIDELITER.<footnotemark>1</footnotemark>
+              </parties>
+              <decisiondate pgmap="16" id="b16-7">May 6, 1870.</decisiondate>
+              <attorneys pgmap="17" id="b17-8">Delos Lake and Milton Andros, for appellant.</attorneys>
+              <attorneys pgmap="17" id="b17-9">Joseph N. Dolph, for appellee.</attorneys>
+              <footnote label="1">
+                <p pgmap="16" id="b16-10">1 Reported by Benjamin Vaughan Abbott, Esq., and by L. S. B. Sawyer, Esq., and here compiled and reprinted by pel-mission.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="17" id="b17-10">SAWYER, Circuit Judge.</author>
+                <p pgmap="17" id="b17-11">The first point made by appellant, and which, if tenable, is fatal, is, that the district court had no jurisdiction over the vessel, and that this court has now no jurisdiction.</p>
+                <p pgmap="17(131) 18(95)" id="b17-12">The ground of the objection is, that the jurisdiction of the district courts of causes of “seizure under the laws of im­post, navigation, and trade of the United States,” under the provisions of section 9 of the judiciary act of 1789 (1 Stat. 77), does not attach unless the property judicially proceeded against is seized prior to such proceeding, either in the dis­trict where the proceeding is had, or on the high seas, and brought into such district. It is insisted that an open, visible seizure by an officer of the government or other person au­thorized by law to seize, must precede the commencement of the judicial proceedings, and that such seizure prior to the fil­ing of the libel must be alleged therein, and proved on the trial. Upon an examination of the authorities, I find this to be the law as settled by the decisions of the federal courts, in­cluding the supreme court of the United States. I shall only cite the authorities, without a restatement of the reasoning upon which the decisions rest: The Ann, 9 Cranch, 289; The Silver Spring, Fed.Cas.No.12,858; The Octavia, Fed.Cas.­No.10,422; The Josefa Segunda, 10 Wheat. 312; Keene v. U. S., 5 Cranch, 305; Conk. Pr. 254; Ben. Adm. 301; Betts, Adm. 68, 69; Gelston v. Hoyt, 3 Wheat. 318; Rule 22, Adm.Rules Sup.Ct.U.S.</p>
+                <p pgmap="18" id="b18-4">That the objection may be taken in this court for the first time is clear, from the same authorities. In the language of Sprague, J., in The Silver Spring [supra] : “This is a ques­tion of the existence of those facts, which will warrant the court in proceeding to decree a forfeiture. In requiring a seizure by the collector, prior to the filing of the libel on the part of the government, the legislature has made that fact a prerequisite to a condemnation, and the plea in this case is like the plea of not guilty to an indictment, and puts in issue all material allegations of the information, and if upon the trial, it does not appear that there was a seizure previously to the filing of the libel, the information is not sustained, and a forfeiture will not be decreed.”</p>
+                <p pgmap="18" id="b18-5">Upon a suggestion that the allegation of seizure is imma­terial and might be omitted, the learned judge said: “But the information would be defective if this allegation were omit­ted.” And this is manifestly so under the decision in The Ann, 9 Cranch, 289. The seizure is a material jurisdictional fact. In the latter case the court say: “It follows from this consideration (that the place of seizure should decide as to the proper tribunal) — that before judicial cognizance can at­tach upon a forfeiture in rem, under the statutes, there must be a seizure; for until a seizure it is impossible to ascertain what is the competent forum. And if so, it must be a good subsisting seizure at the time when the libel or information is filed and allowed. If a-seizure be completely and explicit­ly abandoned, and the property restored by the voluntary act of the party who made the seizure, all rights are gone. Al­though judicial jurisdiction once attached, it is divested by the subsequent proceedings, and it can be revived only by a new seizure.” 9 Cranch 291.</p>
+                <p pgmap="19" id="b19-3">The 22nd rule in admiralty, prescribed by the supreme court, requiring the libel to state the place of seizure, is framed in strict accordance with the law, as thus settled by the courts^ In this case the libel does not allege a seizure. It nowhere appears that there was a seizure, and the libel is therefore substantially and not merely technically defective, in failing to state a material jurisdictional fact, without which the court cannot proceed to decree a forfeiture. See, also, as bearing upon this point, Kempis v. Kennedy, 5 Cranch, 185; Turner v. President, etc., 4 Dall. 8; McCor­mick v. Sullivan, 10 Wheat. 199; Hodgson v. Bowerbank, 5 Cranch, 303; Capron v. Von Noorden, 2 Cranch, 126; Sul­livan v. Fulton Steamboat Co., 6 Wheat. 450; Koing v. Bayard, 1 Pet. 258; Brown v. Keene, 8 Pet. 112; Jackson v. Ashton, 8 Pet. 148. It is conceded also, that there was, in fact, no seizure, so that an amendment would be of no avail. It follows, therefore, that the decree of the district court must be reversed and the libel dismissed.</p>
+                <p pgmap="19" id="b19-4">Decree accordingly.</p>
+                <p pgmap="19" id="An">NOTE. Subsequently the vessel was seized, and a libel for forfei­ture filed in the district court of the district of California. Decree of forfeiture entered. Fed.Cas.No.15,088, post, p. 44.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="16" ORDERLABEL="4" TYPE="page">
+        <fptr FILEID="tiff_00008_1"/>
+        <fptr FILEID="jpg_00008_1"/>
+        <fptr FILEID="alto_00008_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_16.2" BETYPE="IDREF" FILEID="alto_00008_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="17" ORDERLABEL="5" TYPE="page">
+        <fptr FILEID="tiff_00009_0"/>
+        <fptr FILEID="jpg_00009_0"/>
+        <fptr FILEID="alto_00009_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_17.2" BETYPE="IDREF" FILEID="alto_00009_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="18" ORDERLABEL="6" TYPE="page">
+        <fptr FILEID="tiff_00009_1"/>
+        <fptr FILEID="jpg_00009_1"/>
+        <fptr FILEID="alto_00009_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_18.2" BETYPE="IDREF" FILEID="alto_00009_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="19" ORDERLABEL="7" TYPE="page">
+        <fptr FILEID="tiff_00010_0"/>
+        <fptr FILEID="jpg_00010_0"/>
+        <fptr FILEID="alto_00010_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_19.2" BETYPE="IDREF" FILEID="alto_00010_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b17-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_17.12" BETYPE="IDREF" FILEID="alto_00009_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b17-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_17.13" BETYPE="IDREF" FILEID="alto_00009_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.4" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-3" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.3" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b16-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_16.9" BETYPE="IDREF" FILEID="alto_00008_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b16-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_16.8" BETYPE="IDREF" FILEID="alto_00008_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b16-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_16.7" BETYPE="IDREF" FILEID="alto_00008_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b16-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_16.6" BETYPE="IDREF" FILEID="alto_00008_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="An" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.5" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b16-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_16.12" BETYPE="IDREF" FILEID="alto_00008_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b18-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_18.5" BETYPE="IDREF" FILEID="alto_00009_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b17-12" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_17.16" BETYPE="IDREF" FILEID="alto_00009_0"/>
+            <area BEGIN="BL_18.1" BETYPE="IDREF" FILEID="alto_00009_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b18-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_18.4" BETYPE="IDREF" FILEID="alto_00009_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b17-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_17.14" BETYPE="IDREF" FILEID="alto_00009_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b17-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_17.15" BETYPE="IDREF" FILEID="alto_00009_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

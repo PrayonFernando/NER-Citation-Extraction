@@ -1,0 +1,450 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0056" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Bennett v. Forrest">BENNETT v. FORREST</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 407</citation>
+          <citation category="parallel" type="bluebook">69 F. 421</citation>
+          <decisiondate>1895-08-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:05Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00210_0" MIMETYPE="image/tiff" CHECKSUM="eb3bc0a401f91b1b89d29e8e0209495f" CHECKSUMTYPE="MD5" SIZE="32504">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00210_0.tif"/>
+      </file>
+      <file ID="tiff_00210_1" MIMETYPE="image/tiff" CHECKSUM="35c8d719eeb437246913a4224e7d3ce4" CHECKSUMTYPE="MD5" SIZE="36302">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00210_1.tif"/>
+      </file>
+      <file ID="tiff_00211_0" MIMETYPE="image/tiff" CHECKSUM="32c398a1b801946a273a0d14082220ff" CHECKSUMTYPE="MD5" SIZE="53294">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00211_0.tif"/>
+      </file>
+      <file ID="tiff_00211_1" MIMETYPE="image/tiff" CHECKSUM="7803c643967ba4b2aa53fb27b6fbac72" CHECKSUMTYPE="MD5" SIZE="55034">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00211_1.tif"/>
+      </file>
+      <file ID="tiff_00212_0" MIMETYPE="image/tiff" CHECKSUM="8cca2522ca990dcb9794defee458cbb6" CHECKSUMTYPE="MD5" SIZE="53140">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00212_0.tif"/>
+      </file>
+      <file ID="tiff_00212_1" MIMETYPE="image/tiff" CHECKSUM="2ae5f24aebbd6e96995af72bce718ff1" CHECKSUMTYPE="MD5" SIZE="55796">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00212_1.tif"/>
+      </file>
+      <file ID="tiff_00213_0" MIMETYPE="image/tiff" CHECKSUM="dd2db3e0c96e9c26d005742fe2d20546" CHECKSUMTYPE="MD5" SIZE="17472">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00213_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00210_0" MIMETYPE="image/jpg" CHECKSUM="457b3441dcedf4679e79ee3e6c480d91" CHECKSUMTYPE="MD5" SIZE="134931">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00210_0.jpg"/>
+      </file>
+      <file ID="jpg_00210_1" MIMETYPE="image/jpg" CHECKSUM="40fa828f8982c609b2d51f0c7c1efc0d" CHECKSUMTYPE="MD5" SIZE="162380">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00210_1.jpg"/>
+      </file>
+      <file ID="jpg_00211_0" MIMETYPE="image/jpg" CHECKSUM="fdc6d5a26ec6dd688a6ed8e5d57a43a0" CHECKSUMTYPE="MD5" SIZE="195913">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00211_0.jpg"/>
+      </file>
+      <file ID="jpg_00211_1" MIMETYPE="image/jpg" CHECKSUM="b2982a26a15ee2200e88f38ba3505120" CHECKSUMTYPE="MD5" SIZE="208752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00211_1.jpg"/>
+      </file>
+      <file ID="jpg_00212_0" MIMETYPE="image/jpg" CHECKSUM="8985261f096420da985b54f141a8b17f" CHECKSUMTYPE="MD5" SIZE="192420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00212_0.jpg"/>
+      </file>
+      <file ID="jpg_00212_1" MIMETYPE="image/jpg" CHECKSUM="09b4caaecdf64b95f538c23eeb00b269" CHECKSUMTYPE="MD5" SIZE="215964">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00212_1.jpg"/>
+      </file>
+      <file ID="jpg_00213_0" MIMETYPE="image/jpg" CHECKSUM="60a16cac01e054b09841097565de41c9" CHECKSUMTYPE="MD5" SIZE="106471">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00213_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00210_0" MIMETYPE="text/xml+gzip" CHECKSUM="69deaecbf70b5c222ac72c2fa623bd5b" CHECKSUMTYPE="MD5" SIZE="8158">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00210_0.xml.gz"/>
+      </file>
+      <file ID="alto_00210_1" MIMETYPE="text/xml+gzip" CHECKSUM="6019300ec1f2054c10f84cf8f5769e83" CHECKSUMTYPE="MD5" SIZE="8772">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00210_1.xml.gz"/>
+      </file>
+      <file ID="alto_00211_0" MIMETYPE="text/xml+gzip" CHECKSUM="37ac608a68cf4a44af26fb2399933045" CHECKSUMTYPE="MD5" SIZE="12139">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00211_0.xml.gz"/>
+      </file>
+      <file ID="alto_00211_1" MIMETYPE="text/xml+gzip" CHECKSUM="30d8a462d53722e265a54579a89cbbb2" CHECKSUMTYPE="MD5" SIZE="13023">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00211_1.xml.gz"/>
+      </file>
+      <file ID="alto_00212_0" MIMETYPE="text/xml+gzip" CHECKSUM="d9c362242527efabc70e304c03a823c1" CHECKSUMTYPE="MD5" SIZE="12723">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00212_0.xml.gz"/>
+      </file>
+      <file ID="alto_00212_1" MIMETYPE="text/xml+gzip" CHECKSUM="22f9cfcbac1142ca0bf9681f4db55655" CHECKSUMTYPE="MD5" SIZE="12885">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00212_1.xml.gz"/>
+      </file>
+      <file ID="alto_00213_0" MIMETYPE="text/xml+gzip" CHECKSUM="9b5ebbc5d74feb27e3826529b357bf3a" CHECKSUMTYPE="MD5" SIZE="4848">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00213_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0056" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="407" lastpage="413">
+              <court pgmap="419" id="b419-7">District Court, D. Alaska.</court>
+              <citation pgmap="419" id="b419-5">69 F. 421</citation>
+              <parties pgmap="419" id="b419-6">BENNETT v. FORREST.</parties>
+              <decisiondate pgmap="419" id="b419-8">Aug. 24, 1895.</decisiondate>
+              <attorneys pgmap="420" id="b420-6">John G. Heid, for plaintiff.</attorneys>
+              <attorneys pgmap="420" id="b420-7">John F. Malony, for defendant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="420" id="b420-8">TRUITT, District Judge.</author>
+                <p pgmap="420(259) 421(179)" id="Ary">This cáse comes up by writ of review prosecuted by said plaintiff for the purpose of testing the proceedings and judgment of said commission­er’s court in the certain action therein tried in which said Charles Forrest was plaintiff and said William M. Bennett was defendant. In that action the complaint charges that the defendant is indebted to plaintiff on a balance due for wages in the sum of $198 for labor and services performed by plaintiff for defendant, at his special instance and re­quest, between the 3d day of May, 1893, and the 22d day of July, 1893. This complaint was filed August 7, 1893, and on the 16th day of the same month the defendant filed his answer, in which he admits that the plaintiff did per­form labor and services for him at his quartz mill and mine, situated in Silver Bow Basin, Alaska, for' the term of 70 days, at $4 per day, but denies that any settlement in re­lation to the same was ever had, or any payment for said services made, for the reason that, while the plaintiff was so employed'by'defendant in and about said quartz mill and mine, he, in company with others, unlawfully and with­out authority did on or about the 24th day of July, 1893, take all the gold and amalgam, of the value of $1,000, then cleaned up and contained in said quartz mill, and ap­propriated the same to his own use. The answer then al­leges that plaintiff has not accounted to defendant nor paid him for said gold and amalgam, that he is indebted to him for it in said sum, and asks judgment on this coun­terclaim for $1,000, together with costs and disbursements. Plaintiff filed his reply to this answer, by which he puts in issue the allegations of the answer, except that it admits that under an agreement with defendant the plaintiff did re­ceive gold and amalgam of the value of $82, for which sum defendant was at the time duly credited, leaving the balance named in the complaint still due and owing to him from defendant, for which sum judgment is demanded. To this reply the defendant demurred on the ground “that the court has no jurisdiction of the subject of the above-entitled ac­tion, in that the amount in issue and involved herein ex­ceeds the sum of two hundred and fifty dollars.” The rec­ord shows that the court overruled this demurrer, which seems to have been regarded as a motion to dismiss the ac­tion, and gives the following statement of the subsequent proceedings:</p>
+                <blockquote pgmap="421" id="b421-4">“Motion denied on the ground that the defendant is lim­ited in his counterclaim to the jurisdiction of this court in the sum of $250.00, and, if more is claimed by his coun­terclaim than the jurisdiction of this court, his remedy.is by suit against the plaintiff, and cannot be adjudicated by this court. The defendant offers no evidence, ¿nd, after reading and considering the plaintiff’s complaint and all the pleadings in this action, the court finds that defendant is in­debted to the plaintiff in the sum of one hundred and nine­ty-eight dollars. Therefore, it is adjudged and determined that the plaintiff, Charles Forrest, do have and recover from defendant, William M. Bennett, the sum of one hun­dred and ninety-eight dollars damages and five dollars costs.”</blockquote>
+                <p pgmap="421(94) 422(435) 423(32)" id="b421-5">The organic act providing a civil government for Alaska confers upon United States commissioners the civil juris­diction of a justice of the peace in Oregon, and that is limit­ed to $250 in actions for the recovery of money of dam­ages. In the case at bar the plaintiff brought his action reg­ularly by filing his complaint against defendant for a bal­ance due him for wages in the sum of $198. This was clearly within the jurisdiction of the commissioner’s court. A summons was issued and served, and the defendant ap­peared and filed his answer. The court then had jurisdic­tion of the subject-matter of the action and of the person of the defendant. There is no dispute upon these points, but the petition for the writ of review alleges the error of the court to be “that the said U. S. commissioner’s court exceeded its jurisdiction in rendering and entering said judgment in said action; to the injury of the substantial rights of .plaintiff in that said court, determined said action, and rendered a judgment therein against this plaintiff while the issue disclosed and shown by said pleadings in said ac­tion involves a sum exceeding the sum of $250, exclusive of costs.” It will be seen from this that the only point relied upon to sustain this review and reverse the action of the lower court is that the defendant, by filing his answer set­ting up a counterclaim in the sum of $1,000, ousted said court of its jurisdiction, and thereafter it could not pro­ceed any further, but must dismiss the case. The commis­sioner’s court has jurisdiction for the recovery of money or damages when the amount claimed does not exceed $250. To whom must the claim, ref erred to in the statute belong? To the plaintiff, most certainly. The court gets jurisdic­tion by the filing of a complaint and the service of a sum­mons. The machinery of the law is put in motion by the plaintiff, and I know of no way by which the defendant can oust the jurisdiction of the court, except by defense or plea that the title to real property is involved. Hill’s Ann. Code Or. § 909 (882); Sweek v. Galbreath, 11 Or. 516, 6 P. 220. The contention that a defendant can oust the juris­diction of a commissioner’s court, or other court of limited jurisdiction, by pleading a counterclaim which exceeds the amount for which judgment can be obtained in such court, is not supported by precedent or good reason. The case of Corbell v. Childers, 17 Or. 528, 21 P. 670, was an action of replevin originally brought in the county court of Kla­math county, Or., to recover the possession of certain per­sonal property, alleged to belong to the plaintiff therein, of the value of $365. The answer alleged said property to be of the value of $1,060, which was put in issue by the reply. The defendant moved to dismiss the action for the reason that the value of the property was beyond the jurisdiction of the court. The motion was denied, the cause tried by' a jury, and a verdict returned for the plaintiff, upon which judgment was entered by the court. The defendant ap­pealed. The supreme court of Oregon, in passing upon the case, said:</p>
+                <blockquote pgmap="423" id="b423-4">“The motion to dismiss this action in the court below was without merit, and was properly overruled. The plain­tiff claimed in his complaint that the value of the property in’controversy was $365; the defendant, that it was of the value of $1,060. In this class of cases the county court has jurisdiction where the claim or subject of controversy does not exceed the value of $500. Hill’s Ann.Code Or. § 894 [868]. Of course, by simply alleging in the answer that the value was greater than $500, the jurisdiction of the court could not be ousted. The plaintiff’s action on the face of the complaint appeared to be within the jurisdiction of the court. If jurisdiction existed in fact, no difference what the answer contained, the plaintiff had a right to a trial, and in such case the question of jurisdiction could not be summarily determined on motion.”</blockquote>
+                <p pgmap="423(235) 424(419) 425(23)" id="b423-5">Though not directly in point, I think the principle of law announced in this case applies with great force to the one at bar. In an action in a commissioner’s court, a plaintiff is entitled to the benefit of the provisional remedies of ar­rest, attachment, and delivery of personal property claimed in an action; but, if a defendant could oust its jurisdiction and procure the dismissal of the action by trumping up a fictitious counterclaim or inflating the value of the prop­erty involved, these remedies would be delusive and vain. In this case the defendant had the right to set up the coun­terclaim that he did in his answer. “The defendant may set forth, by answer, as many defences and counterclaims as he may have.” Hill’s Ann.Code Or. § 73 (72). It is true that the value of this counterclaim as alleged exceeds the amount for which the court could render judgment, but that fact should not prevent him from setting it up, and if put in issue by the reply, as it was in this case, then he had the right to go to trial, and if his counterclaim had been es­tablished in the amount alleged by the preponderance of evidence it would have defeated the plaintiff’s cause of ac­tion, and judgment to the amount of the jurisdiction of the court — $250—should have been given to defendant. In this action, at least, the defendant would have been com­pelled to waive $552, provided he could have established his full claim; but if he elected to come into that forum with a claim on which he might have maintained a separate ac­tion in another court he must accept the result of what he voluntarily elected to do. The plaintiff disputed defend­ant’s entire counterclaim by his reply, and upon the trial might have defeated it. The court below did not err in overruling defendant’s demurrer or motion to dismiss, though the reasons given by the record for his action do not seem to me to be good. But he need not have assigned any reason therefor at all. The transcript shows that after the decision of the court upon defendant’s demurrer the case came on for trial, and “the defendant offers no evi­dence, and after reading and considering the plaintiff’s com­plaint and all the pleadings in this action the court finds that the defendant is indebted to the plaintiff in the sum of one hundred and ninety-eight dollars.” This, tifien, was a trial of the case. The plaintiff was not required to introduce any evidence to establish his claim for labor performed, for defendant admits in his answer that “plaintiff did per­form labor and services for defendant, at defendant’s quartz mill and mine, situated in Silver Bow Basin, Alaska, for the term of 70 days, at $4 per day.” This would amount to $280, but the plaintiff in his reply admits a pay­ment of $82, which leaves the balance claimed in his com­plaint, and for that amount and costs the commissioner’s court entered judgment. Upon the allegations of the com­plaint and admissions of the answer the plaintiff could rest his case. If the defendant wished to prove his counter­claim, he should have introduced his evidence then; but he offered no evidence, as is affirmatively shown by the rec­ord, and I think the court did right in entering judgment for plaintiff. And even if it be conceded that the dictum of the court in deciding defendant’s motion to dismiss was such as to mislead defendant, and prevent him from offer­ing evidence, that is not assigned as an error by the petition for review, and cannot, therefore, be considered. The Ore­gon Code provides that the petition must describe the de­cision or determination sought to be reviewed with con­venient certainty, and set forth “the errors alleged to have been committed therein.” No substantial error appearing to have been committed by the commissioner’s court in this case, its decision must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="419" ORDERLABEL="407" TYPE="page">
+        <fptr FILEID="tiff_00210_0"/>
+        <fptr FILEID="jpg_00210_0"/>
+        <fptr FILEID="alto_00210_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_419.3" BETYPE="IDREF" FILEID="alto_00210_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="420" ORDERLABEL="408" TYPE="page">
+        <fptr FILEID="tiff_00210_1"/>
+        <fptr FILEID="jpg_00210_1"/>
+        <fptr FILEID="alto_00210_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_420.1" BETYPE="IDREF" FILEID="alto_00210_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="421" ORDERLABEL="409" TYPE="page">
+        <fptr FILEID="tiff_00211_0"/>
+        <fptr FILEID="jpg_00211_0"/>
+        <fptr FILEID="alto_00211_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_421.3" BETYPE="IDREF" FILEID="alto_00211_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="422" ORDERLABEL="410" TYPE="page">
+        <fptr FILEID="tiff_00211_1"/>
+        <fptr FILEID="jpg_00211_1"/>
+        <fptr FILEID="alto_00211_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_422.2" BETYPE="IDREF" FILEID="alto_00211_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="423" ORDERLABEL="411" TYPE="page">
+        <fptr FILEID="tiff_00212_0"/>
+        <fptr FILEID="jpg_00212_0"/>
+        <fptr FILEID="alto_00212_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_423.3" BETYPE="IDREF" FILEID="alto_00212_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="424" ORDERLABEL="412" TYPE="page">
+        <fptr FILEID="tiff_00212_1"/>
+        <fptr FILEID="jpg_00212_1"/>
+        <fptr FILEID="alto_00212_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_424.2" BETYPE="IDREF" FILEID="alto_00212_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="425" ORDERLABEL="413" TYPE="page">
+        <fptr FILEID="tiff_00213_0"/>
+        <fptr FILEID="jpg_00213_0"/>
+        <fptr FILEID="alto_00213_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_425.3" BETYPE="IDREF" FILEID="alto_00213_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ary" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_420.11" BETYPE="IDREF" FILEID="alto_00210_1"/>
+            <area BEGIN="BL_420.12" BETYPE="IDREF" FILEID="alto_00210_1"/>
+            <area BEGIN="BL_421.1" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b420-6" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_420.8" BETYPE="IDREF" FILEID="alto_00210_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b420-7" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_420.9" BETYPE="IDREF" FILEID="alto_00210_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b420-8" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_420.10" BETYPE="IDREF" FILEID="alto_00210_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-5" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.6" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-7" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.8" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-6" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.7" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-4" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.4" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-5" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.5" BETYPE="IDREF" FILEID="alto_00211_0"/>
+            <area BEGIN="BL_422.1" BETYPE="IDREF" FILEID="alto_00211_1"/>
+            <area BEGIN="BL_423.1" BETYPE="IDREF" FILEID="alto_00212_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b423-4" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_423.4" BETYPE="IDREF" FILEID="alto_00212_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b423-5" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_423.5" BETYPE="IDREF" FILEID="alto_00212_0"/>
+            <area BEGIN="BL_424.1" BETYPE="IDREF" FILEID="alto_00212_1"/>
+            <area BEGIN="BL_425.1" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-8" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.9" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

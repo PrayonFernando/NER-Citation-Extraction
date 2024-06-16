@@ -1,0 +1,570 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0086" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Young v. Goldsteen">YOUNG et al. v. GOLDSTEEN</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 566</citation>
+          <citation category="parallel" type="bluebook">97 F. 303</citation>
+          <decisiondate>1899-10-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:09Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00289_1" MIMETYPE="image/tiff" CHECKSUM="1849541408cb0958efdddd501d8c45fa" CHECKSUMTYPE="MD5" SIZE="19684">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00289_1.tif"/>
+      </file>
+      <file ID="tiff_00290_0" MIMETYPE="image/tiff" CHECKSUM="7c526cb6294d6cc5388b52019cd13354" CHECKSUMTYPE="MD5" SIZE="40888">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00290_0.tif"/>
+      </file>
+      <file ID="tiff_00290_1" MIMETYPE="image/tiff" CHECKSUM="9a734cbd2e0c8e5425d162602037648c" CHECKSUMTYPE="MD5" SIZE="55970">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00290_1.tif"/>
+      </file>
+      <file ID="tiff_00291_0" MIMETYPE="image/tiff" CHECKSUM="a7615351837a1f4f96545a7354dd0820" CHECKSUMTYPE="MD5" SIZE="55782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00291_0.tif"/>
+      </file>
+      <file ID="tiff_00291_1" MIMETYPE="image/tiff" CHECKSUM="d90bf9ce46d5b4d20ace70e5ca728b07" CHECKSUMTYPE="MD5" SIZE="55090">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00291_1.tif"/>
+      </file>
+      <file ID="tiff_00292_0" MIMETYPE="image/tiff" CHECKSUM="8bde4144728e80f42a475933ae0fa76a" CHECKSUMTYPE="MD5" SIZE="55290">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00292_0.tif"/>
+      </file>
+      <file ID="tiff_00292_1" MIMETYPE="image/tiff" CHECKSUM="0de74ad156011534e87c676e735049ca" CHECKSUMTYPE="MD5" SIZE="56628">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00292_1.tif"/>
+      </file>
+      <file ID="tiff_00293_0" MIMETYPE="image/tiff" CHECKSUM="7e1e8b157183793dc77a45feb4641178" CHECKSUMTYPE="MD5" SIZE="55274">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00293_0.tif"/>
+      </file>
+      <file ID="tiff_00293_1" MIMETYPE="image/tiff" CHECKSUM="b83602c39a2a65be8551f09539bdbfc5" CHECKSUMTYPE="MD5" SIZE="32360">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00293_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00289_1" MIMETYPE="image/jpg" CHECKSUM="f0c664d32537b02538c4f001493db09b" CHECKSUMTYPE="MD5" SIZE="105995">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00289_1.jpg"/>
+      </file>
+      <file ID="jpg_00290_0" MIMETYPE="image/jpg" CHECKSUM="55aa24d5691fe0c645ef8e25d533eb81" CHECKSUMTYPE="MD5" SIZE="159407">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00290_0.jpg"/>
+      </file>
+      <file ID="jpg_00290_1" MIMETYPE="image/jpg" CHECKSUM="dce86d8aa5c9277eea7b7064dc36f58a" CHECKSUMTYPE="MD5" SIZE="214536">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00290_1.jpg"/>
+      </file>
+      <file ID="jpg_00291_0" MIMETYPE="image/jpg" CHECKSUM="7acb2356080469565adb19a7dd2aa484" CHECKSUMTYPE="MD5" SIZE="203823">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00291_0.jpg"/>
+      </file>
+      <file ID="jpg_00291_1" MIMETYPE="image/jpg" CHECKSUM="be3d1a484f86c554674bd475c3f4a7cf" CHECKSUMTYPE="MD5" SIZE="208190">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00291_1.jpg"/>
+      </file>
+      <file ID="jpg_00292_0" MIMETYPE="image/jpg" CHECKSUM="4845268e659a3e7a3022d8a37ec5685d" CHECKSUMTYPE="MD5" SIZE="198076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00292_0.jpg"/>
+      </file>
+      <file ID="jpg_00292_1" MIMETYPE="image/jpg" CHECKSUM="f6bc3fe754287bb68dc782141bafdd31" CHECKSUMTYPE="MD5" SIZE="216012">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00292_1.jpg"/>
+      </file>
+      <file ID="jpg_00293_0" MIMETYPE="image/jpg" CHECKSUM="5ab3115852463ba31ad8acdc1e149e91" CHECKSUMTYPE="MD5" SIZE="199077">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00293_0.jpg"/>
+      </file>
+      <file ID="jpg_00293_1" MIMETYPE="image/jpg" CHECKSUM="186a0a69b29bd0a3e8c9475623a72c74" CHECKSUMTYPE="MD5" SIZE="142053">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00293_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00289_1" MIMETYPE="text/xml+gzip" CHECKSUM="83f3a2d8900c19a79995ee1429ec1dec" CHECKSUMTYPE="MD5" SIZE="5294">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00289_1.xml.gz"/>
+      </file>
+      <file ID="alto_00290_0" MIMETYPE="text/xml+gzip" CHECKSUM="cf58c2c3c7c2d44fde29c637bd371244" CHECKSUMTYPE="MD5" SIZE="9478">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00290_0.xml.gz"/>
+      </file>
+      <file ID="alto_00290_1" MIMETYPE="text/xml+gzip" CHECKSUM="053dda7f0c524da42926b6a295c611ab" CHECKSUMTYPE="MD5" SIZE="13520">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00290_1.xml.gz"/>
+      </file>
+      <file ID="alto_00291_0" MIMETYPE="text/xml+gzip" CHECKSUM="142594a1a68be70cf350eb500fc3ca84" CHECKSUMTYPE="MD5" SIZE="13479">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00291_0.xml.gz"/>
+      </file>
+      <file ID="alto_00291_1" MIMETYPE="text/xml+gzip" CHECKSUM="ae8f669bb06d9cf4a562815e6875be14" CHECKSUMTYPE="MD5" SIZE="13292">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00291_1.xml.gz"/>
+      </file>
+      <file ID="alto_00292_0" MIMETYPE="text/xml+gzip" CHECKSUM="da6b423c13719b7503f98475e3536dec" CHECKSUMTYPE="MD5" SIZE="13185">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00292_0.xml.gz"/>
+      </file>
+      <file ID="alto_00292_1" MIMETYPE="text/xml+gzip" CHECKSUM="929568cb2e969ad9f2d620bf2f297298" CHECKSUMTYPE="MD5" SIZE="12999">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00292_1.xml.gz"/>
+      </file>
+      <file ID="alto_00293_0" MIMETYPE="text/xml+gzip" CHECKSUM="d2e85f19abe26f5b6bf9a3a66a572423" CHECKSUMTYPE="MD5" SIZE="13189">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00293_0.xml.gz"/>
+      </file>
+      <file ID="alto_00293_1" MIMETYPE="text/xml+gzip" CHECKSUM="8bec1d1541c5c56e8d69cfee683f579d" CHECKSUMTYPE="MD5" SIZE="8465">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00293_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0086" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="566" lastpage="574">
+              <court pgmap="578" id="b578-6">District Court, D. Alaska.</court>
+              <citation pgmap="578" id="b578-4">97 F. 303</citation>
+              <parties pgmap="578" id="b578-5">YOUNG et al. v. GOLDSTEEN.</parties>
+              <decisiondate pgmap="578" id="b578-7">Oct. 18, 1899.</decisiondate>
+              <attorneys pgmap="579" id="b579-5">C. S. Blackett, for plaintiffs Young and others.</attorneys>
+              <attorneys pgmap="579" id="b579-6">A. K. Delaney, for plaintiffs Last Chance Gold-Min. Co. and others.</attorneys>
+              <attorneys pgmap="579" id="b579-7">R. F. Lewis and W. D. McNair, for plaintiffs Lewis and others.</attorneys>
+              <attorneys pgmap="579" id="b579-8">Maloney &amp; Foote and F. D. Kelsey, for plaintiffs Hark­rader and others.</attorneys>
+              <attorneys pgmap="579" id="b579-9">J. H. Cobb and H. H. Fulsom, for defendant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="579" id="b579-10">JOHNSON, District Judge.</author>
+                <p pgmap="579(232) 580(360)" id="b579-11">Thirty-nine persons, including the plaintiff, bring sepa­rate actions against the defendant, the object and purpose in each case being the same. The allegations common to all the pleadings are that the defendant, on the 6th day of February, 1899, made application in the United States land office at Sitka, Alaska, for a patent to the Bonanza lode claim, being United States survey No. 316; that the plaintiffs adversed defendant’s application for patent, and now bring their actions in this court in furtherance of said adverse, as provided by section 2326 of the Revised Stat­utes of the United States (30 U.S.C.A. § 30 and note). Each plaintiff claims to be the owner of one or more town lots situated within the exterior boundaries of the surveyed, platted, and (excepting only the lands embraced within min­eral survey No. 316) patented town site of Juneau, in the district of Alaska. Ownership in these lots is claimed by plaintiffs by virtue of prior appropriation, occupation, im­provement, and continued and undisputed and notorious possession of the nonmineral public lands of the United States in the district of Alaska, either by themselves in per­son or by their grantors. The plaintiffs allege that at the times mentioned in the various bills and complaints as the times when they took possession of these lots the same were-­wholly unoccupied, unimproved, and unclaimed, and were a part of the nonmineral public domain of the United States; that there is no known lode or ledge of rock in place within the exterior boundaries of the Bonanza claim carrying gold or other precious metals. There are also allegations in dif­ferent complaints and bills which are peculiar to those cases, and which it may or may not be necessary to notice here­after. The plaintiffs h^ve not, however, all pursued the same form of action. Mr. Blackett, for the plaintiff in case No. 872 and in case No. 873, has entitled his pleading a “complaint,” and has had a summons at law issued and served; but the pleading itself is in the nature of a bill in equity, and the relief asked is purely equitable. Messrs. McNair and Lewis, in case No. 885, have filed a bill in equity, .while all the remaining cases, brought by Mr. De­laney and by Messrs. Maloney &amp; Foote and F. D. Kelsey, being Nos. 892 to 897, inclusive, and Nos. 906 to 935, in­clusive, are brought on the law side of the court by com­plaints somewhat in the nature of actions in ejectment. However, to all these complaints and bills the defendant has interposed demurrers, all of which were argued and sub­mitted together to the court. Various grounds of demurrer are alleged. But the principal ones, and those common to all the cases, are that the pleadings show that plaintiffs have no title or ownership in the lots in dispute, and are not en­titled to any relief; that the court has no jurisdiction to hear and determine the matters and things alleged, but that the land department has the exclusive jurisdiction of the same; that these actions purport to be brought in support of adverse claims as provided in sections 2325, 2326, Rev. St. (30 U.S.C.A. §§ 29, 30, and notes), and, as such, do not state facts sufficient to constitute a cause of action. The bills in equity are further demurred to because of in­sufficiency in form, and the complaints because the plain­tiff can have no action at law, even if entitled to relief.</p>
+                <p pgmap="580(86) 581(343)" id="b580-4">By far the most serious question to be determined is whether the owner of a town lot in Alaska, unpatented, can adverse the application of one applying for a patent to a lode claim, under section 2325, Rev.St., and maintain any kind of an áction in support of such adverse, under section 2326 of the same statutes. If he cannot, then there is an end of these cases, unless the laws of Oregon, extended to this territory by an act of congress passed May 17, 1884, are sufficient to give relief. Mr. Lindley, in his work on Mines (section 717), holds that adverse proceedings under section 2325, Rev. St., can only be maintained by a rival mineral claimant; and in support of this contention he cites ■the case of Mining Co. v. Campbell, decided by the supreme court of the United States, and reported in 135 U.S. 286-­289, 10 S.Ct. 765. An examination of that case discloses the fact that both parties were claiming title to the land in dispute by virtue of separate patents issued by the United States. The plaintiff claimed through a patent to a lode, and the defendant by virtue of a patent to a placer, claim. The court’s attention was at no time called to the question of the right of a nonmineral claimant to adverse a mineral claimant. The court had in mind only the issues involved in the case before it, and the rights of nonmineral claimants were not one of them. The language of the court immedi­ately preceding that quoted by Mr. Lindley is as follows: “A careful examination of this statute concerning adverse claims leads us to the conviction that it is not intended to affect a party who, before the publication first required, 'had himself gone through all the regular proceedings re­quired to obtain a patent for mineral land from the United States; had established his right to the land claimed by him, and received his patent; and was reposing quietly up­on its sufficiency and validity. It is true that there are no ■very distinctive words declaring what kind of adverse claim is required to be set up as a defense against the party mak­ing publication, but throughout the whole of these sections, and the original statute from which they are transferred to the Revised Statutes, the words ‘claim’ and ‘claimant’ are used. This word is, in all legislation of congress on the subject, used in regard to a claim not yet perfected by a title from the government by way of a patent.”</p>
+                <p pgmap="581(93) 582(342)" id="b581-4">There is nothing in this language tending to limit the pro­visions of section 2325 to rival claimants of mining proper­ty. On the contrary, a fair construction of the text would be that any person having a claim, other than a patented one, adverse to the applicant for patent, might adverse the same. And, keeping in mind the question before the court, the language quoted by Lindley does not detract frbm the conclusion above reached. “It is true that there • are no very distinct words declaring what kind of adverse claim is required to be set up as a defense against the party mak­ing publication,” say the court; and then they say that, because the word “claim,” as used by congress, means some other interest in lands than a patented one, that one claim­ing under a patent cannot adverse. Counsel for defendant lays much stress upon the clause in section 2326 wherein it is provided that the party, after trial, found to be entitled to the possession of the claim, may, by paying five dollars an acre, and complying with other requirements therein, stated, have patent issued to him, etc.; claiming that the language indicates almost conclusively that only mineral claimants are included within the meaning of that section. On this dine counsel asks how, if a nonmineral claimant is permitted to adverse a mineral claimant, and he be ad­judged entitled to the possession of the disputed premises, is he to pay his five dollars an acre, and procure his patent ? We answer, he certainly cannot do so. That part of the section cannot apply to him. Neither can it apply to a placer claimant, where he adverses a lode claimant; nor to the owner of a lot in an incorporated town; nor to the owner of any nonmineral patented lands. Yet in all these cases the right to adverse, and to bring suit in support thereof, is conceded by counsel and sustained by the au­thorities. And Mr. Lindley seems to stand alone among the law writers in his contention, so far as we are able to ascer­tain. Morrison, without giving reasons therefor, says a town lot or other surface right should adverse. Morr.Min. Rights, p. 403. And Barringer &amp; Adams, in their valuable work, “The Law of Mines and Mining” (page 383), say: “The claimant of land as a town lot, * * * and all other claimants whose title does not itself already rise to the dignity of a grant, must, in order to preserve their rights, file adverse claims in the proper land office.”</p>
+                <p pgmap="582(94) 583(56)" id="b582-5">And this, it seems to us, is much more in harmony with the opinion of the supreme court as expressed in Mining Co. v. Campbell, supra, than the deductions advanced by Lindley. And it will be conceded that the right to adverse carries with it the right to maintain an action in any court of competent jurisdiction in support of the same. The last-cited authors assign the following reasons for the de­ductions above stated: “The policy of the law is to require all rights and equities to the premises sought to be pur­chased, and which are adverse to the title upon which the applicant relies, to be adjusted prior to the issuance of the patent. The right to file an adverse claim belongs to every one having a claim to an interest in the land, of whatever kind, and is not affected by the character of the land.”</p>
+                <p pgmap="583(382) 584(129)" id="b583-4">But one adjudicated case directly in point has been cited by either side to this controversy. This was the case of Bonner v. Meikle (C.C.) 82 F. at page 697. This case arose in Nevada, and was decided by Judge Hawley as recently as 1897. The facts before that court were so simi­lar — in truth, so nearly identical — in all their details with the cases at bar that counsel for defendant concedes that, if that decision is binding upon this court, then his demurrer cannot be sustained in so far as it raises the question of the right of a lot holder to adverse an applicant for patent to mineral lands. Without conceding that the decision of that court is binding upon the district court of Alaska, the rea­soning of the judge is admitted to be good, and to meet our full approval. And there is one additional fact in the cases at bar not appearing in the case above referred to, which would, in our opinion, give the plaintiffs the right to ad­verse the application of the defendant, even though we should fail to approve the decision in Bonner v. Meikle. We refer to the peculiar laws governing Alaska. Prior to May 17, 1884, civil law was unknown in Alaska. From the time the United States acquired the territory, in 1867, to the date referred to, the citizens from all parts of the United States had been coming here, locating mining claims, laying out town sites, dividing the same into lots, blocks, streets, and alleys, developing the former and im­proving the latter by the erection of substantial and expen­sive buildings for residence, mercantile, and manufactur­ing purposes. Where the mines were most productive and most numerous, there the towns were most extensive and the improvements most substantial. The one was depend­ent upon the other for existence. The one was as necessary to the development of the new territory as was the other. The title to all these lands, mineral and nonmineral, re­mained in the federal government. Those making the im­provements had a possessory right or title only to the prem­ises occupied and improved by them. The mineral claimant had no greater or different right or title to the premises oc­cüpied. by him than had the nonmineral claimant. This was the condition of land titles' in Alaska when a form of civil government was extended to the territory in 1884. Realiz­ing, apparently, the possibility that those who had risked so much in establishing their homes in this then well-nigh un­known country might not reap the fruits of their labor, and for the purpose of protecting them in their property rights, the congress passed the following law: “That the Indians or other persons in said district shall not be disturbed in the possession of any lands actually in their use or occu­pancy or now claimed by them, but the terms under which such persons may acquire title to such lands is reserved for future legislation by congress.”</p>
+                <p pgmap="584(300) 585(198)" id="b584-3">At the same time the congress extended the laws of the United States relating to mining, and expressly withheld the general land laws of the United States. A construction of this statute by the courts, under the pleadings in these cases, is necessary, beforq the land department can intelli­gently pass upon defendant’s application for a patent, for the reason that the plaintiff in nearly every case alleges peaceable possession of the premises in dispute antedating May 17, 1884, and in every case possession is claimed prior to any claim of the defendant; for I take it that, if the courts should hold that all those plaintiffs who were in pos­session of their respective lots prior to the date referred to are entitled to them as against the defendant, then their de­cision would be binding upon the land department, and all such lots would have to be excluded from the survey before the patent could issue to the defendant. And while this court may not be called upon at this time, under the plead­ings, to construe this law, nevertheless the question neces­sarily arising upon the trial of these causes, and having been raised upon the argument of the demurrers, it is deem­ed to be not inexpedient to pass upon the question now. In our opinion, the language used is susceptible of but one construction; i. e. that congress guarantied to all persons in possession of lands in Alaska at that date the right ulti­mately to acquire a perfect title to the same. If anything less was intended, then the act is wholly meaningless. If congress meant only to guaranty to them undisturbed pos­session for' the time being, reserving the right to ultimately pass such laws as would confiscate the property to the gov­ernment, or give it to another, then the act is worse than a mockery. If the expression, “the terms under which such persons may acquire title,” means anything, it means that at some future date the congress will pass the needful legisla­tion whereby their possession will ripen into perfect own­ership. And until such legislation is enacted the “future legislation” is yet to-be achieved. It is not too broad a construction of the language used to apply it to those who, in good faith, were the first to take up, occupy, and improve the public lands since that date. With the absolute guaran­ty of protection to' those in possession of lands prior to May 17, 1884, and with the laws relating to mineral lands only having been extended to Alaska, all persons had a right to expect protection from congress if they were first in point of time to go upon the public domain, and occupy and improve the same, even though they went there after May 17, 1884. The bills and complaints in the cases at bar set up prior appropriation, continued occupancy, etc., and this is sufficient to put the defendant upon her answer.</p>
+                <p pgmap="585" id="b585-4">Different pleadings set up other grounds of complaint peculiar to their respective claims, — such as that, after the location of the Bonanza lode, the boundaries thereof were so changed as to include the lots in controversy;' that the end line of the Bonanza claim is at the mean high-tide line of Gastineaux Channel; and that, if it shall be so deter­mined, the 300 feet on either side of the lode line would not include certain lots claimed to be within the survey of the Bonanza lode, etc. These and other issues having been tendered, the plaintiffs have a right to be heard upon them in the courts. The demurrer is overruled in so far as it denies the jurisdiction of the court to try the issues raised by the pleadings.</p>
+                <p pgmap="585(100) 586(119)" id="b585-5">The remaining grounds of demurrer go to the form and sufficiency of the respective pleadings, and the demurrers must be sustained on these grounds. Not one of the bills or complaints is sufficient in form and substance. In Doe v. Mining Co. (C.C.) 43 F. 220, it is said “the proceeding di­rected and authorized by section 2326 of the Revised Stat­utes has no relation whatever to the action of ejectment or to any other common-law action.” .The action is purely statutory, with no form prescribed. The relief demanded being generally equitable in its nature, some of the courts go so far as to indicate that the action should always be brought on the equity side of the court. Rutter v. Mining Co. (C.C.) 75 F. 37. But the question of the form of the action to be brought in such cases is settled, once and for all, by the supreme court of the United States in the case of Perego v. Dodge, 163 U.S. 165-168, 16 S.Ct. 974, when the court say: “Apparently an action at law or a suit in equity would lie, as either might be appropriate under the particular circumstances, — an action to recover possession when the plaintiff is out of possession, and a suit to quiet title when he is in possession.”</p>
+                <p pgmap="586" id="b586-4">The plaintiffs in the cases before us are in possession of the premises, and suits in equity to quiet title should have been brought. Such suits have been brought in cases Nos. 872, 873, and 885, but they are deficient in form; the first two in several respects, and the last one in not alleging the citizenship of the defendant, as required by the rules of the supreme court. The remaining thirty-six cases are actions at law, although in each case the plaintiff admits he is in possession of the premises. For the reasons assigned, the demurrers in each case will be sustained.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="578" ORDERLABEL="566" TYPE="page">
+        <fptr FILEID="tiff_00289_1"/>
+        <fptr FILEID="jpg_00289_1"/>
+        <fptr FILEID="alto_00289_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_578.1" BETYPE="IDREF" FILEID="alto_00289_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="579" ORDERLABEL="567" TYPE="page">
+        <fptr FILEID="tiff_00290_0"/>
+        <fptr FILEID="jpg_00290_0"/>
+        <fptr FILEID="alto_00290_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_579.2" BETYPE="IDREF" FILEID="alto_00290_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="580" ORDERLABEL="568" TYPE="page">
+        <fptr FILEID="tiff_00290_1"/>
+        <fptr FILEID="jpg_00290_1"/>
+        <fptr FILEID="alto_00290_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_580.2" BETYPE="IDREF" FILEID="alto_00290_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="581" ORDERLABEL="569" TYPE="page">
+        <fptr FILEID="tiff_00291_0"/>
+        <fptr FILEID="jpg_00291_0"/>
+        <fptr FILEID="alto_00291_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_581.3" BETYPE="IDREF" FILEID="alto_00291_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="582" ORDERLABEL="570" TYPE="page">
+        <fptr FILEID="tiff_00291_1"/>
+        <fptr FILEID="jpg_00291_1"/>
+        <fptr FILEID="alto_00291_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_582.2" BETYPE="IDREF" FILEID="alto_00291_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="583" ORDERLABEL="571" TYPE="page">
+        <fptr FILEID="tiff_00292_0"/>
+        <fptr FILEID="jpg_00292_0"/>
+        <fptr FILEID="alto_00292_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_583.3" BETYPE="IDREF" FILEID="alto_00292_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="584" ORDERLABEL="572" TYPE="page">
+        <fptr FILEID="tiff_00292_1"/>
+        <fptr FILEID="jpg_00292_1"/>
+        <fptr FILEID="alto_00292_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_584.2" BETYPE="IDREF" FILEID="alto_00292_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="585" ORDERLABEL="573" TYPE="page">
+        <fptr FILEID="tiff_00293_0"/>
+        <fptr FILEID="jpg_00293_0"/>
+        <fptr FILEID="alto_00293_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_585.3" BETYPE="IDREF" FILEID="alto_00293_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="586" ORDERLABEL="574" TYPE="page">
+        <fptr FILEID="tiff_00293_1"/>
+        <fptr FILEID="jpg_00293_1"/>
+        <fptr FILEID="alto_00293_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_586.2" BETYPE="IDREF" FILEID="alto_00293_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-10" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.10" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-11" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.11" BETYPE="IDREF" FILEID="alto_00290_0"/>
+            <area BEGIN="BL_580.1" BETYPE="IDREF" FILEID="alto_00290_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-4" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.4" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b584-3" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_584.4" BETYPE="IDREF" FILEID="alto_00292_1"/>
+            <area BEGIN="BL_585.1" BETYPE="IDREF" FILEID="alto_00293_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b585-5" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_585.5" BETYPE="IDREF" FILEID="alto_00293_0"/>
+            <area BEGIN="BL_586.1" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b582-5" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_582.4" BETYPE="IDREF" FILEID="alto_00291_1"/>
+            <area BEGIN="BL_583.1" BETYPE="IDREF" FILEID="alto_00292_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-6" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.6" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b580-4" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_580.4" BETYPE="IDREF" FILEID="alto_00290_1"/>
+            <area BEGIN="BL_581.1" BETYPE="IDREF" FILEID="alto_00291_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b585-4" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_585.4" BETYPE="IDREF" FILEID="alto_00293_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-8" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.8" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-9" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.9" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b581-4" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_581.4" BETYPE="IDREF" FILEID="alto_00291_0"/>
+            <area BEGIN="BL_582.1" BETYPE="IDREF" FILEID="alto_00291_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b583-4" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.4" BETYPE="IDREF" FILEID="alto_00292_0"/>
+            <area BEGIN="BL_584.1" BETYPE="IDREF" FILEID="alto_00292_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-7" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.8" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-6" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.7" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-5" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.6" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-4" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.5" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-5" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.5" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-7" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.7" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

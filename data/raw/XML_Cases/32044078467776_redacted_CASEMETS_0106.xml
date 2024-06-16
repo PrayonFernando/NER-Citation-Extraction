@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0106" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Kjellman v. Rogers">KJELLMAN v. ROGERS</name>
+          <docketnumber>No. 636</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 713</citation>
+          <citation category="parallel" type="bluebook">109 F. 1061</citation>
+          <decisiondate>1901-05-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:10Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00363_0" MIMETYPE="image/tiff" CHECKSUM="aecc5fcf8961205e83295ad2406fcf02" CHECKSUMTYPE="MD5" SIZE="25020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00363_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00363_0" MIMETYPE="image/jpg" CHECKSUM="af200a69157216a624dce3818821fc79" CHECKSUMTYPE="MD5" SIZE="123894">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00363_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00363_0" MIMETYPE="text/xml+gzip" CHECKSUM="a92b16f1290a5f4e4296a02eae8b9392" CHECKSUMTYPE="MD5" SIZE="6497">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00363_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0106" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="713" lastpage="713">
+              <court pgmap="725" id="b725-5">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="725" id="b725-4">No. 636.</docketnumber>
+              <citation pgmap="725" id="b725-2">109 F. 1061</citation>
+              <parties pgmap="725" id="b725-3">KJELLMAN v. ROGERS.</parties>
+              <decisiondate pgmap="725" id="b725-6">May 17, 1901.</decisiondate>
+              <judges pgmap="725" id="b725-8">Before GILBERT, ROSS, and MORROW, Circuit Judges.</judges>
+              <attorneys pgmap="725" id="b725-7">Page, McCutcheon, Harding &amp; Knight, for appellant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="725" id="b725-9">GILBERT, Circuit Judge.</author>
+                <p pgmap="725" id="b725-10">The facts in this case are similar to those in the preced­ing cases of Tornanses v. Melsing, 109 Fed. 710, and Nack­kela v. Webster, ubi supra. The appeal is from an order appointing a receiver of placer-mining claim No. 2 below Discovery, on Anvil creek, a tributary to Snake river, in the Cape Nome mining district, Alaska. Upon the grounds expressed in the opinion in the case of Tornanses v. Mel-­sing, the order appointing a receiver is reversed, and the cause remanded, with instructions to dismiss the bill. See 106 Fed. 775.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="725" ORDERLABEL="713" TYPE="page">
+        <fptr FILEID="tiff_00363_0"/>
+        <fptr FILEID="jpg_00363_0"/>
+        <fptr FILEID="alto_00363_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_725.1" BETYPE="IDREF" FILEID="alto_00363_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-3" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.4" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-2" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.3" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-7" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.8" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-6" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.7" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-5" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.6" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-4" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.5" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-9" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.10" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-8" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.9" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-10" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.11" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

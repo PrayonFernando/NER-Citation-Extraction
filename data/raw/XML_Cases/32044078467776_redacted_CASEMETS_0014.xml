@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0014" publicationstatus="published">
+          <court abbreviation="C.C.D. Or." jurisdiction="United States">United States Circuit Court for the District of Oregon</court>
+          <name abbreviation="Waters v. Campbell">WATERS v. CAMPBELL</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 95</citation>
+          <citation category="parallel" type="bluebook">Fed.Cas.No.17,265</citation>
+          <decisiondate>1877-09-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:01Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00054_0" MIMETYPE="image/tiff" CHECKSUM="7141c8c087332fed7743599642412bde" CHECKSUMTYPE="MD5" SIZE="7378">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00054_0.tif"/>
+      </file>
+      <file ID="tiff_00054_1" MIMETYPE="image/tiff" CHECKSUM="8458431c0e0dddd2f2a310ae9df81b0f" CHECKSUMTYPE="MD5" SIZE="3518">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00054_1.tif"/>
+      </file>
+      <file ID="tiff_00055_0" MIMETYPE="image/tiff" CHECKSUM="35622995112ca8347b9c8c3f3aff4891" CHECKSUMTYPE="MD5" SIZE="3678">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00055_0.tif"/>
+      </file>
+      <file ID="tiff_00055_1" MIMETYPE="image/tiff" CHECKSUM="2eab607de2b32b8dd9d05aa881b43372" CHECKSUMTYPE="MD5" SIZE="3494">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00055_1.tif"/>
+      </file>
+      <file ID="tiff_00056_0" MIMETYPE="image/tiff" CHECKSUM="c4a4cedeac1eabefd19d1412618a86f6" CHECKSUMTYPE="MD5" SIZE="3304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00056_0.tif"/>
+      </file>
+      <file ID="tiff_00056_1" MIMETYPE="image/tiff" CHECKSUM="ec320426313ed3e9eee01d1b46e055a4" CHECKSUMTYPE="MD5" SIZE="16054">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00056_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00054_0" MIMETYPE="image/jpg" CHECKSUM="69943271e8803ac9919ebe8e5f4d3c7f" CHECKSUMTYPE="MD5" SIZE="57129">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00054_0.jpg"/>
+      </file>
+      <file ID="jpg_00054_1" MIMETYPE="image/jpg" CHECKSUM="544998978ee992c4f882c74acf1ff373" CHECKSUMTYPE="MD5" SIZE="49070">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00054_1.jpg"/>
+      </file>
+      <file ID="jpg_00055_0" MIMETYPE="image/jpg" CHECKSUM="43f8801e3c8f86626791992a208b48f4" CHECKSUMTYPE="MD5" SIZE="46289">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00055_0.jpg"/>
+      </file>
+      <file ID="jpg_00055_1" MIMETYPE="image/jpg" CHECKSUM="e620e0fa5e73f9bb048a8c07925003d8" CHECKSUMTYPE="MD5" SIZE="42084">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00055_1.jpg"/>
+      </file>
+      <file ID="jpg_00056_0" MIMETYPE="image/jpg" CHECKSUM="97819033b7b97db972ae869e11d77e71" CHECKSUMTYPE="MD5" SIZE="39963">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00056_0.jpg"/>
+      </file>
+      <file ID="jpg_00056_1" MIMETYPE="image/jpg" CHECKSUM="b0051924db0703bb68df474680f8983d" CHECKSUMTYPE="MD5" SIZE="91909">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00056_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00054_0" MIMETYPE="text/xml+gzip" CHECKSUM="f4d403e5b4eb5a7abf2fab91d6618435" CHECKSUMTYPE="MD5" SIZE="2324">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00054_0.xml.gz"/>
+      </file>
+      <file ID="alto_00054_1" MIMETYPE="text/xml+gzip" CHECKSUM="610d84967f1e696b464f79557eceebb8" CHECKSUMTYPE="MD5" SIZE="880">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00054_1.xml.gz"/>
+      </file>
+      <file ID="alto_00055_0" MIMETYPE="text/xml+gzip" CHECKSUM="85edf88ee0fed6774ee1b0ca201e1b9c" CHECKSUMTYPE="MD5" SIZE="886">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00055_0.xml.gz"/>
+      </file>
+      <file ID="alto_00055_1" MIMETYPE="text/xml+gzip" CHECKSUM="8b4a3e340df7b67bc97576bbb68145c4" CHECKSUMTYPE="MD5" SIZE="879">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00055_1.xml.gz"/>
+      </file>
+      <file ID="alto_00056_0" MIMETYPE="text/xml+gzip" CHECKSUM="5eee96c50f5e32bd4ec49bf680cd699c" CHECKSUMTYPE="MD5" SIZE="911">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00056_0.xml.gz"/>
+      </file>
+      <file ID="alto_00056_1" MIMETYPE="text/xml+gzip" CHECKSUM="657dfd896b072a18af1b858ab31e8340" CHECKSUMTYPE="MD5" SIZE="4319">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00056_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0014" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="95" lastpage="100">
+              <court pgmap="107" id="b107-5">Circuit Court, D. Oregon.</court>
+              <citation pgmap="107" id="b107-3">Fed.Cas.No.17,265</citation>
+              <parties pgmap="107" id="b107-4">WATERS v. CAMPBELL.<footnotemark>1</footnotemark>
+              </parties>
+              <decisiondate pgmap="107" id="b107-6">Sept. 3, 1877.</decisiondate>
+              <judges pgmap="112" id="b112-6">Before FIELD, Circuit Justice, and DEADY, District Judge.</judges>
+              <attorneys pgmap="112" id="b112-4">W. W. Page, H. T. Bingham, and G. W. Yocum, for plaintiff.</attorneys>
+              <attorneys pgmap="112" id="b112-5">W. Upton and Rufus Mallory, for defendant.</attorneys>
+              <footnote label="1">
+                <p pgmap="107" id="b107-14">1 Reported by L. S. B. Sawyer, Esq., and here reprinted by permis­sion. 4 Law &amp; Eq.Rep. 616, contains only a partial report.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="112" id="b112-7">FIELD, Circuit Justice.</author>
+                <p pgmap="112" id="b112-8">We think there was no error in the charge of the court, and that the law of the case was delivered to- the jury cor­rectly. But we think the damages found by the jury exces­sive, and there must be a new trial on that ground, unless the plaintiff consents to remit one thousand five hundred dollars ,of the verdict.</p>
+                <p pgmap="112" id="b112-9">The plaintiff, consenting accordingly, had judgment for two thou­sand dollars.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="107" ORDERLABEL="95" TYPE="page">
+        <fptr FILEID="tiff_00054_0"/>
+        <fptr FILEID="jpg_00054_0"/>
+        <fptr FILEID="alto_00054_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_107.2" BETYPE="IDREF" FILEID="alto_00054_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="108" ORDERLABEL="96" TYPE="page">
+        <fptr FILEID="tiff_00054_1"/>
+        <fptr FILEID="jpg_00054_1"/>
+        <fptr FILEID="alto_00054_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_108.2" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="109" ORDERLABEL="97" TYPE="page">
+        <fptr FILEID="tiff_00055_0"/>
+        <fptr FILEID="jpg_00055_0"/>
+        <fptr FILEID="alto_00055_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_109.3" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="110" ORDERLABEL="98" TYPE="page">
+        <fptr FILEID="tiff_00055_1"/>
+        <fptr FILEID="jpg_00055_1"/>
+        <fptr FILEID="alto_00055_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_110.2" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="111" ORDERLABEL="99" TYPE="page">
+        <fptr FILEID="tiff_00056_0"/>
+        <fptr FILEID="jpg_00056_0"/>
+        <fptr FILEID="alto_00056_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_111.3" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="112" ORDERLABEL="100" TYPE="page">
+        <fptr FILEID="tiff_00056_1"/>
+        <fptr FILEID="jpg_00056_1"/>
+        <fptr FILEID="alto_00056_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_112.2" BETYPE="IDREF" FILEID="alto_00056_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.5" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-4" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.4" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.6" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-3" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.3" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.8" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.5" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-14" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.14" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-9" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.9" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.7" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.6" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-4" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.4" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

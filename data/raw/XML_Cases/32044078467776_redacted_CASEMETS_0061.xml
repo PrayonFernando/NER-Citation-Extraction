@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0061" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="United States ex rel. Taylor v. Clark">UNITED STATES ex rel. TAYLOR v. CLARK</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 428</citation>
+          <citation category="parallel" type="bluebook">76 F. 560</citation>
+          <decisiondate>1896-03-30</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:04Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00220_1" MIMETYPE="image/tiff" CHECKSUM="eb478c884f3c462e8cda332ba09dfbd5" CHECKSUMTYPE="MD5" SIZE="28226">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00220_1.tif"/>
+      </file>
+      <file ID="tiff_00221_0" MIMETYPE="image/tiff" CHECKSUM="bb9adec04101eee9151b4bf2317b8076" CHECKSUMTYPE="MD5" SIZE="42380">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00221_0.tif"/>
+      </file>
+      <file ID="tiff_00221_1" MIMETYPE="image/tiff" CHECKSUM="222e5e1e9f632b8c8a9c38198a940977" CHECKSUMTYPE="MD5" SIZE="54272">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00221_1.tif"/>
+      </file>
+      <file ID="tiff_00222_0" MIMETYPE="image/tiff" CHECKSUM="c0722fe6e8af711cba61cc4f190ab039" CHECKSUMTYPE="MD5" SIZE="52698">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00222_0.tif"/>
+      </file>
+      <file ID="tiff_00222_1" MIMETYPE="image/tiff" CHECKSUM="36c99a6cabb781f6b56c0629d61b4d4e" CHECKSUMTYPE="MD5" SIZE="35402">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00222_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00220_1" MIMETYPE="image/jpg" CHECKSUM="25d43a50569f30cd1f0b66c5d96f789c" CHECKSUMTYPE="MD5" SIZE="143919">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00220_1.jpg"/>
+      </file>
+      <file ID="jpg_00221_0" MIMETYPE="image/jpg" CHECKSUM="ffa9866891b9ada2bb1bae415bee7d87" CHECKSUMTYPE="MD5" SIZE="171841">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00221_0.jpg"/>
+      </file>
+      <file ID="jpg_00221_1" MIMETYPE="image/jpg" CHECKSUM="cc0d7e9c0fc88da0eb2b54b0f9a25fd9" CHECKSUMTYPE="MD5" SIZE="206938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00221_1.jpg"/>
+      </file>
+      <file ID="jpg_00222_0" MIMETYPE="image/jpg" CHECKSUM="ebc974b8171ea60fab96f8bd9775d548" CHECKSUMTYPE="MD5" SIZE="193027">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00222_0.jpg"/>
+      </file>
+      <file ID="jpg_00222_1" MIMETYPE="image/jpg" CHECKSUM="9efc05dbe7f258be719f636124ec9c47" CHECKSUMTYPE="MD5" SIZE="161473">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00222_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00220_1" MIMETYPE="text/xml+gzip" CHECKSUM="18699473f32fa20ffe47cc1ab9988086" CHECKSUMTYPE="MD5" SIZE="7623">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00220_1.xml.gz"/>
+      </file>
+      <file ID="alto_00221_0" MIMETYPE="text/xml+gzip" CHECKSUM="e27013f38c659e2f8238520911effe60" CHECKSUMTYPE="MD5" SIZE="10130">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00221_0.xml.gz"/>
+      </file>
+      <file ID="alto_00221_1" MIMETYPE="text/xml+gzip" CHECKSUM="5cc8e9c7b43ab265d4332e0f66b5bc40" CHECKSUMTYPE="MD5" SIZE="12656">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00221_1.xml.gz"/>
+      </file>
+      <file ID="alto_00222_0" MIMETYPE="text/xml+gzip" CHECKSUM="164c2dee28c74125821df956a70c3866" CHECKSUMTYPE="MD5" SIZE="12550">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00222_0.xml.gz"/>
+      </file>
+      <file ID="alto_00222_1" MIMETYPE="text/xml+gzip" CHECKSUM="23929d890d736ed8f7356701c46f2b7a" CHECKSUMTYPE="MD5" SIZE="9168">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00222_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0061" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="428" lastpage="432">
+              <court pgmap="440" id="b440-8">District Court, D. Alaska.</court>
+              <citation pgmap="440" id="b440-6">76 F. 560</citation>
+              <parties pgmap="440" id="b440-7">UNITED STATES ex rel. TAYLOR v. CLARK.</parties>
+              <decisiondate pgmap="440" id="b440-9">March 30, 1896.</decisiondate>
+              <attorneys pgmap="441" id="b441-6">Burton E. Bennett, U. S. Atty.</attorneys>
+              <attorneys pgmap="441" id="b441-7">Willoughby Clark, in pro. per.</attorneys>
+              <opinion type="majority">
+                <author pgmap="441" id="b441-8">DELANEY, District Judge.</author>
+                <p pgmap="441(292) 442(129)" id="b441-9">This is an application on the part of the defendant to vacate an order of disbarment entered against him in No­vember, 1892. The application is supported by a majority of the resident members of the bar, who have signed a petition to the court in the defendant’s behalf. The pro­ceedings in disbarment were instituted on the motion of the court, and were commenced by an information filed on the 23d day of November, 1892. The information charges that the defendant, being an attorney of this court, had theretofore been indicted, tried, and convicted of larceny as a bailee, by appropriating to his own use certain lawful money of the United States, belonging to another, which had come into the hands of the defendant as bailee. The information further states that after such conviction he was punished by a fine of $60. Upon this information an order of perpetual disbarment was entered against the defendant on the 23d day of November, 1892. The pro­ceedings in the criminal trial are, of course, not subject to review, and this inquiry must be directed to the disbarment proceedings only. In pursuing the inquiry, however, the Criminal Statutes of Oregon must necessarily pass under consideration so far as they relate to the offense upon which the order of disbarment is grounded. By these statutes (Hill’s Code, p. 913, § 1771) it is provided that any bailee who wrongfully converts to his own use the money or property of another, delivered or intrusted to his care or control, shall be deemed guilty of larceny, and punished accordingly. The offense here stated is general­ly called “embezzlement,” and was not known at com­mon law. Its first appearance is in St. 21 Hen. VIII. c. 7, which makes the conversion of property of a master by a servant embezzlement. This statute has undergone an im­mense amount of legislative patchwork, both in England and this country, until finally the offense of conversion or embezzlement by a bailee has been evolved which the Code of Oregon declares to be larceny, and punishable as such. The Code continues in principle the grades of larceny known at common law as grand and petit, and makes the former a felony and the latter a misdemeanor. Hill’s Code, p. 910, § 1763. From the punishment stated in the informa­tion to have been inflicted on the defendant in the criminal trial, the conviction, laid as the ground of disbarment, ap­pears to have been of the lesser offense of misdemeanor.</p>
+                <p pgmap="442(280) 443(171)" id="b442-3">The disbarment proceedings were brought under para­graph I, § 1047, p. 691, Hill’s Code, which provides that an attorney may be suspended or removed “upon his be­ing convicted of any felony, or of a misdemeanor involv­ing moral turpitude.” It is patent upon the face of this statute, that while conviction of any felony will authorize disbarment, conviction of any misdemeanor will not. In the case of a misdemeanor, it must be one involving moral turpitude, and the information to disbar must so state. Moral turpitude is a material ingredient, if not the grava­men, of the misdemeanor of which the attorney must have been convicted before he can be disbarred under the para­graph of the statute cited, and an information in disbar­ment proceedings, which fails to set out that the conviction relied upon to disbar was a felony, or a misdemeanor in­volving moral turpitude, is fatally defective. The rules of pleading, both civil and criminal, are to this effect. The most critical examination of the information in this case fails to disclose any such averment, and, consequently, no valid order or judgment can be based upon it. This ques­tion is not now an open one in this court, as this construc­tion has been placed upon the paragraph mentioned by the supreme court of Oregon in the case of State v. Bannon, reported in 42 P. 869. In that case the information for disbarment as filed by the attorney general alleged that the defendant Bannon, an attorney of that court, was indicted,' tried, and convicted in the district court of the United States for the district of Oregon of the crime of conspiracy' in confederating and combining with others to commit an offense against the United States by unlawfully aiding and abetting the landing of Chinese laborers not lawfully en­titled to enter therein. After citation served, the defendant appeared, and demurred to the information on the ground that it did not state that the crime of which he was convict­ed was a felony, or a misdemeanor involving moral turpi­tude. The court sustained the demurrer in the following-­language: “The information charges the defendant with having been convicted of a misdemeanor, but does not state that any moral turpitude was involved in the unlawful agree­ment, or in any act of the conspirators resulting therefrom. It is not every misdemeanor that authorizes the suspension or removal of an attorney, but only those that involve moral turpitude. This is a material averment in pleading the con­viction of a misdemeanor, without which the information fails to state a cause sufficient to give this court jurisdiction, and hence the demurrer must be sustained.” Id.</p>
+                <p pgmap="443" id="b443-4">It is proper to state here that this decision was rendered on the 23d day of December last, and therefore the judge presiding in this court at the time of the disbarment pro­ceedings could not have had the benefit of it. The decision, however, disposes of this case.</p>
+                <p pgmap="443" id="b443-5">In addition to the provisions of the act of congress of May 17, 1884, extending the laws of Oregon to this dis­trict, the rule is now universal in the United States courts that the decisions of the court of last resort in any state upon the statute law of such state will be followed by the federal courts; and, while this application is addressed to the discretion of the court, and is in the nature of an ap­peal for clemency, upon the record in the disbarment pro­ceedings, and under the Oregon case above cited, there is no room for the exercise of any discretion whatever. The law determines the matter. The order of disbarment is void coram non judice, and the petitioner is entitled to have it vacated as a matter of legal right.</p>
+                <p pgmap="443(48) 444(253)" id="b443-6">The court does not desire to intimate what course might have been pursued were the matter of disbarment now here in the first instance, nor what conclusions might have been reached if this application were open to the exercise of a discretion, further than to remark that transactions, on the part of attorneys, of the character of those alleged against this defendant in the criminal trial, cánnot be tol­erated. Independent of any statutory provisions, and without any criminal conviction, courts possess the inherent power to purge the bar of members who are guilty of un­professional conduct, or who are so devoid of moral char­acter as to render them unfit to participate in the administra­tion of justice; and this court will not hesitate to use that power without fear or favor, should occasion demand it. It is&gt; hoped, however, that no case of this character will ever again arise in this court. Attorneys should never for­get that the profession of the law is the noblest one to which the intellect of man has ever devoted itself. And I trust the gentlemen of the bar, who are here to aid the court in laying the foundations of the legal jurisprudence of this new country, will set for themselves a high standard of pro­fessional conduct, and that all will, to some degree, at least, seek to emulate the examples set by the illustrious men of the profession whose names now comprise a long and bril-­liant list in the history of the bar of England and the United States, and whose lives have shed imperishable luster upon the profession of the law wherever the English tongue is spoken. They who follow their lights cannot go astray. For reasons of law stated, the order of disbarment is set aside.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="440" ORDERLABEL="428" TYPE="page">
+        <fptr FILEID="tiff_00220_1"/>
+        <fptr FILEID="jpg_00220_1"/>
+        <fptr FILEID="alto_00220_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_440.2" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="441" ORDERLABEL="429" TYPE="page">
+        <fptr FILEID="tiff_00221_0"/>
+        <fptr FILEID="jpg_00221_0"/>
+        <fptr FILEID="alto_00221_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_441.2" BETYPE="IDREF" FILEID="alto_00221_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="442" ORDERLABEL="430" TYPE="page">
+        <fptr FILEID="tiff_00221_1"/>
+        <fptr FILEID="jpg_00221_1"/>
+        <fptr FILEID="alto_00221_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_442.2" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="443" ORDERLABEL="431" TYPE="page">
+        <fptr FILEID="tiff_00222_0"/>
+        <fptr FILEID="jpg_00222_0"/>
+        <fptr FILEID="alto_00222_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_443.3" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="444" ORDERLABEL="432" TYPE="page">
+        <fptr FILEID="tiff_00222_1"/>
+        <fptr FILEID="jpg_00222_1"/>
+        <fptr FILEID="alto_00222_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_444.2" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-4" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.4" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-9" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.9" BETYPE="IDREF" FILEID="alto_00221_0"/>
+            <area BEGIN="BL_442.1" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-7" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.7" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-8" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.8" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-6" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.6" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            <area BEGIN="BL_444.1" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-5" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.5" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-9" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.10" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-8" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.9" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-7" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.8" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-6" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.6" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b442-3" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.4" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            <area BEGIN="BL_443.1" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-6" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.7" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

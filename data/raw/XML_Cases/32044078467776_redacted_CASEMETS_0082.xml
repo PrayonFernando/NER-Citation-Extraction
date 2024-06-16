@@ -1,0 +1,757 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0082" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Lewis v. Wells">LEWIS et al. v. WELLS et al.</name>
+          <docketnumber>No. 542</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 542</citation>
+          <citation category="parallel" type="bluebook">85 F. 896</citation>
+          <decisiondate>1898-03-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:08Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00277_1" MIMETYPE="image/tiff" CHECKSUM="9739ef295736e697a08c27729e0e0f2f" CHECKSUMTYPE="MD5" SIZE="5760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00277_1.tif"/>
+      </file>
+      <file ID="tiff_00278_0" MIMETYPE="image/tiff" CHECKSUM="691dbb51f47e42b5c8c7bca670c8b376" CHECKSUMTYPE="MD5" SIZE="15384">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00278_0.tif"/>
+      </file>
+      <file ID="tiff_00278_1" MIMETYPE="image/tiff" CHECKSUM="5084892c723ebd7361e15aeae4b8832d" CHECKSUMTYPE="MD5" SIZE="49658">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00278_1.tif"/>
+      </file>
+      <file ID="tiff_00279_0" MIMETYPE="image/tiff" CHECKSUM="c4994154691eb0bbf4ce1306a379e8a9" CHECKSUMTYPE="MD5" SIZE="53934">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00279_0.tif"/>
+      </file>
+      <file ID="tiff_00279_1" MIMETYPE="image/tiff" CHECKSUM="ecd3e6ccba0be92618c359b9de149576" CHECKSUMTYPE="MD5" SIZE="50808">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00279_1.tif"/>
+      </file>
+      <file ID="tiff_00280_0" MIMETYPE="image/tiff" CHECKSUM="1981dc4aeb7de0ba916e7ee67a0f0b41" CHECKSUMTYPE="MD5" SIZE="53816">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00280_0.tif"/>
+      </file>
+      <file ID="tiff_00280_1" MIMETYPE="image/tiff" CHECKSUM="92c7f27efc02e62972208d0b9dc14a55" CHECKSUMTYPE="MD5" SIZE="54766">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00280_1.tif"/>
+      </file>
+      <file ID="tiff_00281_0" MIMETYPE="image/tiff" CHECKSUM="11e46b4d0ef89025ea15844abd465286" CHECKSUMTYPE="MD5" SIZE="55302">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00281_0.tif"/>
+      </file>
+      <file ID="tiff_00281_1" MIMETYPE="image/tiff" CHECKSUM="415f451ff850252f347fee5a3aa70b99" CHECKSUMTYPE="MD5" SIZE="54458">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00281_1.tif"/>
+      </file>
+      <file ID="tiff_00282_0" MIMETYPE="image/tiff" CHECKSUM="771b2598f31932bce87def98c29a3c8f" CHECKSUMTYPE="MD5" SIZE="54884">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00282_0.tif"/>
+      </file>
+      <file ID="tiff_00282_1" MIMETYPE="image/tiff" CHECKSUM="a48e5694eb8c6feefa85daf6dca01407" CHECKSUMTYPE="MD5" SIZE="55114">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00282_1.tif"/>
+      </file>
+      <file ID="tiff_00283_0" MIMETYPE="image/tiff" CHECKSUM="79fd3a094793ceb09c74c0843aa0d5ea" CHECKSUMTYPE="MD5" SIZE="17104">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00283_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00277_1" MIMETYPE="image/jpg" CHECKSUM="cdd96212d3bc86c2021da9abace06484" CHECKSUMTYPE="MD5" SIZE="57661">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00277_1.jpg"/>
+      </file>
+      <file ID="jpg_00278_0" MIMETYPE="image/jpg" CHECKSUM="de734c2c4d8e619f00ec57005fa508d4" CHECKSUMTYPE="MD5" SIZE="93006">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00278_0.jpg"/>
+      </file>
+      <file ID="jpg_00278_1" MIMETYPE="image/jpg" CHECKSUM="dcbbb90b4ba076ef36a698ec62841086" CHECKSUMTYPE="MD5" SIZE="199176">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00278_1.jpg"/>
+      </file>
+      <file ID="jpg_00279_0" MIMETYPE="image/jpg" CHECKSUM="76feb54f79a3282600630ed40158c21c" CHECKSUMTYPE="MD5" SIZE="198596">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00279_0.jpg"/>
+      </file>
+      <file ID="jpg_00279_1" MIMETYPE="image/jpg" CHECKSUM="75753d788005b1caee677b1d80a88a8c" CHECKSUMTYPE="MD5" SIZE="193348">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00279_1.jpg"/>
+      </file>
+      <file ID="jpg_00280_0" MIMETYPE="image/jpg" CHECKSUM="c07e6a400ff8c4a2879765017db2b9ff" CHECKSUMTYPE="MD5" SIZE="190642">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00280_0.jpg"/>
+      </file>
+      <file ID="jpg_00280_1" MIMETYPE="image/jpg" CHECKSUM="2cfe4794a531f3d61977c1b1386516d7" CHECKSUMTYPE="MD5" SIZE="212592">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00280_1.jpg"/>
+      </file>
+      <file ID="jpg_00281_0" MIMETYPE="image/jpg" CHECKSUM="8d1d7dfb151bc41fa94f711d50eadc5d" CHECKSUMTYPE="MD5" SIZE="202982">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00281_0.jpg"/>
+      </file>
+      <file ID="jpg_00281_1" MIMETYPE="image/jpg" CHECKSUM="40a25dc276590326a6db63f1f4912f10" CHECKSUMTYPE="MD5" SIZE="206953">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00281_1.jpg"/>
+      </file>
+      <file ID="jpg_00282_0" MIMETYPE="image/jpg" CHECKSUM="e303315d04a3158bf3ba5f443a39b54b" CHECKSUMTYPE="MD5" SIZE="196277">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00282_0.jpg"/>
+      </file>
+      <file ID="jpg_00282_1" MIMETYPE="image/jpg" CHECKSUM="2c564718401d820f2f9f30109293b397" CHECKSUMTYPE="MD5" SIZE="214706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00282_1.jpg"/>
+      </file>
+      <file ID="jpg_00283_0" MIMETYPE="image/jpg" CHECKSUM="04231706a2c95468620067e90f8726f5" CHECKSUMTYPE="MD5" SIZE="107533">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00283_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00277_1" MIMETYPE="text/xml+gzip" CHECKSUM="61decb7a91d1192e41b9e50836a10c1a" CHECKSUMTYPE="MD5" SIZE="1766">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00277_1.xml.gz"/>
+      </file>
+      <file ID="alto_00278_0" MIMETYPE="text/xml+gzip" CHECKSUM="1e7273d818d6d8f30e68ccc62045a1aa" CHECKSUMTYPE="MD5" SIZE="4267">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00278_0.xml.gz"/>
+      </file>
+      <file ID="alto_00278_1" MIMETYPE="text/xml+gzip" CHECKSUM="4a545ea9d48ca18b598b7ff001bc3571" CHECKSUMTYPE="MD5" SIZE="12664">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00278_1.xml.gz"/>
+      </file>
+      <file ID="alto_00279_0" MIMETYPE="text/xml+gzip" CHECKSUM="3117e791b30aa7cf01df16418b3e0e06" CHECKSUMTYPE="MD5" SIZE="12784">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00279_0.xml.gz"/>
+      </file>
+      <file ID="alto_00279_1" MIMETYPE="text/xml+gzip" CHECKSUM="6140696ff0e0646c49f8dc8caafd4a32" CHECKSUMTYPE="MD5" SIZE="12570">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00279_1.xml.gz"/>
+      </file>
+      <file ID="alto_00280_0" MIMETYPE="text/xml+gzip" CHECKSUM="6111b3f1bcf93c0ed88c9caea998508b" CHECKSUMTYPE="MD5" SIZE="13149">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00280_0.xml.gz"/>
+      </file>
+      <file ID="alto_00280_1" MIMETYPE="text/xml+gzip" CHECKSUM="d8d350e84343cc9cc7cb3f050e6ba9e7" CHECKSUMTYPE="MD5" SIZE="13175">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00280_1.xml.gz"/>
+      </file>
+      <file ID="alto_00281_0" MIMETYPE="text/xml+gzip" CHECKSUM="8a41a903ea5c55f247a0eb3934fd7653" CHECKSUMTYPE="MD5" SIZE="13416">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00281_0.xml.gz"/>
+      </file>
+      <file ID="alto_00281_1" MIMETYPE="text/xml+gzip" CHECKSUM="e37412a3f52b3376ab85bb976c7efc6f" CHECKSUMTYPE="MD5" SIZE="13224">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00281_1.xml.gz"/>
+      </file>
+      <file ID="alto_00282_0" MIMETYPE="text/xml+gzip" CHECKSUM="77a3989b0d91f019bfa2f123d3d94641" CHECKSUMTYPE="MD5" SIZE="13320">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00282_0.xml.gz"/>
+      </file>
+      <file ID="alto_00282_1" MIMETYPE="text/xml+gzip" CHECKSUM="17d0fb018951fa547a3a7d3d504eb907" CHECKSUMTYPE="MD5" SIZE="13637">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00282_1.xml.gz"/>
+      </file>
+      <file ID="alto_00283_0" MIMETYPE="text/xml+gzip" CHECKSUM="c33c49fd39f2153a59ed4566931ff675" CHECKSUMTYPE="MD5" SIZE="4586">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00283_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0082" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="542" lastpage="553">
+              <court pgmap="554" id="b554-6">District Court, D. Alaska.</court>
+              <docketnumber pgmap="554" id="b554-5">No. 542.</docketnumber>
+              <citation pgmap="554" id="b554-3">85 F. 896</citation>
+              <parties pgmap="554" id="b554-4">LEWIS et al. v. WELLS et al.</parties>
+              <decisiondate pgmap="554" id="b554-7">March 7, 1898.</decisiondate>
+              <attorneys pgmap="555" id="b555-14">Malony &amp; Winn and R. F. Lewis, for plaintiffs.</attorneys>
+              <attorneys pgmap="555" id="b555-15">Crews, Hannum &amp; Ivey, C. S. Blackett, and A. K. Del­aney, for defendants.</attorneys>
+              <opinion type="majority">
+                <author pgmap="555" id="b555-16">JOHNSON, District Judge.</author>
+                <p pgmap="555(76) 556(140)" id="b555-17">On March 1, 1886, one W. M. Bennett owned, by vir­tue of prior occupation and possession, lot 4, and about 27 feet, fronting on Front street, of lot 3, all in block 2 in the town of Juneau, Alaska; also, a narrow strip of land, between high and low water, immediately across Front street, and of the same width, to wit, about 77 feet. March 10, 1886, Bennett sold to Stillman Lewis an undivided half interest in and to said premises. By various conveyances the Stillman Lewis one-half interest became vested in the plaintiffs. September 28, 1893, plaintiff Lewis deeded his quarter interest in 60 feet of' said premises to Phillip Starr. September 30, 1893, Starr made a declaration of trust to Lewis for the quarter interest deeded him two days before. November 24, 1886, Bennett mortgaged his remaining half of the premises to James Winn for $1,027; the note and mortgage bearing interest at the rate of 1 per cent, per month. This note and mortgage, after numerous assign­ments, became the property of George M. Mason, one of the defendants. On October 28, 1892, Bennett made a deed to Mason for the property covered by Mason’s mort­gage; causing the same to be placed in escrow, with the following agreement'and instructions, to wit:</p>
+                <blockquote pgmap="556" id="b556-4">“Escrow Agreement.</blockquote>
+                <blockquote pgmap="556" id="b556-5">“Juneau, Alaska, Oct. 28th, 1892.</blockquote>
+                <blockquote pgmap="556" id="b556-6">“To Messrs. Koehler &amp; James — Gentlemen; You are hereby instructed that upon the payment to- you by Wm. M. Bennett (or any one on his behalf) of the following named sums, and at the times mentioned herein, for the use and benefit of George M. Mason, you deliver to said Wm. M. Bennett the inclosed deed:</blockquote>
+                <blockquote pgmap="556" id="b556-7">“The sum of $23.50, payable on or before Dec. 5th, 1892;</blockquote>
+                <blockquote pgmap="556" id="b556-8">“The sum of $23.50, payable on or before Jan. 5th, 1893;</blockquote>
+                <blockquote pgmap="556" id="b556-9">“ “ “ “ “ “ “ “. Feb. 5th, 1893;</blockquote>
+                <blockquote pgmap="556" id="b556-10">“ “ “ “ “ “ “ “ Mar. 5th, ’93;</blockquote>
+                <blockquote pgmap="556" id="b556-11">“ “ “ “ “ “ “ “ April 5th, ’93;</blockquote>
+                <blockquote pgmap="556" id="b556-12">“ “ “ “ “ “ “ “ May 5th, ’93;</blockquote>
+                <blockquote pgmap="556" id="b556-13">“ “ “ “ “ “ “ “ June 5th, ’93;</blockquote>
+                <blockquote pgmap="556(118) 557(49)" id="b556-14">—and the further sum of $1,198.83, payable on or before July 1st, 1893, — and that upon payment of the last-named sum to you by the said Wm. M. Bennett, and before you pay the same to the said Geo. M. Mason, that you cause the said Geo. M. Mason to cancel and fully satisfy of record a certain mortgage from Wm. M. Bennett to one James Winn, and by the said James Winn assigned to Peter Wy­borg, and by Peter Wyborg assigned to Stillman Lewis, and by the administrator of the estate of Stillman Lewis assigned to George M. Mason; and you are further in­structed that on the failure of said Wm. M. Bennett to meet any of said payments at the times mentioned herein, or for a period of thirty days thereafter, that you deliver the inclosed deed to said George M. Mason, — excepting therefrom the last payment above specified, which shall be made at the time herein specified. W. M. Bennett.</blockquote>
+                <blockquote pgmap="557" id="b557-4">“G. M. Mason.”</blockquote>
+                <p pgmap="557" id="b557-5">Bennett failed to make the last two payments mentioned, and the deed was delivered to Mason, who caused the same to be recorded July 3, 1893, although he did not surrender the note or mortgage, or cause the latter to be canceled. On August 16, 1893, Bennett made another deed to the same property to Phillip Starr; the plaintiff Lewis claiming that the consideration therefor moved from him, and that the deed was made to Starr at his (Lewis’) special request. July 27, 1894, Starr received a deed from Mason for an undivided half interest in and to all of said premises; and, in consideration of this deed, Starr paid $500 in cash, and he and Lewis gave Mason their joint mortgage on their interests in the premises for $1,500. On May 4, 1895, Starr took up this mortgage by making a deed to Mason for an undivided fourth interest in and to the premises. February 10, 1897, Mason deeded this quarter to F. W. Young; and August 4, 1897, plaintiff Lewis bought up this interest in the premises, and took a deed from Young, and a confession of judgment in this action from both Mason and Young. This leaves in issue, and to be determined, the ownership of the undivided one-quarter interest in and to said premises remaining in the name of Phillip Starr.</p>
+                <p pgmap="557(137) 558(225)" id="b557-6">While -there are many incidental questions to be con­sidered, they are only of importance as throwing light up­on the two important points in the case. These are: Was the deed from Bennett to Mason of October 28, 1892, and which was deposited with the escrow agreement, a deed or a mortgage? And did Starr occupy the position of trustee for Lewis, in handling the property? A determination of these two questions must determine the issues in this case. By far the most serious of the two is the former question; for while the courts, through a long line of decisions, have been opposed to the lender obtaining the title to the mort­gaged property in any other manner than by a sale at pub­lic auction, it has also been their policy to encourage settle­ments of accounts and indebtednesses outside of courts, and thus avoid needless expense, and harassing delays and liti­gation. The deed in question is in form an absolute quit­claim deed to one-half of the property in dispute; and unless extraneous evidence can be given to show that it was intended as a security for the payment of money, and therefore a mortgage, further inquiry on this line would be useless. But the doctrine is well settled that courts of equity will look beyond the face of the written instrument, and hear any evidence which will inform the court of the real facts known to the parties at the time the instruments were executed. And this is not in contravention of the gen­eral rule that parol evidence cannot be introduced to con­tradict, vary, or add to the contents of a written instrument. Parol evidence is always admissible to disclose fraud, in whatever form it may be attempted to be practiced. To insist that what was in fact a mortgage was a deed is a fraud, in equity, and will not be tolerated. Chief Justice Marshall, in Conway v. Alexander, 7 Cranch, 238, says: “Having made these observations on the deed itself, the court will proceed to examine those extrinsic circumstances which are to determine whether it was a sale or a mort­gage.”</p>
+                <p pgmap="558" id="b558-4">And in Morris v. Nixon, 1 How. 126, it is stated: “The charge against Nixon is, substantially, a fraudulent attempt to convert that into an absolute sale which was originally meant to be a security for a loan. It is in this view of the case that the evidence is -admitted to ascertain the truth of the transaction, though the deed be absolute on its face.”</p>
+                <p pgmap="558" id="b558-5">So in the case at bar the effect of the bill is to charge Mason with fraudulently attempting to maintain the es­crow contract and deed to be a deed, when in fact it is but a mortgage.</p>
+                <p pgmap="558(71) 559(423) 560(54)" id="b558-6">The right of a mortgagor to sell the mortgaged property, to the mortgagee, and give him a perfect title thereto, can­not be denied, but courts of equity have always looked with suspicion upon such conveyances; and especially is this true where usury is shown to have entered into the con­tract, and where the consideration for the deed is wholly inadequate to the value of the property. Where any con­dition in writing, no matter how ingeniously worded, ac­companies such a deed, it is not only good equity, but the part of wisdom, for courts to hear any testimony which will tend to disclose the real facts attending the transaction. The escrow agreement accompanying the Bennett deed to Mason, and parol evidence, having been admitted in this case, let us examine the facts, and see whether that deed was intended as a conveyance, or as a security for a debt. Mason already held a mortgage on the premises, made by Bennett, to secure the sum of $1,027. It was past due. It was drawing 1 per cent, interest per month. The con­sideration named in the deed was $5, or practically nothing, aside from the amount secured to be paid by the mortgage. The deed was not to be delivered for more than eight 'months after its execution, and only then upon the condition that Bennett should fail to pay the amount secured by the mortgage. Between the time of its execution and its pos­sible delivery, Bennett was to pay Mason interest on the amount due on the mortgage at a usurious rate, — 2 per cent, a month. When the deed was delivered, Mason had it recorded, but did not surrender the note or mortgage to Bennett, or have the latter satisfied of record. Mason did not take possession of the premises purported to have been conveyed. He did not receive or demand any of the rents or profits, although the premises were paying a monthly rental of from $80 to $100. Mason exercised no act of ownership over the property for more than a year after obtaining his deed, nor until the time he sold his in­terest to Starr. Bennett, before executing the deed and escrow agreement, was advised by his attorney that it was, in effect, a mortgage only. He afterwards treated it as such, by putting a notice on record to that effect, and by selling to Lewis an undivided half interest in the property, and delivering him the keys and the possession. Mason says he had been threatening to foreclose the mortgage; that “the agreement was made to stop lawsuits,- — to get the business in shape so when it did come due I could have a deed or the money without foreclosing a mortgage.” He admits receiving 2 per cent, a month on the new contract. Lewis’ testimony, uncontradicted, is that the' property was worth from $6,000 to $8,000; that he bought of Bennett for a good and sufficient consideration, and at once en­tered into possession of the premises, after having received the keys to the buildings from Bennett; that he told Ma­son of his ownership in the property, and finally agreed with Mason, in 1894, to take,up his interest, whatever it was, for $2,000, etc.</p>
+                <p pgmap="560(375) 561(208)" id="b560-4">It is an elementary principle of law that, to constitute a legal contract, there must be an agreement of the minds of the parties, or the consent and harmony of their inten­tions, and they must propose and mean the same thing, and in the same sense. Accepting this as a correct definition, was there, at the time of the making of the escrow agree­ment and deed, such an agreement of the minds of Mason and Bennett, or such a consent and harmony of their in­tentions, as to constitute the transaction a purchase and sale? We think not. Bennett, at least, did not believe he was selling his property. He unquestionably relied upon the advice of his attorney, and believed he was but executing another form of security for the money he owed. Aside from the testimony of his attorney on this point, Bennett’s actions throughout clearly show this. But did Mason himself treat the escrow deed as absolute? Did he believe he had purchased Bennett’s estate in the property out­right? His conduct would not indicate that he did. His whole actions go to show that he believed he still had but a lien upon the property, even after the escrow deed was delivered to him. He was unwilling to rely upon the deed, but retained his old note and mortgage for nearly two years after the escrow deed was executed, and only surrendered them when Starr and Lewis paid him $500, and executed to him a mortgage for $1,500 on the whole of the prop­erty in satisfaction of his claim. From this alone it is clear he relied, not upon his deed, but upon his note and mortgage, for his security. And for nearly two years he made no effort to take possession of the property which he claimed to have bought, nor did he demand or receive any of the rents or profits from the property. This is wholly inconsistent with the theory that he believed he was the owner of the property. Not until after Starr deeded him a quarter interest (May, 1895) did he claim or receive any of the rents, although the premises were constantly rented at from $80 to $100 a month. But one conclusion can be reached, and that is that neither Mason nor Ben­nett believed the escrow deed to be other than an additional security for the debt, with an increased rate of interest. But, accepting the theory of the defense as disclosed by the testimony of Mason, is a court of equity even then bound to hold the escrow deed to be absolute, or can it, in the furtherance of justice, hold it to be but a mortgage ? In Russell v. Southard, 12 How., at page 148, Justice Curtis says: “The deed and memorandum certainly import a sale. The question is if their form and terms were not adopted to veil a transaction different in reality from the appearance it assumed. In examining this' question, it is of great im­portance to inquire whether the consideration was adequate to induce a sale. When no fraud is practiced, and no in­equitable advantage taken of pressing wants, owners of property do not sell it for a consideration manifestly in­adequate; and therefore in the cases on this subject great stress is justly .laid upon the fact that what is alleged to have been the price bore no proportion to the value of the thing said to have been sold.”</p>
+                <p pgmap="561(228) 562(300)" id="b561-4">The testimony in this case discloses the fact that the prop­erty was worth from $6,000 to $8,000. And this testi­mony is strongly corroborated by the following facts which appear: The property, only a,part of which had any im­provements upon it, rented steadily at from $1,000 to $1,-­200 a year, — an amount equal to the consideration price paid by Mason; and Mason and Young, after receiving a deed from Starr to a quarter interest in the property, sold the same to Lewis for $2,000, although the title was any­thing but good. The rental value increased from $80 to even $125 a month; showing that the property, instead of depreciating, was increasing in value. So conceding for the present that Mason paid the amount named in his mort­gage, $1,027, and the interest thereon, for the property, it is grossly inadequate to the value of the same. This, coupled with the necessities of Bennett existing at the time he executed the deed, and the great advantage Mason had and exercised over him by virtue of his mortgage, is suffi­cient, under the authorities, to warrant a court of equity in scrutinizing the whole transaction, if not sufficient to war­rant the court in setting aside the deed, even if it were intended to be such by the parties, and declaring it to be a mortgage only. Did, however, Mason pay anything — give any consideration — for the property? Under the common law and the statutes of many of the states, Bennett had an equity of redemption under the mortgage held by Mason. Under the laws of this district, Bennett still owned the fee, and Mason had only a lien upon the property for the security of his loan; for, under the laws of Oregon, which, by the act of congress of May 17, 1884, became the laws of this district, a mortgage does not convey title, but only creates a lien upon real property. Thompson v. Marshall (Or.) 27 P. 959; Anderson v. Baxter, 4 Or. 105; Sell­wood v. Gray, 11 Or. 534, 5 P. 196. In any event, Ben­nett had a vested and valuable estate in the land, notwith­standing the mortgage. This estate is what Mason claims was extinguished by the escrow deed. If no considera­tion was paid for it, the sale cannot stand in a court of equity. Russell v. Southard, supra. True, the deed re­cites a consideration of $5. No proof was adduced, other than the deed itself, that the $5 was in fact paid. And, even if it were paid, Bennett obligated himself at the same time to pay to Mason -monthly, and did pay for several months, nearly five times the nominal consideration of $5, in the form of usurious interest. We must conclude that Mason gave no consideration for his deed. In view of this fact, then, together with the others hereinbefore referred to, we have no hesitancy in declaring the deed to Mason, with the memoranda, of agreement which accompanied it, to be but a mortgage, or an extension of the mortgage al­ready held by Mason, and not a deed.</p>
+                <p pgmap="562(130) 563(434) 564(372)" id="b562-4">The second question to be considered is, what rela­tion existed between Starr and Lewis with reference to this property? The death of Starr since the commencement of this action has necessarily excluded much testimony which might have shed light upon this feature of the case. Rev. St. § 858 (28 U.S.C.A. § 631 note). But sufficient ap­pears in the record to show: That Starr had been the friend of Stillman Lewis, uncle of plaintiff R. F. Lewis, during his lifetime; was the administrator of the estate of Still-­man Lewis, and after the distribution of the estate be­came the trusted agent of plaintiff Lewis; had the care and custody of his property in Alaska, collected all rents and moneys belonging to his principal, and had the custody and keeping of all books of accounts, etc. That he was an old man, whose habits were so irregular that it’ became necessary to dispense with his services on or about January 1, 1895. That while Starr was thus acting as the agent of plaintiff Lewis, September 28, 1893, Lewis deeded him his interest in that portion of the premises in dispute cov­ered by the building known as the “Arctic Billiard Hall,” and two days later Starr made his declaration of trust, in writing, declaring himself to be the trustee of Lewis for this property. Lewis’ only excuse for deeding to Starr was that he did not care to have in his name property upon. which was conducted the unlawful business of selling in­toxicating liquors. And while counsel for defendants grow somewhat facetious, in their brief, over Lewis’ conscien­tious scruples, they do not claim that Starr held that in­terest in any other capacity than that of trustee. In fact, that interest in the property is not in controversy, and a re­cital of these facts is only of importance as shedding light upon the actions of the parties in their transactions with the Bennett interest. On August 16, 1893, Bennett made a deed to Starr for an undivided half of the property in dis­pute. The deed made by Bennett to Mason October 28, 1892, having now been declared to be but a mortgage which Mason had not foreclosed, Bennett had a" right to make this deed to Starr; and by it he conveyed the title to his half interest in the property, subject to Mason’s mort­gage lien. If Starr held this interest in trust for Lewis, this case is disposed of, and plaintiffs must recover, provided no innocent third person has rights which intervene. All of the testimony in the case upon this point shows that the consideration for this deed moved from Lewis, and no part of it from Starr. Indeed, we think the defendants make no contention to the contrary. Lewis gives the same reason for having the deed made to Starr that-he gave for having himself deeded to Starr his interest in the premises covered by the saloon building. From the testimony of both Lewis and Heid it appears that Lewis himself drew the deed from Bennett to Starr, paid the entire consideration, which con­sisted of $125 in money, and the release of certain claims held by Lewis against Bennett, and himself caused the deed to be placed on record. Under these facts, a resulting trust was created, whereby Starr became the trustee of Lewis, and held the property as such. “If A. buys land with his own money, or gives his note, and takes a deed to B., it is held that a trust results to A.” 2 Washb.Real Prop.(5th Ed.) p. 511, § 15, and cases cited. At this time, then, Starr held in trust for Lewis an undivided three-­fourths of the property in dispute, and the remaining fourth stood in the name of plaintiff Anthony. This practically disposes of the case; for, even though Mason bought of Starr innocently, and without any knowledge of the trust relationship which existed, — which we do not believe pos­sible, — still the plaintiffs are not precluded from recovering from Starr or his representatives, and the quarter interest deeded to Mason by Starr has been wiped out by pur­chase by Lewis; and when Starr attempted to purchase Mason’s interest in the property, in July, 1894, Mason had nothing to sell but a mortgage lien. Even this Starr did not succeed in purchasing. True, he paid $500 to Ma­son with that end in view, and that amount Lewis must make good to the estate. And even'though Mason’s inter­est had in fact been bought by Starr, by the payment of the $500, and his deed to a fourth interest in the prop­erty, yet Starr’s relations to Lewis, as trustee, were such that the law would not suffer him to benefit by a breach of his trust, and the sale of the property of his cestui que. Counsel for defendants maintain that it is not reasonable that Starr would be willing to buy a half interest in the property, and give it to Lewis, in consideration that he (Starr) should receive half the rents and profits of the property during his natural life. But it is not only a fact that Mason did not own a half or any interest which he could sell, but that Starr, Lewis, and even Mason, believed that he had no such interest in the property; and it is not unreasonable that Starr should be willing to invest $2,000 in a property that would return him at least $600 annually upon his investment during the remainder of his life.</p>
+                <p pgmap="564(71) 565(94)" id="b564-4">It only remains to determine and declare an accounting between the parties. There has been some testimony tend­ing to discredit some of the accounts found in the books kept by Starr, but we are disposed to accept them as cor­rect. Starr’s employment by Lewis terminated January 1, 1895; but the property has been in his possession and that of his representatives from that time to the date of appoint­ing a receiver, August 10, 1897. The defendants must ac­count to the plaintiffs for the rents during these 2 years and 8^3 months at the rate of $100 a month; that being the amount, as shown by the evidence, for which the property has been rented. There has been some testimony indicating that Starr made improvements upon or about the premises, but there is nothing before the court to show the value of these improvements, and therefore nothing can be allowed. Judgment will be entered for the plaintiffs in accordance with this opinion.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="554" ORDERLABEL="542" TYPE="page">
+        <fptr FILEID="tiff_00277_1"/>
+        <fptr FILEID="jpg_00277_1"/>
+        <fptr FILEID="alto_00277_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_554.1" BETYPE="IDREF" FILEID="alto_00277_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="555" ORDERLABEL="543" TYPE="page">
+        <fptr FILEID="tiff_00278_0"/>
+        <fptr FILEID="jpg_00278_0"/>
+        <fptr FILEID="alto_00278_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_555.2" BETYPE="IDREF" FILEID="alto_00278_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="556" ORDERLABEL="544" TYPE="page">
+        <fptr FILEID="tiff_00278_1"/>
+        <fptr FILEID="jpg_00278_1"/>
+        <fptr FILEID="alto_00278_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_556.3" BETYPE="IDREF" FILEID="alto_00278_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="557" ORDERLABEL="545" TYPE="page">
+        <fptr FILEID="tiff_00279_0"/>
+        <fptr FILEID="jpg_00279_0"/>
+        <fptr FILEID="alto_00279_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_557.3" BETYPE="IDREF" FILEID="alto_00279_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="558" ORDERLABEL="546" TYPE="page">
+        <fptr FILEID="tiff_00279_1"/>
+        <fptr FILEID="jpg_00279_1"/>
+        <fptr FILEID="alto_00279_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_558.2" BETYPE="IDREF" FILEID="alto_00279_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="559" ORDERLABEL="547" TYPE="page">
+        <fptr FILEID="tiff_00280_0"/>
+        <fptr FILEID="jpg_00280_0"/>
+        <fptr FILEID="alto_00280_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_559.3" BETYPE="IDREF" FILEID="alto_00280_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="560" ORDERLABEL="548" TYPE="page">
+        <fptr FILEID="tiff_00280_1"/>
+        <fptr FILEID="jpg_00280_1"/>
+        <fptr FILEID="alto_00280_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_560.2" BETYPE="IDREF" FILEID="alto_00280_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="561" ORDERLABEL="549" TYPE="page">
+        <fptr FILEID="tiff_00281_0"/>
+        <fptr FILEID="jpg_00281_0"/>
+        <fptr FILEID="alto_00281_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_561.3" BETYPE="IDREF" FILEID="alto_00281_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="562" ORDERLABEL="550" TYPE="page">
+        <fptr FILEID="tiff_00281_1"/>
+        <fptr FILEID="jpg_00281_1"/>
+        <fptr FILEID="alto_00281_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_562.2" BETYPE="IDREF" FILEID="alto_00281_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="563" ORDERLABEL="551" TYPE="page">
+        <fptr FILEID="tiff_00282_0"/>
+        <fptr FILEID="jpg_00282_0"/>
+        <fptr FILEID="alto_00282_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_563.3" BETYPE="IDREF" FILEID="alto_00282_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="564" ORDERLABEL="552" TYPE="page">
+        <fptr FILEID="tiff_00282_1"/>
+        <fptr FILEID="jpg_00282_1"/>
+        <fptr FILEID="alto_00282_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_564.2" BETYPE="IDREF" FILEID="alto_00282_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="565" ORDERLABEL="553" TYPE="page">
+        <fptr FILEID="tiff_00283_0"/>
+        <fptr FILEID="jpg_00283_0"/>
+        <fptr FILEID="alto_00283_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_565.3" BETYPE="IDREF" FILEID="alto_00283_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b556-9" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_556.9" BETYPE="IDREF" FILEID="alto_00278_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b556-8" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_556.8" BETYPE="IDREF" FILEID="alto_00278_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b556-7" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_556.7" BETYPE="IDREF" FILEID="alto_00278_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b556-6" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_556.6" BETYPE="IDREF" FILEID="alto_00278_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b556-5" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_556.5" BETYPE="IDREF" FILEID="alto_00278_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b556-4" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_556.4" BETYPE="IDREF" FILEID="alto_00278_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b560-4" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_560.4" BETYPE="IDREF" FILEID="alto_00280_1"/>
+            <area BEGIN="BL_561.1" BETYPE="IDREF" FILEID="alto_00281_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-4" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.4" BETYPE="IDREF" FILEID="alto_00282_1"/>
+            <area BEGIN="BL_565.1" BETYPE="IDREF" FILEID="alto_00283_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b556-14" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_556.14" BETYPE="IDREF" FILEID="alto_00278_1"/>
+            <area BEGIN="BL_557.1" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b562-4" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_562.4" BETYPE="IDREF" FILEID="alto_00281_1"/>
+            <area BEGIN="BL_563.1" BETYPE="IDREF" FILEID="alto_00282_0"/>
+            <area BEGIN="BL_564.1" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b556-11" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_556.11" BETYPE="IDREF" FILEID="alto_00278_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b556-10" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_556.10" BETYPE="IDREF" FILEID="alto_00278_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b556-13" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_556.13" BETYPE="IDREF" FILEID="alto_00278_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b556-12" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_556.12" BETYPE="IDREF" FILEID="alto_00278_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b561-4" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_561.4" BETYPE="IDREF" FILEID="alto_00281_0"/>
+            <area BEGIN="BL_562.1" BETYPE="IDREF" FILEID="alto_00281_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b558-5" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_558.5" BETYPE="IDREF" FILEID="alto_00279_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b558-4" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_558.4" BETYPE="IDREF" FILEID="alto_00279_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-3" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.3" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b558-6" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_558.6" BETYPE="IDREF" FILEID="alto_00279_1"/>
+            <area BEGIN="BL_559.1" BETYPE="IDREF" FILEID="alto_00280_0"/>
+            <area BEGIN="BL_560.1" BETYPE="IDREF" FILEID="alto_00280_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-5" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.5" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-4" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.4" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-7" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.7" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-6" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.6" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-6" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.6" BETYPE="IDREF" FILEID="alto_00279_0"/>
+            <area BEGIN="BL_558.1" BETYPE="IDREF" FILEID="alto_00279_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-4" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.4" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b555-14" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_555.14" BETYPE="IDREF" FILEID="alto_00278_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b555-15" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_555.15" BETYPE="IDREF" FILEID="alto_00278_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b555-16" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_555.16" BETYPE="IDREF" FILEID="alto_00278_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b555-17" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_555.17" BETYPE="IDREF" FILEID="alto_00278_0"/>
+            <area BEGIN="BL_556.1" BETYPE="IDREF" FILEID="alto_00278_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-5" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.5" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

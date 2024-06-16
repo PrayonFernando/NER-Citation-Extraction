@@ -1,0 +1,780 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0012" publicationstatus="published">
+          <court abbreviation="D. Or." jurisdiction="United States">United States District Court for the District of Oregon</court>
+          <name abbreviation="The Ocean Spray">THE OCEAN SPRAY</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 81</citation>
+          <citation category="parallel" type="bluebook">Fed.Cas.No.10,412</citation>
+          <decisiondate>1876-11-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:01Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00047_0" MIMETYPE="image/tiff" CHECKSUM="ede8da7bf4402b14f5691bc8ec684d76" CHECKSUMTYPE="MD5" SIZE="24068">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00047_0.tif"/>
+      </file>
+      <file ID="tiff_00047_1" MIMETYPE="image/tiff" CHECKSUM="9d8ff8527399eb0f26c410321da2382d" CHECKSUMTYPE="MD5" SIZE="22862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00047_1.tif"/>
+      </file>
+      <file ID="tiff_00048_0" MIMETYPE="image/tiff" CHECKSUM="4b2d48f09bfef771eb511e72ee32e781" CHECKSUMTYPE="MD5" SIZE="53132">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00048_0.tif"/>
+      </file>
+      <file ID="tiff_00048_1" MIMETYPE="image/tiff" CHECKSUM="d3d381c1455137d88177065d6d50740e" CHECKSUMTYPE="MD5" SIZE="53316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00048_1.tif"/>
+      </file>
+      <file ID="tiff_00049_0" MIMETYPE="image/tiff" CHECKSUM="ae121a4d8d40bbbc67a069b6c0b65ed0" CHECKSUMTYPE="MD5" SIZE="49008">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00049_0.tif"/>
+      </file>
+      <file ID="tiff_00049_1" MIMETYPE="image/tiff" CHECKSUM="a1772b14f144fb50a08fd7bf23626190" CHECKSUMTYPE="MD5" SIZE="50998">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00049_1.tif"/>
+      </file>
+      <file ID="tiff_00050_0" MIMETYPE="image/tiff" CHECKSUM="72c1e3488e0966e2cc83a506f61c7e94" CHECKSUMTYPE="MD5" SIZE="52596">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00050_0.tif"/>
+      </file>
+      <file ID="tiff_00050_1" MIMETYPE="image/tiff" CHECKSUM="c568ca624d47d018315d49179ab7ca61" CHECKSUMTYPE="MD5" SIZE="54524">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00050_1.tif"/>
+      </file>
+      <file ID="tiff_00051_0" MIMETYPE="image/tiff" CHECKSUM="3c9e84aee8c193d933921cfd1341cdbc" CHECKSUMTYPE="MD5" SIZE="54022">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00051_0.tif"/>
+      </file>
+      <file ID="tiff_00051_1" MIMETYPE="image/tiff" CHECKSUM="9fc64560d184ca9c4872f92afae5065a" CHECKSUMTYPE="MD5" SIZE="47636">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00051_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00047_0" MIMETYPE="image/jpg" CHECKSUM="0cd680b18f1cf0e5156558f7af7aeb92" CHECKSUMTYPE="MD5" SIZE="117331">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00047_0.jpg"/>
+      </file>
+      <file ID="jpg_00047_1" MIMETYPE="image/jpg" CHECKSUM="f95ca99541c8d38ee01b4bcfe8aef7dc" CHECKSUMTYPE="MD5" SIZE="112892">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00047_1.jpg"/>
+      </file>
+      <file ID="jpg_00048_0" MIMETYPE="image/jpg" CHECKSUM="fa0a38789b74cb2dd574973841db1c6d" CHECKSUMTYPE="MD5" SIZE="185988">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00048_0.jpg"/>
+      </file>
+      <file ID="jpg_00048_1" MIMETYPE="image/jpg" CHECKSUM="0aefba98522307d7d7369348b2267fc5" CHECKSUMTYPE="MD5" SIZE="209490">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00048_1.jpg"/>
+      </file>
+      <file ID="jpg_00049_0" MIMETYPE="image/jpg" CHECKSUM="31c1d1fc722da760615c28a060fbbe91" CHECKSUMTYPE="MD5" SIZE="186639">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00049_0.jpg"/>
+      </file>
+      <file ID="jpg_00049_1" MIMETYPE="image/jpg" CHECKSUM="24c39d36f26148b33f4066df3a89e4e5" CHECKSUMTYPE="MD5" SIZE="196012">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00049_1.jpg"/>
+      </file>
+      <file ID="jpg_00050_0" MIMETYPE="image/jpg" CHECKSUM="37a8e2fc45ed9ae3b449ab142af3ea43" CHECKSUMTYPE="MD5" SIZE="189126">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00050_0.jpg"/>
+      </file>
+      <file ID="jpg_00050_1" MIMETYPE="image/jpg" CHECKSUM="8cd5928259082a21440e6390a6ef3fe4" CHECKSUMTYPE="MD5" SIZE="212753">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00050_1.jpg"/>
+      </file>
+      <file ID="jpg_00051_0" MIMETYPE="image/jpg" CHECKSUM="a9db7f1f7e31a62673084685bea3bda9" CHECKSUMTYPE="MD5" SIZE="198333">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00051_0.jpg"/>
+      </file>
+      <file ID="jpg_00051_1" MIMETYPE="image/jpg" CHECKSUM="4686722d5ad136b29484d815c6168568" CHECKSUMTYPE="MD5" SIZE="184041">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00051_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00047_0" MIMETYPE="text/xml+gzip" CHECKSUM="b993e26cfe31a7246303b63772976486" CHECKSUMTYPE="MD5" SIZE="6409">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00047_0.xml.gz"/>
+      </file>
+      <file ID="alto_00047_1" MIMETYPE="text/xml+gzip" CHECKSUM="d0f5f1c01bb20a602265583c6fbf3305" CHECKSUMTYPE="MD5" SIZE="5605">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00047_1.xml.gz"/>
+      </file>
+      <file ID="alto_00048_0" MIMETYPE="text/xml+gzip" CHECKSUM="82b3e7958e5763d3df2b597ebd4800e9" CHECKSUMTYPE="MD5" SIZE="12980">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00048_0.xml.gz"/>
+      </file>
+      <file ID="alto_00048_1" MIMETYPE="text/xml+gzip" CHECKSUM="bb8a9b17974b22d233d4ebf028cae196" CHECKSUMTYPE="MD5" SIZE="12614">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00048_1.xml.gz"/>
+      </file>
+      <file ID="alto_00049_0" MIMETYPE="text/xml+gzip" CHECKSUM="a4ae133c077975ee1b925ba6a8e4967b" CHECKSUMTYPE="MD5" SIZE="12179">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00049_0.xml.gz"/>
+      </file>
+      <file ID="alto_00049_1" MIMETYPE="text/xml+gzip" CHECKSUM="954c83f2b7eafd2cea07436159194ec2" CHECKSUMTYPE="MD5" SIZE="12363">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00049_1.xml.gz"/>
+      </file>
+      <file ID="alto_00050_0" MIMETYPE="text/xml+gzip" CHECKSUM="fec5cab6f195b936f95df1e164382129" CHECKSUMTYPE="MD5" SIZE="12794">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00050_0.xml.gz"/>
+      </file>
+      <file ID="alto_00050_1" MIMETYPE="text/xml+gzip" CHECKSUM="44edeb8362a2eb32aa105a98aebee7cf" CHECKSUMTYPE="MD5" SIZE="12953">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00050_1.xml.gz"/>
+      </file>
+      <file ID="alto_00051_0" MIMETYPE="text/xml+gzip" CHECKSUM="135429c3bcf5f0ec1be166722aeb193e" CHECKSUMTYPE="MD5" SIZE="12797">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00051_0.xml.gz"/>
+      </file>
+      <file ID="alto_00051_1" MIMETYPE="text/xml+gzip" CHECKSUM="031ac3c396afd250fc396c1cbb82a2fa" CHECKSUMTYPE="MD5" SIZE="11852">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00051_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0012" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="81" lastpage="90">
+              <court pgmap="93" id="b93-6">District Court, D. Oregon.</court>
+              <citation pgmap="93" id="b93-4">Fed.Cas.No.10,412</citation>
+              <parties pgmap="93" id="b93-5">THE OCEAN SPRAY.<footnotemark>1</footnotemark>
+              </parties>
+              <decisiondate pgmap="93" id="b93-7">Nov. 4, 1876.</decisiondate>
+              <attorneys pgmap="94" id="b94-11">Rufus Mallory, for United States.</attorneys>
+              <attorneys pgmap="94" id="b94-12">John W. Whalley and M. W. Fechheimer, for Wilkins et al.</attorneys>
+              <attorneys pgmap="94" id="b94-13">David Goodsell, for Gallagher et al.</attorneys>
+              <footnote label="1">
+                <p pgmap="93" id="b93-12">1 Reported by L. S. B. Sawyer, Esq., and here reprinted by permis­sion.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="94" id="b94-14">DEADY, District Judge.</author>
+                <p pgmap="94" id="b94-15">On March 27, 1876, the schooner Ocean Spray, of eighty-­three tons burden, being duly enrolled and licensed, at San Francisco, for “the fishing trade,” sailed from that port, as appears by her shipping articles, for “Behring Sea or else­where, as the master may direct, on a fishing voyage”— Frank Howell, charterer, and Thomas Butler, master. The crew consisted of the first and second mate, four men before the mast, and a cook. She kept no log and had no manifest. Her cargo consisted of forty-five tons of salt, fourteen bar­rels of beef, two of pork, twelve of flour, forty-two butcher-­knives, six guns, forty-eight water-casks, two fishing-lines and twelve hooks, and ship’s stores, including eleven cases of whisky.</p>
+                <p pgmap="95" id="b95-3">On the twenty-fifth day out, the vessel put into the port of Victoria, V. I., from which place, according to the con­sular certificate, she cleared on April 26 for “Wrangel, Alas­ka, on fishing license from San Francisco, Cal.” At this port some trifling repairs were made to the vessel, and a crew of twenty-four Indians and two interpreters were hired to take seal “in the northern waters.” A whale boat was al­so purchased there, and the vessel provided with some addi­tional stores and goods for the slop-chest, besides seal clubs for killing seal.</p>
+                <p pgmap="95" id="b95-4">On April 27, the schooner proceeded to Neah Bay, W. T., where the master procured three canoes and two spear-heads and staff. From there he sailed northward and made the Aleutian Islands, probably at Ounimak Pass, about June 1. Here he came to anchor for a few days, and supplied the ves­sel with wood and water, and then proceeding in the direc­tion of the Pribylov Islands, Alaska T., came to anchor about ten miles southeast of one of that group, called Sea Otter Isle. Here a canoe was sent ashore with six Indians and the interpreter, Wilkins, under the charge of a Dr. Thatcher, who appears to have had some interest in the adventure, to reconnoiter the ground and ascertain whether there were any persons or seals upon it. On returning, the canoe was lost in a fog, and after being out four or five days, made the island of St. Paul’s, distant about five miles from Sea Otter. The schooner remained off Sea Otter three days, going as near to it as two miles, and sending off two canoes to find the missing party. Then it sailed to St. Paul’s, where the crew of the lost canoe were taken on board. Here it is probable that some disagreement arose between the master, Thatcher and Howell, which resulted in abandoning the voyage and starting homeward. At least, on June 30, the schooner had reached Makouchinskoy Bay, on the north­west side of Ounalaska, and about two hundred and fifty miles southeast of Sea Otter, on her return voyage. There the vessel was boarded by Woods, the deputy collector of the district, and taken to the town of Ounalaska, and there formally seized and taken to Sitka, and thence to this district for trial.</p>
+                <p pgmap="95(21) 96(206)" id="b95-5">The libel of information was filed on August 25, and al­leges two grounds of forfeiture: 1. That the schooner, be­ing duly enrolled and licensed “to carry on the fishing trade for one year,” did proceed on a foreign voyage to the port of Victoria, contrary to section 4337 of the Revised Statutes (46 U.S.C.A. § 278), which provides: “If any vessel, en­rolled or licensed; shall proceed on a foreign voyage, without first giving up her enrollment and license to the collector of the district comprehending the port from whence she is about to proceed on such voyage, and being duly regis­tered by such collector, every such vessel, together with her tackle, apparel and furniture, and the merchandise imported thereon, shall be liable to seizure and forfeiture;” and 2. That in June, 1876, the schooner, “her tackle, apparel and furniture, Thomas Butler, master, was • found engaged in killing fur-seals within the limits of Alaska territory,” con­trary to section 1956 of the Revised Statutes (16 U.S.C.A. § 644 and note), which, among other things, provides: “No person shall kill any * * * fur-seal * * * within the limits of Alaska territory, or in the waters there­of; * * * and all vessels, their tackle; apparel, furni­ture and cargo found engaged in the violation of this section shall be forfeited.”</p>
+                <p pgmap="96" id="b96-5">The answer of the claimant, George Kentfield, to the libel of intervention by the Indians for their wages, admits that the latter were taken on board by the master at Victoria to go “to the islands of the Northern Ocean for the purpose of catching seals;” and avers that during all of said voyage the schooner was under charter to Frank Howell and Jacob Nib­ble, of San Francisco, “for a voyage of six months in the waters along the northern coast of the United States,” in which the claimant had no interest, and during which he had no control of the vessel.</p>
+                <p pgmap="96(94) 97(18)" id="b96-6">This being so, the charterers were the owners pro tempore, and the vessel is responsible for their conduct or that of their master, Butler, in navigating or employing her. But upon the evidence there can be no doubt but that the schooner left San Francisco for the purpose of engaging in killing fur-­seals on and about Sea Otter Isle. The fishing voyage and license therefor were a mere cover for this unlawful purpose.­No fish were taken or attempted to be taken during the voyage, except casually for consumption on board; nor was there any fishing tackle provided, at all adequate to the pur­pose of taking a cargo of fish.</p>
+                <p pgmap="97" id="b97-3">The master went into Victoria for the purpose of procur­ing Indians to take and skin seal and preserve their skins; and the forty-five tons of salt was doubtless provided for that purpose.</p>
+                <p pgmap="97" id="b97-4">But upon the evidence it cannot be said with any cer­tainty that any seals were actually killed by any one on the schooner. No skins were found on board, and altogether it is not probable that any were taken.</p>
+                <p pgmap="97" id="b97-5">After they came upon the seal ground, the enterprise seems to have been abandoned for some reason. In the language of one of the witnesses, the master’s courage seems to have failed him at the last moment. It is quite likely that he feared he would be discovered by the people of the Alaska Fur Company, who must have become aware of the presence of the schooner in that vicinity by reason of the lost canoe coming ashore with its crew at St. Paul’s.</p>
+                <p pgmap="97" id="b97-6">However that may be, to be “found engaged in the viola­tion of this section,” a vessel must be engaged in killing seal; must be employed in the very act which is prohibited and made punishable by it, namely: killing seal. A person cannot be punished under this section for preparing, intend­ing or attempting to kill seal. He must actually kill one contrary to the prohibition. “No person shall kill any * * * fur-seal * * * within the limits of Alaska territory,” etc. Until the deed is done, the locus paenitentice is open to him, and he may abandon the illegal purpose, and avoid the punishment prescribed by the act. So with the vessel. It can only be engaged in violating this section when it is successfully used or employed to accomplish the same result. Upon this charge the libel is not supported by the proof.</p>
+                <p pgmap="97" id="b97-8">As to the other charge, the evidence is satisfactory that, when the master of the schooner left San Francisco, he intended to go into Victoria for the purpose of procuring a crew of Indians, who were expert in the management of canoes at sea, and understood the business of taking seal; and probably to procure any repairs or stores which he might need when there.</p>
+                <p pgmap="98" id="b98-3">But, according to the authorities, this alone was not a proceeding “on a foreign voyage,” contrary to the statute. According to the established construction of section 8 of the act of February 18, 1793 [1 Stat. 308], now section 4337 of the Revised Statutes (43 U.S.C.A. § 278), a vessel licensed for the fishing trade may lawfully touch at a foreign port in the course of her voyage, provided she does not trade there.</p>
+                <p pgmap="98" id="b98-4">Says Mr. Justice Story, in the case of The Three Broth­ers, Fed.Cas.No.14,009: “But, in my judgment, the for­eign voyage intended by the act is where the vessel departs from the United States for a foreign port with an intent there to engage in trade, and without an intent to seek em­ployment in the fisheries.” In Taber v. U. S., Fed.Cas.No.­13,722, Mr. Justice Story also held that a whaling voyage was not “a foreign voyage” within the meaning of the act of 1893 [2 Story, Laws, 883] c. 62 [2 Stat. 203, c. 9], con­cerning the clearance of vessels bound on a foreign voyage. In this case, the facts were: The Isabella sailed from New Bedford, in 1834, on a whaling voyage, and did not return until 1838. During her absence she touched at foreign ports for supplies, but was employed exclusively in the whale fish­ery.</p>
+                <p pgmap="98(175) 99(16)" id="b98-6">The object of the law is manifest. It is to prevent ves­sels engaged in the coasting trade and fisheries from be­coming the medium of the introduction of smuggled goods, under the security and cover of their license. The Friend­ship, Fed.Cas.No.5,124. But if a vessel engaged in the fisheries only touches at a foreign port, in the course of her voyage, for supplies, or repairs, or for any other purpose than trade, she is not deemed to be engaged in a foreign voyage. The fisheries on our northwest coast are not so well known or long established as those in the northeast, but they are every year growing in importance, and many ves­sels are engaged in gathering cheap and wholesome food from this never-failing harvest of the sea. The port of Victoria lies immediately on the route to the fishing grounds, and it is. natural and convenient that vessels bound to and from them should touch there for many purposes other than foreign trade; and in so doing, according to the established construction of the act and the reason of the matter, they do not violate this section.</p>
+                <p pgmap="99" id="b99-4">The information is therefore dismissed; but the vessel having proceeded to the waters of Alaska under a license to engage in the fisheries, but in fact for the purpose of taking fur-seal there, contrary to law, and being found there and seized under very suspicious circumstances, a certificate of probable cause will be allowed.</p>
+                <p pgmap="99" id="b99-5">Charles F. Wilkins, Caspeo W. Lindsey and twenty-four others have filed a libel of intervention to enforce a claim for wages as sealers on the voyage from Victoria to Sea Otter Isle, and thence to this port. The twenty-four others are the British Columbian Indians who were shipped at Victoria to take seal in the northern waters; and Wilkins and Lindsey were employed and shipped at the same time as interpreters, the former at $55 per month, and the latter, together with the Indians, at $30 per month. This claim is resisted on the ground that the libellants were not shipped and did not serve as mariners, and their employment as sealers did not give them a lien upon the vessel for their wages.</p>
+                <p pgmap="99" id="b99-6">Neither the charterer nor the master appear in the case as claimants or witnesses. Their absence is not explained, and it is to be presumed that their testimony would not be un­favorable to the claims of these libellants.</p>
+                <p pgmap="99(186) 100(27)" id="b99-7">The facts of the case appear to be that the Indians were shipped with the consent of Dr. Wood, the Indian agent at Victoria, and upon an agreement with him for them. By this they agreed to ship to the northern waters to take seal, and to lend a hand on board whenever they were wanted, for the sum of $30 per month until they returned to Victoria, when they were to be paid off and discharged. They went on board on April 27, 1876, and remained with the vessel until they were put ashore at this port by the marshal on August 31. During that time, and especially upon the out­ward voyage, when head winds prevailed, they helped make and reef sail, heave the anchor and clear decks, but did not stand watch. They also were employed in procuring drift­wood and water for the use of the vessel. They messed by themselves in the hold of the vessel, and food was furnished them, and cooked by one of their number. They were under the control of the officers of the schooner, but communica­tion with them was generally had through the medium of the interpreters. The smaller portion of them could under­stand and speak English enough for ordinary conversation.</p>
+                <p pgmap="100" id="b100-4">No case has been cited upon the point of whether a sealer is to be considered a mariner, and therefore entitled to a lien upon the vessel for his wages. It is admitted that such per­sons as surgeons, carpenters, cooks, stewards and cabin-boys are considered mariners. But it is claimed that this is so for the reason that these persons all aid in the navigation and preservation of the vessel. But I think the better reason is found in the fact that they are co-laborers. in the leading purpose of the voyage. Upon this ground, even if it be ad­mitted that the libellants shipped and served as sealers only, they ought to be deemed mariners. They were certainly co-­laborers, and the principal laborers, in the only purpose of this voyage — the taking of fur-seal. The seamen, who have an undoubted lien upon the vessel for their wages, only con­tributed to this purpose by navigating it. Without these •sealers the voyage must have been profitless, because the purpose of it could not have been accomplished. That noth­ing was accomplished is not their fault, and therefore it should not operate to their prejudice.</p>
+                <p pgmap="100" id="b100-5">A principle of law, as that the persons on a vessel who are employed in promoting the purpose of the voyage or aiding in her navigation shall have a lien upon her for their wages, must be applied to new cases within the reason of the rule, as they arise. Now, it would be impossible to give any sound reason why the cook, or even the sailors, on this ves­sel should have a lien upon her for their wages, and the seal­ers, upon whom mainly depended the success of the voyage, should not.</p>
+                <p pgmap="100(102) 101(190)" id="b100-6">The correct doctrine upon this point is well set forth by Benedict in his Admiralty (section 241) : “It is universally conceded that the general principles of law must be applied to new kinds of property, as they spring into existence in the progress of society, according to their nature and incidents, and the common sense of the community. In the early periods of maritime commerce, when the oar was the great agent of propulsion, vessels were entirely unlike those of modern times, and each nation and period has had its peculiar agents of commerce and navigátion adapted to its own wants and its own waters, and the names and descriptions of ships and vessels are without number. Under the class of ma­riners in the armed ship are embraced the officers and pri­vates of a little ^rmy. In the whale-ship, the sealing-vessel, the cod-fishing and herring-fishing vessel, the lumber-vessel, the freighting-vessel, the passenger-vessel, there are other functions besides those of mere navigation, and they are per­formed by men who know nothing of seamanship; and in the great invention of modern times, the steamboat, an en­tirely new set of operatives are employed; yet at all times and in all countries all the persons who have been necessarily or properly employed in a vessel as co-laborers to the great purpose of the voyage, have, by the laws, been clothed with the legal rights of mariners, no matter what might be their sex, character, station or profession.” And there is a special reason why this should be so in this case; for the master, in employing these libellants, explicitly pledged the vessel as security for the payment of their wages for the round trip, whether any seal were taken or not.</p>
+                <p pgmap="101(224) 102(7)" id="b101-4">When it comes to be understood that fishers and sealers employed on the northwest coast are to be considered ma­riners, it is probable that there will be some special rule es­tablished by which the amount of their compensation will depend somewhat upon the result of their labors. In this case, at first blush, it seems a hardship that the vessel should be bound to the libellants for full wages for the round voy­age when nothing was made or earned by it, and they had comparatively little or nothing to do. But that is not their fault. They kept their agreement. That the voyage actually contemplated by the master was illegal, they had no reason to know. The “northern waters,” to which they agreed to go, includes waters outside the limits of Alaska. What ef­fect, if any, the seizure of the vessel is to have upon the con­tract is a question that was suggested in the argument, but only touched upon by counsel. The capture and condemna­tion of a neutral vessel dissolves the seaman’s contract for wages, and he can recover nothing for the voyage; but a mere capture, without a condemnation, does not; and, in the meantime, the contract is only suspended, and the seaman has a right to remain with the ship and abide the result. The Saratoga, Fed.Cas.No.12,355; Pitman v. Hooper, Fed.Cas.­No.11,186.</p>
+                <p pgmap="102" id="b102-3">But in this case the purpose of the voyage appears to have been abandoned and the vessel turned homeward before the seizure, and she has since been acquitted. And this was the act of the master, and cannot affect the rights of the libel­lants. But if we should regard the seizure as the cause of the failure of the voyage, the rule established by the authori­ties seems to be, that when the voyage is broken up, inter­rupted or lost by the act of the master or owner, the seamen are entitled to their wages for the full voyage, or damages upon the contract in the nature of wages. Hoyt v. Wildfire, 3 Johns. 520; The Maria, Fed.Cas.No.9,074; The Uncle Sam, Fed.Cas.No.2,372; The Littlejohn, Fed.Cas.No.6,­153.</p>
+                <p pgmap="102" id="b102-4">Neither do I suppose that the rule, freight is the mother of wages, can be applied to a voyage like this. But if it could, the fact that the failure or abandonment of the enter­prise appears to be attributable to the master and owner pro tempore would prevent its being applied so as to bar a re­covery by the libellants in this case. Besides, the rule itself seems to be abolished by section 4525 of the Revised Sta­tutes (46 U.S.C.A. § 592), which provides: “No right to wages shall be dependent on the earning of freight by the vessel.”</p>
+                <p pgmap="102" id="b102-5">It follows that the libellants are entitled to a decree for the wages specified for the term of four months and seven days.</p>
+                <p pgmap="102" id="b102-6">William Gallagher, the first mate, and six others, being the second mate, four sailors and the cook, have also filed a libel of intervention to enforce a claim for wages for.the whole voyage, at the rate of $75 a month for the first mate, $50 a month for the second mate and cook, and $35 a month for the sailors, less certain advances stated in the account annexed to the libel. No defense is made to this claim, and it is allowed from the sailing of the vessel from San Fran­cisco until August 31.</p>
+                <p pgmap="102" id="b102-7">The matter is referred to the clerk to ascertain and report the sum due each libellant according to the conclusions of this opinion.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="93" ORDERLABEL="81" TYPE="page">
+        <fptr FILEID="tiff_00047_0"/>
+        <fptr FILEID="jpg_00047_0"/>
+        <fptr FILEID="alto_00047_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_93.3" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="94" ORDERLABEL="82" TYPE="page">
+        <fptr FILEID="tiff_00047_1"/>
+        <fptr FILEID="jpg_00047_1"/>
+        <fptr FILEID="alto_00047_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_94.2" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="95" ORDERLABEL="83" TYPE="page">
+        <fptr FILEID="tiff_00048_0"/>
+        <fptr FILEID="jpg_00048_0"/>
+        <fptr FILEID="alto_00048_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_95.2" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="96" ORDERLABEL="84" TYPE="page">
+        <fptr FILEID="tiff_00048_1"/>
+        <fptr FILEID="jpg_00048_1"/>
+        <fptr FILEID="alto_00048_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_96.2" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="97" ORDERLABEL="85" TYPE="page">
+        <fptr FILEID="tiff_00049_0"/>
+        <fptr FILEID="jpg_00049_0"/>
+        <fptr FILEID="alto_00049_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_97.2" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="98" ORDERLABEL="86" TYPE="page">
+        <fptr FILEID="tiff_00049_1"/>
+        <fptr FILEID="jpg_00049_1"/>
+        <fptr FILEID="alto_00049_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_98.1" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="99" ORDERLABEL="87" TYPE="page">
+        <fptr FILEID="tiff_00050_0"/>
+        <fptr FILEID="jpg_00050_0"/>
+        <fptr FILEID="alto_00050_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_99.3" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="100" ORDERLABEL="88" TYPE="page">
+        <fptr FILEID="tiff_00050_1"/>
+        <fptr FILEID="jpg_00050_1"/>
+        <fptr FILEID="alto_00050_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_100.2" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="101" ORDERLABEL="89" TYPE="page">
+        <fptr FILEID="tiff_00051_0"/>
+        <fptr FILEID="jpg_00051_0"/>
+        <fptr FILEID="alto_00051_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_101.3" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="102" ORDERLABEL="90" TYPE="page">
+        <fptr FILEID="tiff_00051_1"/>
+        <fptr FILEID="jpg_00051_1"/>
+        <fptr FILEID="alto_00051_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_102.2" BETYPE="IDREF" FILEID="alto_00051_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.5" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.6" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.7" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.8" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.6" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            <area BEGIN="BL_101.1" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.6" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.4" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.5" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-12" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.13" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.8" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.4" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.4" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-3" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.4" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.5" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.4" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.5" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            <area BEGIN="BL_96.1" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.6" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-3" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.3" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.7" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.8" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.5" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-13" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.13" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-12" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.12" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-11" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.11" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.5" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            <area BEGIN="BL_99.1" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-3" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.3" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-14" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.14" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.7" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-15" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.15" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.5" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.6" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.5" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            <area BEGIN="BL_97.1" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.4" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.7" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            <area BEGIN="BL_100.1" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.4" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            <area BEGIN="BL_102.1" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-3" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.4" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

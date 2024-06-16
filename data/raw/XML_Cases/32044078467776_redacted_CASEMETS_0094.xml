@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0094" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Anderson v. Comptois">ANDERSON v. COMPTOIS</name>
+          <docketnumber>No. 632</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 663</citation>
+          <citation category="parallel" type="bluebook">108 F. 985</citation>
+          <decisiondate>1901-02-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:10Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00338_0" MIMETYPE="image/tiff" CHECKSUM="d328f53e552c52edbcbee38ee4d89a76" CHECKSUMTYPE="MD5" SIZE="22060">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00338_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00338_0" MIMETYPE="image/jpg" CHECKSUM="035efb0a0e4063040d998c62a95311a0" CHECKSUMTYPE="MD5" SIZE="111486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00338_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00338_0" MIMETYPE="text/xml+gzip" CHECKSUM="e2a1915c40b02d62700b03761a47f769" CHECKSUMTYPE="MD5" SIZE="5904">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00338_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0094" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="663" lastpage="663">
+              <court pgmap="675" id="b675-7">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="675" id="b675-6">No. 632.</docketnumber>
+              <citation pgmap="675" id="b675-4">108 F. 985</citation>
+              <parties pgmap="675" id="b675-5">ANDERSON v. COMPTOIS.</parties>
+              <decisiondate pgmap="675" id="b675-8">Feb. 21, 1901.</decisiondate>
+              <attorneys pgmap="675" id="b675-10">Jackson &amp; Hatch, C. S. Johnson, E. S. Pillsbury, and K. M. Jockson, for appellant.</attorneys>
+              <attorneys pgmap="675" id="b675-11">Hubbard, Beeman &amp; Hume, for appellee.</attorneys>
+              <attorneys pgmap="675" id="b675-12">T. J. Geary, for receiver Alexander McKenzie.</attorneys>
+              <opinion type="majority">
+                <p pgmap="675" id="b675-13">No opinion. Pursuant to stipulation of counsel, judg­ment of district court reversed, and decree entered upon the merits in favor of appellants.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="675" ORDERLABEL="663" TYPE="page">
+        <fptr FILEID="tiff_00338_0"/>
+        <fptr FILEID="jpg_00338_0"/>
+        <fptr FILEID="alto_00338_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_675.3" BETYPE="IDREF" FILEID="alto_00338_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b675-8" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_675.9" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b675-5" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_675.6" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b675-4" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_675.5" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b675-7" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_675.8" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b675-6" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_675.7" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b675-13" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_675.14" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b675-12" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_675.13" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b675-11" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_675.12" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b675-10" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_675.11" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

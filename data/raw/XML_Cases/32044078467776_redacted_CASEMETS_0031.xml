@@ -1,0 +1,450 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0031" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Ex parte Emma">Ex Parte EMMA</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 226</citation>
+          <citation category="parallel" type="bluebook">48 F. 211</citation>
+          <decisiondate>1891-07-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:21:59Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00119_1" MIMETYPE="image/tiff" CHECKSUM="06c87d137b6079b3d990d84dda67f36c" CHECKSUMTYPE="MD5" SIZE="34144">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00119_1.tif"/>
+      </file>
+      <file ID="tiff_00120_0" MIMETYPE="image/tiff" CHECKSUM="c764f2cdbafcff98812234d67bbd9369" CHECKSUMTYPE="MD5" SIZE="36746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00120_0.tif"/>
+      </file>
+      <file ID="tiff_00120_1" MIMETYPE="image/tiff" CHECKSUM="35a4294ef70980329ff54a09258d2831" CHECKSUMTYPE="MD5" SIZE="54976">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00120_1.tif"/>
+      </file>
+      <file ID="tiff_00121_0" MIMETYPE="image/tiff" CHECKSUM="d8a2a83fcc0eebce48932287eed21c5b" CHECKSUMTYPE="MD5" SIZE="53576">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00121_0.tif"/>
+      </file>
+      <file ID="tiff_00121_1" MIMETYPE="image/tiff" CHECKSUM="545507325a2630e2d66076ebe3e5bb1c" CHECKSUMTYPE="MD5" SIZE="51882">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00121_1.tif"/>
+      </file>
+      <file ID="tiff_00122_0" MIMETYPE="image/tiff" CHECKSUM="3b8634bc02a5fb8076ff0ba2f911e2c2" CHECKSUMTYPE="MD5" SIZE="52556">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00122_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00119_1" MIMETYPE="image/jpg" CHECKSUM="c3a11be77d64efce5053a4409377f7db" CHECKSUMTYPE="MD5" SIZE="145504">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00119_1.jpg"/>
+      </file>
+      <file ID="jpg_00120_0" MIMETYPE="image/jpg" CHECKSUM="d0c2824f561ca27ebae488df437b54e7" CHECKSUMTYPE="MD5" SIZE="145328">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00120_0.jpg"/>
+      </file>
+      <file ID="jpg_00120_1" MIMETYPE="image/jpg" CHECKSUM="cf147ebcb98df496daa20f19773eb17c" CHECKSUMTYPE="MD5" SIZE="211864">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00120_1.jpg"/>
+      </file>
+      <file ID="jpg_00121_0" MIMETYPE="image/jpg" CHECKSUM="1af2c7e0e3546292a0557e9d81f36d88" CHECKSUMTYPE="MD5" SIZE="199683">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00121_0.jpg"/>
+      </file>
+      <file ID="jpg_00121_1" MIMETYPE="image/jpg" CHECKSUM="8b8235561e0372f00d7d1448217ae585" CHECKSUMTYPE="MD5" SIZE="197706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00121_1.jpg"/>
+      </file>
+      <file ID="jpg_00122_0" MIMETYPE="image/jpg" CHECKSUM="eb0ab02e7a9adaaae6bebf48bfba3caf" CHECKSUMTYPE="MD5" SIZE="188923">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00122_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00119_1" MIMETYPE="text/xml+gzip" CHECKSUM="0c4b3edcd4bb362d9406afe0f90e765f" CHECKSUMTYPE="MD5" SIZE="9579">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00119_1.xml.gz"/>
+      </file>
+      <file ID="alto_00120_0" MIMETYPE="text/xml+gzip" CHECKSUM="3cfc98ff7fe267cffa3bc6e8270a2aa9" CHECKSUMTYPE="MD5" SIZE="8919">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00120_0.xml.gz"/>
+      </file>
+      <file ID="alto_00120_1" MIMETYPE="text/xml+gzip" CHECKSUM="4dcc037359855f23fbd5e696dfe33d25" CHECKSUMTYPE="MD5" SIZE="13287">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00120_1.xml.gz"/>
+      </file>
+      <file ID="alto_00121_0" MIMETYPE="text/xml+gzip" CHECKSUM="e44d4e729ef809f29b8e520b6b857578" CHECKSUMTYPE="MD5" SIZE="12723">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00121_0.xml.gz"/>
+      </file>
+      <file ID="alto_00121_1" MIMETYPE="text/xml+gzip" CHECKSUM="a92f4026f0df3aa3b6baca1f08471a12" CHECKSUMTYPE="MD5" SIZE="11954">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00121_1.xml.gz"/>
+      </file>
+      <file ID="alto_00122_0" MIMETYPE="text/xml+gzip" CHECKSUM="81e89b58022276b6f386b2b35b46befe" CHECKSUMTYPE="MD5" SIZE="12573">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00122_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0031" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="226" lastpage="231">
+              <court pgmap="238" id="b238-8">District Court, D. Alaska.</court>
+              <citation pgmap="238" id="b238-6">48 F. 211</citation>
+              <parties pgmap="238" id="b238-7">Ex Parte EMMA.</parties>
+              <decisiondate pgmap="238" id="b238-9">July 25, 1891.</decisiondate>
+              <attorneys pgmap="239" id="b239-6">F. H. Harrington, for petitioner.</attorneys>
+              <attorneys pgmap="239" id="b239-7">C. S. Johnson, for respondent.</attorneys>
+              <opinion type="majority">
+                <author pgmap="239" id="b239-8">BUGBEE, Judge.</author>
+                <p pgmap="239(254) 240(392)" id="AWn">The petition in behalf of Emma, an Indian girl, alleges that she is detained and restrained of her liberty by one William A. Kelly, superintendent of the Indian mission school at Sitka, without warrant or authority in law. The return of said Kelly alleges that he is the superintendent of the board of home missions of the Presbyterian Church, and also of the Indian Indus­trial and Training School at Sitka, which has for its ob­ject and mission the maintenance and education of native Indian children of Alaska territory, and as such super­intendent he has certain control and custody of said Em­ma, who is, and for more than three years has been, an inmate of and attendant at such school, by virtue — First, of a written agreement made by her mother; second, of a contract between respondent, as such superintendent, and a former judge of this court; and, third, of the order of this court. The facts are that the child is the issue of Shawet Kunah, a native woman, and an Indian chief, with whom she consorted without legal marriage, but accord­ing to the customs of her race; that, after separating from him, she was married, under the sanction of the laws governing this territory, to one Bogue; that after such marriage the mother placed the child in the Indian school at Juneau, conducted by the Presbyterian mission, and, by a writing, signed by herself alone, gave the child into the charge" of the Presbyterian mission, at Juneau, to be placed in the Sitka Industrial and Training School, promising, if it can be deemed a promise, to make no ef­fort to remove her till she reached the age of 18; she being then of about the age of 8 years. The agreement bears no date. A copy of it was annexed to the return, but it was neither put in evidence, nor relied upon by re­spondent. Thereafter, on the 28th day of September,-­1889, an order was made by this court, which, after recit­ing that some 50 destitute and orphan children, whose ages ranged from 5 to 17 years, had a residence and settle­ment in Alaska and were chargeable upon the district, “decreed that all of the said children be apprenticed to the Presbyterian board of home missions by contract in writing, to be signed by the judge of this court in dupli­cate, and by the superintendent of the mission and train­ing school at said board of home missions at Sitka, until the females of said children shall reach the age of eighteen years, and the males until each shall reach the age of twen­ty-one years,” etc. Nothing, except the names given to some of the children, indicates their nativity, and nothing indicates that any of the children, or their parents or guardians, had notice of or consented to the proceedings. The girl Emma is named as one of the 50 subjects of the order. On the same day an order was made by my predecessor in office, and signed by him as judge of this court, entitled “In the Matter of Emma, a native destitute minor child,” reciting that — “Emma, an orphan, a minor child of the age of eighteen years, is a poor person, hav­ing a residence and settlement in Alaska, and is actually chargeable upon the district, and without male or female parent capable of furnishing said support, subsistence, and means of education. And whereas, the district attor­ney being present in court, and the superintendent of the mission and training school of the board of home missions of the Presbyterian Church of the United States is will­ing to accept said minor child as an apprentice, according to the provisions of chapter 18 of Title 4, as embodied in ‘Hill’s Annotated Laws of Oregon, page 1334/ ”</p>
+                <p pgmap="240(31) 241(80)" id="b240-4">—And ordering “that the said Emma, an orphan, shall be bound as an apprentice to the said mission and training school by written contract until she shall .reach the age of eighteen years.” The order made special provisions as to the contract and other matters not necessary to be re­cited here. On the same day a contract was executed, in accordance with the order, by the judge of the court in be­half of the child, and the board of home missions of the Presbyterian Church, by and through the respondent, as its superintendent; and under this contract, and the order above mentioned, the child is claimed to be held.</p>
+                <p pgmap="241(336) 242(91)" id="b241-4">From the evidence it appears that the child was not des­titute, nor was she an orphan; her father, mother, and her mother’s legal husband were then and are still living, and the mother and her present husband were then and are still living, and the mother and her present husband were then and are now competent and willing to provide for her maintenance and education. Moreover the child was not chargeable upon the district, nor likely to become so. The state of the mother’s health demands the services of her child, and the child, who seems intelligent and affec­tionate, desires to return to her mother. Under this state of facts, it would seem that the child ought, in simple justice, to be released at once; but without going beyond the judgment of the court to inquire into the circumstances, even if the court were in these proceedings permitted to do so, I am convinced that the jurisdiction of the court has been exceeded, and that the orders were and are void; and, if that be so, they may be set aside by this court, notwithstanding the length of time that has elapsed and the number of terms that have intervened since they were made. Ladd v. Mason, 10 Or. 308. Under the act of congress entitled “An act providing a civil government for Alaska,” passed May 17, 1884, and generally known as the “Organic Act,” it is provided “that the general laws of the state of Oregon now [May 17, 1884] in force are hereby declared to be the law in said district so far as the same may be applicable, and not in conflict with the pro­visions of this act, or the laws of the United States.” The act also provided for the appointment of four com­missioners for the district, who have the jurisdiction and powers of commissioners of the United States circuit courts, and who have also jurisdiction, subject to the.su­pervision of the district judge, in all testamentary and probate matters. Organic Act, § 5. Section 12 of article 7 of the Constitution of Oregon provides that the county courts of that state — “Shall have the jurisdiction pertain­ing to probate courts and boards of county commissioners, and such other powers and duties, and such civil jurisdic­tion, not exceeding the amount of value of five hundred dollars, * * * as may be prescribed by law. But the legislative assembly may provide for the election of two commissioners to sit with the county judge whilst transacting county business.”</p>
+                <p pgmap="242" id="b242-5">Following this constitutional provision, the legislature enacted that the court should be held by the county judge except when county business was being transacted therein, and then it was to be held by such judge and two commis­sioners designated by law, or a majority- of such persons. Civil Code Or. § 867; Gen.Laws, p. 282. It defined its jurisdiction of actions at law, (section 868,) and its ex­clusive jurisdiction in the first instance, pertaining to a court of probate, (section 869;) also its authority and powers pertaining to county commissioners to transact county business, (section 870.) It prescribed that its busi­ness should be docketed and disposed of in the following order: .(1) Cases at law; (2) the business pertaining to a court of probate; (3) county business, — and that its proceedings and records concerning these three classifica­tions of business should be kept in separate books. Sec­tion 876. The legislature also provided for the election of two commissioners of the county court. Gen.Laws Or. p. 694.</p>
+                <p pgmap="242" id="b242-6">In Monastes v. Catlin, 6 Or. 119, it is said: “The phrase [the jurisdiction pertaining to probate courts] has no legal definition. Courts of probate had no existence at common law. * * * Under the provisional govern­ment of Oregon, up to the time of the adoption of the constitution, the appointment of guardians for minors and for insane persons was a part of the jurisdiction pertaining to probate courts.”</p>
+                <p pgmap="242(36) 243(398)" id="b242-8">The granting and revoking letters of guardianship, and' the directing and controlling the conduct and settling the accounts of guardians of minors and of lunatics, are es-' pecially defined as functions of the county court pertain-. ing to a court of probate. Civil Code Or. § 869. The authority of the court to bind minors as apprentices or servants is not, in terms, placed in the same category. Neither is its authority to authorize the adoption of chil­dren; but it would be difficult to find a reason why such powers do not pertain to a court of probate quite as much as the power to appoint guardians. If they lie within the probate jurisdiction of the Oregon county court, they lie within the exclusive jurisdiction, in the first instance, of the United States commissioners for the district of Alaska, subject to the supervision of the district judge; and for this court or its judge to assume original probate jurisdiction would be an unwarranted usurpation of power. If the binding of minors as apprentices or servants under the laws of Oregon is not a power pertaining to a court of probate, there is but one other classification of the busi­ness of the county court of Oregon to which it can he as­signed, and that is “county business,” which is not trans­acted by the county judge alone, but by the judge and county commissioners sitting together. To them, as “county business,” is granted the power to provide • for the maintenance and employment of the county' or tran­sient paupers in the manner provided by law. This ter­ritory has no counties and no county commissioners, nor has it any court, tribunal, or officer corresponding to the county court of Oregon sitting as county commissioners for the transaction of county business. If in the case of this child, Emma, the power to bind her pertained to a court of probate, it should have been exercised by the United States commissioner, and not by this court, nor by its judge. If the power belonged to a county court having the authority and powers pertaining to county com­missioners to transact county business, it could not have been rightfully exercised' in this territory, because no court or officer has been vested with such power. It follows, therefore, that the jurisdiction of the court and of the judge in making the orders apprenticing this minor has been exceeded; that the orders as well as the contract of apprenticeship were and are void; and that the child must be discharged from the custody of the respondent.</p>
+                <p pgmap="243" id="b243-4">Let an order be entered accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="238" ORDERLABEL="226" TYPE="page">
+        <fptr FILEID="tiff_00119_1"/>
+        <fptr FILEID="jpg_00119_1"/>
+        <fptr FILEID="alto_00119_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_238.2" BETYPE="IDREF" FILEID="alto_00119_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="239" ORDERLABEL="227" TYPE="page">
+        <fptr FILEID="tiff_00120_0"/>
+        <fptr FILEID="jpg_00120_0"/>
+        <fptr FILEID="alto_00120_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_239.2" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="240" ORDERLABEL="228" TYPE="page">
+        <fptr FILEID="tiff_00120_1"/>
+        <fptr FILEID="jpg_00120_1"/>
+        <fptr FILEID="alto_00120_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_240.2" BETYPE="IDREF" FILEID="alto_00120_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="241" ORDERLABEL="229" TYPE="page">
+        <fptr FILEID="tiff_00121_0"/>
+        <fptr FILEID="jpg_00121_0"/>
+        <fptr FILEID="alto_00121_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_241.3" BETYPE="IDREF" FILEID="alto_00121_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="242" ORDERLABEL="230" TYPE="page">
+        <fptr FILEID="tiff_00121_1"/>
+        <fptr FILEID="jpg_00121_1"/>
+        <fptr FILEID="alto_00121_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_242.2" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="243" ORDERLABEL="231" TYPE="page">
+        <fptr FILEID="tiff_00122_0"/>
+        <fptr FILEID="jpg_00122_0"/>
+        <fptr FILEID="alto_00122_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_243.3" BETYPE="IDREF" FILEID="alto_00122_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b240-4" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_240.4" BETYPE="IDREF" FILEID="alto_00120_1"/>
+            <area BEGIN="BL_241.1" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWn" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.10" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            <area BEGIN="BL_239.11" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            <area BEGIN="BL_240.1" BETYPE="IDREF" FILEID="alto_00120_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.8" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.9" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.8" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.7" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.6" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.7" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-4" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.4" BETYPE="IDREF" FILEID="alto_00121_0"/>
+            <area BEGIN="BL_242.1" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.5" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.6" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            <area BEGIN="BL_243.1" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.9" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-4" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.4" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.4" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0123" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Lane v. Jordon">LANE et al. v. JORDON et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 872</citation>
+          <citation category="parallel" type="bluebook">116 F. 623</citation>
+          <decisiondate>1902-07-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:10Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00442_1" MIMETYPE="image/tiff" CHECKSUM="5faaa830fb06e0e653050ab20dc9a28c" CHECKSUMTYPE="MD5" SIZE="36514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00442_1.tif"/>
+      </file>
+      <file ID="tiff_00443_0" MIMETYPE="image/tiff" CHECKSUM="db4ac64b5b12bef7fe3ea7684c1ceb78" CHECKSUMTYPE="MD5" SIZE="14904">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00443_0.tif"/>
+      </file>
+      <file ID="tiff_00443_1" MIMETYPE="image/tiff" CHECKSUM="18f0029a81adbc6c41b11f453b8b64a5" CHECKSUMTYPE="MD5" SIZE="55078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00443_1.tif"/>
+      </file>
+      <file ID="tiff_00444_0" MIMETYPE="image/tiff" CHECKSUM="80dc0c3abe440276f36150b9c9214ef4" CHECKSUMTYPE="MD5" SIZE="42208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00444_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00442_1" MIMETYPE="image/jpg" CHECKSUM="dcd456bcb57c9339344f09e83b9f52b6" CHECKSUMTYPE="MD5" SIZE="168190">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00442_1.jpg"/>
+      </file>
+      <file ID="jpg_00443_0" MIMETYPE="image/jpg" CHECKSUM="b9194b0c7f4c4a4ad9e4492683557057" CHECKSUMTYPE="MD5" SIZE="90341">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00443_0.jpg"/>
+      </file>
+      <file ID="jpg_00443_1" MIMETYPE="image/jpg" CHECKSUM="8bff83e6d44c20f01fb856e6084c4972" CHECKSUMTYPE="MD5" SIZE="208828">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00443_1.jpg"/>
+      </file>
+      <file ID="jpg_00444_0" MIMETYPE="image/jpg" CHECKSUM="9b8107d352e41ac630c9745dab37163c" CHECKSUMTYPE="MD5" SIZE="164116">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00444_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00442_1" MIMETYPE="text/xml+gzip" CHECKSUM="3e919eaab96915e2ccf9e8ea3e04b04d" CHECKSUMTYPE="MD5" SIZE="9336">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00442_1.xml.gz"/>
+      </file>
+      <file ID="alto_00443_0" MIMETYPE="text/xml+gzip" CHECKSUM="c50a1008a014eb7055ddc97568171beb" CHECKSUMTYPE="MD5" SIZE="3757">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00443_0.xml.gz"/>
+      </file>
+      <file ID="alto_00443_1" MIMETYPE="text/xml+gzip" CHECKSUM="758e8beb1ad1709fc8df7bcd07548373" CHECKSUMTYPE="MD5" SIZE="12749">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00443_1.xml.gz"/>
+      </file>
+      <file ID="alto_00444_0" MIMETYPE="text/xml+gzip" CHECKSUM="61f4f6d2e90906e244d83f5568653243" CHECKSUMTYPE="MD5" SIZE="10344">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00444_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0123" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="872" lastpage="875">
+              <court pgmap="884" id="AYB">Circuit Court of Appeals, Ninth Circuit.</court>
+              <citation pgmap="884" id="b884-7">116 F. 623</citation>
+              <parties pgmap="884" id="b884-8">LANE et al. v. JORDON et al.</parties>
+              <decisiondate pgmap="884" id="b884-10">July 7, 1902.</decisiondate>
+              <judges pgmap="885" id="b885-8">Before GILBERT, ROSS, and .MORROW, Circuit Judges.</judges>
+              <attorneys pgmap="885" id="b885-7">Campbell, Metson &amp; Campbell, H. M. Wright, and Ira D. Orton, for appellants.</attorneys>
+              <opinion type="majority">
+                <author pgmap="885" id="b885-9">GILBERT, Circuit Judge.</author>
+                <p pgmap="885(62) 886(362)" id="b885-10">The appeal in this case is taken from an injunction or­der made on August 12, 1901, in an action brought by the appellees against the appellants to recover the possession of a placer mining claim. The. appellants were in the posses­sion of the mining claim,- operating and claiming to own the same. The order was made without notice to them; upon the affidavit of one of the appellees, who deposed that the appellees were purchasers of the mining claim through mesne conveyances from the original locator thereof, and that they and their grantors in the summers of 1899 and 1900 had operated the mine, but that in 1901 the appel­lants went upon the claim, claiming to be the owners there­of by virtue of a location which was made subsequently to that of the appellees’ grantor, and that they were extracting gold dust therefrom, and upon the affidavits of two other persons purporting to set forth the facts of the original location. The order enjoined the appellants from mining the claim pending the further order of the court, and com­manded them to surrender and deliver up to the appellees the possession of the claim, with all the appurtenances, and commanded them to remove from said premises with their personal property, and further gave permission to the ap­pellees, upon furnishing an undertaking in the sum of $5,000, to work and mine the said premises, subject to the orders of the court. The appellants challenge the power of the court to make such an order. The limit of the power of the court in that regard, and concerning the facts set forth in the complaint and affidavits, is defined in section 386 of the act providing for the civil government of Alaska (31 Stat. 397), which authorizes the court to order a de­fendant in an action to refrain from doing a particular act pending the action, “when it appears by affidavit that the defendant is doing, or threatens or is about to do, or is procuring or suffering to be done, some act in viola­tion of the plaintiff’s rights concerning the subject of the action, and tending to render the judgment in­effectual.” Under this statute, the error of the record which is before us is very plain. The order transferring from the appellants to the appellees the possession of the mining claim pending the action, under the circumstances detailed, was not only unauthorized by any statute, but was the exercise of a judicial power unknown to American jurisprudence.</p>
+                <p pgmap="886(54) 887(224)" id="b886-4">The. only other question which occurs to us as presented by the record is whether the order is one which may be appealed from. By the act of congress approved June 6, 1900 (31 Stat. 660), there is given the right of appeal to the circuit courts of appeals from every order granting or dissolving an injunction, “upon a hearing in equity.” There was no hearing had prior to granting the order which is complained of in the present case, but the Code of Alas­ka (section 507) provides that “an appeal may be taken to the circuit court of appeals from any interlocutory order granting or dissolving an injunction,” etc. It is true that section 508 declares that “all provisions of law now in force regulating the procedure and practice in cases brought by appeal or writ of error to the supreme court of the United States or to the United States circuit court of ap­peals for the Ninth circuit, except in so far as the same may be inconsistent with any provision of this act, shall regulate the procedure and practice in cases brought to the courts respectively from the district court for the dis­trict of Alaska.” We do not think, however, that the pro­vision last quoted was intended in any way to narrow or restrict the scope of the preceding section. The order ap­pealed from was an interlocutory order, granting an injunc­tion. It was an order that affected a substantial right,— the right of the appellants to retain possession of the prop­erty in controversy until by the judgment of the court it was determined that their possession was unlawful.</p>
+                <p pgmap="887" id="b887-4">It is ordered and decreed that the order of the district court, so far as the same commanded the appellants to sur­render the possession of the mining property, and gave the possession thereof to the appellees, and permitted them to work and mine the same, subject to the order of the court, be dissolved and set aside, and that the appellants be re­stored to the possession which they had when said order was made.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="884" ORDERLABEL="872" TYPE="page">
+        <fptr FILEID="tiff_00442_1"/>
+        <fptr FILEID="jpg_00442_1"/>
+        <fptr FILEID="alto_00442_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_884.2" BETYPE="IDREF" FILEID="alto_00442_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="885" ORDERLABEL="873" TYPE="page">
+        <fptr FILEID="tiff_00443_0"/>
+        <fptr FILEID="jpg_00443_0"/>
+        <fptr FILEID="alto_00443_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_885.3" BETYPE="IDREF" FILEID="alto_00443_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="886" ORDERLABEL="874" TYPE="page">
+        <fptr FILEID="tiff_00443_1"/>
+        <fptr FILEID="jpg_00443_1"/>
+        <fptr FILEID="alto_00443_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_886.2" BETYPE="IDREF" FILEID="alto_00443_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="887" ORDERLABEL="875" TYPE="page">
+        <fptr FILEID="tiff_00444_0"/>
+        <fptr FILEID="jpg_00444_0"/>
+        <fptr FILEID="alto_00444_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_887.3" BETYPE="IDREF" FILEID="alto_00444_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b884-10" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_884.12" BETYPE="IDREF" FILEID="alto_00442_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b884-7" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_884.9" BETYPE="IDREF" FILEID="alto_00442_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYB" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_884.11" BETYPE="IDREF" FILEID="alto_00442_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b884-8" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_884.10" BETYPE="IDREF" FILEID="alto_00442_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b887-4" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_887.4" BETYPE="IDREF" FILEID="alto_00444_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b885-10" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_885.10" BETYPE="IDREF" FILEID="alto_00443_0"/>
+            <area BEGIN="BL_886.1" BETYPE="IDREF" FILEID="alto_00443_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b885-7" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_885.7" BETYPE="IDREF" FILEID="alto_00443_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b886-4" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_886.4" BETYPE="IDREF" FILEID="alto_00443_1"/>
+            <area BEGIN="BL_887.1" BETYPE="IDREF" FILEID="alto_00444_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b885-8" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_885.8" BETYPE="IDREF" FILEID="alto_00443_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b885-9" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_885.9" BETYPE="IDREF" FILEID="alto_00443_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

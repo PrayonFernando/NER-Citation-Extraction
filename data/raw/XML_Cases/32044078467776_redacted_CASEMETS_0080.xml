@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0080" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Vanelius v. United States">THE ST. PAUL. VANELIUS v. UNITED STATES</name>
+          <docketnumber>No. 181</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 531</citation>
+          <citation category="parallel" type="bluebook">87 F. 1006</citation>
+          <decisiondate>1898-02-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:07Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00272_0" MIMETYPE="image/tiff" CHECKSUM="3a5862c224988853440fb233fccb891f" CHECKSUMTYPE="MD5" SIZE="18690">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00272_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00272_0" MIMETYPE="image/jpg" CHECKSUM="49ad42255641fb55224b64467b3b0630" CHECKSUMTYPE="MD5" SIZE="97902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00272_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00272_0" MIMETYPE="text/xml+gzip" CHECKSUM="4d64e655b723d2d98dd492783590420c" CHECKSUMTYPE="MD5" SIZE="5243">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00272_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0080" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="531" lastpage="531">
+              <court pgmap="543" id="b543-11">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="543" id="b543-10">No. 181.</docketnumber>
+              <citation pgmap="543" id="b543-7">87 F. 1006</citation>
+              <parties pgmap="543" id="b543-8">THE ST. PAUL. VANELIUS v. UNITED STATES.</parties>
+              <decisiondate pgmap="543" id="b543-12">Feb. 7, 1898.</decisiondate>
+              <judges pgmap="543" id="b543-16">Before GILBERT, ROSS, and MORROW, Circuit Judges.</judges>
+              <attorneys pgmap="543" id="b543-14">Warren Gregory, for appellant.</attorneys>
+              <attorneys pgmap="543" id="b543-15">Charles A. Garter, for the United States.</attorneys>
+              <opinion type="majority">
+                <author pgmap="543" id="b543-17">PER CURIAM.</author>
+                <p pgmap="543" id="b543-18">This case is precisely similar to the case entitled “La Ninfa,” heretofore decided by this court, and reported in 44 U.S.App. 648, 21 C.C.A. 434, and 75 F. 513. On the authority of that case, the decree appealed from is reversed, and the cause remanded, with instructions to the district court to dismiss the libel.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="543" ORDERLABEL="531" TYPE="page">
+        <fptr FILEID="tiff_00272_0"/>
+        <fptr FILEID="jpg_00272_0"/>
+        <fptr FILEID="alto_00272_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_543.2" BETYPE="IDREF" FILEID="alto_00272_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b543-8" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_543.9" BETYPE="IDREF" FILEID="alto_00272_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b543-11" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_543.11" BETYPE="IDREF" FILEID="alto_00272_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b543-10" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_543.10" BETYPE="IDREF" FILEID="alto_00272_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b543-17" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_543.17" BETYPE="IDREF" FILEID="alto_00272_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b543-16" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_543.16" BETYPE="IDREF" FILEID="alto_00272_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b543-15" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_543.15" BETYPE="IDREF" FILEID="alto_00272_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b543-12" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_543.12" BETYPE="IDREF" FILEID="alto_00272_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b543-14" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_543.14" BETYPE="IDREF" FILEID="alto_00272_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b543-18" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_543.18" BETYPE="IDREF" FILEID="alto_00272_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b543-7" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_543.8" BETYPE="IDREF" FILEID="alto_00272_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

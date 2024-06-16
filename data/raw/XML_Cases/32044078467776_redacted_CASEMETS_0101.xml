@@ -1,0 +1,536 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0101" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Anderson v. Comptois">ANDERSON v. COMPTOIS. In re DUBOSE</name>
+          <docketnumber>No. 632</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 693</citation>
+          <citation category="parallel" type="bluebook">109 F. 971</citation>
+          <decisiondate>1901-05-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:07Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00353_0" MIMETYPE="image/tiff" CHECKSUM="478797c74e9dc841e150d4522cb9f3ff" CHECKSUMTYPE="MD5" SIZE="30028">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00353_0.tif"/>
+      </file>
+      <file ID="tiff_00353_1" MIMETYPE="image/tiff" CHECKSUM="895fb23277b6be9fe6db9704aa123b78" CHECKSUMTYPE="MD5" SIZE="24946">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00353_1.tif"/>
+      </file>
+      <file ID="tiff_00354_0" MIMETYPE="image/tiff" CHECKSUM="4525ea1293b4049607da9640af0b7d8d" CHECKSUMTYPE="MD5" SIZE="54778">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00354_0.tif"/>
+      </file>
+      <file ID="tiff_00354_1" MIMETYPE="image/tiff" CHECKSUM="2bbefaf005b49d5705f69315b590471f" CHECKSUMTYPE="MD5" SIZE="57068">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00354_1.tif"/>
+      </file>
+      <file ID="tiff_00355_0" MIMETYPE="image/tiff" CHECKSUM="a4f2dbd9c20e98a31d378f9437a74c69" CHECKSUMTYPE="MD5" SIZE="55326">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00355_0.tif"/>
+      </file>
+      <file ID="tiff_00355_1" MIMETYPE="image/tiff" CHECKSUM="0b614536f2c4898bb5ba766ec6045089" CHECKSUMTYPE="MD5" SIZE="54604">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00355_1.tif"/>
+      </file>
+      <file ID="tiff_00356_0" MIMETYPE="image/tiff" CHECKSUM="371cc76d9726901e284ad128b5a56e7a" CHECKSUMTYPE="MD5" SIZE="55234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00356_0.tif"/>
+      </file>
+      <file ID="tiff_00356_1" MIMETYPE="image/tiff" CHECKSUM="b4458eb4699de83841e1a24c6765c88c" CHECKSUMTYPE="MD5" SIZE="55208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00356_1.tif"/>
+      </file>
+      <file ID="tiff_00357_0" MIMETYPE="image/tiff" CHECKSUM="c2eb74311517badb10777fc3074bb3bd" CHECKSUMTYPE="MD5" SIZE="56126">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00357_0.tif"/>
+      </file>
+      <file ID="tiff_00357_1" MIMETYPE="image/tiff" CHECKSUM="2cc5e350da8e95fd137aad6b626fa72d" CHECKSUMTYPE="MD5" SIZE="22272">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00357_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00353_0" MIMETYPE="image/jpg" CHECKSUM="6aa6d211b51137816d230dea9ab75de5" CHECKSUMTYPE="MD5" SIZE="132909">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00353_0.jpg"/>
+      </file>
+      <file ID="jpg_00353_1" MIMETYPE="image/jpg" CHECKSUM="f42dca69a8602af730a26dd79e381b41" CHECKSUMTYPE="MD5" SIZE="117045">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00353_1.jpg"/>
+      </file>
+      <file ID="jpg_00354_0" MIMETYPE="image/jpg" CHECKSUM="c3e576fc025c6c1d2f13c1ff3b6750f5" CHECKSUMTYPE="MD5" SIZE="196398">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00354_0.jpg"/>
+      </file>
+      <file ID="jpg_00354_1" MIMETYPE="image/jpg" CHECKSUM="d3d210be4dcc7a9100179bf926e1aeaa" CHECKSUMTYPE="MD5" SIZE="218105">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00354_1.jpg"/>
+      </file>
+      <file ID="jpg_00355_0" MIMETYPE="image/jpg" CHECKSUM="2ea71e54aaef82228cdbca4b4e5d9350" CHECKSUMTYPE="MD5" SIZE="203958">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00355_0.jpg"/>
+      </file>
+      <file ID="jpg_00355_1" MIMETYPE="image/jpg" CHECKSUM="e435e671248d24e59e5613ba83646473" CHECKSUMTYPE="MD5" SIZE="204316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00355_1.jpg"/>
+      </file>
+      <file ID="jpg_00356_0" MIMETYPE="image/jpg" CHECKSUM="c99f9c06ea7447b0688c660cc07c5f96" CHECKSUMTYPE="MD5" SIZE="196827">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00356_0.jpg"/>
+      </file>
+      <file ID="jpg_00356_1" MIMETYPE="image/jpg" CHECKSUM="cea428cbddbea46645e098bc0c7d9a83" CHECKSUMTYPE="MD5" SIZE="215392">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00356_1.jpg"/>
+      </file>
+      <file ID="jpg_00357_0" MIMETYPE="image/jpg" CHECKSUM="57cb70cd249d6b93ea96ccf18258f24e" CHECKSUMTYPE="MD5" SIZE="204544">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00357_0.jpg"/>
+      </file>
+      <file ID="jpg_00357_1" MIMETYPE="image/jpg" CHECKSUM="7c6508142f5020a97c39c9cedae3ec3e" CHECKSUMTYPE="MD5" SIZE="114283">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00357_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00353_0" MIMETYPE="text/xml+gzip" CHECKSUM="02ca9baae345962a946b4e1296800740" CHECKSUMTYPE="MD5" SIZE="7505">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00353_0.xml.gz"/>
+      </file>
+      <file ID="alto_00353_1" MIMETYPE="text/xml+gzip" CHECKSUM="54052afc766d0b33af74421f82e4ba90" CHECKSUMTYPE="MD5" SIZE="6180">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00353_1.xml.gz"/>
+      </file>
+      <file ID="alto_00354_0" MIMETYPE="text/xml+gzip" CHECKSUM="d8b6a0374fcdba01cdcb475cf3f8b5dd" CHECKSUMTYPE="MD5" SIZE="12217">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00354_0.xml.gz"/>
+      </file>
+      <file ID="alto_00354_1" MIMETYPE="text/xml+gzip" CHECKSUM="59c36e3dc0a4837c742ea93b53b77d18" CHECKSUMTYPE="MD5" SIZE="13076">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00354_1.xml.gz"/>
+      </file>
+      <file ID="alto_00355_0" MIMETYPE="text/xml+gzip" CHECKSUM="3bed092fbdaed6731c3d3d098fbe4ad7" CHECKSUMTYPE="MD5" SIZE="13064">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00355_0.xml.gz"/>
+      </file>
+      <file ID="alto_00355_1" MIMETYPE="text/xml+gzip" CHECKSUM="d4c8bc37c76c1f60f0df080446d32cbe" CHECKSUMTYPE="MD5" SIZE="13178">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00355_1.xml.gz"/>
+      </file>
+      <file ID="alto_00356_0" MIMETYPE="text/xml+gzip" CHECKSUM="613c0bc8428b4b986f453b803f9d3c39" CHECKSUMTYPE="MD5" SIZE="14109">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00356_0.xml.gz"/>
+      </file>
+      <file ID="alto_00356_1" MIMETYPE="text/xml+gzip" CHECKSUM="ff6923426bc87a55b87be25793b4677e" CHECKSUMTYPE="MD5" SIZE="12782">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00356_1.xml.gz"/>
+      </file>
+      <file ID="alto_00357_0" MIMETYPE="text/xml+gzip" CHECKSUM="ddfbb2eef2af8ebda3587804e3739455" CHECKSUMTYPE="MD5" SIZE="13503">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00357_0.xml.gz"/>
+      </file>
+      <file ID="alto_00357_1" MIMETYPE="text/xml+gzip" CHECKSUM="1b6a3783ea96fba250b02cf8647a2a85" CHECKSUMTYPE="MD5" SIZE="6425">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00357_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0101" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="693" lastpage="702">
+              <court pgmap="705" id="b705-13">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="705" id="b705-12">No. 632.</docketnumber>
+              <citation pgmap="705" id="b705-9">109 F. 971</citation>
+              <parties pgmap="705" id="b705-10">ANDERSON v. COMPTOIS. In re DUBOSE.</parties>
+              <decisiondate pgmap="705" id="b705-14">May 6, 1901.</decisiondate>
+              <judges pgmap="706" id="b706-9">Before GILBERT, ROSS, and MORROW, Circuit Judges.</judges>
+              <attorneys pgmap="706" id="b706-7">T. J. Geary and C. A. Severance, for respondent.</attorneys>
+              <attorneys pgmap="706" id="b706-8">E. S. Pillsbury, amicus curiae.</attorneys>
+              <opinion type="majority">
+                <author pgmap="706" id="b706-10">MORROW, Circuit Judge.</author>
+                <p pgmap="706(138) 707(403) 708(427) 709(359)" id="b706-11">It is charged in this case that Dudley Dubose, Esq., one of the attorneys for the appellee, Comptois, on the 15 th day of September, 1900, at Cape Nome, Alaska, advised the said Comptois to disobey and to refuse to comply with a certain order and writ of supersedeas is­sued out of this court on the 29th day of August, 1900, by direction of one of its judges. This is one of several cases wherein Arthur H. Noyes, district judge for the district of Alaska, Second division, appointed Alexander McKenzie receiver to take charge of and manage, mine, and work certain placer mining claims on Anvil creek, in the Cape Nome mining district. In the opinion of this court in the matter of the contempt of Alexander McKen­zie, in Tornanses v. Melsing, and Kjellman v. Rogers, cases of similar character to the one now under consid­eration, the proceedings are set forth more in detail than will be necessary in the present case; but a reference to that opinion is necessary to fully understand the character of the proceedings in which this charge of contempt had its origin. See 106 F. 775. The appointment of Alex­ander McKenzie as receiver in this case, as in the others, was made ex parte, and without notice to the respondent, and before the bill of complaint was filed with the clerk of the court. The order appointing the receiver provided also for an injunction restraining and enjoining the de­fendant from interfering with the control or management of the said receiver in the mining and working of the placer mining claim described in the complaint. The present action was brought and the receiver appointed on July 23, 1900. The defendant gave notice to the plaintiff on July 27, 1900, that he would move the court on July 30, 1900, that the appointment of McKenzie as receiver be discharged, and the order making such appointment be vacated, for the reason that the same were improperly and improvidently made by the judge. This motion was dismissed on August 10, 1900, and the appointment of McKenzie as receiver was confirmed, and the receiver­ship ordered continued until the further order of the court. Thereupon the respondent petitioned the district court for leave to prosecute an appeal to the circuit court of ap­peals from the order and decree made and’ entered on July 23, 1900, presenting an assignment of errors, and requesting that the amount of a supersedeas bond be fixed; whereupon the court disallowed and denied the petition for appeal, and refused to fix the amount of the super­sedeas bond. The respondent thereupon forwarded his petition for appeal and accompanying assignment of er­rors to the circuit court of appeals at San Francisco, Cal. This petition was presented to a judge of that court, who, after a hearing upon said petition, on August 28, 1900, granted the appeal, fixed the amount of supersedeas bond in the sum of $20,000, accepted such bond, and thereupon entered orders for writ of supersedeas to issue. The clerk of the circuit court of appeals duly issued such writ in the form approved by said circuit judge. This writ, in addition to the requirement that all proceedings under the' orders granting injunction and appointing a receiver be stayed, ordered the said receiver to at once restore to the defendant the possession of all the property in contro­versy which had been received by the said receiver under the orders appealed from. A certified copy of the writ of supersedeas was filed in the office of the clerk of the district court of Alaska at Nome on the 14th day of Sep­tember, 1900. Certified copies of the writ were taken out on that day, and served upon the attorneys for the plaintiff, Messrs. Hubbard, Beaman &amp; Hume and Dubose, by serv­ice upon Hubbard, and upon the receiver, McKenzie, de­mand being made 'upon the receiver for the restitution of the property in accordance with said writ.. The evidence shows that said receiver refused to comply with the terms of this writ, and on the following day the question of enforcing the writs of supersedeas in the several cases in which McKenzie had been appointed receiver came up before Major Van Arsdale, in command of the military forces at Nome. The attorneys for the receiver contend­ed that the writ of supersedeas was void, and that Mc­Kenzie was therefore justified in disobeying its commands. At this meeting Dubose was one of the speakers, and ar­gued that the military had no right to render any assistance in the enforcement of the writ; that the writ of superse­deas was not valid, because of lack of jurisdiction in the judge of the circuit court of appeals to issue it, and it was therefore not necessary that it be enforced or fol­lowed; that he had given that opinion to his clients, and that he would so advise them. When the charge of con­tempt against the respondent, Dubose, was called in this court on November 5, 1900, he did not appear in person, as required by the order to show cause, but upon the show­ing made he was permitted to appear by counsel, who en­tered a plea to the jurisdiction of the court, which was overruled. The answer of the respondent was thereupon filed. In this answer the respondent denies that he ever advised Comptois to disobey the writ of supersedeas is­sued by this court, but he admits the proceedings before Major Van Arsdale on September 15, 1900, when the question of enforcing the writs in the several cases, in­cluding the present one, was under discussion. He admits that upon that occasion he gave it as his opinion as a law­yer that an appeal did not lie from the order of the dis­trict court to the circuit court of appeals; that he advised Chipps (the plaintiff in another case) that the circuit court of appeals was without jurisdiction to entertain the ap­peal, and that the supersedeas was void; and as attorney for Chipps he had notified McKenzie that, if he were finally successful in maintaining his position, he would en­deavor to hold him and his bondsmen responsible. The testimony in support of the charge of contempt shows that the respondent declared that he advised his clients not to obey the writs of the circuit court of appeals, and that he would continue to give such advice. Kenneth M. Jackson, one of the attorneys for the defendant, Ander­son, testified, with respect to the proceedings before the military authorities on September IS, 1900, as follows: “Mr. Geary [attorney for McKenzie] was making some kind of an argument to Major Van Arsdale. I cannot remember what it was exactly, but it was at least justify­ing Mr. McKenzie’s action in refusing to turn over— Q. (Interrupting) Was Mr. McKenzie there? A. He was. I asked Mr. Geary myself if he advised McKenzie not to obey the order of this court, and he said that he did not advise him to do so, and he did not say he had so advised him. In fact, he refused to say so. But Mr. Dubose got up to make an argument, and Mr. Metson, if I remember right, asked Mr. Dubose if he advised his clients not to obey that order, and he said, T certainly do.’ I am not sure that Mr. Metson asked that question, but one of the counsel for the defendants asked the ques­tion. That is what brought out the response from Dubose. Q. Now, who was Mr. Dubose purporting to represent there? A. He was purporting to represent the plaintiffs. Q. Mr. Comptois? A. Yes, sir; Mr. Comptois and Mr. Chipps.” On cross-examination the witness said: “I re­member perfectly well Mr. Dubose saying, ‘I certainly do advise my client to disobey the writ.’ ”</p>
+                <p pgmap="709(66) 710(431) 711(457)" id="b709-4">W. H. Metson, one of the attorneys for Robert Chipps, the defendant in the companion case of Lindeberg et al. v. Robert Chipps, testified that he asked Dubose on this occasion if he had advised his clients that the writ was not a good one, and not to obey it; that Dubose said he had advised his clients not to obey the writs, and that he would advise them not to obey the writs. Samuel Knight, one of the attorneys for the defendants in the cases of Tornanses v. Melsing, Kjellman v. Rogers, and Nackkela v. Webster, testified that upon this occasion the various attorneys present were asked for their opinion, and Judge Dubose remarked, “If you want my opinion, I have ad­vised my clients not to obey the order,” referring to the writ of supersedeas. All the circumstances attending the proceedings before the military authorities, and the subse­quent conduct of the plaintiffs in the several actions, to­gether with the refusal of Receiver McKenzie to obey any of the writs of supersedeas, including the one issued in this case, tend to confirm the testimony of these wit­nesses as to the declaration of the respondent .that he had advised his client to disobey the writ; and that he did in fact so advise not only his own client, but others whose interests were of a similar character. These writs were all disobeyed by Receiver McKenzie, and the plain­tiffs in all the cases appear to have acted in concert in supporting his disobedience. In other words, it is appar­ent that there was a general harmony of purpose on the part of the plaintiffs in all the cases wherein McKenzie was appointed receiver to resist the authority of the cir­cuit court of appeals in granting appeals and awarding writs of supersedeas. This action was admittedly the re­sult of advice of counsel to the effect that the judge of the circuit court of appeals who allowed the appeals and granted the writs of supersedeas had no jurisdiction in the matter, and that the writs were, therefore, void. In this aspect of the case the advice of the respondent, not only that the writ of supersedeas was void, but that it should be disobeyed, is significant. There can be no ques­tion as to the right of an attorney to advise his client as to the validity of an order of court or of a writ issued un­der its authority, where such an order or writ affects the client’s interests; and if, after investigation, it is the at­torney’s honest belief that such order or writ is illegal and void, his advice to that effect will not render him liable for an error of judgment. But an attorney cannot go be­yond the right to advise, and, actuated by a spirit of re­sistance, conspire with his client or with others to disobey an order of court, obstruct the due administration of the laws, and bring the authority of a court of justice into contempt. As said by the supreme court of appeals of Virginia in Wells v. Com., 21 Grat. (Va.) 500, 508: “It is unquestionably the duty of an attorney to endeavor, to the best of his ability, by his advice and counsel, and by his conduct, to secure to his client every legal right and remedy to which he may think him even probably entitled; and if he fails to do it he is faithless to his trust, and should be held morally and legally responsible. And if he acts in good faith, if he demeans himself honestly, he is not responsible for an error in judgment. * * * But when a man becomes an attorney at law he does not cease to be a citizen, and when he assumes the relation of attorney to a client he is not absolved from his obli­gations as a man and a citizen. * * * We hold that, as it is the duty of the client, so is it the duty of the at­torney, and in a higher sense, considering his relation to the courts, and in general his greater intelligence and capacity to appreciate its importance, to respect the au­thority and to maintain the lawful jurisdiction of the courts of justice; ‘for laws, without a competent authority to secure their administration from disobedience and con­tempt, would be vain and nugatory.’ An attorney, then, who would corruptly conspire with his client to obstruct the due administration of the law, and to bring the authori­ty of a court of justice into contempt by resisting and obstructing the execution of its lawful decrees, by whatever contrivance, even though it should be by procuring the interference of another court which had no appellate or supervisory power or jurisdiction of the subject-matter of the suit, in abuse of its powers to enjoin and inhibit the officers of said court and other persons from the exe­cution or performance of said decrees, he is at least as guilty of an offense against public justice, and of a con­tempt of court, as his client, and as justly liable to sum­mary punishment. But where, as I have said, the attorney has acted in good faith, although he may have erred in judgment, he is not liable. To vindicate his conduct, it is not necessary to be shown that he was right in his opin­ions. But it is necessary to be shown that he was acting in good faith, for what he believed to be the interest of his client, and not from disrespect to the court, or from a design to oust it of its lawful jurisdiction.”</p>
+                <p pgmap="712" id="b712-3">In the present case the conduct of the respondent has some peculiar features. He does not claim that his client applied to him for advice as to the course to be pursued with respect to the order and writ of this court; indeed, respondent alleges in his answer that he never met the plaintiff, Comptois, but once, and that was about August 1, 1900, on the occasion when he was employed in this and certain other cases to assist other attorneys in the trial of the cases. In all these cases McKenzie had been appointed receiver to work and mine the most valuable claims on Anvil creek, and the center of controversy ap­pears to have been to maintain him in that position. The advice of the respondent under these circumstances must, therefore, have been in behalf of all the plaintiffs, includ­ing Comptois, but in some subordinate relation or inter­est to that o.f the receiver. This view of the situation of affairs is confirmed by the subsequent proceedings in these cases. They have all been brought here on ap­peal from the order appointing the receiver and granting an injunction against the defendants; but in not one of the cases has there been any effort made to sustain or justify the cause of action asserted by the plaintiff in the court below, and in the present case of Comptois against Anderson a final decree was ordered entered for the de­fendant upon the stipulation of the plaintiff before the case on appeal had been reached on the calendar of the court. There is but one conclusion to be drawn from such proceedings, and that is that the appointment of a receiver to work and mine the placer claim owned by the defendant was the beginning and the end of the cause of action. Under such circumstances the declaration of the respondent that he had advised his client to disobey the writ of supersedeas, and that he would continue to give such advice, coupled with the acts of the parties in re­fusing to comply with the commands of the writ, estab­lishes the fact that the respondent was guilty of contempt of court, as charged in the affidavits.</p>
+                <p pgmap="712(51) 713(27)" id="b712-4">It is to be said in favor of the respondent, however, and in mitigation of his punishment, that the testimony shows that when the deputy marshals arrived at Nome on Octo­ber 15, 1900, to execute the writ of supersedeas, the re­spondent expressed himself as regretting that he had mis­apprehended and misconstrued the writ, and he thereupon advised obedience to its requirements. This fact will be given its full weight in the judgment of the court.</p>
+                <p pgmap="713(403) 714(71)" id="b713-4">The question of jurisdiction of this court has been raised in this case, as it was in the proceedings for contempt against Alexander McKenzie in the cases of Tornanses v. Melsing and Kjellman v. Rogers in this court (106 F.­775), and in the case in the supreme court of the United States entitled In re McKenzie (180 U.S. 536, 21 S.Ct. 468, 45 L.Ed. 657). There is, however, this difference in these cases: In the McKenzie Case it was contended that the question of contempt of court, based upon the re­fusal of-McKenzie, as receiver, on September 14 and 15, 1900, to turn over certain gold dust in compliance with the writ of supersedeas, depended upon the fact whether or not at that time this court had acquired jurisdiction of the case by the filing in the lower court and the service of certain papers necessary to remove the case to this court. The question of jurisdiction in that case at that time was urged as important, because it involved proceedings where­in McKenzie, as an officer of the lower court, might be held liable for the surrender of property if he did so in obedience to a writ issued by a court which had not at the time acquired jurisdiction. But no such question arises in this case. When the respondent declared on September 15, 1900, that he had advised his client to disobey the writ of supersedeas, and would continue to so advise him, he did not limit his advice to the particular moment when the declaration was made, but it was specifically made ap­plicable to any and all times in which obedience to the writ of supersedeas might be required; and since, at that time, the appeal had been regularly allowed by a judge of this court, a citation signed and issued, a bond on su­persedeas taken, and approved, the writ of supersedeas issued and filed in the lower court and served, and the respondent advised of the proceedings, we hold that this writ was a lawful writ, and that this court had acquired such jurisdiction in the case as would enable it to enforce obedience to its terms. Brandies v. Cochrane, 105 U.S. 262, 26 L.Ed. 989; Brown v. McConnell, 124 U.S. 489, 8 S.Ct. 559, 31 L.Ed. 495; Credit Co. v. Arkansas Cent. Ry. Co., 128 U.S. 258, 9 S.Ct. 107, 32 L.Ed. 448; In re McKenzie, 180 U.S. 536, 21 S.Ct. 468, 45 L.Ed. 657. It is therefore considered and adjudged that the respond­ent did commit contempt of this court as charged, and for the contempt so committed it is now ordered and ad­judged that he, the said Dudley Dubose, be imprisoned in the county jail of Alameda county, California, for the period of six months. The marshal will execute this judg­ment.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="705" ORDERLABEL="693" TYPE="page">
+        <fptr FILEID="tiff_00353_0"/>
+        <fptr FILEID="jpg_00353_0"/>
+        <fptr FILEID="alto_00353_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_705.3" BETYPE="IDREF" FILEID="alto_00353_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="706" ORDERLABEL="694" TYPE="page">
+        <fptr FILEID="tiff_00353_1"/>
+        <fptr FILEID="jpg_00353_1"/>
+        <fptr FILEID="alto_00353_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_706.2" BETYPE="IDREF" FILEID="alto_00353_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="707" ORDERLABEL="695" TYPE="page">
+        <fptr FILEID="tiff_00354_0"/>
+        <fptr FILEID="jpg_00354_0"/>
+        <fptr FILEID="alto_00354_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_707.3" BETYPE="IDREF" FILEID="alto_00354_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="708" ORDERLABEL="696" TYPE="page">
+        <fptr FILEID="tiff_00354_1"/>
+        <fptr FILEID="jpg_00354_1"/>
+        <fptr FILEID="alto_00354_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_708.2" BETYPE="IDREF" FILEID="alto_00354_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="709" ORDERLABEL="697" TYPE="page">
+        <fptr FILEID="tiff_00355_0"/>
+        <fptr FILEID="jpg_00355_0"/>
+        <fptr FILEID="alto_00355_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_709.3" BETYPE="IDREF" FILEID="alto_00355_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="710" ORDERLABEL="698" TYPE="page">
+        <fptr FILEID="tiff_00355_1"/>
+        <fptr FILEID="jpg_00355_1"/>
+        <fptr FILEID="alto_00355_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_710.2" BETYPE="IDREF" FILEID="alto_00355_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="711" ORDERLABEL="699" TYPE="page">
+        <fptr FILEID="tiff_00356_0"/>
+        <fptr FILEID="jpg_00356_0"/>
+        <fptr FILEID="alto_00356_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_711.3" BETYPE="IDREF" FILEID="alto_00356_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="712" ORDERLABEL="700" TYPE="page">
+        <fptr FILEID="tiff_00356_1"/>
+        <fptr FILEID="jpg_00356_1"/>
+        <fptr FILEID="alto_00356_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_712.1" BETYPE="IDREF" FILEID="alto_00356_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="713" ORDERLABEL="701" TYPE="page">
+        <fptr FILEID="tiff_00357_0"/>
+        <fptr FILEID="jpg_00357_0"/>
+        <fptr FILEID="alto_00357_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_713.3" BETYPE="IDREF" FILEID="alto_00357_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="714" ORDERLABEL="702" TYPE="page">
+        <fptr FILEID="tiff_00357_1"/>
+        <fptr FILEID="jpg_00357_1"/>
+        <fptr FILEID="alto_00357_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_714.2" BETYPE="IDREF" FILEID="alto_00357_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b705-9" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_705.9" BETYPE="IDREF" FILEID="alto_00353_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b706-11" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_706.12" BETYPE="IDREF" FILEID="alto_00353_1"/>
+            <area BEGIN="BL_707.1" BETYPE="IDREF" FILEID="alto_00354_0"/>
+            <area BEGIN="BL_708.1" BETYPE="IDREF" FILEID="alto_00354_1"/>
+            <area BEGIN="BL_709.1" BETYPE="IDREF" FILEID="alto_00355_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b712-4" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_712.4" BETYPE="IDREF" FILEID="alto_00356_1"/>
+            <area BEGIN="BL_713.1" BETYPE="IDREF" FILEID="alto_00357_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b709-4" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_709.4" BETYPE="IDREF" FILEID="alto_00355_0"/>
+            <area BEGIN="BL_710.1" BETYPE="IDREF" FILEID="alto_00355_1"/>
+            <area BEGIN="BL_711.1" BETYPE="IDREF" FILEID="alto_00356_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b712-3" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_712.3" BETYPE="IDREF" FILEID="alto_00356_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b705-13" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_705.12" BETYPE="IDREF" FILEID="alto_00353_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b705-12" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_705.11" BETYPE="IDREF" FILEID="alto_00353_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b706-10" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_706.11" BETYPE="IDREF" FILEID="alto_00353_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b705-10" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_705.10" BETYPE="IDREF" FILEID="alto_00353_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b706-7" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_706.8" BETYPE="IDREF" FILEID="alto_00353_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b705-14" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_705.13" BETYPE="IDREF" FILEID="alto_00353_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b713-4" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_713.4" BETYPE="IDREF" FILEID="alto_00357_0"/>
+            <area BEGIN="BL_714.1" BETYPE="IDREF" FILEID="alto_00357_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b706-8" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_706.9" BETYPE="IDREF" FILEID="alto_00353_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b706-9" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_706.10" BETYPE="IDREF" FILEID="alto_00353_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

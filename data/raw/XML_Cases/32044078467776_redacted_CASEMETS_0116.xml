@@ -1,0 +1,953 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0116" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Stockslager v. United States">STOCKSLAGER v. UNITED STATES</name>
+          <docketnumber>No. 784</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 810</citation>
+          <citation category="parallel" type="bluebook">116 F. 590</citation>
+          <decisiondate>1902-05-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:10Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00411_1" MIMETYPE="image/tiff" CHECKSUM="376e8da4c5bd17ec788e2d77cea5859f" CHECKSUMTYPE="MD5" SIZE="27200">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00411_1.tif"/>
+      </file>
+      <file ID="tiff_00412_0" MIMETYPE="image/tiff" CHECKSUM="be3958f4df9f3e5c376d14a5bedd66ac" CHECKSUMTYPE="MD5" SIZE="3662">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00412_0.tif"/>
+      </file>
+      <file ID="tiff_00412_1" MIMETYPE="image/tiff" CHECKSUM="503d66385ab8d8af85d32502218db6d1" CHECKSUMTYPE="MD5" SIZE="20394">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00412_1.tif"/>
+      </file>
+      <file ID="tiff_00413_0" MIMETYPE="image/tiff" CHECKSUM="4114c963c36684b952f27f7fd0e9f044" CHECKSUMTYPE="MD5" SIZE="53220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00413_0.tif"/>
+      </file>
+      <file ID="tiff_00413_1" MIMETYPE="image/tiff" CHECKSUM="67df670307c50e14ae51896e9133992b" CHECKSUMTYPE="MD5" SIZE="52764">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00413_1.tif"/>
+      </file>
+      <file ID="tiff_00414_0" MIMETYPE="image/tiff" CHECKSUM="81edebdb6388e0e0d452fafe72d3cea1" CHECKSUMTYPE="MD5" SIZE="53722">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00414_0.tif"/>
+      </file>
+      <file ID="tiff_00414_1" MIMETYPE="image/tiff" CHECKSUM="da2cf4afe1bc1584573fa49a1a9b0158" CHECKSUMTYPE="MD5" SIZE="53958">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00414_1.tif"/>
+      </file>
+      <file ID="tiff_00415_0" MIMETYPE="image/tiff" CHECKSUM="6874ae39e6aa83c9c50464289846fea2" CHECKSUMTYPE="MD5" SIZE="53748">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00415_0.tif"/>
+      </file>
+      <file ID="tiff_00415_1" MIMETYPE="image/tiff" CHECKSUM="71789c991324d0a109b5c8c5c019bc76" CHECKSUMTYPE="MD5" SIZE="53654">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00415_1.tif"/>
+      </file>
+      <file ID="tiff_00416_0" MIMETYPE="image/tiff" CHECKSUM="f8370307fe0793d86fbfaa4453eaac59" CHECKSUMTYPE="MD5" SIZE="51150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00416_0.tif"/>
+      </file>
+      <file ID="tiff_00416_1" MIMETYPE="image/tiff" CHECKSUM="39beda177d317e8e10958a8f0beeaf74" CHECKSUMTYPE="MD5" SIZE="55038">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00416_1.tif"/>
+      </file>
+      <file ID="tiff_00417_0" MIMETYPE="image/tiff" CHECKSUM="793cf12914db8c9aa0902bd5f082df5b" CHECKSUMTYPE="MD5" SIZE="52940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00417_0.tif"/>
+      </file>
+      <file ID="tiff_00417_1" MIMETYPE="image/tiff" CHECKSUM="c59df320c772540fb89bdbd32bfd79ff" CHECKSUMTYPE="MD5" SIZE="53698">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00417_1.tif"/>
+      </file>
+      <file ID="tiff_00418_0" MIMETYPE="image/tiff" CHECKSUM="d25a90a5dca80d4fb5937caae17d677d" CHECKSUMTYPE="MD5" SIZE="50526">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00418_0.tif"/>
+      </file>
+      <file ID="tiff_00418_1" MIMETYPE="image/tiff" CHECKSUM="f614665bb7979008787c31d12d29069c" CHECKSUMTYPE="MD5" SIZE="53182">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00418_1.tif"/>
+      </file>
+      <file ID="tiff_00419_0" MIMETYPE="image/tiff" CHECKSUM="cdee73eb74e0c2c550c22c366de4a50e" CHECKSUMTYPE="MD5" SIZE="51356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00419_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00411_1" MIMETYPE="image/jpg" CHECKSUM="f0b98f7765e8f5c3326cc89870cff717" CHECKSUMTYPE="MD5" SIZE="130819">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00411_1.jpg"/>
+      </file>
+      <file ID="jpg_00412_0" MIMETYPE="image/jpg" CHECKSUM="5a3156895ca1674f4c2d556ba8ffc004" CHECKSUMTYPE="MD5" SIZE="48149">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00412_0.jpg"/>
+      </file>
+      <file ID="jpg_00412_1" MIMETYPE="image/jpg" CHECKSUM="f0c752ca6c7b07f715ea58cea6d908e6" CHECKSUMTYPE="MD5" SIZE="119453">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00412_1.jpg"/>
+      </file>
+      <file ID="jpg_00413_0" MIMETYPE="image/jpg" CHECKSUM="2f395bc4e09ca80a400b5289364f1184" CHECKSUMTYPE="MD5" SIZE="198687">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00413_0.jpg"/>
+      </file>
+      <file ID="jpg_00413_1" MIMETYPE="image/jpg" CHECKSUM="5036e7a60ff2ad81ad0e61ff3eb98b67" CHECKSUMTYPE="MD5" SIZE="205175">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00413_1.jpg"/>
+      </file>
+      <file ID="jpg_00414_0" MIMETYPE="image/jpg" CHECKSUM="d8ff109897904c178d4268c2100ddc06" CHECKSUMTYPE="MD5" SIZE="197334">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00414_0.jpg"/>
+      </file>
+      <file ID="jpg_00414_1" MIMETYPE="image/jpg" CHECKSUM="6773c12cec877db4fdb4f382c4f61232" CHECKSUMTYPE="MD5" SIZE="212069">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00414_1.jpg"/>
+      </file>
+      <file ID="jpg_00415_0" MIMETYPE="image/jpg" CHECKSUM="14f012080751f6603a7bd8880ff44636" CHECKSUMTYPE="MD5" SIZE="198448">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00415_0.jpg"/>
+      </file>
+      <file ID="jpg_00415_1" MIMETYPE="image/jpg" CHECKSUM="7a9e43cd7bb1bc9c9df32dfa649267c5" CHECKSUMTYPE="MD5" SIZE="207692">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00415_1.jpg"/>
+      </file>
+      <file ID="jpg_00416_0" MIMETYPE="image/jpg" CHECKSUM="989418bbf72709f53af6929af5f65a35" CHECKSUMTYPE="MD5" SIZE="189948">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00416_0.jpg"/>
+      </file>
+      <file ID="jpg_00416_1" MIMETYPE="image/jpg" CHECKSUM="c4240625c0b82335255c303d6d67b528" CHECKSUMTYPE="MD5" SIZE="214699">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00416_1.jpg"/>
+      </file>
+      <file ID="jpg_00417_0" MIMETYPE="image/jpg" CHECKSUM="4867e0babab8a5aa0a6985cfb6f16a63" CHECKSUMTYPE="MD5" SIZE="198645">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00417_0.jpg"/>
+      </file>
+      <file ID="jpg_00417_1" MIMETYPE="image/jpg" CHECKSUM="7278bbf3aec302c3b6fe31be4555862b" CHECKSUMTYPE="MD5" SIZE="203726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00417_1.jpg"/>
+      </file>
+      <file ID="jpg_00418_0" MIMETYPE="image/jpg" CHECKSUM="1034d75e47c32768ac51f3912b885b1a" CHECKSUMTYPE="MD5" SIZE="188304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00418_0.jpg"/>
+      </file>
+      <file ID="jpg_00418_1" MIMETYPE="image/jpg" CHECKSUM="8bcb25191d28b71bc1a8191434665888" CHECKSUMTYPE="MD5" SIZE="206646">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00418_1.jpg"/>
+      </file>
+      <file ID="jpg_00419_0" MIMETYPE="image/jpg" CHECKSUM="b193d398362bb24eeb8fcd1370323b59" CHECKSUMTYPE="MD5" SIZE="193784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00419_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00411_1" MIMETYPE="text/xml+gzip" CHECKSUM="2ccce81b20b18a2d5c7526ede8e3ae74" CHECKSUMTYPE="MD5" SIZE="7170">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00411_1.xml.gz"/>
+      </file>
+      <file ID="alto_00412_0" MIMETYPE="text/xml+gzip" CHECKSUM="574471c5bf9620f66434fac2b6a99126" CHECKSUMTYPE="MD5" SIZE="889">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00412_0.xml.gz"/>
+      </file>
+      <file ID="alto_00412_1" MIMETYPE="text/xml+gzip" CHECKSUM="4fdddb36e86ca50dfdec474089dbbb59" CHECKSUMTYPE="MD5" SIZE="4740">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00412_1.xml.gz"/>
+      </file>
+      <file ID="alto_00413_0" MIMETYPE="text/xml+gzip" CHECKSUM="a754e2a80140fe92ebf0d1c5b1b6ef00" CHECKSUMTYPE="MD5" SIZE="12787">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00413_0.xml.gz"/>
+      </file>
+      <file ID="alto_00413_1" MIMETYPE="text/xml+gzip" CHECKSUM="bcc5f8a0540dade733b6ec4ac67fc729" CHECKSUMTYPE="MD5" SIZE="12720">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00413_1.xml.gz"/>
+      </file>
+      <file ID="alto_00414_0" MIMETYPE="text/xml+gzip" CHECKSUM="90f56e0dcee5b501ff9ae86d7d37bd3a" CHECKSUMTYPE="MD5" SIZE="13380">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00414_0.xml.gz"/>
+      </file>
+      <file ID="alto_00414_1" MIMETYPE="text/xml+gzip" CHECKSUM="d82618570b5e94de16bb4246071865b9" CHECKSUMTYPE="MD5" SIZE="12808">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00414_1.xml.gz"/>
+      </file>
+      <file ID="alto_00415_0" MIMETYPE="text/xml+gzip" CHECKSUM="080ed69ef68e1be5dee8091abdf10a40" CHECKSUMTYPE="MD5" SIZE="13277">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00415_0.xml.gz"/>
+      </file>
+      <file ID="alto_00415_1" MIMETYPE="text/xml+gzip" CHECKSUM="d17ae16af5dca17b2204d0ee83e0f4f5" CHECKSUMTYPE="MD5" SIZE="13405">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00415_1.xml.gz"/>
+      </file>
+      <file ID="alto_00416_0" MIMETYPE="text/xml+gzip" CHECKSUM="df0961578e63d4227c77d41c359248f6" CHECKSUMTYPE="MD5" SIZE="12423">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00416_0.xml.gz"/>
+      </file>
+      <file ID="alto_00416_1" MIMETYPE="text/xml+gzip" CHECKSUM="de389e207cf66fb534655e8240704bad" CHECKSUMTYPE="MD5" SIZE="12813">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00416_1.xml.gz"/>
+      </file>
+      <file ID="alto_00417_0" MIMETYPE="text/xml+gzip" CHECKSUM="286d923e98035e583bfb0484d85220a8" CHECKSUMTYPE="MD5" SIZE="13646">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00417_0.xml.gz"/>
+      </file>
+      <file ID="alto_00417_1" MIMETYPE="text/xml+gzip" CHECKSUM="7c30caed0dd4d36cbb86a7d3c5a40f3e" CHECKSUMTYPE="MD5" SIZE="14167">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00417_1.xml.gz"/>
+      </file>
+      <file ID="alto_00418_0" MIMETYPE="text/xml+gzip" CHECKSUM="016a59fb3602031ba44a1f9a74c4167f" CHECKSUMTYPE="MD5" SIZE="12598">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00418_0.xml.gz"/>
+      </file>
+      <file ID="alto_00418_1" MIMETYPE="text/xml+gzip" CHECKSUM="db25133d4f7c835ada516e391b9d123b" CHECKSUMTYPE="MD5" SIZE="12827">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00418_1.xml.gz"/>
+      </file>
+      <file ID="alto_00419_0" MIMETYPE="text/xml+gzip" CHECKSUM="c16e3ecbe395774fbd9b7a223ac2b0a9" CHECKSUMTYPE="MD5" SIZE="12732">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00419_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0116" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="810" lastpage="825">
+              <court pgmap="822" id="b822-8">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="822" id="b822-7">No. 784.</docketnumber>
+              <citation pgmap="822" id="b822-5">116 F. 590</citation>
+              <parties pgmap="822" id="b822-6">STOCKSLAGER v. UNITED STATES.</parties>
+              <decisiondate pgmap="822" id="ApA">May 5, 1902.</decisiondate>
+              <judges pgmap="824" id="b824-13">Before GILBERT and ROSS, Circuit Judges, and HAWLEY, District Judge.</judges>
+              <attorneys pgmap="824" id="b824-11">Key Pittman, for plaintiff in error.</attorneys>
+              <attorneys pgmap="824" id="b824-12">Joseph K. Wood, U. S. Dist. Atty.</attorneys>
+              <opinion type="majority">
+                <author pgmap="824" id="b824-14">HAWLEY, District Judge.</author>
+                <p pgmap="824(92) 825(168)" id="b824-15">The plaintiff in error was indicted, tried, and convicted of the crime of forgery, and sentenced to be imprisoned in the United States penitentiary at McNeill’s Island, in the state of Washington, for the period of three years. He seeks to have the proceedings in said case reviewed, and to have the judgment rendered therein reversed, for alleged errors occurring therein. The assignment of er­rors is as follows: “(1) Error in overruling defendant’s motion to quash the indictment. (2) Error of the court in overruling defendant’s demurrer to the indictment. (3) Error of the court in overruling the objection .of defend­ant to the question, asked the witness Frank Johnson on his direct examination, with reference to the money witness lent defendant, as follows, to wit: ‘Q. State to the jury how you came to let him have it, and what he gave you as security.’ (4) Error of the court in overruling the objection of the defendant to the question asked the wit­ness Frank Johnson on his direct examination, as follows, to wit: ‘Q. What was the name signed to the check?’ (5) Error of the court in overruling the defendant’s ob­jection to admission in evidence of the check and exhibit marked Tiff. Ex. A,’ and allowing the same to be read to the jury. (6) Error of the court in overruling the de­fendant’s motion for a nonsuit, and that the jury be in­structed to return a verdict of not guilty. (7) Error of the court in overruling prisoner’s motion in arrest of judgment.”</p>
+                <p pgmap="825(250) 826(265)" id="b825-3">The first, and most important, assignment of error, is that the court erred “in overruling defendant’s motion to quash the indictment” on the ground that no legal, au­thorized term of court had been appointed, published, or convened at Nome at the time when the grand jury that indicted him was called, drawn, or impaneled, or at the time when said indictment was presented or filed, or at the time he was arraigned; that at all of said times and dates Judge James Wickersham was holding the district court at a time and place unauthorized by law, and that, therefore, all proceedings before him were coram non judice. What is the law upon this subject? What are the facts upon which the contention is based? A term of court is a definite and fixed time prescribed by law for the regular dispatch of judicial business. Terms of court may be either general or special. The general terms are usually fixed by statute. Special terms are, as a general rule, convened by giving notice of the time and place and in the manner required by statutory or constitutional pro­visions. The necessity for having a fixed time and place for holding court, for the proper and due administration of justice, must be apparent to all; for, were it otherwise, all persons interested in the proceedings of the court would be liable to be kept in attendance as to the time and place of holding the same, and endless confusion would exist, and injustice to litigants might frequently arise. If a term of court, as fixed by law, is not legally convened, or the term is allowed to lapse, the courts have general­ly held that the proceedings had therein would be null and void. Northrup v. People, 37 N.Y. 203, 205; People v. Nugent, 57 App.Div. 542, 67 N.Y.S. 1035; Irwin v. Irwin, 2 Okl. 180, 37 P. 548; Insurance Co. v. Pappe, 4 Okl. 110, 116, 43 P. 1085; State v. Roberts, 8 Nev. 239, 242; 21 Enc.Pl. &amp; Prac. 603, 609, 637, and au­thorities there cited. In State v. Roberts, 8 Nev. 239, where the regular term of the district court was not con­vened at the time fixed by the statute of the state, the court said: “The intention of the legislature in prescribing the time for the commencement and the place for holding the terms 'of the district court was to attain certainty. The principle of a fixed notice by the legislature rests upon public convenience; otherwise suitors, grand and trial jurors, and others interested in the proceedings of the court would be kept in attendance upon an uncertainty of time and place. ‘Certain fixed times and places’ were said by Spelman to be essential to the existence of a court; and these essentials have been recognized by lexicographers, text-writers, and judges ever since his time. It is indis­pensable to the validity of a judgment that it be rendered at the time and place prescribed by law. The proceed­ings in this case were, therefore, coram non judice and void.”</p>
+                <p pgmap="826" id="b826-4">The disposition to be made of the first assignment of error in this case depends upon the construction to be given to certain provisions of “an act making further pro­visions for a civil government for Alaska, and for other purposes,” approved June 6, 1900 (31 Stat. 321, 322), and certain orders made and proceedings taken by the court in the Second division of the district court of Alas­ka. Section 4 of the act of congress reads as follows:</p>
+                <blockquote pgmap="826(67) 827(136)" id="A-S">“There is hereby established a district court for the dis­trict, which shall be a court of general jurisdiction in civil, criminal, equity, and admiralty causes; and three district judges shall be appointed for the district, who shall, during their terms of office, reside in the divisions of the district to which they may be respectively assigned by the president. The court shall consist of three divi­sions. * * * The judge designated to preside over division numbered two shall reside at St. Michaels during his term of office, and shall hold at least one term of court each year at St. Michaels, in the district beginning the third Monday in June. * * * Each of the judges is authorized and directed to hold such special terms of court as may be necessary for the public welfare or for the dispatch of the business of the court, at such times and places in the district as they or any of them, respec­tively, may deem expedient or as the attorney-general may direct. * * * At least thirty days’ notice shall be given by the judge or the clerk of the time and place of holding special terms of the court.”</blockquote>
+                <p pgmap="827" id="b827-6">The record shows that on July 5, 1901, Arthur H. Noyes, the duly qualified district judge for the Second di­vision, in open court at Nome made the following order:</p>
+                <blockquote pgmap="827" id="APb">“It appearing to this court that it is necessary to hold a special term thereof for the discharge of the business of a distant portion of the district, and it appearing that un­der the provisions of section 4 of an act of congress ap­proved June 6, 1900, the attorney general of the United States has directed that a special term of this court be held at Unalaska in this district, and that the necessary notice thereof be given: It is now ordered that a special term of this court be held at Unalaska, to begin on the 19th day of August, 1901; and it is further ordered that the clerk of this court give immediate notice thereof by posting at least three public notices; one to be posted at Nome, one to be posted at St. Michaels, and another to be posted at a prominent place in the said town of Unalas­ka, which notices shall be posted at least thirty days pri- or to the said 19th day of August, 1901; and the United States marshal of this district is hereby instructed to pro­vide a suitable court room and facilities for holding said term of court at Unalaska, and have the same in readi­ness in August for holding the said term of court.”</blockquote>
+                <p pgmap="827(63) 828(152)" id="AEM">Notice of this order was duly given by the clerk of the court, in pursuance of the provisions of section 4 of the act of congress, and in pursuance of the directions of the attorney general and of the above order of the court. It further appears from the record that on August 16, 1901, James Wickersham, the qualified district judge of the Third division, and authorized to act as judge in the Sec­ond division, made an order commanding the clerk and jury commissioner to draw the grand jury to appear at Unalaska on August 19, 1901; that on the said 19th day of August the special term of court was regularly convened at Unalaska, Judge Wickersham presiding, a grand jury was duly impaneled, etc. It further appears that on September 10, 1901, in open court, Judge Wicker-­sham presiding, the following order was made at Unalas­ka, viz.: “Good and sufficient cause appearing to the court therefor, it is hereby ordered that the August, 1901, spe­cial term of this court, beginning August 19, 1901, and held at Unalaska, in said district and division, be, and the same is hereby, adjourned to September 16, 1901, at ten (10) o’clock in the forenoon, to be then held at Nome, m said district and division.”</p>
+                <p pgmap="828" id="b828-3">That thereafter, at Nome, Alaska, September 21, 1901, Judge Wickersham ordered the clerk and jury commis­sioner to draw the names of persons to serve as grand jurors “at the special August term, 1901, of said court, to be holden at Nome, Alaska, on the '23d day of Septem­ber, A. D. 1901.” That on said 23d day of September, at Nome, the district court of the district was convened, James Wickersham as presiding judge, and on that and the next day the grand jurors were examined and im­paneled. It was this grand jury that found’ and returned into the court, at Nome, the indictment against the plain­tiff in error (defendant in the court below).</p>
+                <p pgmap="828(150) 829(114)" id="b828-4">The motion to quash the indictment was based upon affidavits showing that the orders above referred to ap­pear upon the records of the court at the term in Nome and at Unalaska, but these orders do not show or tend to show that no notice was given for 30 days of the holding of a special term of court at Nome, if such a no­tice was necessary. They show that the term of court at Unalaska was properly held, and that in adjourning court at that place the judge did not give 30 days’ notice of the time when the court would meet at Nome; but the statute which is relied upon as requiring 30 days’ notice does not specify how such notice shall be given. The statute would be complied with if the notice was published in a newspaper, if one was published in the county where the special term of court was to be held; or, if none was published in that county, in a newspaper of general cir­culation in an adjoining county; or by posting notices in the county where the special term was to be held; or by an order duly published, made in open court, which was legally held at any other place in the division; or in any other manner which would inform the general pub­lic of the time and place when and where the special term of court would be holden. The 30-days notice required by the statute is mandatory. The manner or form in which the notice shall be given is^ directory.</p>
+                <p pgmap="829(322) 830(418)" id="b829-4">It is the validity of the court at Nome that is ques­tioned. The record, however, is silent as to the proceed­ings at Nome by Judge Noyes after making the order for the special term at Unalaska. For aught that appears in the records of this case, he may have continued the term of court at Nome, and kept it alive until Judge Wicker-­sham opened court there on September 26, 1901, in which event there would not be any necessity for giving any no­tice for a special term at Nome.. The proofs, as made, and the argument of the counsel, based thereon, as to the invalidity of the term of court at Nome, could not possi­bly have any legal effect unless it were true that under the laws of Alaska but one legal term of court could exist or transact business in the Second division at the same time. Such a contention would be absurd. Under the laws of Alaska the judges appointed to hold court in their respective divisions were fully authorized to hold a term of court, regular or special, anywhere within the district of Alaska where the necessities of the public interests re­quire it, care being taken that due and proper notice be given of any special term of court being holden at any other place than as fixed by the statute. For instance, Judge Brown, of the First division, could hold court at St. Michaels, Judge Noyes at Nome, and Judge Wicker-­sham at Unalaska, at the same time, in the Second divi­sion, always provided that the court over which each pre­sided was legally convened. This, under the law, cannot be questioned. A special term ordered by the judge of one division, or by the attorney general, might be held by a judge of any other division. Gonazales v. Cunningham, 164 U.S. 612, 621, 17 S.Ct. 182, 41 L.Ed. 572. Sup­pose, for instance, that Judge Noyes, while holding court at Nome, requested Judge Wickersham, when he got through with the special term at Unalaska, to come to Nome, and hold court there, and the court at Nome was kept alive, and the term had not lapsed, could it legally be said that Judge Wickersham had no authority to hold the court at Nome because 30 days’ notice had not been given? Certainly not. A term of court once regularly convened continues in session until it is actually adjourned for the term. Schofield v. Cattle Co. (C.C.) 65 F. 433,, 435. All parties are bound to take notice of the term and meetings of the court, the terms of which, whether regu­lar or special, are fixed by statute, or of which due notice has been given as by law required. 21 Enc.Pl. &amp; Prac. 603, and authorities there cited. The facts offered by plaintiff in error fall far short of attacking the validity of the term of court at Nome. We are bound to assume, no facts appearing to the contrary, that the term of court at Nome was legally convened. The burden of overcom­ing the presumption of regularity of the proceedings rests upon him who seeks to contest their validity. State v. Nolan, 99 Mo. 569, 577, 12 S.W. 1047; Black v. Bent, 20 Colo. 342, 347, 38 P. 387; Ring v. State, 96 Ga. 295, 22 S.E. 526; Bostwick v. Bryant, 113 Ind. 448, 459, 16 N.E. 378; Bank v. Anderson, 6 Wyo. 518, 525, 48 P.­197; Talbert v. Hopper, 42 Cal. 397, 401. The general drift of all the authorities upon this point is that in all cases where it appears that it was possible and competent for a court to have been in session on a given day, and there is nothing in the record to show that the terms and conditions authorizing a session have not been fully an­swered, it must be presumed that what was done by the court below was properly and legally done, and that' the prerequisite steps necessary to constitute a legal court were taken. 21 Enc.Pl. &amp; Prac. 611, and authorities there cited. No facts are shown which would justify this court in hold­ing that the term at Nome lapsed by reason of any fail­ure to keep it in existence. It necessarily follows, from the views we have expressed, that the court did not err in overruling the motion to quash the indictment.</p>
+                <p pgmap="830(20) 831(113)" id="b830-4">Some suggestion was made by counsel that the grand jury ought to have been drawn in open court, instead of by the jury commissioners upon the order of the judge. We are of opinion that the names of the grand jurors were legally drawn. The plaintiff in error enjoyed all the pro­tection which he could have had if the names had been drawn in open court. The grand jurors appeared in open court at the time designated in the order, and were regu­larly impaneled. Drawing of jurors upon an order of the judge during vacation of the court constitutes no legal ground of quashing the indictment, especially where, as here, it is not shown that any prejudice to the defendant resulted therefrom. U. S. v. Greene (D.C.) 113 F. 683, 696.</p>
+                <p pgmap="831" id="b831-3">It is next claimed that the court erred in overruling de­fendant’s demurrer to the indictment. The indictment reads as follows: “Guy N. Stockslager is accused by the grand jury of the district of Alaska, division No. two, by this indictment, of the crime of forgery, committed as follows: The said Guy N. Stockslager, on the 28th day of July, 1901, in the district aforesaid, did willfully, knowingly, and feloniously utter and publish as true and genuine to one Frank Johnson a certain false and forged writing and check, the tenor, purport, and effect whereof is as follows:</p>
+                <blockquote pgmap="831" id="b831-4">“ ‘Nome City, Alaska, July 26th, 1901. No.</blockquote>
+                <blockquote pgmap="831" id="b831-5">“ ‘The Alaska Banking and Safe Deposit Co.: Pay to Guy N. Stockslager, or bearer, $100.00 (one hundred dol­lars). Cabell Whitehead.’</blockquote>
+                <blockquote pgmap="831" id="b831-6">“And indorsed thereon the following: ‘Guy N. Stocks-­lager.’ He, the said Guy N. Stockslager, then and there well knowing the same to be false and forged, with in­tent to injure and defraud; contrary to the form of the statute in such case made and provided, and against the peace and dignity of the United States.”</blockquote>
+                <p pgmap="831(97) 832(415) 833(66)" id="b831-7">The grounds of objection to the sufficiency of this in­dictment are: (1) That it fails to charge that the forged instrument was uttered and published with intent to in­jure or defraud; (2) that it does not conform to the re­quirements of chapter 7, tit. 2, of the Code of Civil Pro­cedure for Alaska; (3) that it is not in the form set forth in the appendix of said Code; and (4) it charges the in­tent to injure and defraud in the conjunctive, instead of the alternative. These several objections are purely tech­nical, and are wholly without any merit. In order to constitute the crime, it is, of course, essential that the in­strument forged should be charged to have been uttered and published “with intent to injure or defraud.” It is so charged. It is admitted that, if these words had been used before the check alleged to have been forged was described, it would have been sufficient; for instance, immediately after the words, “Frank Johnson, a certain false and forged writing and check.” In other words, the contention of counsel is that the words which are in­serted after the description of the check constitute no part of the indictment. A bare reading of the indictment is sufficient to show that this contention cannot be sus­tained. It is an appeal to strict .form instead of substance or to any matter of substantial justice. The language of the indictment, in substance, complies with the various provisions of the criminal Code of Alaska. This Code does provide that the manner of stating the act constituting the crime as set forth in the appendix “is sufficient in all cases where the forms there given are applicable”; but it does not say that other forms which are sufficient shall not be used. The Code requires the indictment to be direct and certain as to the party charged, the crime charged, and “the particular circumstances of the crime charged, when they are necessary to constitute a complete crime; * * * that words used in the statute to define a crime need not be strictly pursued in an indictment, but other words conveying the same meaning may be used.” Moreover, it expressly provides “that the indictment is sufficient if it can be understood therefrom (among other things) * * * that the act or omission charged as the crime is clearly and distinctly set forth in ordinary and concise language without repetition and in such man­ner as to enable a person of common understanding to know what is intended; * * * that no indictment is insufficient, nor can the trial, judgment or other proceed­ings thereon be affected by reason of a defect or imperfec­tion in matter of form, which does not tend to the preju­dice of the substantial rights of the defendant upon the merits.” It is impossible to see how the defendant could have been injured by the use of the words “injure and defraud” in the conjunctive, instead of “injure or defraud” in the alternative. It would be to him a benefit, instead of a detriment, because it might be argued that under the language of the indictment the burden would be upon the prosecution to prove his intent to injure and defraud, whereas under the language of the statute constituting the crime it would only have to prove that his intent was either to injure or defraud.</p>
+                <p pgmap="833" id="b833-4">A synopsis of the testimony given at the trial will, with a reference to the instructions, in our opinion, clearly show that the other assignments of error are not well taken. The motion made to instruct the jury to bring in a verdict of not guilty was made at the close of the testi­mony on behalf of the United States, and was not renewed at the close of the entire testimony. The testimony of the plaintiff in error of itself shows that the court did not err in submitting the case to the jury. His testimony upon his examination in chief was as follows: “Have resided in the district of Alaska about three years. I have known Mr. Johnson since 1899. I remember the circumstances of handing Mr. Johnson a check. I needed some money, and I looked around town to see if I knew any one I could get it from, and I took the check to Johnson, and asked him to loan me twenty-five dollars. I admit that I wrote the check. ■ I told him emphatically that I would re­deem it next morning, and not to present it at the bank. I had no intention at either time of defrauding. I just took it as a loan. I believe I could have borrowed the money without it, but I needed it at the time, and I thought I would leave the check with him, and he would let me have some money. When he gave me the ten dollars he asked me if I needed any more, but I did not accept any more. I knew I could get the money next day. The day after-­wards, about two o’clock, I was arrested, and have been in jail ever since. I never seen Mr. Whitehead’s signature, and made no attempt to imitate his handwriting.”</p>
+                <p pgmap="833(73) 834(183)" id="b833-5">On cross-examination he testified that the check (which is set out in the indictment) was the check he gave to Mr. Johnson; that it was in his handwriting; that he carried it in his pocket for some time before presenting it; that for several nights after writing it he needed money, and expected to borrow it, “but happened to run across some friends and got the money”; that he wrote the check in his room in the Raymond, and showed it to Mrs. Ray­mond, and told her that he “would .have some money in a few days”; that he wrote the check because he wanted to be sure that he could get some money, “not to deceive anybody, but to raise some money, — to borrow some mon­ey”; that he did not tell Johnson it was genuine, but told Johnson to let him have some money on the check. “A. I said I wanted to borrow twenty-five dollars, and for him to put the check \in the safe. Q. So you gave him the check for the purpose of getting twenty-five dollars? A. You can put it that way. Q. You got back the check? A. I did. Q. Then you came back and got ten dollars on it? A. It was not a forgery. I did not tell him that it was genuine. Q. You knew that it was not genuine. A. I did. I did not try to defraud any one, though. I could have got more on it if I had.”</p>
+                <p pgmap="834" id="b834-4">Mr. Johnson was the first witness introduced on behalf of the government. He testified that he let the plaintiff in error have twenty-odd dollars in the month of Septem­ber. He was then asked the question objected to and over­ruled, constituting one of the assignments of error, viz., “State to the jury .how you came to let him have'it, and what he gave you as security,” and replied: “A check. He promised to redeem it the next morning. He came at eight or nine o’clock the néxt morning, and paid me the money that he had borrowed, and I delivered the check to him. He came to me the same night, and gave me the check, and I gave him ten dollars. He told me not to take the check to the bank. I needed the money, and took the check to the bank to get the money.”</p>
+                <p pgmap="834(126) 835(107)" id="b834-5">He said that he could not identify the check, but re­membered that the amount of it was $100, and he believed that Mr. Whitehead’s name was signed to it, and that it was indorsed; that he took the check, and presented it to the cashier of the bank, who informed him that it was forged. W. H. Merrill, the cashier, corroborated the last statement. Cabell Whitehead, manager of the bank, testi­fied that the signature signed to the check was not his, and that the signature on the back was that of the plaintiff in error; that he (Whitehead) never authorized any per­son to sign his name to the check. This was' substantial­ly all the testimony given in the case. The objections to the questions asked Johnson and to the admission of the check in evidence are based upon the ground that the check had not at that time, been identified. The answer to such objections is that the order of introducing testimony is largely within the sound discretion of the court, and un­less this discretion has been abused in such a manner as to clearly show that injury occurred thereby to the prejudice of the complaining party, the appellate court will not re­verse the case. In the present case the grounds of objec­tion were cured by the subsequent admission of testimony which fully identified the check.</p>
+                <p pgmap="835" id="b835-4">The only remaining point is whether the court erred in giving its instructions to the jury, or in refusing to give any of the instructions asked for on behalf of the plaintiff in error. The instructions of the court given of its own motion covered all the points set forth in the instructions asked for by the plaintiff in error, and, if they are cor­rect in all essential - particulars, and fully cover all the points upon which the court was required to instruct the jury, it will be unnecessary to notice any of the instruc­tions asked for by the plaintiff in error. The law is too well settled to require discussion upon the point. “The duty of the court is fully discharged if the instructions embrace all the points of law arising in the case in the court’s own language.” 11 Enc.Pl. &amp; Prac. 288, and au­thorities there cited; Swensen v. Bender (C.C.A.) 114 F. 1. To show that the court did not err in its instructions, we quote the portions of its charge specifically excepted to, and one or two paragraphs to which there were no exceptions:</p>
+                <blockquote pgmap="835" id="b835-5">“You are instructed that the defendant in this case is presumed to be innocent until he is proven to be guilty by the evidence in the case beyond a reasonable doubt, and it is your duty to give the defendant the benefit of the pre­sumption in his favor that he is innocent until you shall be convinced by the evidence in this case beyond a reasonable doubt that he is guilty.</blockquote>
+                <blockquote pgmap="835(46) 836(100)" id="b835-6">“You are instructed that in considering the case you are not to go beyond the evidence to hunt up doubt. A doubt, to justify an acquittal, must be reasonable, — that is, it must be one for which a good reason can be given, — and it must arise from a candid and impartial investigation of all thg evidence in the case, and unless it is such that, were the same connected with the graver transactions of life, it would cause a reasonable and prudent man to hes­itate and pause, it is insufficient to authorize a verdict of not guilty. If, after considering all the .evidence, you can say you have an abiding conviction of the truth of the charge against this defendant, as contained in the in­dictment, you are then satisfied beyond a reasonable doubt, and should find .him guilty. * * *</blockquote>
+                <blockquote pgmap="836" id="b836-3">“You are instructed that whoever shall, with intent to injure and defraud any one, knowingly utter or publish as true and genuine any false and forged check, is guilty of a crime, and shall be punished as prescribed by the Code.</blockquote>
+                <blockquote pgmap="836" id="b836-4">“Before you can find the defendant guilty in this case as charged in the indictment, you must find from the evi­dence beyond a reasonable doubt:</blockquote>
+                <blockquote pgmap="836" id="b836-5">“(1) That the check set out in the indictment was false and forged; that is to say, that it was not the check, and made, signed, and delivered to the defendant, or to any other person, by the drawer, Cabell Whitehead, or any one by him authorized. And if you shall find and believe from the evidence in this case beyond a reasonable doubt that the defendant personally wrote, made, and signed the check, and affixed thereto the name of Cabell Whitehead, without his consent, authority, or permission, and that his act in so doing was not thereafter, and before the check was passed to any one else, ratified or assented thereto by Cabell Whitehead, then I instruct you that it was false and forged.</blockquote>
+                <blockquote pgmap="836" id="b836-6">“(2) That he knowingly or intentionally uttered or pub­lished the check set out in the indictment. To utter a check is to pass or deliver it to any other person; to pub­lish it is to make it known or exhibit or deliver it to an­other. If you shall find from the evidence in this case beyond a reasonable doubt that the defendant in this case did at the time and place mentioned in the indictment knowingly and intentionally deliver the said check to Frank Johnson, and procured the said Johnson to accept the same, and that Johnson, relying upon the check, presented it to the bank for payment, then you should find that he knowingly uttered and published it. .</blockquote>
+                <blockquote pgmap="837" id="b837-2">“(3) If you shall find from the evidence beyond rea­sonable doubt that the defendant did knowingly utter and publish the check set out in the indictment, then before you can find him guilty you must further find from the evidence beyond a reasonable doubt that he published the same as true and genuine; that is to say, that it was the check of the person whose name is signed thereto as draw­er. If you shall find from the evidence beyond-a reason­able doubt that he so knowingly uttered and published the check, that it was signed in the name of Cabell Whitehead, that he gave it to another person with the intent to deceive him and obtain money on it, and that he did not inform the person to whom he passed it that it was false and forged, but allowed him to believe it was the check of the drawer, and that the person taking it relied upon it, and presented it to the bank for payment, then you should find that he so uttered and published it as true and genuine.</blockquote>
+                <blockquote pgmap="837" id="b837-3">“(4) If you shall find from the evidence in the case beyond a reasonable doubt that the defendant did know­ingly utter and publish the check set forth in the indict­ment as true and genuine, still, before you can convict him, you must further find that he so uttered and pub­lished it with intent to injure and defraud another. And in this respect you may consider whether he had an in­tent to injure or defraud either the party to whom he gave the check or Cabell Whitehead. And if you shall find from the evidence beyond a reasonable doubt that he ut­tered and passed the check upon Johnson with intent to deceive him, and did obtain money on it, and that Johnson, relying upon the check, presented it. to the bank for pay­ment, then you may infer from that act an intention to injure the said Johnson or Whitehead; and if you shall find from all the evidence in the case beyond a reasonable doubt that the check was so uttered with the intent to ob­tain money upon it, you should find that he did utter and publish the said check with an intent to injure or defraud.”</blockquote>
+                <p pgmap="837" id="b837-4">We have carefully examined the entire record. Our con­clusions are that the plaintiff in error had a fair and im­partial trial, free from prejudice or error.</p>
+                <p pgmap="837" id="b837-5">The judgment of the district court is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="822" ORDERLABEL="810" TYPE="page">
+        <fptr FILEID="tiff_00411_1"/>
+        <fptr FILEID="jpg_00411_1"/>
+        <fptr FILEID="alto_00411_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_822.2" BETYPE="IDREF" FILEID="alto_00411_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="823" ORDERLABEL="811" TYPE="page">
+        <fptr FILEID="tiff_00412_0"/>
+        <fptr FILEID="jpg_00412_0"/>
+        <fptr FILEID="alto_00412_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_823.3" BETYPE="IDREF" FILEID="alto_00412_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="824" ORDERLABEL="812" TYPE="page">
+        <fptr FILEID="tiff_00412_1"/>
+        <fptr FILEID="jpg_00412_1"/>
+        <fptr FILEID="alto_00412_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_824.1" BETYPE="IDREF" FILEID="alto_00412_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="825" ORDERLABEL="813" TYPE="page">
+        <fptr FILEID="tiff_00413_0"/>
+        <fptr FILEID="jpg_00413_0"/>
+        <fptr FILEID="alto_00413_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_825.2" BETYPE="IDREF" FILEID="alto_00413_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="826" ORDERLABEL="814" TYPE="page">
+        <fptr FILEID="tiff_00413_1"/>
+        <fptr FILEID="jpg_00413_1"/>
+        <fptr FILEID="alto_00413_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_826.2" BETYPE="IDREF" FILEID="alto_00413_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="827" ORDERLABEL="815" TYPE="page">
+        <fptr FILEID="tiff_00414_0"/>
+        <fptr FILEID="jpg_00414_0"/>
+        <fptr FILEID="alto_00414_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_827.3" BETYPE="IDREF" FILEID="alto_00414_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="828" ORDERLABEL="816" TYPE="page">
+        <fptr FILEID="tiff_00414_1"/>
+        <fptr FILEID="jpg_00414_1"/>
+        <fptr FILEID="alto_00414_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_828.2" BETYPE="IDREF" FILEID="alto_00414_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="829" ORDERLABEL="817" TYPE="page">
+        <fptr FILEID="tiff_00415_0"/>
+        <fptr FILEID="jpg_00415_0"/>
+        <fptr FILEID="alto_00415_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_829.3" BETYPE="IDREF" FILEID="alto_00415_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="830" ORDERLABEL="818" TYPE="page">
+        <fptr FILEID="tiff_00415_1"/>
+        <fptr FILEID="jpg_00415_1"/>
+        <fptr FILEID="alto_00415_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_830.2" BETYPE="IDREF" FILEID="alto_00415_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="831" ORDERLABEL="819" TYPE="page">
+        <fptr FILEID="tiff_00416_0"/>
+        <fptr FILEID="jpg_00416_0"/>
+        <fptr FILEID="alto_00416_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_831.3" BETYPE="IDREF" FILEID="alto_00416_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="832" ORDERLABEL="820" TYPE="page">
+        <fptr FILEID="tiff_00416_1"/>
+        <fptr FILEID="jpg_00416_1"/>
+        <fptr FILEID="alto_00416_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_832.2" BETYPE="IDREF" FILEID="alto_00416_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="833" ORDERLABEL="821" TYPE="page">
+        <fptr FILEID="tiff_00417_0"/>
+        <fptr FILEID="jpg_00417_0"/>
+        <fptr FILEID="alto_00417_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_833.3" BETYPE="IDREF" FILEID="alto_00417_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="834" ORDERLABEL="822" TYPE="page">
+        <fptr FILEID="tiff_00417_1"/>
+        <fptr FILEID="jpg_00417_1"/>
+        <fptr FILEID="alto_00417_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_834.2" BETYPE="IDREF" FILEID="alto_00417_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="835" ORDERLABEL="823" TYPE="page">
+        <fptr FILEID="tiff_00418_0"/>
+        <fptr FILEID="jpg_00418_0"/>
+        <fptr FILEID="alto_00418_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_835.3" BETYPE="IDREF" FILEID="alto_00418_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="836" ORDERLABEL="824" TYPE="page">
+        <fptr FILEID="tiff_00418_1"/>
+        <fptr FILEID="jpg_00418_1"/>
+        <fptr FILEID="alto_00418_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_836.2" BETYPE="IDREF" FILEID="alto_00418_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="837" ORDERLABEL="825" TYPE="page">
+        <fptr FILEID="tiff_00419_0"/>
+        <fptr FILEID="jpg_00419_0"/>
+        <fptr FILEID="alto_00419_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_837.1" BETYPE="IDREF" FILEID="alto_00419_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b836-3" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_836.4" BETYPE="IDREF" FILEID="alto_00418_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b824-15" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_824.16" BETYPE="IDREF" FILEID="alto_00412_1"/>
+            <area BEGIN="BL_825.1" BETYPE="IDREF" FILEID="alto_00413_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b824-14" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_824.15" BETYPE="IDREF" FILEID="alto_00412_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b824-13" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_824.14" BETYPE="IDREF" FILEID="alto_00412_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b824-12" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_824.13" BETYPE="IDREF" FILEID="alto_00412_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b827-6" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_827.4" BETYPE="IDREF" FILEID="alto_00414_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b834-5" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_834.5" BETYPE="IDREF" FILEID="alto_00417_1"/>
+            <area BEGIN="BL_835.1" BETYPE="IDREF" FILEID="alto_00418_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ApA" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_822.10" BETYPE="IDREF" FILEID="alto_00411_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b837-2" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_837.3" BETYPE="IDREF" FILEID="alto_00419_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b835-6" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_835.6" BETYPE="IDREF" FILEID="alto_00418_0"/>
+            <area BEGIN="BL_836.1" BETYPE="IDREF" FILEID="alto_00418_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b835-5" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_835.5" BETYPE="IDREF" FILEID="alto_00418_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b822-8" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_822.9" BETYPE="IDREF" FILEID="alto_00411_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b837-5" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_837.6" BETYPE="IDREF" FILEID="alto_00419_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b837-3" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_837.4" BETYPE="IDREF" FILEID="alto_00419_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b835-4" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_835.4" BETYPE="IDREF" FILEID="alto_00418_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b837-4" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_837.5" BETYPE="IDREF" FILEID="alto_00419_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b836-5" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_836.6" BETYPE="IDREF" FILEID="alto_00418_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b836-4" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_836.5" BETYPE="IDREF" FILEID="alto_00418_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEM" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_827.6" BETYPE="IDREF" FILEID="alto_00414_0"/>
+            <area BEGIN="BL_828.1" BETYPE="IDREF" FILEID="alto_00414_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b822-6" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_822.7" BETYPE="IDREF" FILEID="alto_00411_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b833-5" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_833.5" BETYPE="IDREF" FILEID="alto_00417_0"/>
+            <area BEGIN="BL_834.1" BETYPE="IDREF" FILEID="alto_00417_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b836-6" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_836.7" BETYPE="IDREF" FILEID="alto_00418_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-S" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_826.5" BETYPE="IDREF" FILEID="alto_00413_1"/>
+            <area BEGIN="BL_827.1" BETYPE="IDREF" FILEID="alto_00414_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b824-11" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_824.12" BETYPE="IDREF" FILEID="alto_00412_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APb" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_827.5" BETYPE="IDREF" FILEID="alto_00414_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b822-7" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_822.8" BETYPE="IDREF" FILEID="alto_00411_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b833-4" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_833.4" BETYPE="IDREF" FILEID="alto_00417_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b822-5" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_822.6" BETYPE="IDREF" FILEID="alto_00411_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b834-4" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_834.4" BETYPE="IDREF" FILEID="alto_00417_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b826-4" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_826.4" BETYPE="IDREF" FILEID="alto_00413_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b830-4" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_830.4" BETYPE="IDREF" FILEID="alto_00415_1"/>
+            <area BEGIN="BL_831.1" BETYPE="IDREF" FILEID="alto_00416_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b825-3" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_825.4" BETYPE="IDREF" FILEID="alto_00413_0"/>
+            <area BEGIN="BL_826.1" BETYPE="IDREF" FILEID="alto_00413_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b828-4" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_828.5" BETYPE="IDREF" FILEID="alto_00414_1"/>
+            <area BEGIN="BL_829.1" BETYPE="IDREF" FILEID="alto_00415_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b829-4" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_829.4" BETYPE="IDREF" FILEID="alto_00415_0"/>
+            <area BEGIN="BL_830.1" BETYPE="IDREF" FILEID="alto_00415_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b831-3" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_831.4" BETYPE="IDREF" FILEID="alto_00416_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b828-3" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_828.4" BETYPE="IDREF" FILEID="alto_00414_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b831-7" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_831.8" BETYPE="IDREF" FILEID="alto_00416_0"/>
+            <area BEGIN="BL_832.1" BETYPE="IDREF" FILEID="alto_00416_1"/>
+            <area BEGIN="BL_833.1" BETYPE="IDREF" FILEID="alto_00417_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b831-6" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_831.7" BETYPE="IDREF" FILEID="alto_00416_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b831-5" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_831.6" BETYPE="IDREF" FILEID="alto_00416_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b831-4" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_831.5" BETYPE="IDREF" FILEID="alto_00416_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

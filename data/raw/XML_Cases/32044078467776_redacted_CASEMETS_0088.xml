@@ -1,0 +1,624 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0088" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Corbus v. Alaska Treadwell Gold-Min. Co.">CORBUS v. ALASKA TREADWELL GOLD-MIN. CO. (Seven Other Cases.)</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 585</citation>
+          <citation category="parallel" type="bluebook">99 F. 334</citation>
+          <decisiondate>1899-12-30</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:08Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00299_0" MIMETYPE="image/tiff" CHECKSUM="0156e82b64bdc4b8e01e3ca751e8800c" CHECKSUMTYPE="MD5" SIZE="12812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00299_0.tif"/>
+      </file>
+      <file ID="tiff_00299_1" MIMETYPE="image/tiff" CHECKSUM="a7c7171b6d9f5afdd3414bde53b486f4" CHECKSUMTYPE="MD5" SIZE="50282">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00299_1.tif"/>
+      </file>
+      <file ID="tiff_00300_0" MIMETYPE="image/tiff" CHECKSUM="1fa193436fde6f650b577491ec85cd2d" CHECKSUMTYPE="MD5" SIZE="56770">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00300_0.tif"/>
+      </file>
+      <file ID="tiff_00300_1" MIMETYPE="image/tiff" CHECKSUM="465662eab886962594d45e44c1136254" CHECKSUMTYPE="MD5" SIZE="55724">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00300_1.tif"/>
+      </file>
+      <file ID="tiff_00301_0" MIMETYPE="image/tiff" CHECKSUM="811d10597409f791dff8aea579d89ebe" CHECKSUMTYPE="MD5" SIZE="53238">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00301_0.tif"/>
+      </file>
+      <file ID="tiff_00301_1" MIMETYPE="image/tiff" CHECKSUM="d6ad5501f195f6f5b7a936fce8c7adfb" CHECKSUMTYPE="MD5" SIZE="55104">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00301_1.tif"/>
+      </file>
+      <file ID="tiff_00302_0" MIMETYPE="image/tiff" CHECKSUM="87efc21e4a05bf3c459569cc71fb0c24" CHECKSUMTYPE="MD5" SIZE="54424">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00302_0.tif"/>
+      </file>
+      <file ID="tiff_00302_1" MIMETYPE="image/tiff" CHECKSUM="7e6d7e7d776eb65e4d933c6f0807bb60" CHECKSUMTYPE="MD5" SIZE="56470">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00302_1.tif"/>
+      </file>
+      <file ID="tiff_00303_0" MIMETYPE="image/tiff" CHECKSUM="22c4853ef248f94f8ebaa0d49d5f2683" CHECKSUMTYPE="MD5" SIZE="27158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00303_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00299_0" MIMETYPE="image/jpg" CHECKSUM="a6e90c9e6435414b10c3b7120f7f89df" CHECKSUMTYPE="MD5" SIZE="87619">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00299_0.jpg"/>
+      </file>
+      <file ID="jpg_00299_1" MIMETYPE="image/jpg" CHECKSUM="ae497ed0f474207c0771318351346441" CHECKSUMTYPE="MD5" SIZE="191469">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00299_1.jpg"/>
+      </file>
+      <file ID="jpg_00300_0" MIMETYPE="image/jpg" CHECKSUM="bcacb3674ce64e9680929c8158013fbf" CHECKSUMTYPE="MD5" SIZE="197743">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00300_0.jpg"/>
+      </file>
+      <file ID="jpg_00300_1" MIMETYPE="image/jpg" CHECKSUM="f42a0c924ee20bafc2904d29d74790cc" CHECKSUMTYPE="MD5" SIZE="213995">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00300_1.jpg"/>
+      </file>
+      <file ID="jpg_00301_0" MIMETYPE="image/jpg" CHECKSUM="1abf95881c04f95c7561a3a7cf5a309d" CHECKSUMTYPE="MD5" SIZE="196549">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00301_0.jpg"/>
+      </file>
+      <file ID="jpg_00301_1" MIMETYPE="image/jpg" CHECKSUM="5d5b950296ba39528ed7e621716a882e" CHECKSUMTYPE="MD5" SIZE="205675">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00301_1.jpg"/>
+      </file>
+      <file ID="jpg_00302_0" MIMETYPE="image/jpg" CHECKSUM="9b2a68154d5ae79d626243f89c736fb6" CHECKSUMTYPE="MD5" SIZE="195065">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00302_0.jpg"/>
+      </file>
+      <file ID="jpg_00302_1" MIMETYPE="image/jpg" CHECKSUM="2c95af2891d9834692f8a40020704869" CHECKSUMTYPE="MD5" SIZE="214071">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00302_1.jpg"/>
+      </file>
+      <file ID="jpg_00303_0" MIMETYPE="image/jpg" CHECKSUM="f7b43e5eb16a8a6bd1ea675154bd3461" CHECKSUMTYPE="MD5" SIZE="128300">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00303_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00299_0" MIMETYPE="text/xml+gzip" CHECKSUM="3b3a270f942d94d095c48b5fd9fe02ef" CHECKSUMTYPE="MD5" SIZE="3560">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00299_0.xml.gz"/>
+      </file>
+      <file ID="alto_00299_1" MIMETYPE="text/xml+gzip" CHECKSUM="5f6930a9b9222592af23b7d996c79203" CHECKSUMTYPE="MD5" SIZE="11976">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00299_1.xml.gz"/>
+      </file>
+      <file ID="alto_00300_0" MIMETYPE="text/xml+gzip" CHECKSUM="5e09e80554869e60d815fcab33611904" CHECKSUMTYPE="MD5" SIZE="13076">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00300_0.xml.gz"/>
+      </file>
+      <file ID="alto_00300_1" MIMETYPE="text/xml+gzip" CHECKSUM="bf5f650e1ae78496dd8ef96d8bf0404b" CHECKSUMTYPE="MD5" SIZE="12797">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00300_1.xml.gz"/>
+      </file>
+      <file ID="alto_00301_0" MIMETYPE="text/xml+gzip" CHECKSUM="8fa3b77589713ec7ab2995b5ec0f0998" CHECKSUMTYPE="MD5" SIZE="13209">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00301_0.xml.gz"/>
+      </file>
+      <file ID="alto_00301_1" MIMETYPE="text/xml+gzip" CHECKSUM="7edf0568a30742fc3acd544f781db9b5" CHECKSUMTYPE="MD5" SIZE="13476">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00301_1.xml.gz"/>
+      </file>
+      <file ID="alto_00302_0" MIMETYPE="text/xml+gzip" CHECKSUM="99643790665818c0c91c75fe6309e952" CHECKSUMTYPE="MD5" SIZE="13465">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00302_0.xml.gz"/>
+      </file>
+      <file ID="alto_00302_1" MIMETYPE="text/xml+gzip" CHECKSUM="b291b0134546429ae79b97df868345db" CHECKSUMTYPE="MD5" SIZE="13303">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00302_1.xml.gz"/>
+      </file>
+      <file ID="alto_00303_0" MIMETYPE="text/xml+gzip" CHECKSUM="68b2cb9fe93e2e1a528850f93322bde9" CHECKSUMTYPE="MD5" SIZE="7143">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00303_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0088" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="585" lastpage="593">
+              <court pgmap="597" id="b597-6">District Court, D. Alaska.</court>
+              <citation pgmap="597" id="b597-4">99 F. 334</citation>
+              <parties pgmap="597" id="b597-5">CORBUS v. ALASKA TREADWELL GOLD-MIN. CO. (Seven Other Cases.)</parties>
+              <decisiondate pgmap="597" id="b597-7">Dec. 30, 1899.</decisiondate>
+              <attorneys pgmap="597" id="b597-17">Maloney &amp; Cobb, for Corbus.</attorneys>
+              <attorneys pgmap="597" id="b597-18">M. E. McEnany, for Alaska Treadwell Gold-Min. Co.</attorneys>
+              <attorneys pgmap="597" id="AMy">John R. Winn, for Roberts.</attorneys>
+              <attorneys pgmap="598" id="b598-3">F. D. Kelsey, for Meyers and others.</attorneys>
+              <attorneys pgmap="598" id="b598-4">John G. Ffeid, for Stewart.</attorneys>
+              <attorneys pgmap="598" id="b598-5">Lyons &amp; Lyons, for Washington &amp; A. S. S. Co.</attorneys>
+              <attorneys pgmap="598" id="b598-6">John R. Winn, for Pacific Coast Co., Pacific Coast S. S. Co., and Pacific Steam Whaling Co.</attorneys>
+              <attorneys pgmap="598" id="b598-7">Arthur K. Delaney, for Alaska Packers’ Ass’n.</attorneys>
+              <attorneys pgmap="598" id="b598-8">R. W. Jennings, for Alaska S. S. Co.</attorneys>
+              <attorneys pgmap="598" id="b598-9">R. A. Friedrich, U. S. Atty., amicus curiae.</attorneys>
+              <opinion type="majority">
+                <author pgmap="598" id="b598-10">JOHNSON, District Judge.</author>
+                <p pgmap="598(320) 599(418) 600(348)" id="b598-11">The following cases were, at one and the same time, argued and submitted to the court for decision and de­termination: A. W. Corbus against the Alaska Treadwell Gold-Mining Company, John W. Roberts against C. F. Meyers and others, Charles Stewart against the Washing­ton &amp; Alaska Steamship Company, and protests against the payment of the license tax by the Alaska Steamship Com­pany, the Pacific Coast Company, the Pacific Coast Steam­ship Company, the Pacific Steam Whaling Company, and the Alaska Packers’ Association. The object and purpose of each suit and each protest being the- same, — that is, to determine the constitutionality of the provisions of sub-­chapter 44 of chapter 429 of the act of congress of March 3, 1899, entitled “An act to define and punish crimes in the district of Alaska and to provide a Code of Criminal Pro­cedure for said district,” — they may all be disposed of to­gether. As to the forms of action, they may be divided in­to two classes: The first three are suits in equity, where­in a stockholder of the defendant corporation or a co-­partner of the defendant co-partnership seeks to enjoin the corporation or co-partnership from applying for a license, or paying the license fee or tax required by said act to be paid as a condition precedent to conducting their respective lines of business. The remaining cases are simple protests against paying the license tax imposed by law, principally on the ground that the same is unconstitutional, and pray­ing that they may pay the amount of the license tax into the registry of the court, there to be held until the final action of the court on their protests. In each and all of the cases the license fee or tax has been paid to the clerk of the court, there to remain, by order of the court, until the final de­termination of these suits and protests. In the case of Corbus against the Alaska Treadwell Gold-Mining Com­pany the plaintiff seeks to enjoin the defendant corpora­tion from paying the license tax imposed for operating certain quartz stamp mills and conducting a mercantile es­tablishment. In Stewart against the Washington &amp; Alaska Steamship Company the injunction is sought for the pur­pose of restraining the payment of the license for an ocean and coastwise vessel doing local business for hire, plying in Alaskan waters, the property of the defendant corporation. Roberts against Meyers and others is identical with the last-named case, except that the owner of the vessel in question is a company instead of a corporation, one member of which seeks to enjoin the other members. The protests of the Alaska Steamship Company, the Pacific Coast Com­pany, and the Pacific Coast Steamship Company are against the payment of licenses on steamers and wharves, while the protests of the Pacific Steam Whaling Company and the Alaska Packers’ Association are directed against the license imposed for operating steamboats and canning and salting salmon in Alaska. To each of the three bills a demurrer to the equity thereof was interposed by defendants. The at­torneys for the defendants, however, made no arguments, and filed no briefs in support of their respective demurrers. Copies of the bills having been served upon the district at­torney, he asked and obtained leave of the court to appear as amicus curiae, and in that capacity, and disclaiming any intention to in any manner represent or bind the United States, he denied that the court had any jurisdiction under any of the forms of action presented to hear and determine the cases upon their merits. He denied the right or power of the court to enjoin the defendants in any case from pay­ing the license in question, and he also argued in support of the constitutionality of the law, and offered a brief in sup­port of both contentions. It is necessary, then, to first as­certain whether the court has jurisdiction, under the plead­ings in any of these cases, to try and determine the con­stitutionality of the law in question. In the three equity suits the plaintiffs rely largely, if not wholly, upon the case of Pollock v. Trust Co., 157 U.S. 429, 15 S.Ct. 673, 39 L.Ed. 759, and Id, 158 U.S. 601, 15 S.Ct. 912, 39 L.Ed. 1108. It is contended that the suits at bar are identical with the Pollock Case, and that, the supreme court having in that case decided that a stockholder might enjoin a cor­poration from paying a tax alleged to be unconstitutional, this court is bound thereby in these cases. If it be con­ceded that the cases are identical, and that the decision in the Pollock Case is entitled to the breadth of construction contended for by plaintiffs’ counsel, then it will not be de­nied that this court is bound thereby. But are the cases identical? We.think not. An examination of the bills be­fore us discloses the existence of corporations and a co-­partnership formed for the simple purpose, in the one in­stance, of mining and milling ores for the precious metals therein contained, and in the other two cases for operating steamers in Alaskan waters as common carriers. It is not claimed that any trusts have been committed to the respec­tive defendants, their only obligation and duty being to their stockholders. And the threatened mültiplicity of suits is charged as “suits and prosecutions for the violation of said act,” and the irreparable injury threatened and com­plained of would be incurred by “defending said suits, and avoiding the fines and forfeitures provided by said act.” In Pollock v. Trust Co. the bill alleged: “That, under and by virtue of the powers conferred upon the company, it had from time to time taken and executed, and was holding and executing, numerous trusts committed to the company by many persons, co-partnerships, unincorporated associations, and corporations, by grant, assignment, devise, and bequest, and by orders of various courts, and that the company now hold as trustee for many minors, individuals, co-partner­ships, associations, and corporations, resident in the United States and elsewhere, many parcels of real estate situated in the various states of the United States, and amounting, in the aggregate, to a value exceeding five millions of dol­lars, the rents and income of which real estate, collected and received by said defendant in its fiduciary capacity, annually exceeded the sum of two hundred thousand dollars.”</p>
+                <p pgmap="600" id="b600-3">The bill further shows: “That voluntary compliance with the income tax provisions would expose the company to a multiplicity of suits, not only by and on behalf of its numerous shareholders, but by and on behalf of numerous minors and others for whom it acts in a fiduciary capacity.”</p>
+                <p pgmap="601" id="b601-2">Other radical differences appear between the bills under consideration and that in Pollock v. Trust Co., but these are sufficient of themselves to place the two on an entirely dif­ferent footing. Indeed, it was because of these allegations in the bill in the Pollock Case, and which are not found in the bills before us, that the supreme court determined it had jurisdiction in that case. The language of the syllabus, which embodies the judgment of the court upon that point, reads as follows: “Such a bill being filed by a stockholder to prevent a trust company from voluntarily making re­turns for the imposition and payment of a tax claimed to be unconstitutional, and on the further ground of threat­ened multiplicity of suits and irreparable injury, * * * the court will proceed to judgment on the merits.”</p>
+                <p pgmap="601" id="b601-4">A mere allegation in the bill that a multiplicity of suits is threatened is not sufficient to induce a court of equity to take jurisdiction of the suit. The facts must be pleaded in such manner that the court can reasonably infer that such danger is threatened, and such suits liable to be brought. This is not only sound in principle, but is sustained by the au­thorities. Schulenberg-Boeckeler Lumber Co. v. Town of Hayward (C.C.) 20 F. 422. An examination of the bills before us in the light of the law governing the matters complained of discloses the fact that no such multiplicity of suits and no such irreparable injury as is contemplated in law or in equity is threatened, or is possible.</p>
+                <p pgmap="601" id="b601-5">But we do not concede that, even in the Pollock Case, the supreme court holds that the plaintiff, as a matter of course, had the right to enjoin the defendant from paying the tax alleged to be unconstitutional. The chief justice, in passing upon this feature of the case, uses this language: “The objection of adequate remedy at law was not raised below, nor is it now raised by appellees, if it could be en­tertained at all at this stage of the proceedings; and, so far as it was within the power of the government to do so, the question of jurisdiction, for the purposes of this case, was explicitly waived on the argument.”</p>
+                <p pgmap="601(45) 602(221)" id="b601-6">The court was induced to some extent, no doubt, to hear the case upon its merits on the ground of public policy. At least Asst. Atty. Gen. Whitney was constrained to waive all objection to the form of action on that ground, as is evi­denced by the following language used by him in his argu­ment of the case: “The method by which the questions are presented in the Pollock and Hyde Cases was not chosen with the consent of the government. The corporations have ample remedy at law, either by standing on the de­fensive or by paying the tax under protest, and suing to recover the amount paid. Plaintiffs would be sufficiently protected by decree restraining the corporations from voluntary payment. Yet the bills do not allege that the cor­porations intend to pay voluntarily. No injunction, it is believed, has ever been granted against the payment of a tax to the United States government, or against the execu­tion of a law of the United States, on the ground that the law was unconstitutional. It is believed that in no case can such an injunction properly be granted, and it is regarded as important not to break the chain of precedent against such relief. These objections, however, are not jurisdic­tional in the strictest sense. * * * In view of the great public interest aroused, and of the fact that no cases in proper form are now pending, these objections are waived on behalf of the government, so far as it is in the power of its officers to waive them.”</p>
+                <p pgmap="602(210) 603(374)" id="b602-5">It can avail nothing for me to here quote from the very able dissenting opinion of Justices White and Harlan on this branch of the Pollock Case. Their opinion, with au­thorities cited, leads me to the conclusion that, had the question of jurisdiction been raised in the court below, and insisted upon in the supreme court, the case would not have been heard upon its merits. And in the cases at bar the district attorney, so far as he had the right to do so, the government not being a party to the suits, raised not only the question of the jurisdiction of the court because the plaintiffs had a plain, speedy, and adequate remedy at law, but insisted that the suits were of a friendly nature, col­lusive in character, and brought for the sole purpose of conferring jurisdiction upon the court, to the end that the defendants might escape paying the license fee imposed by law. And when all the facts are taken together, as dis­closed by the record, some color is lent to the latter conten­tion. Take the case of Corbus against the Treadwell Com­pany. The bill was filed July 17th, the subpoena served July 19th, commanding the defendant to answer the bill within 20 days. No appearance was made by defendant, however, and no pleading filed until November 15th, nearly four months after the filing of the bill, and not until about the time the matter was called up for hearing, when a de­murrer was interposed. Counsel for defendant did not contend for his demurrer, made no argument, and filed no brief in support of the same. And, in the very nature of the case, the interests of the plaintiff and defendant are identical. Then, if the object and purpose of the suit is solely to test the constitutionality of the law without first paying into the United States treasury the amount of the license tax (and there can be no other object), and if the court will sustain the plaintiff and enjoin the defendant as prayed, how is the private citizen to avail himself of a similar remedy? Who shall enjoin him, and save him from paying his tax, until the constitutionality of the law is de­termined? And, if he cannot avail himself of this manner of suit, why should corporations or co-partnerships be per­mitted to do so? Why should not corporations and in­dividuals have and be permitted to exercise identically the same legal rights and remedies under the law ? It is admit­ted in all the bills and protests now being considered that the respective plaintiffs have a plain remedy at law by re­sisting the enforcement of the statute in question. But they contend that the fines and penalties imposed are so severe they dare not pursue that course. When the con­gress passed the law in question, they also passed and made a part of this very chapter 44 the following provision, found in section 481: “That in any case where a convic­tion occurs, except in a case of murdej or rape, the court may, when in its opinion the facts and circumstances are such as to make the minimum penalty provided in this act manifestly too severe, impose a less penalty, either of fine or imprisonment, or both: provided, that in any such case the court shall cause the reasons for its action to be set forth at large on the record in the case.”</p>
+                <p pgmap="603(67) 604(74)" id="b603-3">It would seem the congress had in view the provisions in this very chapter, for the minimum penalty in all other criminal cases is extremely low; and, while it is not a part of the record of this case, it is a fact well known to every attorney appearing in these cases that the court has re­peatedly exercised the power by that section vested in it, and has imposed a minimum fine of but one dollar in many cases arising under the provisions of this chapter. • In view of the existence of this law, the plaintiffs can have nothing to fear from the severe penalties imposed if they are acting in good faith, and with an honest purpose to test the con­stitutionality of the law, intending, if the same shall be sustained, to then comply with its provisions.</p>
+                <p pgmap="604(363) 605(171)" id="b604-3">As to those persons appearing by protests only, it is the anomalous contention that the papers on file are both ap­plications for and protests against the issuance of licenses; that is to say, they are applications for license if the court shall determine that the businesses engaged in by the plain­tiffs, respectively, subject them to the payment of a tax; and they are protests on the ground that the several lines of business engaged in by protestants are not subject to license and taxation, principally because the law attempting to impose the tax is unconstitutional and void. It is further contended by them that in passing upon all applications for license under this law the court acts judicially, and there­fore has the right to and must pass upon the constitutional­ity of the law itself. It is not necessary to determine whether, in passing upon applications for license, the court acts judicially; for, if we concede that it does so act, it is nevertheless perfectly clear that the petitioner can only al­lege in his petition those things required by the act itself to be set up, showing the applicant to be entitled to the license prayed for, and, if extrinsic matter is pleaded, such as denying the constitutionality of the law itself, the court is not required, nor, in our judgment, permitted, to take judicial notice of such extrinsic matter. An officer au­thorized to issue marriage licenses may be said to act ju­dicially in determining whether the'facts set up by the ap­plicant for such license entitle him to receive the same, but it would hardly be contended that the applicant could deny-­the constitutionality of the law governing such matters, and require, the officer to determine that question. If this were a court of last resort, we might feel constrained to seek some means by which the constitutionality of the law might be passed upon. The issue should be settled at the earliest possible moment. But we are powerless to finally settle it, even if we would, and we do not believe the ques­tion is legally before us. The giving to every one who may feel himself aggrieved the right to enjoin payment of a tax imposed upon him by the congress is fraught with so much danger, and it is so at variance with the policy of our government and the decisions of our courts, that we do not feel warranted in seeking for reasons to justify the taking of jurisdiction in these cases, even if any could be found. The demurrers to the three bills will be sustained; and as to the protests, in so far as they can be construed as an ap­plication for license for the respective businesses named, they will be sustained. The protests will be ignored, and, unless an appeal shall be taken from the decree rendered in conformity with this opinion within the time prescribed by law, the clerk will be directed and ordered to pay into the United States treasury the several sums of money paid into the registry of this court by the respective complainants and protestants. Let a decree be entered in conformity here­with.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="597" ORDERLABEL="585" TYPE="page">
+        <fptr FILEID="tiff_00299_0"/>
+        <fptr FILEID="jpg_00299_0"/>
+        <fptr FILEID="alto_00299_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_597.2" BETYPE="IDREF" FILEID="alto_00299_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="598" ORDERLABEL="586" TYPE="page">
+        <fptr FILEID="tiff_00299_1"/>
+        <fptr FILEID="jpg_00299_1"/>
+        <fptr FILEID="alto_00299_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_598.1" BETYPE="IDREF" FILEID="alto_00299_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="599" ORDERLABEL="587" TYPE="page">
+        <fptr FILEID="tiff_00300_0"/>
+        <fptr FILEID="jpg_00300_0"/>
+        <fptr FILEID="alto_00300_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_599.2" BETYPE="IDREF" FILEID="alto_00300_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="600" ORDERLABEL="588" TYPE="page">
+        <fptr FILEID="tiff_00300_1"/>
+        <fptr FILEID="jpg_00300_1"/>
+        <fptr FILEID="alto_00300_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_600.2" BETYPE="IDREF" FILEID="alto_00300_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="601" ORDERLABEL="589" TYPE="page">
+        <fptr FILEID="tiff_00301_0"/>
+        <fptr FILEID="jpg_00301_0"/>
+        <fptr FILEID="alto_00301_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_601.1" BETYPE="IDREF" FILEID="alto_00301_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="602" ORDERLABEL="590" TYPE="page">
+        <fptr FILEID="tiff_00301_1"/>
+        <fptr FILEID="jpg_00301_1"/>
+        <fptr FILEID="alto_00301_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_602.2" BETYPE="IDREF" FILEID="alto_00301_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="603" ORDERLABEL="591" TYPE="page">
+        <fptr FILEID="tiff_00302_0"/>
+        <fptr FILEID="jpg_00302_0"/>
+        <fptr FILEID="alto_00302_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_603.2" BETYPE="IDREF" FILEID="alto_00302_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="604" ORDERLABEL="592" TYPE="page">
+        <fptr FILEID="tiff_00302_1"/>
+        <fptr FILEID="jpg_00302_1"/>
+        <fptr FILEID="alto_00302_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_604.2" BETYPE="IDREF" FILEID="alto_00302_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="605" ORDERLABEL="593" TYPE="page">
+        <fptr FILEID="tiff_00303_0"/>
+        <fptr FILEID="jpg_00303_0"/>
+        <fptr FILEID="alto_00303_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_605.3" BETYPE="IDREF" FILEID="alto_00303_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-3" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.3" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-5" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.5" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-4" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.4" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-7" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.7" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-6" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.6" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-9" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.9" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-8" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.8" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-5" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.4" BETYPE="IDREF" FILEID="alto_00301_1"/>
+            <area BEGIN="BL_603.1" BETYPE="IDREF" FILEID="alto_00302_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b604-3" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_604.4" BETYPE="IDREF" FILEID="alto_00302_1"/>
+            <area BEGIN="BL_605.1" BETYPE="IDREF" FILEID="alto_00303_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-11" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.11" BETYPE="IDREF" FILEID="alto_00299_1"/>
+            <area BEGIN="BL_599.1" BETYPE="IDREF" FILEID="alto_00300_0"/>
+            <area BEGIN="BL_600.1" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-10" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.10" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-2" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.3" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMy" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.21" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b603-3" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_603.4" BETYPE="IDREF" FILEID="alto_00302_0"/>
+            <area BEGIN="BL_604.1" BETYPE="IDREF" FILEID="alto_00302_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-17" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.19" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-18" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.20" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-6" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.6" BETYPE="IDREF" FILEID="alto_00301_0"/>
+            <area BEGIN="BL_602.1" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-6" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.8" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-7" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.9" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-4" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.6" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-5" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.7" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-4" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.4" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-5" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.5" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-3" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.4" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

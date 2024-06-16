@@ -1,0 +1,1723 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0003" publicationstatus="published">
+          <court abbreviation="D. Or." jurisdiction="United States">United States District Court for the District of Oregon</court>
+          <name abbreviation="The Fideliter">THE FIDELITER</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 7</citation>
+          <citation category="parallel" type="bluebook">Fed.Cas.No.4,756</citation>
+          <decisiondate>1869-09-20</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:21:59Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00010_0" MIMETYPE="image/tiff" CHECKSUM="4f94192484fc35b36df277b8e085dd3b" CHECKSUMTYPE="MD5" SIZE="33896">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00010_0.tif"/>
+      </file>
+      <file ID="tiff_00010_1" MIMETYPE="image/tiff" CHECKSUM="12fc45c4e401229f57662a1618fb4954" CHECKSUMTYPE="MD5" SIZE="29618">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00010_1.tif"/>
+      </file>
+      <file ID="tiff_00011_0" MIMETYPE="image/tiff" CHECKSUM="6bb813e90550165a35639f1d83ea3aad" CHECKSUMTYPE="MD5" SIZE="52304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00011_0.tif"/>
+      </file>
+      <file ID="tiff_00011_1" MIMETYPE="image/tiff" CHECKSUM="84a6d3d269bc50da81648c3df3896f57" CHECKSUMTYPE="MD5" SIZE="53274">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00011_1.tif"/>
+      </file>
+      <file ID="tiff_00012_0" MIMETYPE="image/tiff" CHECKSUM="3cfb89de0f1fac527949dac330e6930d" CHECKSUMTYPE="MD5" SIZE="51812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00012_0.tif"/>
+      </file>
+      <file ID="tiff_00012_1" MIMETYPE="image/tiff" CHECKSUM="7a9207c7d8e63aeff399acc2b38c7a05" CHECKSUMTYPE="MD5" SIZE="55154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00012_1.tif"/>
+      </file>
+      <file ID="tiff_00013_0" MIMETYPE="image/tiff" CHECKSUM="0903ba6db7ce14ffa56a9f18571c20e0" CHECKSUMTYPE="MD5" SIZE="55698">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00013_0.tif"/>
+      </file>
+      <file ID="tiff_00013_1" MIMETYPE="image/tiff" CHECKSUM="daed1361899aa2400e90f791967d7f87" CHECKSUMTYPE="MD5" SIZE="51562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00013_1.tif"/>
+      </file>
+      <file ID="tiff_00014_0" MIMETYPE="image/tiff" CHECKSUM="24474c2f4578d49f796f76cef3112e1e" CHECKSUMTYPE="MD5" SIZE="50630">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00014_0.tif"/>
+      </file>
+      <file ID="tiff_00014_1" MIMETYPE="image/tiff" CHECKSUM="d0de03e84d14be037d4784fcef4ebe22" CHECKSUMTYPE="MD5" SIZE="51744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00014_1.tif"/>
+      </file>
+      <file ID="tiff_00015_0" MIMETYPE="image/tiff" CHECKSUM="aff1bf3f0abe6c29dcecf0e731680aeb" CHECKSUMTYPE="MD5" SIZE="55678">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00015_0.tif"/>
+      </file>
+      <file ID="tiff_00015_1" MIMETYPE="image/tiff" CHECKSUM="e6dda3e8d316a9b63189ea21da02e1eb" CHECKSUMTYPE="MD5" SIZE="53482">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00015_1.tif"/>
+      </file>
+      <file ID="tiff_00016_0" MIMETYPE="image/tiff" CHECKSUM="144e6dc67e8ab169ea3f17695a4fda7f" CHECKSUMTYPE="MD5" SIZE="49080">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00016_0.tif"/>
+      </file>
+      <file ID="tiff_00016_1" MIMETYPE="image/tiff" CHECKSUM="1a6659caafb96c20a8de209cadedb21c" CHECKSUMTYPE="MD5" SIZE="54794">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00016_1.tif"/>
+      </file>
+      <file ID="tiff_00017_0" MIMETYPE="image/tiff" CHECKSUM="77d49ed521a1d727b732ef89ccf8238a" CHECKSUMTYPE="MD5" SIZE="54966">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00017_0.tif"/>
+      </file>
+      <file ID="tiff_00017_1" MIMETYPE="image/tiff" CHECKSUM="7b9733b9c863c2fd27af7c57d7031717" CHECKSUMTYPE="MD5" SIZE="54448">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00017_1.tif"/>
+      </file>
+      <file ID="tiff_00018_0" MIMETYPE="image/tiff" CHECKSUM="5574d52028dd5e8be308562acae365c7" CHECKSUMTYPE="MD5" SIZE="53996">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00018_0.tif"/>
+      </file>
+      <file ID="tiff_00018_1" MIMETYPE="image/tiff" CHECKSUM="4556f43936eec426795f6385d41c3ef5" CHECKSUMTYPE="MD5" SIZE="55174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00018_1.tif"/>
+      </file>
+      <file ID="tiff_00019_0" MIMETYPE="image/tiff" CHECKSUM="3769de434ca0edfbefa876072815374b" CHECKSUMTYPE="MD5" SIZE="55368">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00019_0.tif"/>
+      </file>
+      <file ID="tiff_00019_1" MIMETYPE="image/tiff" CHECKSUM="bf4760ff9f1bef8c774397a5eca4df6b" CHECKSUMTYPE="MD5" SIZE="54538">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00019_1.tif"/>
+      </file>
+      <file ID="tiff_00020_0" MIMETYPE="image/tiff" CHECKSUM="f28d4064218805169943d0e63625a38e" CHECKSUMTYPE="MD5" SIZE="53902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00020_0.tif"/>
+      </file>
+      <file ID="tiff_00020_1" MIMETYPE="image/tiff" CHECKSUM="791121086d07db04be40c2730548110a" CHECKSUMTYPE="MD5" SIZE="53212">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00020_1.tif"/>
+      </file>
+      <file ID="tiff_00021_0" MIMETYPE="image/tiff" CHECKSUM="2ce614de5026da729ccae375541e4f62" CHECKSUMTYPE="MD5" SIZE="54530">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00021_0.tif"/>
+      </file>
+      <file ID="tiff_00021_1" MIMETYPE="image/tiff" CHECKSUM="0a5ade385d292dd4c298a554e2086c26" CHECKSUMTYPE="MD5" SIZE="54050">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00021_1.tif"/>
+      </file>
+      <file ID="tiff_00022_0" MIMETYPE="image/tiff" CHECKSUM="f02ea980c8146f49cca6a45ecb07b992" CHECKSUMTYPE="MD5" SIZE="53832">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00022_0.tif"/>
+      </file>
+      <file ID="tiff_00022_1" MIMETYPE="image/tiff" CHECKSUM="6b88068fa77a398aabed72f9244fe5da" CHECKSUMTYPE="MD5" SIZE="53564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00022_1.tif"/>
+      </file>
+      <file ID="tiff_00023_0" MIMETYPE="image/tiff" CHECKSUM="c8ef98c5ff2e0c337b4c75ee95e6d1ca" CHECKSUMTYPE="MD5" SIZE="53356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00023_0.tif"/>
+      </file>
+      <file ID="tiff_00023_1" MIMETYPE="image/tiff" CHECKSUM="393603148e4e03feff18fcbbf459615f" CHECKSUMTYPE="MD5" SIZE="23322">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00023_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00010_0" MIMETYPE="image/jpg" CHECKSUM="6dac4e5698a3f2c50018dc28b69dd480" CHECKSUMTYPE="MD5" SIZE="140032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00010_0.jpg"/>
+      </file>
+      <file ID="jpg_00010_1" MIMETYPE="image/jpg" CHECKSUM="e190c825af56a472ee6d68606686bae9" CHECKSUMTYPE="MD5" SIZE="140550">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00010_1.jpg"/>
+      </file>
+      <file ID="jpg_00011_0" MIMETYPE="image/jpg" CHECKSUM="b09aefc419a747d261dfd38daeafd1f8" CHECKSUMTYPE="MD5" SIZE="194650">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00011_0.jpg"/>
+      </file>
+      <file ID="jpg_00011_1" MIMETYPE="image/jpg" CHECKSUM="b8064e659c6177f5604aab4d3ca2cea5" CHECKSUMTYPE="MD5" SIZE="203990">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00011_1.jpg"/>
+      </file>
+      <file ID="jpg_00012_0" MIMETYPE="image/jpg" CHECKSUM="b68098a084d73c6ab88f2c1a591f1174" CHECKSUMTYPE="MD5" SIZE="187645">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00012_0.jpg"/>
+      </file>
+      <file ID="jpg_00012_1" MIMETYPE="image/jpg" CHECKSUM="c5f7f0fee68cdd30d6e4611fcb07b04c" CHECKSUMTYPE="MD5" SIZE="216779">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00012_1.jpg"/>
+      </file>
+      <file ID="jpg_00013_0" MIMETYPE="image/jpg" CHECKSUM="d4e698dcbb707d2cc6cee4e54a026211" CHECKSUMTYPE="MD5" SIZE="201363">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00013_0.jpg"/>
+      </file>
+      <file ID="jpg_00013_1" MIMETYPE="image/jpg" CHECKSUM="cd21cd3139e3d3cedfc516f7722b6f01" CHECKSUMTYPE="MD5" SIZE="197324">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00013_1.jpg"/>
+      </file>
+      <file ID="jpg_00014_0" MIMETYPE="image/jpg" CHECKSUM="295b7594143f60e59158a81583a96097" CHECKSUMTYPE="MD5" SIZE="188217">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00014_0.jpg"/>
+      </file>
+      <file ID="jpg_00014_1" MIMETYPE="image/jpg" CHECKSUM="4624c346591ee1d2e23adafda07d0104" CHECKSUMTYPE="MD5" SIZE="204672">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00014_1.jpg"/>
+      </file>
+      <file ID="jpg_00015_0" MIMETYPE="image/jpg" CHECKSUM="1086abcd9b2a0d0a922792d309f3072f" CHECKSUMTYPE="MD5" SIZE="201075">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00015_0.jpg"/>
+      </file>
+      <file ID="jpg_00015_1" MIMETYPE="image/jpg" CHECKSUM="8385fda9b05efd11fe0a46dcf939cf11" CHECKSUMTYPE="MD5" SIZE="198691">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00015_1.jpg"/>
+      </file>
+      <file ID="jpg_00016_0" MIMETYPE="image/jpg" CHECKSUM="aae863465c01bda8166ba045e4f45673" CHECKSUMTYPE="MD5" SIZE="176397">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00016_0.jpg"/>
+      </file>
+      <file ID="jpg_00016_1" MIMETYPE="image/jpg" CHECKSUM="e8e28f95ec4a1a4914ef1e2c0723f01b" CHECKSUMTYPE="MD5" SIZE="208738">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00016_1.jpg"/>
+      </file>
+      <file ID="jpg_00017_0" MIMETYPE="image/jpg" CHECKSUM="1f49d29c771e9da3f43875738f99b3b1" CHECKSUMTYPE="MD5" SIZE="197845">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00017_0.jpg"/>
+      </file>
+      <file ID="jpg_00017_1" MIMETYPE="image/jpg" CHECKSUM="aa6b472494d06372aa32941ff0d3e261" CHECKSUMTYPE="MD5" SIZE="200987">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00017_1.jpg"/>
+      </file>
+      <file ID="jpg_00018_0" MIMETYPE="image/jpg" CHECKSUM="b71f4d1cb2227cb060b50fb849c8ad6d" CHECKSUMTYPE="MD5" SIZE="189707">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00018_0.jpg"/>
+      </file>
+      <file ID="jpg_00018_1" MIMETYPE="image/jpg" CHECKSUM="bad6cbfcffe136cfae2ec315bd18f6b4" CHECKSUMTYPE="MD5" SIZE="212106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00018_1.jpg"/>
+      </file>
+      <file ID="jpg_00019_0" MIMETYPE="image/jpg" CHECKSUM="46589dd9aee6c4a5bef6b3842b514740" CHECKSUMTYPE="MD5" SIZE="198972">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00019_0.jpg"/>
+      </file>
+      <file ID="jpg_00019_1" MIMETYPE="image/jpg" CHECKSUM="faadc6756f774d55a179ed8f50646832" CHECKSUMTYPE="MD5" SIZE="202828">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00019_1.jpg"/>
+      </file>
+      <file ID="jpg_00020_0" MIMETYPE="image/jpg" CHECKSUM="aa6111fdf1a6ac252dc87a79de59d43c" CHECKSUMTYPE="MD5" SIZE="187269">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00020_0.jpg"/>
+      </file>
+      <file ID="jpg_00020_1" MIMETYPE="image/jpg" CHECKSUM="d0ab7828cd8f5e7c13c7f50d95126ad4" CHECKSUMTYPE="MD5" SIZE="207262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00020_1.jpg"/>
+      </file>
+      <file ID="jpg_00021_0" MIMETYPE="image/jpg" CHECKSUM="223b97fb26bc9f2d65af7292951764e7" CHECKSUMTYPE="MD5" SIZE="195299">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00021_0.jpg"/>
+      </file>
+      <file ID="jpg_00021_1" MIMETYPE="image/jpg" CHECKSUM="f72cca1a75b9dcc4b95130e9661c4a29" CHECKSUMTYPE="MD5" SIZE="203132">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00021_1.jpg"/>
+      </file>
+      <file ID="jpg_00022_0" MIMETYPE="image/jpg" CHECKSUM="b3741ee489abb0b9744c5cb2cb8b0551" CHECKSUMTYPE="MD5" SIZE="187749">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00022_0.jpg"/>
+      </file>
+      <file ID="jpg_00022_1" MIMETYPE="image/jpg" CHECKSUM="a52043a9dc0d357ff1b9c763c4a10402" CHECKSUMTYPE="MD5" SIZE="206969">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00022_1.jpg"/>
+      </file>
+      <file ID="jpg_00023_0" MIMETYPE="image/jpg" CHECKSUM="36e7d908f0c9cfb8f00537c342fc3494" CHECKSUMTYPE="MD5" SIZE="190904">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00023_0.jpg"/>
+      </file>
+      <file ID="jpg_00023_1" MIMETYPE="image/jpg" CHECKSUM="9f8c9c8aa3a40e7036ca6a705d84ed99" CHECKSUMTYPE="MD5" SIZE="109763">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00023_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00010_0" MIMETYPE="text/xml+gzip" CHECKSUM="69733bb03366b5e30698d5e96834d8d5" CHECKSUMTYPE="MD5" SIZE="8730">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00010_0.xml.gz"/>
+      </file>
+      <file ID="alto_00010_1" MIMETYPE="text/xml+gzip" CHECKSUM="d6e6fc4d52aac6eb4d9b2d3b9eab29f4" CHECKSUMTYPE="MD5" SIZE="7419">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00010_1.xml.gz"/>
+      </file>
+      <file ID="alto_00011_0" MIMETYPE="text/xml+gzip" CHECKSUM="4f2be990efb1df2f241b27f7c79d06d8" CHECKSUMTYPE="MD5" SIZE="12480">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00011_0.xml.gz"/>
+      </file>
+      <file ID="alto_00011_1" MIMETYPE="text/xml+gzip" CHECKSUM="b6430580eea492921b38ed4e44026c52" CHECKSUMTYPE="MD5" SIZE="12889">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00011_1.xml.gz"/>
+      </file>
+      <file ID="alto_00012_0" MIMETYPE="text/xml+gzip" CHECKSUM="c5e46144a46980283ddae7c7c96c09cd" CHECKSUMTYPE="MD5" SIZE="12065">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00012_0.xml.gz"/>
+      </file>
+      <file ID="alto_00012_1" MIMETYPE="text/xml+gzip" CHECKSUM="a7398f75079691707d85a482c0e7f695" CHECKSUMTYPE="MD5" SIZE="12712">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00012_1.xml.gz"/>
+      </file>
+      <file ID="alto_00013_0" MIMETYPE="text/xml+gzip" CHECKSUM="c6cc6dc54bd2994de331f7e2a87aca49" CHECKSUMTYPE="MD5" SIZE="13244">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00013_0.xml.gz"/>
+      </file>
+      <file ID="alto_00013_1" MIMETYPE="text/xml+gzip" CHECKSUM="d693edf758996719d45d0de980f654ea" CHECKSUMTYPE="MD5" SIZE="12360">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00013_1.xml.gz"/>
+      </file>
+      <file ID="alto_00014_0" MIMETYPE="text/xml+gzip" CHECKSUM="36873f91be25b0bed9edcb95a5817574" CHECKSUMTYPE="MD5" SIZE="12370">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00014_0.xml.gz"/>
+      </file>
+      <file ID="alto_00014_1" MIMETYPE="text/xml+gzip" CHECKSUM="966ca9261ce3d1872198a8b955f00d3f" CHECKSUMTYPE="MD5" SIZE="12199">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00014_1.xml.gz"/>
+      </file>
+      <file ID="alto_00015_0" MIMETYPE="text/xml+gzip" CHECKSUM="dcb439385dcd3cd69aa7661724ea93c3" CHECKSUMTYPE="MD5" SIZE="13349">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00015_0.xml.gz"/>
+      </file>
+      <file ID="alto_00015_1" MIMETYPE="text/xml+gzip" CHECKSUM="228983219b7578552cf12f6795f9ca37" CHECKSUMTYPE="MD5" SIZE="12912">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00015_1.xml.gz"/>
+      </file>
+      <file ID="alto_00016_0" MIMETYPE="text/xml+gzip" CHECKSUM="b691178d3436c7cfb87b37ff942cf750" CHECKSUMTYPE="MD5" SIZE="12296">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00016_0.xml.gz"/>
+      </file>
+      <file ID="alto_00016_1" MIMETYPE="text/xml+gzip" CHECKSUM="ab4bce1105ed2d78e49876dc9b039e38" CHECKSUMTYPE="MD5" SIZE="12613">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00016_1.xml.gz"/>
+      </file>
+      <file ID="alto_00017_0" MIMETYPE="text/xml+gzip" CHECKSUM="7d747ed9f12599b9087a14338295e206" CHECKSUMTYPE="MD5" SIZE="13139">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00017_0.xml.gz"/>
+      </file>
+      <file ID="alto_00017_1" MIMETYPE="text/xml+gzip" CHECKSUM="9e714fd139cd9f5bfe3ab7e96cf8d4bd" CHECKSUMTYPE="MD5" SIZE="12986">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00017_1.xml.gz"/>
+      </file>
+      <file ID="alto_00018_0" MIMETYPE="text/xml+gzip" CHECKSUM="8ec2ed73a0bbc0877079a96a616282b1" CHECKSUMTYPE="MD5" SIZE="12364">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00018_0.xml.gz"/>
+      </file>
+      <file ID="alto_00018_1" MIMETYPE="text/xml+gzip" CHECKSUM="b55eb1dd03b65890a91887c324547a71" CHECKSUMTYPE="MD5" SIZE="13016">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00018_1.xml.gz"/>
+      </file>
+      <file ID="alto_00019_0" MIMETYPE="text/xml+gzip" CHECKSUM="d488c46fb42c6421b327b929d4146c58" CHECKSUMTYPE="MD5" SIZE="12845">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00019_0.xml.gz"/>
+      </file>
+      <file ID="alto_00019_1" MIMETYPE="text/xml+gzip" CHECKSUM="5dead391081721a3a6e937f1841b37cf" CHECKSUMTYPE="MD5" SIZE="12946">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00019_1.xml.gz"/>
+      </file>
+      <file ID="alto_00020_0" MIMETYPE="text/xml+gzip" CHECKSUM="eba431a285631081c9a8d0b0872e8029" CHECKSUMTYPE="MD5" SIZE="12971">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00020_0.xml.gz"/>
+      </file>
+      <file ID="alto_00020_1" MIMETYPE="text/xml+gzip" CHECKSUM="d9b39af197970dd80538e055be04eb45" CHECKSUMTYPE="MD5" SIZE="12915">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00020_1.xml.gz"/>
+      </file>
+      <file ID="alto_00021_0" MIMETYPE="text/xml+gzip" CHECKSUM="9ed242c879cac8fb16ae217f64920cec" CHECKSUMTYPE="MD5" SIZE="13094">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00021_0.xml.gz"/>
+      </file>
+      <file ID="alto_00021_1" MIMETYPE="text/xml+gzip" CHECKSUM="9190928bc20f2fb29d27f6b8263a9a7d" CHECKSUMTYPE="MD5" SIZE="13001">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00021_1.xml.gz"/>
+      </file>
+      <file ID="alto_00022_0" MIMETYPE="text/xml+gzip" CHECKSUM="c47dcc63199552f43b5775560514028f" CHECKSUMTYPE="MD5" SIZE="13492">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00022_0.xml.gz"/>
+      </file>
+      <file ID="alto_00022_1" MIMETYPE="text/xml+gzip" CHECKSUM="89413ec26b2cec6429ffd5f0013b82d9" CHECKSUMTYPE="MD5" SIZE="12502">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00022_1.xml.gz"/>
+      </file>
+      <file ID="alto_00023_0" MIMETYPE="text/xml+gzip" CHECKSUM="6827c5ee23e7e145aa405cb364071909" CHECKSUMTYPE="MD5" SIZE="13032">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00023_0.xml.gz"/>
+      </file>
+      <file ID="alto_00023_1" MIMETYPE="text/xml+gzip" CHECKSUM="e73a19c8b7d73aac3faf7fa1529145a7" CHECKSUMTYPE="MD5" SIZE="6667">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00023_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0003" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="7" lastpage="34">
+              <court pgmap="19" id="b19-9">District Court, D. Oregon.</court>
+              <citation pgmap="19" id="b19-7">Fed.Cas.No.4,756</citation>
+              <parties pgmap="19" id="b19-8">THE FIDELITER.<footnotemark>1</footnotemark>
+              </parties>
+              <decisiondate pgmap="19" id="b19-10">Sept. 20, 1869.</decisiondate>
+              <attorneys pgmap="20" id="b20-8">Joseph N. Dolph, for libellant.</attorneys>
+              <attorneys pgmap="20" id="b20-9">Erasmus D. Shattuck, W. W. Page, and S. W. Brockway, for claimant.</attorneys>
+              <footnote label="1">
+                <p pgmap="19" id="b19-13">1 Reported by Hon. Matthew P. Deady, District Judge, and here reprinted by permission. 11 Int.Rev.Ree. 62, contains only a partial report.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="20" id="b20-10">DEADY, District Judge.</author>
+                <p pgmap="20" id="b20-11">This is a suit for the condemnation of the steamship Fideliter, as being forfeited to the United^ States for the vio­lation of section 4 of the registry act of December 31, 1792 (1 Stat. 287), and section 24 of the act to prevent smug­gling, etc., of July 18, 1866 (14 Stat. 184 [see 46 U.S.C.A. § 60 and note] ). The libel was filed by the district attorney on behalf of the United States, on December 27, 1867, praying that said vessel, her tackle,- etc., might be adjudged forfeited to the United States for the reasons and causes therein al­leged. The libel substantially charges:</p>
+                <p pgmap="20" id="b20-12">I. That the Fideliter is an ocean steamship of 175 16-100 tons burden; that she is not an American vessel, but is a British bottom, built in some British port to the libellant un­known, and has since sailed under the British flag and is not entitled to sail under any other, and that William Kohl is the sole owner thereof, and has been such owner since April, 1867.</p>
+                <p pgmap="20(21) 21(118)" id="b20-13">II. That between the middle of May and June, 1867, the said Kohl took said vessel from the port of Portland-on­Wallamet, to Sitka, in Alaska, with the intent to there make a sham or pretended sale thereof to some Russian subject, so as to enable said Kohl to obtain an American certificate of registry for said vessel under the treaty of purchase conclud­ed between the United States and Russia, on March 30, 1867; and that between June and November, 1867, said Kohl did make a sham sale of such vessel to one Joseph Lugebil, a Russian subject; and that such Lugebil is now, was then and has been for a long time in the employ of the Emperor of Russia as interpreter, and was without means, and paid no valuable consideration or thing whatever for such purchase.</p>
+                <p pgmap="21" id="b21-4">III. That in order to obtain the registry of said vessel un­der the laws of the United States, and the treaty of purchase aforesaid, and with the intent to' obtain such registry, the said Kohl, on October 28, 1867, at the port of Sitka afore­said, appeared before William S. Dodge, .the collector of customs for said port, and solemnly affirmed that said Luge­bil was then and there the owner of said vessel; and that the matter of fact in said affirmation, to wit: that Lugebil was the sole owner of such vessel, was, within the knowledge of said Kohl, not true, but the same was false and untrue; and that within the knowledge of said Kohl, he, the said Kohl, was then and there the sole owner of such vessel, and not Lugebil.</p>
+                <p pgmap="21" id="b21-5">IV. That said Kohl, on the date and at the port last afore­said, and in the manner and by the means aforesaid, did un­lawfully and fraudulently obtain from the collector afore­said, a certificate of registry of said vessel; which register so obtained has been wrongfully and improperly used for said vessel ever since.</p>
+                <p pgmap="21" id="b21-6">On the filing of the libel a warrant of arrest was issued against the vessel, upon which she was seized by the marshal on the same day while lying at this port.</p>
+                <p pgmap="21(76) 22(46)" id="b21-7">On December 28, 1867, William Kohl appeared and filed a petition, praying that the vessel be delivered to him on bond, in which petition he represented himself as the “agent of the owners” of the same. On the same day the vessel was released, upon the bond of said Kohl and his sureties, to pay the agreed value thereof — $30,000—in case she was con­demned as forfeited by the decree of this court. On January 4, 1868, Kohl filed a claim of ownership of the vessel, with­out verification, in which he alleged that he was “the agent of the persons who are the true and bona fide owners there­of,” without naming or otherwise indicating who such per­sons were.</p>
+                <p pgmap="22" id="b22-4">These particulars concerning the claim of ownership are noticed for the purpose of calling attention to the irregular­ity of releasing the vessel to Kohl before a claim of owner­ship was made in the case, and to the fact that the claim of ownership made by Kohl was as agent for “persons” and “owners” — more than one — while in the answer filed by him the same day, as •‘he agent of Lugebil, it is alleged that Luge­bil is the sole owner.</p>
+                <p pgmap="22" id="b22-5">On January 4, 1868, Kohl, as the agent of Joseph Lugebil, answered the libel in substance and legal effect as follows:</p>
+                <p pgmap="22" id="b22-6">I. Admits that the Fideliter was a British built vessel and sailed under that flag; but avers that on October 28, 1867, she became and has ever since been an American vessel, by virtue of the United States laws, relating to shipping and the treaty of purchase aforesaid. Denies that Kohl is or ever was the owner in whole or in part of said vessel. Admits that the owner of said vessel took her from the port of Port­land-on-Wallamet to the port of Sitka, as alleged in the libel; but denies that he took her there for the purpose of making a sham or pretended sale to a Russian subject, with a view of obtaining an American register therefor, as alleged in the libel.</p>
+                <p pgmap="22(146) 23(42)" id="b22-7">II. That about June 6, 1867, John Dutnell, a British sub­ject was, and for some time prior thereto had been the own­er of said vessel; and that about said date said Dutnell, by said Kohl, his attorney in fact, duly sold, conveyed and transferred said vessel to the claimant, Joseph Lugebil, who was at that time a Russian subject, living at Sitka, aforesaid, and employed there as bookkeeper by the Russian American Fur Company, a corporation then existing under the laws of Russia; and that, in pursuance of such sale, a bill of sale of said vessel was then and there duly executed and delivered to the claimant; who thereupon came into possession, and was thereby made sole owner of said vessel, at Sitka, afore­said; and that said sale was made with the knowledge and approval of Maksatoff, the governor of Russian America, and in accordance with the laws of Russia; and said vessel was duly registered in the archives of the Russian govern­ment at Sitka, aforesaid, and thenceforward passed under and lawfully sailed under the Russian flag, until about Oc­tober 28, 1867.</p>
+                <p pgmap="23" id="b23-4">III. Admits that Kohl appeared before Dodge and pro­cured an American register for said vessel, as alleged in the libel; but denies that the matters there affirmed as fact and truth by said Kohl, before said Dodge, were false within the knowledge of said Kohl, as alleged in the libel; and alleges that claimant is the sole owner of the vessel, as said Kohl did affirm, and is now such owner; and that said Kohl was then and had been since June, 1867, acting as agent for claimant of said vessel, under a written power of attorney from claim­ant, which power said Kohl still holds.</p>
+                <p pgmap="23" id="b23-5">IV. Denies that Kohl obtained said register fraudulently or unlawfully, or that the same had been wrongfully or im­properly obtained and used by said vessel, ever since or at all. Denies that by reason of the premises that the vessel has be­come liable to be seized and forfeited.</p>
+                <p pgmap="23" id="b23-6">On May 5, 1868, a general replication to the answer was filed by the libellant, and on May 8, thereafter, on motion of libellant, the cause was continued until the November term, to obtain the testimony of certain witnesses, alleged then to be in British Columbia and Sitka. At such November term, the testimony of said witnesses not having been obtained, on motion of the district attorney, the cause was continued to the March term, 1869. At the last mentioned term the libel­lant again moved for a continuance, to obtain the testimony of the claimant, Lugebil, and one John Dutnell, alleged in the answer to have been the owner of the Fideliter, which was refused by the court, for want of diligence in suing out the commission and letters rogatory, to obtain such testi­mony, and because there was a stipulation between the par­ties that the cause should be tried at this term. On March 5th and 6th the court heard the allegations and evidence of the parties; and on June 18th the cause was argued by coun­sel and submitted.</p>
+                <p pgmap="23" id="b23-7">The following is a summary of the evidence introduced by the libellant:</p>
+                <p pgmap="24" id="b24-2">1.A duly certified copy of an American register, issued to the Fideliter, by William S. Dodge, special agent and col­lector at the port of Sitka, October 28, 1867, which among other things, recites and declares: — “That in pursuance of the acts of December 31, 1792, and May 6, 1864 [13 Stat. 69], concerning the registering and tonnage of ships and vessels, and by virtue of special instructions from the secre­tary of the treasury in pursuance of article 3 of the treaty of purchase, between the United States and Russia; and ‘Wil­liam Kohl, of New Archangel, Sitka, agent for Joseph Lugebil, Russian resident of Sitka, by power of attorney having taken or subscribed the proofs required by said acts, and having affirmed that said Joseph Lugebil is the only owner of the ship or steam vessel called the Fideliter, of Sit­ka, whereof Melville C. Erskine is master;’ and ‘that the na­tionality of said vessel being duly verified and authenticated by the passport of his imperial majesty, the emperor of all the Russias, under the hand and official seal of Prince de Maksatoff, his majesty’s governor of the Russian colonies in America, which having been surrendered to this office, the said steamer has been duly registered at the port of Sitka, Alaska.’ ”</p>
+                <p pgmap="24" id="b24-3">2. A certified copy of the affirmation of “William Kohl as agent of Joseph Lugebil” — being the affirmation men­tioned in the certificate of registry aforesaid — dated Octo­ber 28, 1867, and made before William S. Dodge, special agent and collector,” in which said Kohl recites, that he is of New Archangel, and agent for Joseph Lugebil of the same place, and affirms, among other things: “That said Joseph Lugebil is a bona fide Russian resident of Sitka, and has been such resident for ten years; that his present usual place of abode or residence is Sitka; that he is the true and only owner of the said ship or vessel” (the Fideliter).</p>
+                <p pgmap="24(84) 25(397)" id="b24-4">3. The deposition of P. O. .Dwyer, taken September 23, ,1868, before the clerk of this court, in which said Dwyer de­poses That he had been a resident of Victoria since 1860, and that sometime between that date and 1866, the Fideliter was wrecked near Victoria, and sold at auction, and that it was the common understanding, then and there, that Mr. Kohl was the purchaser. That he was well acquainted with the principal business men of Victoria, but had never seen or heard of such a man there, as John Dutnell. That he went from Victoria to Sitka on the Fideliter with Kohl, and ar­rived there June 6, 1867, and that during such voyage Kohl told witness that he was taking the Fideliter to Sitka to make an American vessel-of her, and that he wanted to get there by the time the country was turned over and the American flag hoisted, in order that the Fideliter might become an American vessel. That upon their arrival at Sitka and afterwards, Kohl was expecting the U. S. government agent to arrive every day and take possession of the country, but no one came, and there being no communication with the country at that time, and Kohl being tired of waiting, left on the evening of July 4, for Victoria. That sometime before Kohl left for Victoria,t he informed witness that he had in some way transferred the Fideliter to Joseph Lugebil, a Rus­sian citizen and resident of Sitka, but whether there was a bona fide sale of the vessel, witness could not say, and that immediately before leaving for Victoria, as aforesaid, that Kohl informed witness that he was not quite sure of Luge­bil’s honesty, and in order that Lugebil might not act the rogue in the matter, he then gave witness a paper, telling him, that if during his, Kohl’s absence, Lugebil should at­tempt to sell the vessel, that he, the witness, should step for­ward with this paper to show that Lugebil had “no call or authority to sell the steamer.” This paper the witness kept in his trunk, at Sitka, in an envelope with other papers, be­longing'to Erskine, the master of the Fideliter, and other persons, until the latter part of November, 1867, when it was abstracted from his trunk by Kohl or the son of witness — a lad then about twelve years of age — under the direction of Kohl, at which time Kohl and said son of witness left Sitka for Victoria, on the steamer Stephens, the vessel which had brought up General Rousseau, the government agent, to re­ceive the country from the Russians. That said paper was not examined by witness, so as to enable him to know its contents, and that the other papers which were in the same envelope were not disturbed when this was abstracted.</p>
+                <p pgmap="25(44) 26(162)" id="b25-4">4. W. W. Barlow, a witness called on the trial testified: That he was a passenger to Sitka in the Fideliter in the spring of 1867, and that during the voyage he heard Kohl remark that he intended to transfer the Fideliter to some person in Sitka for the purpose of making her an American vessel; and that this impression as to the object of the voy­age to Sitka was derived as well from the conversations with the passengers as with Kohl. That the Fideliter remained at Sitka about four weeks when she returned to Victoria and thence to Portland, with a cargo of wool from Victoria and some cargo from Sitka, and with witness and Kohl on board. That during the stay at Sitka witness remained on shore, and the Fideliter lay a few rods out from the wharf, and that witness saw Lugebil on board the Fideliter two or three times, but cannot state what, if any, business he had there. That Lugebil came on board on the first day of Fideliter’s arrival at Sitka, and that he was a Russian citizen and a lead­ing man at Sitka, but whether or not he was a man of means, witness could not say.</p>
+                <p pgmap="26" id="b26-3">5. William H. Grey, a witness called on the trial, testified: That witness visited Sitka in steamer Wright in July, 1868. That while there the Fideliter was at Kodiac under charge of Erskine, master, and that during same time witness saw and conversed with Lugebil on the wharf and in the custom house. That in the course of these conversations witness learned from Lugebil that he was interpreter for the Russian Fur Company, and was then engaged in closing up its busi­ness, and that in reply to a direct question from witness, Lugebil told witness that “he — Lugebil—had never owned any interest in vessels.”</p>
+                <p pgmap="26" id="b26-4">The following is a summary of the evidence introduced by the claimant:</p>
+                <p pgmap="26(120) 27(17)" id="b26-5">1. A letter of instructions addressed to Kohl, dated— “Office of the American Russian Fur Co., San Francisco, May 17, 1867,” and signed “John F. Miller, President,” and attested by “Henry Baker, Secretary,” in which Kohl is ad­vised: That he has been appointed general agent by the American Russian Fur Company in Russian America, with full power to act for them in all matters which may arise in that country and to make locations, appoint sub-agents and such other employes as he might deem necessary. That pur­chases (if it deemed advisable to make any) should be made subject to the approval of the company; and that “you (Kohl) are authorized to draw on us (the company), not ex­ceeding '$2,000.” The letter concludes — “Wishing you a pleasant and successful trip, I remain, yours respectfully.”</p>
+                <p pgmap="27" id="b27-4">. 2. A certified copy of records and entries in the custom house at Victoria, Vancouver’s Island, relating to -the Brit­ish built steamer — the Fideliter — the substance of which is as follows:</p>
+                <p pgmap="27" id="b27-5">(a) June 4, 1866. Certificate of registry granted to Fi­deliter by collector of port of Victoria, Vancouver’s Island, which recites that Melville C. Erskine, of Victoria, V. I., is the master of said vessel, and that she was built at Liver-. pool, England, in 1859, and that John Dutnell is her owner. Record of certificate endorsed — “Vessel sold to foreigner under certificate of sale dated May 29, 1867, at Sitka.” Al­so — “Certificate delivered up and canceled July 10, 1867. Registry closed.”</p>
+                <p pgmap="27" id="b27-6">(b) October 13, 1866. A bill of sale from Godfrey Brown to John Dutnell of Victoria. Consideration $35,000 paid down. Endorsed — “Entered of record Oct. 18, 1866.”</p>
+                <p pgmap="27" id="b27-7">(c) October 19, 1866. Mortgage from Kohl and Dut­nell to Joseph Lovett — given to secure the payment of $16,-­500, due on same date from Kohl to Lovett, with interest at 1 y2 per centum per month, by Kohl without qualification and by Dutnell (“as registered owner”) “according to our and each of our respective interests” of the 64 shares, “of which we or one of us, are, or is owner or owners in the ship” Fi­deliter; with a covenant by Kohl and Dutnell and each of them, “that we have power to mortgage” said shares.</p>
+                <p pgmap="27" id="b27-8">. (d) November 6, 1866. An assignment of the last men­tioned mortgage by Lovett to the Bank of British Colum­bia to secure the payment of four notes of $1,000 each, made by said Lovett and Kohl and one Thomas Wright, to said bank. Endorsement on assignment — “Entered of record Nov. 7, 1866” — on mortgage and assignment — “Release and discharge to Levett by Bank of British Columbia, May 7, 1867.”</p>
+                <p pgmap="27" id="b27-9">(e) May 29, 1867. Mortgage from Dutnell to Kohl to secure the payment of $28,000, due July 1, 1867, with inter­est at iy¿ per centum per month. Mortgage recites that Dutnell is owner of the vessel and Dutnell covenants there­in that he has power to mortgage vessel and that it is free from incumbrances. Recorded same day.</p>
+                <p pgmap="28" id="b28-3">(f) May 29, 1867. Power of attorney from John Dut­nell to William Kohl, irrevocable, to sell vessel in the name of Dutnell or Kohl, and to execute the necessary writings therefor; with declarations by Dutnell — that vessel not to be sold for less than $28,000; that vessel might be sold at Sitka or elsewhere; and that power not to be exercised after eighteen months. Recorded same day. Acknowledged be­fore McCrea “in the absence of the collector.” At the head .of this paper it is entitled — “Certificate of Sale.”</p>
+                <p pgmap="28" id="b28-4">3. Originals of bill of sale from Brown to Dutnell, and power of attorney from Dutnell to Kohl, copies of which, above lettered (a) and (f).</p>
+                <p pgmap="28" id="b28-5">4. A certified copy of bill of sale of the Fideliter, dated June 6, 1867, from “William Kohl, of Victoria, in the col­ony of Vancouver’s Island (British Columbia),” as “agent for steamer Fideliter, belonging to John Dutnell of Vic­toria,” to “Joseph Lugebil, Russian citizen, resident in the Russian colonies of America.” Consideration, $30,000 paid down; with a covenant that Kohl had power “to transfer” vessel, and that same is free from incumbrances. (Signed) “Wm. Kohl, Agent for John Dutnell.” Witnessed by M. C. Erskine.</p>
+                <p pgmap="28" id="b28-6">5. A power of attorney irrevocable, dated June 6, 1867, from Joseph Lugebil, “Russian resident at the port of New Archangel, Sitka,” to William Kohl, “of New Archangel, Sitka,” to sell the steamer Fideliter in the name and behalf of said Kohl or Lugebil, and to execute the necessary writ­ings therefor; — with declarations by Lugebil — that vessel not to be sold for less than $28,000; that it may be sold at Sitka or elsewhere; and that power not to be exercised after eighteen months. Power recites that Lugebil, “being the owner of the steamer Fideliter — as specified in the bill of sale of June 6, 1867,” — the paper last above mentioned.</p>
+                <p pgmap="28" id="b28-7">6. Russian passport to Fideliter, dated June 7, 1867, which recites that Fideliter “is under the command of Capt. Erskine, and owned by the Russian subject and honorable citizen, J. Lugebil.” (Signed) P. Maksatoff.</p>
+                <p pgmap="28" id="b28-8">7. William Kohl, a witness called on the trial, testified:</p>
+                <p pgmap="28(21) 29(444) 30(157)" id="b28-9">That Godfrey Brown resided at Victoria in 1866, and was connected with the firm of Janion, Green &amp; Rhodes, and that on March 1, 1866, witness first knew of Brown’s having Fi­deliter in his possession. That in December, 1866, witness commenced negotiations with one Capt. Bock to take Fidel­iter to Sitka. Bock bought the vessel for Lugebil, and pro­vided she arrived at Sitka in time and suited him Lugebil was to pay witness for her. That this negotiation or agree­ment with Bock was reduced to writing, but witness does not know what he done with it or where it is — he may have de­stroyed it. At time of this agreement Bock was master of the steamer Alexander, but when witness last saw him— July, 1868 — was master of a bark at Sitka. Under this agreement with Bock, Fideliter was to be taken to Sitka in May, 1867, to be used as a fur trader in some country in Russian America, that had been leased to the Hudson Bay Company. The Russian American Fur Company had been organized in San Francisco to take fur there. The com­pany included among others named, and not named by the witness, Miller, the collector of the port of San Francisco, and Lugebil and witness. That witness presumed it was the intention of the Russian American Fur Company to use the Fideliter for the purposes of the company, but he never made any arrangement with Lugebil himself. That the vessel was to be used in the waters of Russian America, and therefore had to be a Russian vessel and owned by a Russian citizen. Lugebil being a Russian citizen, purchased the vessel — con­firmed the contract of Bock when witness got to Sitka. That the Russian American Fur Company had had an agent at St. Petersburg for two years to get a lease of the grounds or country that had been leased to the Hudson Bay Company, and expected to get such lease on May 1, 1867, and “I (wit­ness) went up to Sitka to carry out our part of the contract.” Prince de Maksatoff would not give Fideliter clearance, but said to witness that he expected the lease from the Russian government soon, and in the meantime for witness to go on and trade, but “1 thought I would wait until I heard from our folk at San Francisco.” That witness got to Sitka with Fideliter about last of May or first of June — two days be­fore bill of sale to Lugebil. Did not then hear anything about ratification of treaty of purchase. Saw Lugebil the first day of arrival at Sitka, he came on board Fideliter for despatches for the prince. Sold vessel to Lugebil then, and made bill of sale to Lugebil in office of Russian Fur Com­pany. On June 6, 1867, witness went aboard and gave Lugebil possession, but Erskine continued in command. That witness remained at Alaska until evening of July fourth, when.he went to Victoria, and returned to Alaska on the steamer John L. Stephens, two or three weeks before General Rousseau arrived there, which was in October, 1867. That witness took the power of attorney from Lugebil because he did not pay witness his money — did not pay all of it.. That witness next saw Lugebil at Sitka on October 3 or 4, 1867. Lugebil was then an inhabitant of that country, and had been, to the knowledge of witness, since June 6, 1867, and was financier and translator for the Russian Fur Company. That witness last saw Lugebil a week or ten days ago (about February 25 or 26, 1869), in San Francisco, at Hubbard’s office.</p>
+                <p pgmap="30" id="b30-4">That Fideliter was once wrecked on the coast of Victoria and never ran afterwards until witness became her agent. That witness advanced money to Dutnell twice on the vessel —the first time to the amount of $12,000: and that first and last he advanced the vessel near $28,000. That when money was so advanced the second time, then witness went into pos­session of vessel, and that after he took mortgage from Dut­nell, witness had exclusive control of vessel. That witness first became acquainted with Dutnell in 1858; but that wit­ness was never an intimate or associate of Dutnell’s or a friend, and last saw him on December 22d or 23d, 1868.</p>
+                <p pgmap="30" id="b30-5">That witness heard Dwyer’s deposition read in court, and that he did not to his recollection say to Dwyer what he tes­tifies witness did. That witness might have made Dwyer evasive answers, as we were then in competition with H. B. Co., and wanted to keep knowledge from them. That wit­ness did not leave paper with Dwyer nor take any paper out of his trunk.</p>
+                <p pgmap="30(82) 31(27)" id="b30-6">That in speaking of the alleged sale of the Fideliter to Lugebil, to A. C. Gibbs, then acting United States district attorney, at his office in Portland, and just after the seizure of the vessel, witness did not say, and he had no recollection of saying — “It was a bona fide sale and the money paid, but of course I don’t say where the mone}*- came from.” That on same occasion, witness did not say to A. C. Gibbs — “That as soon as R. A. F. Co. organized, so as to hold vessel and re­ceive title to her, she was to be turned over to it.”</p>
+                <p pgmap="31" id="b31-4">For the purpose of impeaching the testimony of William Kohl, the libellant called A. C. Gibbs as a witness, who tes­tified :</p>
+                <p pgmap="31" id="b31-5">That at the time the seizure of the Fideliter was made, he was acting as United States district attorney, and that soon after such seizure he had a conversation with Kohl concern­ing this matter at his (witness’) office, and that he wrote to the collector of customs at Astoria, at once, telling him some things that Kohl said in this conversation, and his own con­clusion as to the law of the case. (Here witness was shown a letter of six pages, dated Portland, December 28, 1867, addressed to “Hon. A. Hinman, Collector,” etc., and signed “A. C. Gibbs.”)</p>
+                <p pgmap="31" id="b31-6">That the letter now shown witness was written by himself to the collector at Astoria, and is the one referred to by him. After reading the letter, witness testified that in the course of the conversation referred to, Kohl said to witness, in speaking of the alleged transfer of the Fideliter to Lugebil— “It was bona fide and the money paid, but of course I don’t say where the money came from.” These are the very words of Kohl, as spoken by him in that conversation, and put in writing in the letter aforesaid, in quotation marks, and that witness is now satisfied that Kohl used these words on that occasion. That on same occasion Kohl said in sub­stance to witness — “That as soon as Russian American Fur Company organized, so as to hold said vessel and receive ti­tle to her, she was to be turned over to it,” and that witness remembered this declaration of Kohl’s, without the aid of the letter to the collector at Astoria.</p>
+                <p pgmap="31" id="b31-7">From the foregoing evidence, I find the following conclu­sions of fact:</p>
+                <p pgmap="31" id="b31-8">I. That the Fideliter was a British vessel, built at Liver­pool, in England, in 1859, and that prior to June 4, 1866, she was wrecked near Victoria, and while in that condition, was sold by Godfrey Brown, at auction or otherwise, on account of owners, underwriters or other persons whom it con­cerned, and that Kohl became and was the purchaser at such sale.</p>
+                <p pgmap="32" id="b32-2">II. That Kohl being an American citizen could not'obtain the registry of the Fideliter, in his own name, in the custom house at Victoria, and therefore, on June 4, 1866, he fraud­ulently procured said vessel to be registered at said custom house, in the name of John Dutnell, a British subject, as owner thereof; and that in pursuance of this registry, and for the reason aforesaid, said Kohl, on October 13, 1866, procured the bill of sale of said vessel to be made by said Brown to said Dutnell, which bill of sale was false and fraudulent, and without any consideration whatever, mov­ing from said Dutnell.</p>
+                <p pgmap="32" id="AB">III. That the mortgage and power of attorney from Dut­nell to Kohl, above mentioned and described, and dated May 29, 1867, were both made without any consideration what­ever, and with a view of enabling said Kohl to make an ap­parent bill of sale of said vessel to said Lugebil or other Rus­sian subject, at. Sitka, for the purpose of having her thereby become an American vessel, uñder and by operation of ar­ticle 3 of the treaty of purchase aforesaid, then already rat­ified by United States senate, and awaiting exchange of such ratification with the government of Russia, and contrary, to the true intent and meaning of said treaty, and in fraud thereof.</p>
+                <p pgmap="32" id="A8">IV. That the bill of sale from Kohl, agent of Dutnell, to Lugebil, and the power of attorney from the latter to Kohl, above mentioned and described, and dated June 6, 1867, were both made without any consideration whatever, and were fraudulently made and accepted by said Kohl and Lugebil respectively, for the purpose of assisting said Kohl, in making an American vessel of said Fideliter, in fraud of said treaty as'aforesaid; and that it is not true that said Lugebil was, on October 28, 1867, or other day, the bona fide owner of said vessel, or of any interest therein, or that said Kohl, as agent or otherwise, ever in good faith sold said vessel or any interest therein to said Lugebil, and that the pretended sale of said vessel to said Lugebil, at Sitka as aforesaid, was in truth and in fact a mere sham and fraudu­lent device for the fraudulent purpose aforesaid.</p>
+                <p pgmap="32(34) 33(72)" id="b32-7">V. That the matter of fact stated in the affirmation of said Kohl, made before the said William S. Dodge on Octo­ber 28, 1867, as aforesaid, to wit: that said Lugebil “is the true and only owner” of the Fideliter, was then and there untrue .within the knowledge of said Kohl; and that said matter of fact was falsely affirmed by said Kohl for the pur­pose of obtaining the American registry aforesaid of said vessel, he, the said Kohl, then and there well knowing that said vessel was in fact a foreign vessel, and not entitled to obtain or use said certificate of registry.</p>
+                <p pgmap="33" id="b33-4">VI. That the American certificate of registry, issued to the Fideliter, at Sitka, as aforesaid, was obtainéd by said Kohl by fraud as aforesaid, he, the said Kohl, then and there well knowing that said vessel was not entitled to the benefit thereof; and that said certificate was thenceforth and until the seizure of the Fideliter as aforesaid, fraudu­lently used for said vessel, they, the said Kohl and Lugebil and each of them, then and there well knowing that' said ves­sel was not entitled to the benefit thereof.</p>
+                <p pgmap="33" id="b33-5">Upon these conclusions of fact there must be a decree con­demning the Fideliter as forfeited to the United States, for the violation of section 4 of the act of December 31, 1792 (1 Stat. 289), concerning the registering of vessels.; and sec­tion 24 of the act of July 18, 1866 (14 Stat. 184 [see 46 U. S.C.A. § 60 and note]), to prevent smuggling, and for oth­er purposes.</p>
+                <p pgmap="33(209) 34(45)" id="b33-6">The first mentioned of these sections prescribes the oath or affirmation “to be taken and subscribed by the owner or one of the owners” of a vessel, in order to obtain the registry thereof, in which such owner is required to declare “his or her name and place of abode, and if he or she be the sole owner of such ship or vessel, that such is the case; or if there be another owner or other owners, that there is or are such other owner or owners, specifying his, her or their name or names and place or places of abode, and that he, she or they, as the case may be, so swearing or affirming, is or are citizens of the United States.” This section also provides: “And in case any of the matters of fact in the said oath or affirma­tion alleged, which shall be within the knowledge of the par­ty, so swearing or affirming, shall not be true, there shall be a forfeiture of the ship or vessel, together with her tackle, furniture and apparel, in respect to which the same shall have been made.” Section 24 of the act of 1866, above men­tioned, provides: “That if any certificate of registry, enroll­ment or license, ór other record or document granted in lieu thereof, to any vessel, shall be knowingly and fraudulently obtained or used for any vessel not entitled to the benefit thereof, such vessel, with her tackle, apparel and furniture, shall be liable to forfeiture.”</p>
+                <p pgmap="34" id="b34-3">Having thus fully stated the pleadings and evidence in the case, I do not deem it necessary to make an extended argu­ment in support of the conclusions of facts already deduced therefrom.</p>
+                <p pgmap="34(349) 35(32)" id="b34-4">All the circumstances of the case point to one conclusion —that is, that from the sale of the Fideliter by Brown, Kohl has been and still is the sole owner of this vessel. During all this period wherever she may be, or whoever else pretends to own her, she is nevertheless in the actual custody and under the absolute control of this ever present and “irrevocable” agent — William Kohl and his captain — Melville C. Erskine. The alleged sales from Brown to Dutnell, and from the lat­ter to Lugebil, have no visible effect upon the use or posses­sion of the vessel or upon the relation of any of these parties to her. Dutnell, whoever he may be, is never seen or heard of, as exercising any acts of authority or ownership in the premises, except the equivocal and suspicious ones of sign­ing the mortgage to Lovett in 1866, and the mortgage and power to Kohl in 1867. True, the British registry of June, 1866, asserts that Dutnell is owner, but the record is sus­piciously silent as to who procured this registry, or upon whose representations it was granted. I have no doubt that Kohl procured the registry in the name of Dutnell, because being an American citizen, he could not obtain the registry in his own name. The mortgage to Lovett was undoubtedly given to secure the payment of an actual debt then due from Kohl to Lovett. In this mortgage, Kohl asserts that he or Dutnell, or both of them, are owners of the vessel — the lat­ter being the registered owner — that is, named as the owner in the registry, but not so in fact. Now, if the vessel really belonged to Dutnell, no reason is shown or suggested for his mortgaging it to secure the payment of a debt of $16,500, due from Kohl to Lovett; nor can any reason, consistent with Dutnell’s alleged ownership, be even surmised for Kohl’s joining Dutnell in a mortgage of the latter’s vessel for any purpose. As Kohl testifies, he and Dutnell were neither friends or associates, and at this time Dutnell does not appear, from the custom house records, to have had or claimed any authority over or interest in the vessel what­ever.</p>
+                <p pgmap="35" id="b35-4">The most plausible explanation of this matter is, that Kohl was all the while the real owner of the vessel, and that Dut­nell’s pretended ownership was a mere sham and blind for the purpose of obtaining a British register, at Victoria, and that as Dwyer testifies Kohl’s ownership of the vessel was understood in that community. Accordingly Lovett took his mortgage from the real owner — Kohl, and the pretended_ owner, named in the registry — Dutnell. Again, it is un­reasonable to suppose that Dutnell could have been the real owner of a piece of property of as much comparative im­portance and value, in Victoria, as the steamship Fideliter, and not be known or heard of there, by persons of ordinary opportunities for observation and acquaintance. Upon this point there is the direct testimony of Dwyer, that, he had lived in Victoria since 1860, and was well acquainted with the business men of the place, but had never seen or heard of such a man there as John Dutnell. Then there *s the fact, substantially admitted by Kohl in his testimony, that Dutnell never exercised any actual control over the vessel, but that from and after the sale by Brown, he, Kohl, was her agent and controlled her movements and employment.</p>
+                <p pgmap="35(159) 36(184)" id="b35-5">Consider also, that if it were a fact that Brown sold this vessel to Dutnell, at Victoria, and that the transactions con­cerning her, which took place between the latter and Kohl, were had in good faith and upon sufficient considerations, why has not the claimant produced the testimony of Brown and Dutnell upon these points. Its non-production by the claimant leads to the conclusion — in the absence of any ex­cuse therefor — that if produced, it would but confirm the suspicions which the uncommon circumstances of the case necessarily excite. But it also appears from the papers in the case, that the government has procured letters rogatory to be issued, addressed to the proper court at Victoria, to ob­tain the testimony of Dutnell, and that when Dutnell was found and brought before the officer appointed to take his deposition, that an attorney representing Kohl appeared and obtained a postponement of the proceeding until the next day, at which time Dutnell promised to appear and give his testimony, but that upon the next day Dutnell was missing and kept himself concealed out of the reach of process, so that his testimony was not obtained. These facts appear in the papers upon which the libellant moved for a continuance at the last March terifi, namely, the affidavit of the collec­tor, the letters of the American consul and the barrister at Victoria, employed by libellant in the matter of obtaining Dutnell’s testimony. They leave no room for doubt, and I am confident of the fact that Kohl procured or hired Dutnell to keep concealed, out of the reach of process, so as to pre­vent his testimony being,taken and read on the trial of this suit; and from these circumstances, the conclusion is irre­sistible that Kohl prevented the testimony of Dutnell from being taken, because he knew that it would not tend to prove the reality or good faith of the alleged ownership of the Fi­deliter by Dutnell, .or his mortgage of the same to Kohl, but the contrary.</p>
+                <p pgmap="36" id="b36-4">Kohl’s testimony in this case, is marked by studied at­tempts at evasion, and by notable omissions and indefinite­ness in regard to circumstances, concerning which he ought to be able, and it is his duty, to speak with certainty and par­ticularity. For instance, supposing that it was true, that he had loaned money to Dutnell at various times, for which he afterwards took a mortgage on the Fideliter, how easy and natural it would have been for him to have given an intelli­gent and detailed account of the matter — to have given the circumstances of time, place and particular amounts. If a person of Kohl’s apparent sagacity and intelligence had loaned a mere stranger — as he says Dutnell was — $28,000 in small sums and at various times in 1866-7, he would most probably be able now to refer to some contemporary writing or witness to refresh his memory of the matter or confirm the fact. But after being' examined and cross-examined, he is only able or willing to say in a vague, indefinite way, that he once loaned Dutnell $12,000, and first and last, that he loaned him about $28,000, for which he afterwards took a mortgage on the Fideliter, but not until May 29, 1867, when he was on the eve of taking the vessel to Alaska to convert her, through the device of a sham Russian ownership, into an American bottom.</p>
+                <p pgmap="37" id="b37-3">But suppose that Dutnell was the real owner of the vessel prior to June, 1867, this does not affect the conclusion that the alleged sale to Lugebil was a mere sham and pretence. This jugglery about the title and ownership of the vessel while she was registered in Dutnell’s name, is shown by the testimony of the claimant, and commented upon now, not for the purpose of showing a forfeiture then and there to the United States, but to show the animus and crooked conduct of the principal actor and witness in this matter on behalf of the claimant, from the beginning, so as to judge more intelli­gently of the integrity of his conduct generally, and the credibility of his testimony in this case in particular. If Kohl, by means of sham sales and false writings, had suc­cessfully imposed upon the custom house officers at Victoria, and thereby obtained a British register for the Fideliter, when she was not entitled to it, there is good reason to infer that he was ready and willing, when opportunity offered, to practice a similar fraud upon the American government for the purpose of obtaining an American register.</p>
+                <p pgmap="37" id="b37-4">The treaty of purchase with Russia and the delay between the ratification and exchange of it, furnished the opportu­nity. The third article of this treaty provides: “The in­habitants of the ceded territory, according to their choice, reserving their natural allegiance, may return to Russia with­in three years; but if they should prefer to remain in the ceded territory, they, with the exception of uncivilized native tribes, shall be admitted to the enjoyment of all the rights, advantages and immunities of citizens of the United States, and shall be maintained and protected in the free enjoyment of their liberty, property and religion.”</p>
+                <p pgmap="37(116) 38(33)" id="b37-6">This provision might be understood by the public as giving the Russian inhabitants of Alaska, an immediate right to have an American register for his vessel, upon the ground that the treaty had made him an American citizen; and so it appears that the department of state construed it, and in­structed the collector of customs to administer it. The treaty was concluded on March 30, 1867; and it was ratified on May 28 and exchanged on June 20, thereafter. As a matter of public notoriety it is safe to say, that it was well understood or confidently expected on the Pacific coast that the treaty would be ratified at least one month before it was. The telegraph gave us instant and constant information of the progress of the treaty in the senate, and its ratification was probably known here within twenty-four hours from, the time it took place.</p>
+                <p pgmap="38" id="b38-4">Under these circumstances, Kohl being an American citi­zen, and either the legal owner of the Fideliter or the mort­gagee of the same, for quite if not her full value, and she be­ing a British vessel sailing under a British register, and the commerce of the coast being mainly carried on from and be­tween American ports, it is not unreasonable to suppose that he would desire to convert her into an American bottom.</p>
+                <p pgmap="38(308) 39(108)" id="b38-5">That Kohl did take the Fideliter to Alaska for the purpose of availing himself of this opportunity to convert her into an American vessel, and not for the simple purpose of dis­posing of her in good faith to Lugebil, or other Russian in­habitant of the country, is shown by his own admissions or statements, as testified to by both Dwyer and Barlow. In ad­dition to this, the circumstances attending and surrounding the alleged sale to Lugebil, are sufficient of themselves to raise a presumption that the transaction was a mere sham, and really designed to facilitate the accomplishment of some ulterior purpose. For instance: Kohl arrives with the Fi­deliter in a strange port, without commerce, and immediate­ly sells the vessel to a Russian subject and a stanger, without any apparent means or property, for $30,000, and at the same moment takes from the purchaser, Lugebil, an “ir­revocable” power of attorney, authorizing him to sell the vessel at Sitka, or elsewhere, in behalf of Kohl or Lugebil, for not less than $28,000. No visible change is made in the actual possession of the vessel. Kohl’s convenient captain— Melville Erskine, still retains command. After lying idle in port three or four weeks, and the United States agents not arriving to receive the possession of the country, including the Fideliter in her new role of a Russian ship, as Kohl had expected, Kohl returns with the Fideliter to this port via Victoria. All this time, and for that matter ever since, “the Russian subject and honorable (?) citizen, J. Lugebil,” as Prince de Maksatoff graciously styles him in his passport to the Fideliter, is apparently as unconcerned about the ves­sel as if he had never seen or heard of her. When she is seized on account of the sequel of this transaction, he does not even appear in- this court to claim her as his property. True, this “irrevocable” agent makes such claim for him. But if Lugebil really owned this vessel, it is but reasonable to assume that self interest, at least, would have induced him to come before this court and testify as to the facts and cir­cumstances which would establish such ownership; but, in­stead of doing this, he manages to keep out of sight and knowledge of the district attorney and collector, so that the government, although it has sent its commissions to Alaska and San Francisco, has been unable to find him or obtain his testimony.</p>
+                <p pgmap="39" id="b39-4">One phase of Kohl’s story is, that he negotiated this sale to Lugebil at Victoria, in December, 1866, with Captain Bock, of the steamer Alexander, and that the agreement between them was then reduced to writing, but what he did with this writing, or where it is, he cannot now say — indeed, he is not certain but that he destroyed it. Now, this negotiation is a material circumstance for the claimant, as tending to show that the alleged sale to Lugebil, in June, 1867, was not a fraudulent device, whereby to make the Fideliter an Amer­ican bottom, because it took place before the treaty was ne­gotiated, and so far as known, before it was contemplated. If this story be true, why is not the testimony of Captain Bock produced to confirm it ? Kohl testifies that he saw him at Sitka in 1868, since this suit was commenced. Besides, he might be able to give valuable information concerning the whereabouts and character of the writing said to have been entered into between himself and Kohl, in December, 1866, and about which Kohl’s memory is now so singularly and conviently at fault. The legal and reasonable inference from this suppression of evidence or withholding Lugebil’s .testimony is, that while Lugebil consented to be known on paper as the purchaser and owner of the Fideliter, so as to assist Kohl in fraudulently obtaining an American register for a British vessel, yet, that he. was not willing to go so far as to commit the crime of perjury in support of such scheme.</p>
+                <p pgmap="39(41) 40(99)" id="b39-5">Again, if Lugebil was the “true and only owner” of the Fideliter, he and not Kohl should have taken and subscribed the owner’s oath, upon which the American certificate of registry was issued to her at Alaska, on October 28, 1867. For obvious reasons, the act of 1792 requires this oath to be taken by the owner. No excuse, however insufficient in law, is shown or pretended for his not taking it. He was in the port when and where the certificate was granted, and probably in the very building where the transaction took place. But Kohl took and subscribed this oath, affirming therein that Lugebil was the “true and only owner” — and the only reason why Lugebil did not take it, was, that he was not willing to serve Kohl so far as to commit perjury for him.</p>
+                <p pgmap="40" id="b40-4">And here I may remark, that the collector before whom this proceeding took place has attempted, since this suit was commenced, to excuse and palliate his very singular and sus­picious conduct in granting this certificate of registry to the Fideliter, upon the oath of a person who therein affirmed that.at the time another was “the true and only owner” of the vessel, when the statute under which he was acting, re­quired that said oath should be taken by the owner. This excuse is found in a volunteer, extra-official, ex post facto statement endorsed by the collector upon the power of at­torney from Lugebil to Kohl, and dated “Custom House, Sitka, July 23, 1868;” in which, among other things, said collector states that he “allowed William Kohl, as agent aforesaid, to make the affidavit of ownership, the said Luge­bil being at that time confined to his house, and issued to him the register (No. 1).” This statement, not being an official certificate or under oath, was not admitted to be read in evidence in the case, and if it had been would in no way or degree tend to prove that Kohl’s oath as to the ownership of the vessel was true.</p>
+                <p pgmap="40" id="b40-5">On the other hand, the very insufficiency of the reason given by the collector for Lugebil’s not taking the owner’s oath, raises the presumption, that,the real reason if dis­closed, would militate against the party withholding it. Ad­mit, for the sake of the argument, that Lugebil was confined to his house on October 28 — admit this statement to be true in every sense, and to the greatest extent that can be at­tributed to it, and still nothing is shown by it or can be in­ferred from it, but that Lugebil, notwithstanding such con­finement, could take and subscribe an oath that he was the true and only owner of the Fideliter-^ — if such was the fact.</p>
+                <p pgmap="41" id="b41-3">Many other circumstances point to the conclusion that the alleged sale to Lugebil was a mere make believe for the pur­pose of obtaining an American register for the Fideliter. When a lawful and actual transaction takes place between intelligent parties, they are generally able to tell the same story twice about a simple and important fact of the matter. But the evidence of the claimant as to the consideration al­leged to have been paid by Lugebil is full of discrepancies and contradictions. In the bill of sale signed by Kohl it is declared that the sum — $30,000, was paid down by Luge­bil. After the seizure Kohl told the then acting district' at­torney, Ex-Governor Gibbs, that the money was all paid down, but of course he did not say where it came from-— which expression, under the circumstances, was evidently intended by Kohl to be understood as a suggestion that Lugebil, in making the purchase, was acting for other par­ties, who furnished him the money. Upon his examination in court as a witness, on the trial of the cause, being pressed to explain why, if he had sold the vessel to Lugebil and got the money for her, he retained the possession and took back from the purchaser an “irrevocable” power of attorney to manage and sell the vessel as though it was his own, Kohl answered that Lugebil did not pay him for the vessel — and then upon second thought, qualified that statement by add­ing that Lugebil did not pay him all the money for the ves­sel.</p>
+                <p pgmap="41(161) 42(55)" id="b41-4">Upon its face, Lugebil’s power of attorney, authorizing Kohl to manage and sell the vessel, not being given in con­nection with a mortgage or other security for debt, can only be, accounted for on the theory that the vessel was still in fact the property of Kohl and was to remain in his posses­sion unaffected by the pretended sale to Lugebil. In all probability, this power was the paper that Kohl put into the hands of Dwyer when he left Sitka with the vessel on the evening of July 4, telling Dwyer at the same time that he was not certain of Lugebil’s honesty, and this paper would show that “he had no call or authority to sell the steamer.” Very naturally, having found Lugebil willing to aid him in his design to impose upon the United States government, in obtaining an American register for a British vessel under the pretense of its being a Russian-American one, Kohl was not quite certain that Lugebil would do to trust out of sight; so he took this power of attorney from him, which in effect amounted to a re-sale to himself, and left it with Dwyer, to be exhibited in case his Russian confederate should attempt “to act the rogue in the matter” during his absence.</p>
+                <p pgmap="42" id="b42-4">On the whole, it seems that there cannot be a reasonable doubt, but that Kohl’s affirmation was knowingly false, when it asserted that Lugebil was the true and only owner of the Fideliter; and that the register granted upon such affirma­tion was knowingly and fraudulently obtained and used for said vessel. The Neptune, 3 Wheat. 609. This being so, the vessel is forfeited under both sections of the statute al­ready quoted. But even a prima facie case is sufficient to cast the burthen of proof upon the claimant, and if he do not overcome or explain it, there must be a decree of condemna­tion. The Luminary, 8 Wheat. 411.</p>
+                <p pgmap="42" id="b42-5">On the trial, counsel for claimant maintained this proposi­tion, — admitting that sham sales or fraudulent acts had tak­en place or been committed in respect to this vessel, as they took place without the jurisdiction of the United States, if at all, and within the jurisdiction of the British and Russian governments respectively, they can not be inquired into here; or in other words that this government did not assume to punish frauds upon the navigation or shipping laws of other countries. The proposition considered with reference to the question before the court is fallacious, and the answer to it is simple and satisfactory.</p>
+                <p pgmap="42(147) 43(265)" id="b42-6">The forfeiture of the Fideliter is not claimed in this suit because of the frauds committed in respect to her upon the British and Russian navigation laws, but because of the further and additional fraud, namely — the false affirmation of Kohl, by means of which an American registry was ob­tained for the Fideliter in fraud and violation of the treaty and laws of the United States. I admit that this answer as­sumes, that the sale by Kohl to Lugebil, being in fact a sham or fictitious sale, without possession, although made within Russian jurisdiction, conveyed no interest in the vessel to Lugebil. Certainly such a transaction cannot transfer title to property in any civilized country. It is no sale — a mere nullity. This court, then, instead of being engaged in an at­tempt to punish frauds upon the laws of other countries, is simply endeavoring to ascertain whether the affirmation of Kohl, an American citizen, made on American soil and un­der American laws, was false or not, in the particular al­leged. In so doing, it becomes necessary to inquire wheth­er one Lugebil, a Russian subject, was on that day the true and only owner of the Fideliter, as stated in such affirma­tion. This is a question of fact, and the scope of the in­quiry is not limited by either the political or geographical divisions of the globe, but extends to all pertinent and ma­terial acts and circumstances, without reference to the place or jurisdiction in which they transpired or arose. If the law of the place gave a certain legal effect to these facts, the same effect would be given to them here, so far at least as the comity of nations requires one country to enforce and recognize the municipal laws of another. But who will pre­tend that the law of Russian America or British Columbia gave any legal effect or consequence whatever, to a sham sale of a vessel without consideration or possession. Such a transaction is a mere nullity, always and everywhere. But if the laws of these countries did give any effect to such a sale, they would not in this respect be enforced or recog­nized in this court, when it appears, as in this case, that it was made for the express and only purpose of enabling one-­of the parties thereto, to perpetrate a fraud upon the naviga­tion laws of the United States.</p>
+                <p pgmap="43" id="b43-4">These conclusions are fully sustained by the case of The Acme, Fed.Cas.No.27, lately decided by Mr. Justice Bene­dict. The facts are stated by the court as follows:</p>
+                <blockquote pgmap="43(137) 44(210)" id="b43-5">“The bark Acme appears to have been built in Baltimore in 1855. At some time thereafter she was transferred, whether nominally or not does not appear — to one John Pat­terson, described as ‘of Inverness, Scotland, but now resid­ing in the city of Brooklyn, State of New York.’ In Janu­ary, 1866, she by purchase became the property of persons residing and doing business in New York, who were not British subjects, and who, in the absence of other proof must be presumed to be American citizens. These persons, in order to avoid the navigation laws, and to retain for the vessel the British flag, to which as the property of American citizens, she was no longer legally entitled, caused the title of the vessel to be placed in the name of one Henry James Creighton, described as ‘of Halifax, Nova Scotia, but now residing in the city of New York,’ and who had, in fact, no interest in the vessel nor any possession thereof; and there­after, although in reality owned and possessed by American citizens, controlled by them alone, and used for their sole benefit, the vessel, up to her seizure by the marshal, sailed under false colors, with a fraudulent nationality. While so sailing, the present respondent (Millington) agreed with the real American owners of the vessel, to loan them the sum of $12,000, upon the security of their personal obligation, and a mortgage on the vessel, to be executed by the fictitious owner, and accordingly, in accordance with the forms of the British laws, Creighton, then without interest or posses­sion in the vessel, executed a mortgage upon her to secure the amount so loaned by Millington, which mortgage was received by Millington with the knowledge that the mortga­gor did not own the vessel, but simply held the title for the purpose of giving her a false nationality. Under this mort­gage Millington, never having taken any possession of'the vessel, now claims the proceeds of her sale, as against Her­rara,” who had a lien for advances made to her.</blockquote>
+                <p pgmap="44" id="b44-3">The court rejected the claims of Millington, because the alleged title of his mortgagor, Creighton, was a fictitious one and a sham. In the course of the opinion, Mr. Justice Benedict says:</p>
+                <blockquote pgmap="44" id="b44-4">“The transaction here disclosed, as it regards the title and character of this vessel, was a clear fraud upon the naviga­tion laws of the nation whose flag was thus assumed. By the law of England, the use of the British flag and national character upon vessels owned by other than British subjects is unlawful, and subjects the vessel to forfeiture. Were this case, then, before the English admiralty, the claim of the mortgagee would be rejected as founded upon a sham title, created in violation of law; and the question is presented whether it is not the duty of this court to apply the same rule.”</blockquote>
+                <p pgmap="44(52) 45(163)" id="b44-5">The opinion of the learned judge proceeds to show, that “courts of admiralty are in some sense international courts, charged with the duty of declaring the law applicable to ships, and in force upon the sea. * * * The nature of the transaction in question, and the effect which such trans­actions, if upheld, must have upon the mode of use of that most peculiar species of property, the ships, seems to re­quire, in a court of admiralty, in a case like this, to accord effect to the laws of England, in contravention of which the title to this vessel was held. * * * Furthermore, the United States have an interest in enforcing this law as well as England, for it is of importance to all maritime powers, that the national character borne by a ship should be her true character. * * * I am of the opinion that it is the duty of this court upon principles of comity in this case, to apply the rule which would be applied in the English admiralty, and refuse to recognize a claim to the fund, based upon a sham title, created in fraud of the navigation laws of Eng­land, for the purpose of giving to this ship a false national­ity.”</p>
+                <p pgmap="45" id="b45-6">It was also insisted by counsel for claimant that the Rus­sian passport granted to the Fideliter, by Maksatoff, was conclusive evidence in favor of Lugebil’s ownership. This paper was admitted in evidence, not to show the ownership of the vessel, but her Rationality. In the consideration of the case, I have not regarded it as material to the inquiry before the court, except, perhaps, to show that the official who granted it, was not very scrupulous as to what vessels he gave a Russian character, for the purpose of enabling them to acquire the American nationality under the treaty of purchase, which was about to terminate his rule and in­terest in the country. Under the same circumstances, Mak­satoff would probably have given to Lugebil or Kohl a Rus­sian passport for the British navy. The claim of ownership contained in this passport, is simply a recital by Maksatoff of what Lugebil or Kohl told him when the paper was ap­plied for. No higher character can be claimed for this pa­per than that of a register. Now a register in favor of the party claiming to be owner, is no evidence of ownership at all, being nothing more than his own declaration. 1 Greenl. Ev. § 494.</p>
+                <p pgmap="45(54) 46(47)" id="b45-7">A decree will be entered condemning the vessel as for­feited to the United States for the reasons and causes in the libel propounded and alleged, and because the vessel has been delivered to the claimant upon the bond of himself and sure­ties, a further decree will be entered, that the libellant recov­er off the parties in said bond the sum of $30,000, that be­ing the stipulated value of said vessel, and that if such sum is not paid to the clerk of this court, within ten days from the date thereof, that the libellant have execution therefor.</p>
+                <p pgmap="46" id="A-">NOTE. Reversed and libel dismissed on appeal to the circuit court [Fed.Oas.No.4,755, ante, p. 4] because it did not appear from the libel that there had been a seizure of the vessel before the com­mencement of the suit: May 6, 1870, Sawyer, J., citing The Ann. 9 Cranch, 289; The Silver Spring, Fed.Cas.No.12,858; The Octavia, Fed.Cas.No.10,422; The Josefa Segunda, 10 Wheat. 312; Keene v. U. S., 5 Cranch, 305; Gelston v. Hoyt, 3 Wheat. 318; Adm. Rule 22.</p>
+                <p pgmap="46" id="AZ">NOTE Upon the dismissal of the libel in the circuit court, anoth­er libel was filed alleging a seizure of the vessel, and a decree of for­feiture was entered. Fed.Cas.No.15,088, post, p. 44.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="19" ORDERLABEL="7" TYPE="page">
+        <fptr FILEID="tiff_00010_0"/>
+        <fptr FILEID="jpg_00010_0"/>
+        <fptr FILEID="alto_00010_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_19.2" BETYPE="IDREF" FILEID="alto_00010_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="20" ORDERLABEL="8" TYPE="page">
+        <fptr FILEID="tiff_00010_1"/>
+        <fptr FILEID="jpg_00010_1"/>
+        <fptr FILEID="alto_00010_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_20.2" BETYPE="IDREF" FILEID="alto_00010_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="21" ORDERLABEL="9" TYPE="page">
+        <fptr FILEID="tiff_00011_0"/>
+        <fptr FILEID="jpg_00011_0"/>
+        <fptr FILEID="alto_00011_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_21.3" BETYPE="IDREF" FILEID="alto_00011_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="22" ORDERLABEL="10" TYPE="page">
+        <fptr FILEID="tiff_00011_1"/>
+        <fptr FILEID="jpg_00011_1"/>
+        <fptr FILEID="alto_00011_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_22.2" BETYPE="IDREF" FILEID="alto_00011_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="23" ORDERLABEL="11" TYPE="page">
+        <fptr FILEID="tiff_00012_0"/>
+        <fptr FILEID="jpg_00012_0"/>
+        <fptr FILEID="alto_00012_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_23.3" BETYPE="IDREF" FILEID="alto_00012_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="24" ORDERLABEL="12" TYPE="page">
+        <fptr FILEID="tiff_00012_1"/>
+        <fptr FILEID="jpg_00012_1"/>
+        <fptr FILEID="alto_00012_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_24.1" BETYPE="IDREF" FILEID="alto_00012_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="25" ORDERLABEL="13" TYPE="page">
+        <fptr FILEID="tiff_00013_0"/>
+        <fptr FILEID="jpg_00013_0"/>
+        <fptr FILEID="alto_00013_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_25.3" BETYPE="IDREF" FILEID="alto_00013_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="26" ORDERLABEL="14" TYPE="page">
+        <fptr FILEID="tiff_00013_1"/>
+        <fptr FILEID="jpg_00013_1"/>
+        <fptr FILEID="alto_00013_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_26.2" BETYPE="IDREF" FILEID="alto_00013_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="27" ORDERLABEL="15" TYPE="page">
+        <fptr FILEID="tiff_00014_0"/>
+        <fptr FILEID="jpg_00014_0"/>
+        <fptr FILEID="alto_00014_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_27.3" BETYPE="IDREF" FILEID="alto_00014_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="28" ORDERLABEL="16" TYPE="page">
+        <fptr FILEID="tiff_00014_1"/>
+        <fptr FILEID="jpg_00014_1"/>
+        <fptr FILEID="alto_00014_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_28.1" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="29" ORDERLABEL="17" TYPE="page">
+        <fptr FILEID="tiff_00015_0"/>
+        <fptr FILEID="jpg_00015_0"/>
+        <fptr FILEID="alto_00015_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_29.3" BETYPE="IDREF" FILEID="alto_00015_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="30" ORDERLABEL="18" TYPE="page">
+        <fptr FILEID="tiff_00015_1"/>
+        <fptr FILEID="jpg_00015_1"/>
+        <fptr FILEID="alto_00015_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_30.2" BETYPE="IDREF" FILEID="alto_00015_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="31" ORDERLABEL="19" TYPE="page">
+        <fptr FILEID="tiff_00016_0"/>
+        <fptr FILEID="jpg_00016_0"/>
+        <fptr FILEID="alto_00016_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_31.3" BETYPE="IDREF" FILEID="alto_00016_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="32" ORDERLABEL="20" TYPE="page">
+        <fptr FILEID="tiff_00016_1"/>
+        <fptr FILEID="jpg_00016_1"/>
+        <fptr FILEID="alto_00016_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_32.1" BETYPE="IDREF" FILEID="alto_00016_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="33" ORDERLABEL="21" TYPE="page">
+        <fptr FILEID="tiff_00017_0"/>
+        <fptr FILEID="jpg_00017_0"/>
+        <fptr FILEID="alto_00017_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_33.3" BETYPE="IDREF" FILEID="alto_00017_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="34" ORDERLABEL="22" TYPE="page">
+        <fptr FILEID="tiff_00017_1"/>
+        <fptr FILEID="jpg_00017_1"/>
+        <fptr FILEID="alto_00017_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_34.2" BETYPE="IDREF" FILEID="alto_00017_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="35" ORDERLABEL="23" TYPE="page">
+        <fptr FILEID="tiff_00018_0"/>
+        <fptr FILEID="jpg_00018_0"/>
+        <fptr FILEID="alto_00018_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_35.3" BETYPE="IDREF" FILEID="alto_00018_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="36" ORDERLABEL="24" TYPE="page">
+        <fptr FILEID="tiff_00018_1"/>
+        <fptr FILEID="jpg_00018_1"/>
+        <fptr FILEID="alto_00018_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_36.2" BETYPE="IDREF" FILEID="alto_00018_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="37" ORDERLABEL="25" TYPE="page">
+        <fptr FILEID="tiff_00019_0"/>
+        <fptr FILEID="jpg_00019_0"/>
+        <fptr FILEID="alto_00019_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_37.2" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="38" ORDERLABEL="26" TYPE="page">
+        <fptr FILEID="tiff_00019_1"/>
+        <fptr FILEID="jpg_00019_1"/>
+        <fptr FILEID="alto_00019_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_38.2" BETYPE="IDREF" FILEID="alto_00019_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="39" ORDERLABEL="27" TYPE="page">
+        <fptr FILEID="tiff_00020_0"/>
+        <fptr FILEID="jpg_00020_0"/>
+        <fptr FILEID="alto_00020_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_39.3" BETYPE="IDREF" FILEID="alto_00020_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="40" ORDERLABEL="28" TYPE="page">
+        <fptr FILEID="tiff_00020_1"/>
+        <fptr FILEID="jpg_00020_1"/>
+        <fptr FILEID="alto_00020_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_40.2" BETYPE="IDREF" FILEID="alto_00020_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="41" ORDERLABEL="29" TYPE="page">
+        <fptr FILEID="tiff_00021_0"/>
+        <fptr FILEID="jpg_00021_0"/>
+        <fptr FILEID="alto_00021_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_41.2" BETYPE="IDREF" FILEID="alto_00021_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="42" ORDERLABEL="30" TYPE="page">
+        <fptr FILEID="tiff_00021_1"/>
+        <fptr FILEID="jpg_00021_1"/>
+        <fptr FILEID="alto_00021_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_42.2" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="43" ORDERLABEL="31" TYPE="page">
+        <fptr FILEID="tiff_00022_0"/>
+        <fptr FILEID="jpg_00022_0"/>
+        <fptr FILEID="alto_00022_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_43.3" BETYPE="IDREF" FILEID="alto_00022_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="44" ORDERLABEL="32" TYPE="page">
+        <fptr FILEID="tiff_00022_1"/>
+        <fptr FILEID="jpg_00022_1"/>
+        <fptr FILEID="alto_00022_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_44.2" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="45" ORDERLABEL="33" TYPE="page">
+        <fptr FILEID="tiff_00023_0"/>
+        <fptr FILEID="jpg_00023_0"/>
+        <fptr FILEID="alto_00023_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_45.3" BETYPE="IDREF" FILEID="alto_00023_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="46" ORDERLABEL="34" TYPE="page">
+        <fptr FILEID="tiff_00023_1"/>
+        <fptr FILEID="jpg_00023_1"/>
+        <fptr FILEID="alto_00023_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_46.2" BETYPE="IDREF" FILEID="alto_00023_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.8" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-9" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.9" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.7" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-9" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.9" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.5" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.6" BETYPE="IDREF" FILEID="alto_00013_1"/>
+            <area BEGIN="BL_27.1" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.7" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.6" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.5" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.4" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.4" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b25-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_25.4" BETYPE="IDREF" FILEID="alto_00013_0"/>
+            <area BEGIN="BL_26.1" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-9" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.9" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.8" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-10" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.10" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-13" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.13" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.4" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.5" BETYPE="IDREF" FILEID="alto_00020_0"/>
+            <area BEGIN="BL_40.1" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.5" BETYPE="IDREF" FILEID="alto_00019_1"/>
+            <area BEGIN="BL_39.1" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.4" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.8" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-10" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.10" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-11" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.11" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-12" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.12" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.4" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.5" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.6" BETYPE="IDREF" FILEID="alto_00017_0"/>
+            <area BEGIN="BL_34.1" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-13" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.13" BETYPE="IDREF" FILEID="alto_00010_1"/>
+            <area BEGIN="BL_21.1" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b22-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.6" BETYPE="IDREF" FILEID="alto_00011_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b22-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.7" BETYPE="IDREF" FILEID="alto_00011_1"/>
+            <area BEGIN="BL_23.1" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b22-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.4" BETYPE="IDREF" FILEID="alto_00011_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b22-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.5" BETYPE="IDREF" FILEID="alto_00011_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b23-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_23.7" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b23-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_23.6" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.4" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.5" BETYPE="IDREF" FILEID="alto_00018_0"/>
+            <area BEGIN="BL_36.1" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.5" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.4" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.7" BETYPE="IDREF" FILEID="alto_00011_0"/>
+            <area BEGIN="BL_22.1" BETYPE="IDREF" FILEID="alto_00011_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.5" BETYPE="IDREF" FILEID="alto_00017_1"/>
+            <area BEGIN="BL_35.1" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b45-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_45.5" BETYPE="IDREF" FILEID="alto_00023_0"/>
+            <area BEGIN="BL_46.1" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.4" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.5" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.6" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            <area BEGIN="BL_45.1" BETYPE="IDREF" FILEID="alto_00023_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.6" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b24-3" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_24.4" BETYPE="IDREF" FILEID="alto_00012_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b24-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_24.5" BETYPE="IDREF" FILEID="alto_00012_1"/>
+            <area BEGIN="BL_25.1" BETYPE="IDREF" FILEID="alto_00013_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.4" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b24-2" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_24.3" BETYPE="IDREF" FILEID="alto_00012_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-3" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.4" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.8" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.6" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.7" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.4" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.5" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.6" BETYPE="IDREF" FILEID="alto_00015_1"/>
+            <area BEGIN="BL_31.1" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.5" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-2" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.3" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.6" BETYPE="IDREF" FILEID="alto_00016_1"/>
+            <area BEGIN="BL_33.1" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.5" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-3" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.3" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b45-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_45.4" BETYPE="IDREF" FILEID="alto_00023_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.4" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.5" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.4" BETYPE="IDREF" FILEID="alto_00021_0"/>
+            <area BEGIN="BL_42.1" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.5" BETYPE="IDREF" FILEID="alto_00022_0"/>
+            <area BEGIN="BL_44.1" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.4" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-3" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.3" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.4" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.5" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            <area BEGIN="BL_38.1" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.4" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.5" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.6" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            <area BEGIN="BL_43.1" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.4" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.5" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.6" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.7" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-3" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.3" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.8" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-9" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.9" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            <area BEGIN="BL_29.1" BETYPE="IDREF" FILEID="alto_00015_0"/>
+            <area BEGIN="BL_30.1" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-3" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.4" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-3" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.4" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AB" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.4" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b23-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_23.5" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b23-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_23.4" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZ" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.5" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

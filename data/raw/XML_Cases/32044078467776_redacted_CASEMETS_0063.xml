@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0063" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="United States v. Ash">UNITED STATES v. ASH</name>
+          <docketnumber>No. 532</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 440</citation>
+          <citation category="parallel" type="bluebook">75 F. 651</citation>
+          <decisiondate>1896-04-20</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:04Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00226_1" MIMETYPE="image/tiff" CHECKSUM="395a794a714c106af8e639207e314e7b" CHECKSUMTYPE="MD5" SIZE="26252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00226_1.tif"/>
+      </file>
+      <file ID="tiff_00227_0" MIMETYPE="image/tiff" CHECKSUM="701b7832ec59b279d790da341ae86449" CHECKSUMTYPE="MD5" SIZE="9792">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00227_0.tif"/>
+      </file>
+      <file ID="tiff_00227_1" MIMETYPE="image/tiff" CHECKSUM="ae904c139dbeb08d0c85a157629b3586" CHECKSUMTYPE="MD5" SIZE="53654">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00227_1.tif"/>
+      </file>
+      <file ID="tiff_00228_0" MIMETYPE="image/tiff" CHECKSUM="adc02e303dfb50e563943ca84daa4a8c" CHECKSUMTYPE="MD5" SIZE="53514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00228_0.tif"/>
+      </file>
+      <file ID="tiff_00228_1" MIMETYPE="image/tiff" CHECKSUM="a5743107a58f506da30f36403ff9a6d2" CHECKSUMTYPE="MD5" SIZE="53342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00228_1.tif"/>
+      </file>
+      <file ID="tiff_00229_0" MIMETYPE="image/tiff" CHECKSUM="587b5af7baa5267b73492c7e51326244" CHECKSUMTYPE="MD5" SIZE="11042">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00229_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00226_1" MIMETYPE="image/jpg" CHECKSUM="dff2ade5d36cca99aba014dc3aed3a69" CHECKSUMTYPE="MD5" SIZE="131775">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00226_1.jpg"/>
+      </file>
+      <file ID="jpg_00227_0" MIMETYPE="image/jpg" CHECKSUM="eba817bf726b23981f6f01ab727bc57d" CHECKSUMTYPE="MD5" SIZE="82284">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00227_0.jpg"/>
+      </file>
+      <file ID="jpg_00227_1" MIMETYPE="image/jpg" CHECKSUM="e87d17f6e76dbf43df5c3060c1c6d371" CHECKSUMTYPE="MD5" SIZE="202597">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00227_1.jpg"/>
+      </file>
+      <file ID="jpg_00228_0" MIMETYPE="image/jpg" CHECKSUM="554c1c5644f1cad7f79f1cfaa136ef15" CHECKSUMTYPE="MD5" SIZE="191760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00228_0.jpg"/>
+      </file>
+      <file ID="jpg_00228_1" MIMETYPE="image/jpg" CHECKSUM="a0baa62875b2690a20f3012f395730bd" CHECKSUMTYPE="MD5" SIZE="209428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00228_1.jpg"/>
+      </file>
+      <file ID="jpg_00229_0" MIMETYPE="image/jpg" CHECKSUM="58c78ffa30f43fe7addbcbc49e48fb09" CHECKSUMTYPE="MD5" SIZE="82235">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00229_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00226_1" MIMETYPE="text/xml+gzip" CHECKSUM="2e5de4d4823eb989ff530fcbc7432965" CHECKSUMTYPE="MD5" SIZE="6396">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00226_1.xml.gz"/>
+      </file>
+      <file ID="alto_00227_0" MIMETYPE="text/xml+gzip" CHECKSUM="c89a7e77badea633a9d45821c1d3b3d1" CHECKSUMTYPE="MD5" SIZE="2728">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00227_0.xml.gz"/>
+      </file>
+      <file ID="alto_00227_1" MIMETYPE="text/xml+gzip" CHECKSUM="e9d67e8b7ba85db44ab78dc5ae4468c6" CHECKSUMTYPE="MD5" SIZE="12543">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00227_1.xml.gz"/>
+      </file>
+      <file ID="alto_00228_0" MIMETYPE="text/xml+gzip" CHECKSUM="01eca69ee972a3be7ad9f1c6ca522621" CHECKSUMTYPE="MD5" SIZE="12694">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00228_0.xml.gz"/>
+      </file>
+      <file ID="alto_00228_1" MIMETYPE="text/xml+gzip" CHECKSUM="0049702de16705b6b7baac824c126f3e" CHECKSUMTYPE="MD5" SIZE="12579">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00228_1.xml.gz"/>
+      </file>
+      <file ID="alto_00229_0" MIMETYPE="text/xml+gzip" CHECKSUM="06ead712624dd09b3fa9534517342780" CHECKSUMTYPE="MD5" SIZE="3259">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00229_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0063" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="440" lastpage="445">
+              <court pgmap="452" id="b452-7">District Court, D. Alaska.</court>
+              <docketnumber pgmap="452" id="b452-6">No. 532.</docketnumber>
+              <citation pgmap="452" id="b452-4">75 F. 651</citation>
+              <parties pgmap="452" id="b452-5">UNITED STATES v. ASH.</parties>
+              <decisiondate pgmap="452" id="b452-8">April 20, 1896.</decisiondate>
+              <attorneys pgmap="453" id="b453-13">Burton E. Bennett, U. S. Atty.</attorneys>
+              <attorneys pgmap="453" id="b453-14">J. F. Maloney and Johnson &amp; Heid, for defendant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="453" id="b453-15">DELANEY, District Judge</author>
+                <p pgmap="453" id="Ahn">(orally).</p>
+                <p pgmap="453(30) 454(261)" id="b453-16">When congress provided the act establishing a civil gov­ernment for this district, known as the “Organic Act,” and which became a law on the 17th day of May, 1884, the following provision was incorporated into said act, to wit: “The importation, manufacture and sale of intoxicat­ing liquors in said district, except for medicinal, mechanical and scientific purposes, is hereby prohibited.” This is the law commonly known in this district as the “Prohibitory Liquor Law,” and is the act under which the indictment in this case is brought. The indictment charges the defend­ant with having violated this provision of law on or about the 4th day of the present month by selling an intoxicating liquor commonly called “whisky.” There is no contention that any liquor was sold for medicinal, mechanical, or scien­tific purposes; consequently, if a sale was made, it was in violation of this statute. In order to warrant a conviction of this defendant, three material facts must be established in your minds from the evidence beyond a reasonable doubt: First, that liquor was sold; second, that the liquor was in­toxicating; third, that the sale was made by this defendant either in person or through his agents, servants, or em­ployés, acting for him, or under his direction, management, or control. A sale is the transfer of any piece of property or thing of value from one person to another person for a valuable consideration; i. e. for current money of the United States. The word “sale,” as used in this prohibitory statute, means such a sale as I have thus defined, and the fact that such sale took place must be established to your satisfaction beyond a reasonable doubt from the evidence in the case.</p>
+                <p pgmap="454(138) 455(300)" id="b454-4">Aside from finding that there has been such a sale, to warrant the conviction of the defendant, it is also necessary that the intoxicating nature of the liquor sold should be established. Upon this question there is an extraordinary diversity of information among the judges of the courts in this country. In one of the earliest decisions upon this question in the state of New York, wherein the opinion of the court was delivered by Chancellor Walworth, one of the most learned and eminent judges this country has produced, the court, in a most exhaustive opinion, declared its judicial knowledge as to what was an intoxicating drink in that state, and also went into further details concerning intoxicating liquors in other countries of the globe, and in the remotest times. In later years there seems to have been a disposition to deny or ignore judicial knowledge as to what constitutes intoxicating liquors, and the courts have manifested a desire to disavow any judicial knowledge on the subject. At the same time some of the courts have not hesitated to impute to juries an extensive knowledge and information in this regard. This court, however, will fol­low the precedent established by the decision of Chancellor Walworth upon this subject, and will assume judicial knowl­edge concerning intoxicating liquors. The rule laid down in New York appears to be the better one, and has met with the support of the courts of last resort in many of the other states of the Union. In a trial in the state of Wiscon­sin, where this question arose in 1883, the trial judge de­clared that a man must be almost a driveling idiot who did not know what beer was, and that it was not necessary to prove it to be an intoxicating liquor. Later the supreme court of that state, in passing on the charge of the trial judge, declared that his rulings in the case upon this ques­tion were not only clearly correct, but, if his peculiar man­ner gave them force and emphasis, it was not only proper, but commendable. This court therefore will neither stul­tify itself nor impeach its own veracity by telling you that it has not judicial knowledge that the liquor commonly known as “whisky” is an intoxicating liquor, or that the drink commonly called a “whisky cocktail” is an intoxicating drink. On the contrary, the court assumes judicial knowl­edge that both are intoxicating. Therefore, if you find from this evidence beyond a reasonable doubt that whisky or whisky cocktails were sold, then you must find that an intoxicating liquor was sold.</p>
+                <p pgmap="455" id="b455-4">As to the third proposition, that the sale must be by the defendant, the court charges you that, if you find from the evidence that either whisky or whisky cocktails were sold by any agent, servant, or employe of the defendant, acting for him or under his management, direction, or control, then the sale becomes the act of the defendant, and he is liable under this indictment.</p>
+                <p pgmap="455(41) 456(45)" id="b455-5">All of these propositions are necessary to be established from the evidence beyond a reasonable doubt, to warrant the conviction of the defendant, — that is, there must be a sale of liquor; the liquor must be whisky or whisky cock­tails, which the court has charged you are intoxicating liquors within the meaning of this statute; and the sale must be made by the defendant, either in person or by his agent, servant, or employé, acting for him or under his management, direction, or control.</p>
+                <p pgmap="456" id="b456-4">In view of the offer of testimony made by the defendant, and the discussion of counsel concerning the same, as to the payment of the internal revenue tax by the defendant, and the issuing of the government license therefor, the court deems it necessary to place the law in reference to that matter before you. This prosecution is not for a vio­lation of the internal revenue laws. Such a violation con­stitutes another and entirely different and distinct offense from the one set forth in this indictment; and, while the court feels that the policy of the government in accepting from liquor dealers in this district the internal revenue tax, and issuing the license therefor, while the present prohibit­tory liquor law remains in force, is unwise, unjust, and often deceptive and misleading, it is nevertheless the duty of the court to charge you that the payment of the internal revenue tax, and the receipt of the license by the defendant thereunder, constitutes no defense whatever to this prose­cution; and you must not consider the offer to introduce such license on the part of the defendant, or the discussion which took place in regard to the same, in making up your verdict, as that question has nothing whatever to do with this case. It is your duty to come to conclusions upon ques­tions of fact in this case from the evidence that has been produced and admitted upon the trial, and you have no right to go outside of the evidence to consider anything, either for or against this defendant, and in making up your verdict you must decide upon all the evidence admitted upon the trial.</p>
+                <p pgmap="456(84) 457(46)" id="b456-5">Inasmuch as this is a criminal prosecution, it is governed by the same rules of law as are applicable to other criminal cases, and the defendant is entitled to the presumption of in­nocence until he is proved to be guilty; and the government must satisfy you from the evidence beyond a reasonable doubt that he is guilty. Therefore, if you find from the evi­dence beyond a reasonable doubt that whisky or whisky cocktails were sold by the.defendant, either in person or by his servants, employés, or agents, acting for him, or under his management, direction, or control, then your verdict should be, “Guilty as charged in the indictment.” If you do not so find the defendant is entitled to be acquitted, and your verdict should be, “Not guilty.”</p>
+                <p pgmap="457" id="b457-4">The jury disagreed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="452" ORDERLABEL="440" TYPE="page">
+        <fptr FILEID="tiff_00226_1"/>
+        <fptr FILEID="jpg_00226_1"/>
+        <fptr FILEID="alto_00226_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_452.2" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="453" ORDERLABEL="441" TYPE="page">
+        <fptr FILEID="tiff_00227_0"/>
+        <fptr FILEID="jpg_00227_0"/>
+        <fptr FILEID="alto_00227_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_453.1" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="454" ORDERLABEL="442" TYPE="page">
+        <fptr FILEID="tiff_00227_1"/>
+        <fptr FILEID="jpg_00227_1"/>
+        <fptr FILEID="alto_00227_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_454.2" BETYPE="IDREF" FILEID="alto_00227_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="455" ORDERLABEL="443" TYPE="page">
+        <fptr FILEID="tiff_00228_0"/>
+        <fptr FILEID="jpg_00228_0"/>
+        <fptr FILEID="alto_00228_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_455.3" BETYPE="IDREF" FILEID="alto_00228_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="456" ORDERLABEL="444" TYPE="page">
+        <fptr FILEID="tiff_00228_1"/>
+        <fptr FILEID="jpg_00228_1"/>
+        <fptr FILEID="alto_00228_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_456.2" BETYPE="IDREF" FILEID="alto_00228_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="457" ORDERLABEL="445" TYPE="page">
+        <fptr FILEID="tiff_00229_0"/>
+        <fptr FILEID="jpg_00229_0"/>
+        <fptr FILEID="alto_00229_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_457.3" BETYPE="IDREF" FILEID="alto_00229_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-5" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.5" BETYPE="IDREF" FILEID="alto_00228_0"/>
+            <area BEGIN="BL_456.1" BETYPE="IDREF" FILEID="alto_00228_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-15" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.16" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b456-5" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.5" BETYPE="IDREF" FILEID="alto_00228_1"/>
+            <area BEGIN="BL_457.1" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-6" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.7" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-7" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.8" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-4" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.5" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-5" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.6" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-4" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.4" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-8" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.9" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-16" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.18" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            <area BEGIN="BL_454.1" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b456-4" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.4" BETYPE="IDREF" FILEID="alto_00228_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-4" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.4" BETYPE="IDREF" FILEID="alto_00227_1"/>
+            <area BEGIN="BL_455.1" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-4" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.4" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-14" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.15" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-13" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.14" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ahn" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.17" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

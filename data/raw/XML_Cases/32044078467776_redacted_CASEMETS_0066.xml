@@ -1,0 +1,593 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0066" publicationstatus="published">
+          <court abbreviation="U.S." jurisdiction="United States">Supreme Court of the United States</court>
+          <name abbreviation="The Coquitlam v. United States">THE COQUITLAM et al. v. UNITED STATES</name>
+          <docketnumber>No. 804</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 457</citation>
+          <citation category="parallel" type="bluebook">163 U.S. 346, 16 S.Ct. 1117</citation>
+          <decisiondate>1896-05-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:06Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00235_0" MIMETYPE="image/tiff" CHECKSUM="cca76c3b711d837cede7d824a330e0fb" CHECKSUMTYPE="MD5" SIZE="18520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00235_0.tif"/>
+      </file>
+      <file ID="tiff_00235_1" MIMETYPE="image/tiff" CHECKSUM="8f7238692e43df1bceae36ed361df8ca" CHECKSUMTYPE="MD5" SIZE="51774">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00235_1.tif"/>
+      </file>
+      <file ID="tiff_00236_0" MIMETYPE="image/tiff" CHECKSUM="d3ae8b35a952868af1a89d7cc1c4dd6b" CHECKSUMTYPE="MD5" SIZE="52236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00236_0.tif"/>
+      </file>
+      <file ID="tiff_00236_1" MIMETYPE="image/tiff" CHECKSUM="9c2df1d1253a8bd7bf9a0da968ec0e7a" CHECKSUMTYPE="MD5" SIZE="52938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00236_1.tif"/>
+      </file>
+      <file ID="tiff_00237_0" MIMETYPE="image/tiff" CHECKSUM="2a881b1d346cb38d3de82d68d5c2812f" CHECKSUMTYPE="MD5" SIZE="53984">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00237_0.tif"/>
+      </file>
+      <file ID="tiff_00237_1" MIMETYPE="image/tiff" CHECKSUM="c4979c59c80eb1f407d7768ee1341084" CHECKSUMTYPE="MD5" SIZE="52818">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00237_1.tif"/>
+      </file>
+      <file ID="tiff_00238_0" MIMETYPE="image/tiff" CHECKSUM="1dad4b25b504391f0d850aedc826d301" CHECKSUMTYPE="MD5" SIZE="47916">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00238_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00235_0" MIMETYPE="image/jpg" CHECKSUM="f1b9b59ffc5141a122611dd00ff9d3a7" CHECKSUMTYPE="MD5" SIZE="108733">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00235_0.jpg"/>
+      </file>
+      <file ID="jpg_00235_1" MIMETYPE="image/jpg" CHECKSUM="2d9f0d5ee0bbb4b152c5eef3ef393033" CHECKSUMTYPE="MD5" SIZE="200124">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00235_1.jpg"/>
+      </file>
+      <file ID="jpg_00236_0" MIMETYPE="image/jpg" CHECKSUM="bf5a80fc172b71c4afc1692f8113236c" CHECKSUMTYPE="MD5" SIZE="192096">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00236_0.jpg"/>
+      </file>
+      <file ID="jpg_00236_1" MIMETYPE="image/jpg" CHECKSUM="5bfe686cf06bebddff0425c3b9883fd4" CHECKSUMTYPE="MD5" SIZE="211857">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00236_1.jpg"/>
+      </file>
+      <file ID="jpg_00237_0" MIMETYPE="image/jpg" CHECKSUM="86ce639e0d703aa982aa57ab876c7ac7" CHECKSUMTYPE="MD5" SIZE="201029">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00237_0.jpg"/>
+      </file>
+      <file ID="jpg_00237_1" MIMETYPE="image/jpg" CHECKSUM="5662924d2ebeeb1456464b9d3892c428" CHECKSUMTYPE="MD5" SIZE="202792">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00237_1.jpg"/>
+      </file>
+      <file ID="jpg_00238_0" MIMETYPE="image/jpg" CHECKSUM="68c834a8c4b98514f77b1fde6d2cad24" CHECKSUMTYPE="MD5" SIZE="177897">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00238_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00235_0" MIMETYPE="text/xml+gzip" CHECKSUM="0a14ba83e13942ad49b7c914c3c6d361" CHECKSUMTYPE="MD5" SIZE="5199">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00235_0.xml.gz"/>
+      </file>
+      <file ID="alto_00235_1" MIMETYPE="text/xml+gzip" CHECKSUM="537aeae64cec23538166ff3d7f215f8d" CHECKSUMTYPE="MD5" SIZE="12689">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00235_1.xml.gz"/>
+      </file>
+      <file ID="alto_00236_0" MIMETYPE="text/xml+gzip" CHECKSUM="3e16ca17e22634e69252b0ca37f81ba7" CHECKSUMTYPE="MD5" SIZE="12203">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00236_0.xml.gz"/>
+      </file>
+      <file ID="alto_00236_1" MIMETYPE="text/xml+gzip" CHECKSUM="539d2aee32e1f1d8e595afb8a0f3d9f3" CHECKSUMTYPE="MD5" SIZE="12643">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00236_1.xml.gz"/>
+      </file>
+      <file ID="alto_00237_0" MIMETYPE="text/xml+gzip" CHECKSUM="b325bda865a237dd586666417aae7c01" CHECKSUMTYPE="MD5" SIZE="12366">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00237_0.xml.gz"/>
+      </file>
+      <file ID="alto_00237_1" MIMETYPE="text/xml+gzip" CHECKSUM="f99b311bf319994132aaaffd3825e8c9" CHECKSUMTYPE="MD5" SIZE="12650">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00237_1.xml.gz"/>
+      </file>
+      <file ID="alto_00238_0" MIMETYPE="text/xml+gzip" CHECKSUM="f8ace3a9144be10712d92dc110775eb8" CHECKSUMTYPE="MD5" SIZE="11642">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00238_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0066" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="457" lastpage="463">
+              <court pgmap="469" id="b469-8">Supreme Court of the United States.</court>
+              <docketnumber pgmap="469" id="b469-7">No. 804.</docketnumber>
+              <citation pgmap="469" id="b469-5">163 U.S. 346, 16 S.Ct. 1117</citation>
+              <parties pgmap="469" id="b469-6">THE COQUITLAM et al. v. UNITED STATES.</parties>
+              <decisiondate pgmap="469" id="b469-9">May 18, 1896.</decisiondate>
+              <attorneys pgmap="469" id="b469-13">E. C. Hughes, H. G. Struve, J. B. Allen, Maurice Mc-­Micken, Calderon Carlisle, and Jas. Hamilton Lewis, for appellants.</attorneys>
+              <attorneys pgmap="469" id="b469-14">Sol. Gen. Conrad, for the United States.</attorneys>
+              <opinion type="majority">
+                <author pgmap="469" id="b469-15">Mr. Justice HARLAN</author>
+                <p pgmap="469" id="AvD">delivered the opinion of the court.</p>
+                <p pgmap="469" id="b469-16">This is a suit in admiralty brought by the United States in the district court of Alaska, for the forfeiture of the steamer Coquitlam, because of an alleged violation of the revenue laws of the United States.</p>
+                <p pgmap="470" id="b470-3">A decree having been rendered for the United States on the 18th day of December, 1893 (57 F. 706), an appeal • was prosecuted to the circuit court of appeals for the Ninth circuit (16 C.C.A. 674, 70 F. 336).</p>
+                <p pgmap="470" id="b470-4">By the sixth section of the act'of March 3, 1891 (chapter 517), the circuit courts of appeals are given jurisdiction to review by appeal or writ of error the “final decision in the district court and the existing circuit courts in all cases” other than those provided for in the fifth section of the act, “unless otherwise provided by law.” And by the fif­teenth section of the same act it is declared: “That the cir­cuit court of appeals in cases in which the judgment of the circuit courts of appeals are made final by this act shall have the same appellate jurisdiction, by writ of error or appeal, to review the judgments, orders and decrees of the supreme courts of the several territories as by this act they may have to review the judgments, orders and decrees of the district courts and circuit courts; and for that purpose the several territories shall, by orders of the supreme court to be made from time to time, be assigned to particular cir­cuits.” 26 Stat. 826, 830. In execution of the duty im­posed by that section, this court, by an order promulgated May 11, 1891, assigned the territory of Alaska to the Ninth judicial circuit.</p>
+                <p pgmap="470" id="b470-5">The jurisdiction of the circuit court of appeals for the Ninth circuit to hear and determine this cause was dis­puted by the United States upon these grounds: (1) That the district court of Alaska is not a district court, within the meaning of the sixth section of the above act of 1891, and was not a district court belonging to that circuit; (2) that the district court of Alaska is not a supreme court of a territory, within the meaning of that act and the above order or rule of this court.</p>
+                <p pgmap="470" id="b470-6">The cause is now before us upon a certificate from the circuit court of appeals as to its jurisdiction to entertain an appeal from the decree of the district court of Alaska.</p>
+                <p pgmap="470(51) 471(229)" id="b470-7">By the act of July 27, 1868 (chapter 273), the laws of the United States relating to customs, commerce, and navigation were extended to and over all the mainland, islands, and waters of the territory ceded to the United States by the treaty with Russia of March 30, 1867, so far as the same were applicable thereto. 15 Stat. 240. The provisions of that act were reproduced in sections 1954 to 1976, .inclusive, of the Revised Statutes, under the title of “Provisions Relating to the Unorganized Territory of Alaska.” Section 1957 (16 U.S.C.A. § 645 note) provides: “Until otherwise provided by law, all violations of this chapter, and of the several laws hereby extended to the ter­ritory of Alaska and the waters thereof, committed within the limits of the same, shall be prosecuted in any district court of the United States in California or Oregon, or in the district courts of Washington; and the collector and deputy collectors appointed for Alaska territory, and any person authorized in writing by either of them; or by the secretary of the treasury, shall have power to arrest persons and seize vessels and merchandise liable to fines, penalties or forfeitures under this and the other laws extended over the territory, and to keep and deliver the same to the mar­shal of some one of such courts; and such courts shall have original jurisdiction, and may take cognizance of all cases arising under this act and the several laws hereby extended over the territory, and shall proceed therein in the same manner and with the like effect as if such cases had arisen within the district or territory where the proceedings are brought.”</p>
+                <p pgmap="471" id="b471-4">By the first section of the act of May 17, 1884 (chapter 53), providing a civil government for Alaska, it was de­clared that the territory ceded to the United States by the treaty with Russia should constitute a civil and judicial district, to be organized and administered as provided in that act. The same act established “a district court for said district, with the. civil and criminal jurisdiction of district courts of the United States and the civil and crim­inal jurisdiction of district courts of the United States ex­ercising the jurisdiction of circuit courts, and such other ju­risdiction, not inconsistent with this act, as may be estab­lished by law; and a district judge shall be appointed for said district, who shall during his term of office reside therein and hold at least two terms of said court therein in each year,” etc. 23 Stat. 24.</p>
+                <p pgmap="471(18) 472(104)" id="b471-5">The fifth section provided for the appointment by the president of four commissioners for the district of Alaska, who should have the jurisdiction and powers of commis­sioners of the United States circuit courts, and exercise all the duties and powers, civil and criminal, then conferred on justices of the peace under the general laws of Oregon, so far as such laws might be applicable in that district, and not inconsistent with the, laws of the United States. They were also given jurisdiction, subject to the supervision of the district judge, of testamentary and probate matters, powers to grant writs of habeas corpus, and keep a record of deeds and other instruments of writing relating to the title or transfer of property.</p>
+                <p pgmap="472" id="b472-4">The seventh section declared that the general laws of Oregon then in force should be the law in said district, so far as the same were applicable and not in conflict with the provisions of that act or the laws of the United States, and that the district court so established “shall have exclusive jurisdiction in all cases in equity or those involving a ques­tion of title to land or mining rights or the constitutionality of a law, and in all criminal offenses which are capital.” From the judgment of a commissioner in civil or criminal cases of a particular kind, a right of appeal was given to the district court; further, that “writs of error in criminal cases shall issue to the said district court from the United States circuit court for the district of Oregon in the cases provided in chapter one hundred and seventy-six of the Laws of eighteen hundred and seventy-nine; and the ju­risdiction thereby conferred upon circuit courts is hereby given to the circuit court of Oregon. And the final judg­ments or decrees of said circuit and district court may be reviewed by the supreme court of the United States as in other cases.” 23. Stat. 24-26. By the act of 1879, re­ferred to, the circuit courts for each judicial district were given-jurisdiction “of writs of error in all criminal cases tried before the district court where the sentence is im­prisonment, or where, if a fine only, the fine shall exceed the sum of three hundred dollars.” 20 Stat. 354, c. 176, § 1.</p>
+                <p pgmap="472(45) 473(54)" id="b472-5">Referring to these and the other provisions of the above act of 1884, it was held in McAllister v. U. S., 141 U.S. 174, 179, 11 S.Ct. 949, that “the district court for Aláska was invested with the powers of a district court and a circuit court of the United States, as well as with general jurisdiction to enforce in Alaska the laws of Oregon, so far as they were applicable and were not inconsistent with the act and the constitution and laws of the United States.” See, also, In re Cooper, 143 U.S. 472, 494, 12 S.Ct. 453.</p>
+                <p pgmap="473" id="b473-4">The act of March 3, 1891 (chapter 517), created in each circuit a circuit court of appeals. 26 Stat. 826.</p>
+                <p pgmap="473" id="b473-5">The fourth section provides “that no appeal, whether by writ of error or otherwise, shall hereafter be taken or al­lowed from any district court to the existing circuit courts, and no appellate jurisdiction shall hereafter be exercised or allowed by said existing circuit courts, but all appeals by writ of error or otherwise from said district courts shall only be subject to review in the supreme court of the Unit­ed States or in the circuit court of appeals hereby estab­lished, as is hereinafter provided, and the review, by appeal, by writ of error, or otherwise, from the existing circuit courts shall be had only in the supreme court of the United States or in the circuit courts of appeals hereby established according to the provisions of this act regulating the same”; the fifth section, that “appeals or writs of error may be taken from the district courts or from the existing circuit courts direct to the supreme court” in certain enu­merated cases; the sixth section, “that the circuit courts of appeals established by this act shall exercise appellate juris­diction to review by appeal or by writ of error final deci­sion in the district court and the existing circuit courts in all cases other than those provided for in the preceding sec­tion of this act, unless otherwise provided by law.” The fifteenth section, we have seen, gives the circuit courts of appeals, in cases in which their judgments are final, the same jurisdiction to review the judgments of the supreme courts of the territories assigned to the respective circuits as they have “to review the judgments, orders and decrees of the district courts and circuit courts.”</p>
+                <p pgmap="473(58) 474(237)" id="b473-6">The district and circuit courts mentioned in the act of 1891, and whose final judgments may be reviewed by the circuit courts of appeal, manifestly belong to the class of courts for which provision is made in the third article of the constitution, namely, constitutional courts, in which the judicial power conferred by the constitution on the general government can be deposited, and the judges of which are entitled, by the constitution, to receive, at stated times, a compensation for their services that cannot be diminished during their continuance in office, are removable from office only by impeachment, and hold, beyond the power of con­gress to provide otherwise, during good behavior. Insur­ance Co. v. Canter, 1 Pet. 511, 546; Benner v. Porter, 9 How. 235, 242; Clinton v. Englebrecht, 13 Wall. 434, 447; Hornbuckle v. Toombs, 18 Wall. 648, 655; Good v. Mar­tin, 95 U.S. 90, 98; Reynolds v. U. S., 98 U.S. 145, 154; The City of Panama, 101 U.S. 453, 465. And it was ad­judged in McAllister v. U. S., 141 U.S. 174, 181, 11 S.Ct. 949, that the district court established in Alaska, although invested with the civil and criminal jurisdiction of a dis­trict court of the United States, was a legislative court, created “in virtue of the general right of sovereignty which exists in the government, or in virtue of that clause which enables congress to make all needful rules and regulations respecting the territory belonging to the United States.” It was because the Alaska court was of the latter class that we held in McAllister’s Case -that the judge of the district court of that territory could be suspended from office by the president under the authority conferred by section 1768 of the Revised Statutes.</p>
+                <p pgmap="474" id="b474-4">It necessarily results that the circuit court of appeals for the Ninth circuit cannot review the final judgments or decrees of the Alaska court in virtue of its appellate juris­diction over the district and circuit courts mentioned in the act of March 3, 1891.</p>
+                <p pgmap="474(129) 475(300)" id="b474-5">But we are of opinion that such appellate jurisdiction may be exercised in virtue of the general authority con­ferred by the fifteenth section of the act of 1891 upon the circuit court of appeals to review the judgments of the su­preme court of any territory assigned to such circuit by this court. That act was necessarily so interpreted by this court when, by its order of May 11, 1891 (139 U.S. 707, 11 S.Ct. iv.), Alaska was assigned to the Ninth circuit. Alaska is one of the territories of the United States. It was so designated in that order, and has always been so re­garded. And the court established by the act of 1884 is the court of last resort, within the limits of that territory. It is therefore, in every substantial sense, the supreme court of that territory. No reason can be suggested why a territory of the United States, in which the court of last resort is called a “supreme court,” should be assigned to some circuit established by congress that does not apply with full force to the territory of Alaska, in which the court of last resort is designated as the district court of Alaska. The title of the territorial court is not so material as its character. Looking at the whole scope of the act of 1891, we do not doubt that congress contemplated that the final orders and decrees of the courts of last resort in the or­ganized territories of the United States (by whatever name those courts were designated in legislative enactments) should be reviewed by the proper circuit court of appeals, leaving to this court the assignment of the respective terri­tories among the existing circuits. The only limitation up­on the exercise of this power by this court is found in sec­tion 13 of the act of 1891, authorizing appeals and writs of error to be taken and prosecuted to the circuit court of appeals of the Eighth circuit from the decisions of the United States court in the Indian Territory. But this ex­ception rests upon grounds peculiarly applicable to the In­dian Territory, because of the character of its population, and its relation to the Eighth circuit, and does not at all militate against the conclusion that congress meant by the words “the supreme courts of the several territories,” in the fifteenth section of the act of 1891, the highest courts or the courts of last resort in the territories, by whatever name they happen to be designated in the acts creating them.</p>
+                <p pgmap="475" id="b475-4">Our answer, therefore, to the question certified, is that the district court of Alaska is to be regarded as the supreme court of that territory, within the meaning of the fifteenth section of the act of March 3, 1891, and of the order of this court. assigning Alaska to the Ninth circuit; and, conse­quently, that the decree of the district court of Alaska is subject to review by the circuit court of appeals of that circuit.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="469" ORDERLABEL="457" TYPE="page">
+        <fptr FILEID="tiff_00235_0"/>
+        <fptr FILEID="jpg_00235_0"/>
+        <fptr FILEID="alto_00235_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_469.1" BETYPE="IDREF" FILEID="alto_00235_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="470" ORDERLABEL="458" TYPE="page">
+        <fptr FILEID="tiff_00235_1"/>
+        <fptr FILEID="jpg_00235_1"/>
+        <fptr FILEID="alto_00235_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_470.1" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="471" ORDERLABEL="459" TYPE="page">
+        <fptr FILEID="tiff_00236_0"/>
+        <fptr FILEID="jpg_00236_0"/>
+        <fptr FILEID="alto_00236_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_471.3" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="472" ORDERLABEL="460" TYPE="page">
+        <fptr FILEID="tiff_00236_1"/>
+        <fptr FILEID="jpg_00236_1"/>
+        <fptr FILEID="alto_00236_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_472.2" BETYPE="IDREF" FILEID="alto_00236_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="473" ORDERLABEL="461" TYPE="page">
+        <fptr FILEID="tiff_00237_0"/>
+        <fptr FILEID="jpg_00237_0"/>
+        <fptr FILEID="alto_00237_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_473.3" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="474" ORDERLABEL="462" TYPE="page">
+        <fptr FILEID="tiff_00237_1"/>
+        <fptr FILEID="jpg_00237_1"/>
+        <fptr FILEID="alto_00237_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_474.2" BETYPE="IDREF" FILEID="alto_00237_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="475" ORDERLABEL="463" TYPE="page">
+        <fptr FILEID="tiff_00238_0"/>
+        <fptr FILEID="jpg_00238_0"/>
+        <fptr FILEID="alto_00238_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_475.3" BETYPE="IDREF" FILEID="alto_00238_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-5" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.5" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-4" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.4" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvD" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.17" BETYPE="IDREF" FILEID="alto_00235_0"/>
+            <area BEGIN="BL_469.18" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-6" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.6" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            <area BEGIN="BL_474.1" BETYPE="IDREF" FILEID="alto_00237_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-4" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.4" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-5" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.5" BETYPE="IDREF" FILEID="alto_00236_1"/>
+            <area BEGIN="BL_473.1" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b474-4" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_474.4" BETYPE="IDREF" FILEID="alto_00237_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b474-5" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_474.5" BETYPE="IDREF" FILEID="alto_00237_1"/>
+            <area BEGIN="BL_475.1" BETYPE="IDREF" FILEID="alto_00238_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-6" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.6" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-7" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.7" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            <area BEGIN="BL_471.1" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-4" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.4" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-5" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.5" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-3" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.3" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-5" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.6" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-6" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.7" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-7" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.8" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-8" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.9" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-9" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.10" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-5" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.5" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            <area BEGIN="BL_472.1" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-4" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.4" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-13" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.14" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-14" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.15" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-15" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.16" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-16" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.19" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b475-4" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_475.4" BETYPE="IDREF" FILEID="alto_00238_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

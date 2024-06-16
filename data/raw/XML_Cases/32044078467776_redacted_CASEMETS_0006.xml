@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0006" publicationstatus="published">
+          <court abbreviation="D. Cal." jurisdiction="United States">United States District Court for the District of California</court>
+          <name abbreviation="United States v. The Fideliter">UNITED STATES v. THE FIDELITER</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 44</citation>
+          <citation category="parallel" type="bluebook">Fed.Cas.No.15,088</citation>
+          <decisiondate>1871-09-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:01Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00028_1" MIMETYPE="image/tiff" CHECKSUM="4396d30369d528f44b9bcbcc35fb1034" CHECKSUMTYPE="MD5" SIZE="13346">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00028_1.tif"/>
+      </file>
+      <file ID="tiff_00029_0" MIMETYPE="image/tiff" CHECKSUM="0434035d043590f427966ba4a11b59e4" CHECKSUMTYPE="MD5" SIZE="38600">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00029_0.tif"/>
+      </file>
+      <file ID="tiff_00029_1" MIMETYPE="image/tiff" CHECKSUM="2adda3ecd5dc799c2be0be2763f9954c" CHECKSUMTYPE="MD5" SIZE="55846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00029_1.tif"/>
+      </file>
+      <file ID="tiff_00030_0" MIMETYPE="image/tiff" CHECKSUM="7e3918bbc9bf6777cface663e028470a" CHECKSUMTYPE="MD5" SIZE="53902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00030_0.tif"/>
+      </file>
+      <file ID="tiff_00030_1" MIMETYPE="image/tiff" CHECKSUM="30f99dba8bbec763bd02741a71daf521" CHECKSUMTYPE="MD5" SIZE="55980">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00030_1.tif"/>
+      </file>
+      <file ID="tiff_00031_0" MIMETYPE="image/tiff" CHECKSUM="316a12a7450080f275198dd2a35cea8f" CHECKSUMTYPE="MD5" SIZE="54586">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00031_0.tif"/>
+      </file>
+      <file ID="tiff_00031_1" MIMETYPE="image/tiff" CHECKSUM="9f88e0d59bc90a0b2f71e29302605b37" CHECKSUMTYPE="MD5" SIZE="25612">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00031_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00028_1" MIMETYPE="image/jpg" CHECKSUM="822dd13e3aa99b481f52e9f861b5ca35" CHECKSUMTYPE="MD5" SIZE="93759">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00028_1.jpg"/>
+      </file>
+      <file ID="jpg_00029_0" MIMETYPE="image/jpg" CHECKSUM="7b3f64ff39f32f26af7ecca7f7dcd52e" CHECKSUMTYPE="MD5" SIZE="158426">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00029_0.jpg"/>
+      </file>
+      <file ID="jpg_00029_1" MIMETYPE="image/jpg" CHECKSUM="41076f804bd087608029aa79ced577db" CHECKSUMTYPE="MD5" SIZE="207986">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00029_1.jpg"/>
+      </file>
+      <file ID="jpg_00030_0" MIMETYPE="image/jpg" CHECKSUM="2353a1172a40551a4b7f938a6fae51d1" CHECKSUMTYPE="MD5" SIZE="190213">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00030_0.jpg"/>
+      </file>
+      <file ID="jpg_00030_1" MIMETYPE="image/jpg" CHECKSUM="3cb84196c553df684b0869c5163057eb" CHECKSUMTYPE="MD5" SIZE="209296">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00030_1.jpg"/>
+      </file>
+      <file ID="jpg_00031_0" MIMETYPE="image/jpg" CHECKSUM="2f4235b2aa605daf2b5d66a4438356df" CHECKSUMTYPE="MD5" SIZE="197397">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00031_0.jpg"/>
+      </file>
+      <file ID="jpg_00031_1" MIMETYPE="image/jpg" CHECKSUM="725ee817e4b6f12a189fc00e22857fcb" CHECKSUMTYPE="MD5" SIZE="124727">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00031_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00028_1" MIMETYPE="text/xml+gzip" CHECKSUM="a2a638472d3809e431097abfb8dc3fa5" CHECKSUMTYPE="MD5" SIZE="3657">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00028_1.xml.gz"/>
+      </file>
+      <file ID="alto_00029_0" MIMETYPE="text/xml+gzip" CHECKSUM="278f470a4364195ee3043d7f4eaec54f" CHECKSUMTYPE="MD5" SIZE="9328">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00029_0.xml.gz"/>
+      </file>
+      <file ID="alto_00029_1" MIMETYPE="text/xml+gzip" CHECKSUM="cf2b76e9f5ba7a7fa75dcce23437338f" CHECKSUMTYPE="MD5" SIZE="13152">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00029_1.xml.gz"/>
+      </file>
+      <file ID="alto_00030_0" MIMETYPE="text/xml+gzip" CHECKSUM="5d56ab73753335cc255b5e1453be88b0" CHECKSUMTYPE="MD5" SIZE="13327">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00030_0.xml.gz"/>
+      </file>
+      <file ID="alto_00030_1" MIMETYPE="text/xml+gzip" CHECKSUM="00fad61de88ca04f7ebb625662fec780" CHECKSUMTYPE="MD5" SIZE="12655">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00030_1.xml.gz"/>
+      </file>
+      <file ID="alto_00031_0" MIMETYPE="text/xml+gzip" CHECKSUM="72915d39e7ced520b1cc6997698019f1" CHECKSUMTYPE="MD5" SIZE="12859">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00031_0.xml.gz"/>
+      </file>
+      <file ID="alto_00031_1" MIMETYPE="text/xml+gzip" CHECKSUM="011bbf2677c407c7f33c7baea782cfa4" CHECKSUMTYPE="MD5" SIZE="6958">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00031_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0006" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="44" lastpage="50">
+              <court pgmap="56" id="b56-11">District Court, D. California.</court>
+              <citation pgmap="56" id="b56-9">Fed.Cas.No.15,088</citation>
+              <parties pgmap="56" id="b56-10">UNITED STATES v. THE FIDELITER.</parties>
+              <decisiondate pgmap="56" id="b56-12">Sept. 21, 1871.</decisiondate>
+              <attorneys pgmap="57" id="b57-7">Mr. Latimer, U. S. Dist. Atty.</attorneys>
+              <attorneys pgmap="57" id="b57-8">Delos Lake and Milton Andros, for claimant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="57" id="b57-9">HOFFMAN, District Judge.</author>
+                <p pgmap="57" id="b57-10">The libel of information in this case was originally filed in the district court of the United States for the district of Oregon. Fed.Cas.No.4,756, ante, p. 7. Voluminous depositions were taken, and a decree of forfeiture rendered, the reasons of which were given by the learned judge of that court in. an elaborate opinion. On appeal to the circuit court, it was for the first time suggested that no seizure of the ves­sel had been made at the time the libel of information was filed. The circuit court therefore 'held that the district court had no jurisdiction of the case. Fed.Cas.No.4,755, anté, p. 4. The vessel was thereupon reseized in this district, and a libel of information filed in this court. At the hearing of the cause it was agreed between the advocates for,the respec­tive parties that all the testimony as contained in the printed copy of the transcripts sent from the district court for Ore­gon should be considered in evidence in the case before this court, and also that all recitals and statements of the testi­mony contained in the opinion of the learned judge for the district court of Oregon should be received as if such testi­mony had been regularly copied into the transcripts.</p>
+                <p pgmap="57(63) 58(267)" id="b57-13">The position assumed by the advocates, for the claimants at the hearing before this court differs essentially from that taken by them before the district court for Oregon. At the former trial an attempt was made to cover up the true na­ture of the transaction by which the forfeiture is claimed to have accrued, and the acuteness of the learned judge was exercised and his ability displayed in stripping it of its vari­ous disguises and exposing its real character. At the hear­ing before this court, the facts, as found by the court at the former trial, were substantially admitted, but it was contend­ed that they constituted no violation of the law. To present the point thus raised, only a brief statement of facts will be necessary, omitting all details which do not vary the essential character of the transaction. In June, 1866, the British ship Fideliter was purchased by one William Kohl, an American citizen, but the bill of sale was made by his direction to one John Dutnell, a British subject, who subsequently, by like direction of Kohl, caused her to be registered as a British vessel. On the sixth of June, 1867, Kohl, under an irrevoca­ble power of attorney given him by Dutnell, executed a bill of sale to one Joseph Lugebil, a Russian subject, who re­ceived the title without the payment of any consideration therefor, and held the same in trust for Kohl, to whom he, on the same day, gave an irrevocable power of attorney, au­thorizing him to sell the vessel. On the ratification of the treaty with Russia, by the terms of which Lugebil became an American citizen, Kohl applied, as agent for Lugebil, for a register, and obtained the same from the collector at Sitka on making oath that Lugebil was the true and only ^wner of the vessel, and that no foreigner was directly or indirectly interested therein, etc., as required by the act of 1783.</p>
+                <p pgmap="58" id="b58-3">It is not pretended that Lugebil had any interest in the vessel otherwise than as holding the legal title, nor can it be denied that the object of the parties in making the transfer to him was to convert the vessel into an American bottom, by availing themselves of the construction given to the treaty by the American government, under which any vessel owned by a Russian subject, resident in Alaska, might be admitted to American registry, irrespective of her previous national­ity. The Russian owner of a British built vessel thus be­came entitled to privileges not enjoyed by the American owner of a similar vessel, and to obtain this advantage was unquestionably the design of the parties.</p>
+                <p pgmap="58(42) 59(43)" id="b58-4">The questions presented, therefore, are — (1) Did Kohl, in swearing that Lugebil was the true and only owner of the vessel, swear to what was not true, inasmuch as Lugebil was merely the legal owner, but not beneficially interested in her? Act Dec. 31, 1792, § 4 [1 Stat. 289]. (2) Was the register “knowingly and fraudulently obtained for a vessel not en­titled to the benefit thereof”? Act July 18, 1866, § 24 [14 Stat. 184 (see 46 U.S.C.A. § 60 and note)].</p>
+                <p pgmap="59" id="b59-4">At the former trial the counsel for the claimants seem to have omitted to call the attention of the court to the fact that the ownership referred to in section 4 of the act of 1792 has been decided to be the legal, and not the beneficial own­ership. The existence of any direct or indirect interest in a foreigner, by way of trust, confidence, or otherwise, is provided against by the succeeding clause, which thus, not only carries out the policy of the law by excluding from registry any vessel in which a foreigner has any interest, legal, or equitable, but seems to imply that such equitable in­terests, if held by an American, need not be disclosed or de­nied, and that the oath may be taken by him who by bill of sale or otherwise has become the holder of the legal title. Weston v. Penniman, Fed.Cas.No.17,455 ; Hall v. Hudson, Fed.Cas.No.5,935. If then this had been the ordinary case of an application for the re-registry of an American vessel, the statement contained in the oath that Lugebil was the true and only owner, and that no foreigner was directly or in­directly interested in the vessel, would have been literally true according to the legal effect and meaning of the oath. That the vessel was not the property of a Russian resident of Alaska, within the meaning of the treaty is, I think, clear. She was, therefore, not entitled to an American registry, and had the facts been known, it would probably have been withheld. Some further assurance that she was in reality Russian property than that afforded by taking the oath pre­scribed by the act of 1792, might reasonably have been ex­acted. But none was required, and the oath actually taken, though it failed, when its meaning and effect are understood, to furnish any guarantee that the vessel was the property of a Russian within the meaning of the treaty, was .neverthe­less true, inasmuch as the formal or legal title was in the per­son who was sworn to be the owner.</p>
+                <p pgmap="59(43) 60(321)" id="b59-5">The libel of information, so far as it claims a forfeiture on the ground that the oath taken by Kohl was false, cannot be sustained. But a forfeiture is also insisted on the ground that the certificate of registry was knowingly and fraudu­lently obtained by Kohl for a vessel not entitled thereto. It has already been observed that the vessel could not be con­sidered Russian property within the meaning of the treaty. Under its provisions, the Russian inhabitants of Alaska were secured “in the free enjoyment of their liberty, property and religion.” On the ratification of the treaty, the revenue offi­cers at Alaska were instructed that, “every vessel belonging to a recognized inhabitant will be allowed to exchange her Russian for American papers, or on production to you of satisfactory evidence of such ownership, she will be entitled to American marine papers according with her tonnage. And, in order to be invested with all the rights and privileges of an American vessel, she will be required to take such pa­pers, and, so far as practicable, to conform to existing laws and regulations until congress shall otherwise provide.” General Instructions, Treasury Department, August 15, 1867. It is evident that the expression “property of a Rus­sian inhabitant of Alaska,” contained in the treaty and the words, “vessel belonging to a recognized inhabitant,” con­tained in the instructions refer to an actual and bona fide own­ership by a Russian, and not to a pretended and fictitious- ap­pearance of ownership, created by a sham sale without con­sideration, or change of possession, where the pretended vendor retains exclusive control of the ship. The collector was instructed to require satisfactory evidence of such own­ership. This, had he been aware of its legal effect and meaning, he would not have considered as afforded by the applicant’s taking the oath prescribed by the act of 1792, for that oath, as we have seen, only refers to the legal or nomi­nal ownership. It did not furnish'any evidence that the ves­sel was really “the property” of .a Russian, or “belonged” to him within the meaning of the treaty or of the instruc­tions.</p>
+                <p pgmap="60(81) 61(325)" id="b60-4">The whole transaction which terminated in the obtaining of an American register by a vessel not entitled thereto was a fraud; facilitated, it is true, by the want of circumspection of the collector, who neglected to require the production of the “satisfactory evidence of ownership” as directed by his instructions, and who accepted as such evidence an oath which in fact afforded no proof whatever that the vessel be­longed to a Russian in any sense which would entitle her to an American register. From the time of his original pur­chase from Brown, Kohl was the real owner of the vessel. The procurement of a British register to Dutnell as owner was therefore a fraud upon the British navigation laws. The pretended sale to Lugebil and the obtaining by him of a passport, reciting that she was “owned by the Russian sub­ject, J. Lugebil,” was a fraud upon the laws of Russia, if, as is presumed, vessels owned by foreigners, and in which Rus­sian subjects have no interest save a nominal one, created b}r a fictitious sale, are not entitled to be registered as Russian vessels. The execution of the bill of sale to Lugebil was also a fraud upon the laws of the United States, for it was designed to give to the vessel' the false and colorable semblance of Russian property, and thus obtain privileges to which that species of property was entitled under the treaty, when, in truth, she was not Russian property in any sense that would entitle her to an American register, and was owned, possessed, and controlled by an American citizen. The oath taken by Kohl was not strictly a false oath; but the execution of the bill of sale to Lugebil with intent to create a false appearance of Russian ownership of the ves­sel within the provisions of the treaty; the omission to dis­close to the collector the real circumstances; the produc­tion to him of a passport which asserted her to be-owned by a Russian subject, and therefore a Russian national vessel, which passport could only have been obtained in fraud of the Russian laws, and all this with the intent to impose the vessel upon the collector as Russian property within the meaning of the treaty, constitute, in my opinion, a clear case where a certificate of American registry has been fraudu­lently and knowingly obtained for a vessel not entitled thereto.</p>
+                <p pgmap="61(95) 62(150)" id="b61-3">It has been held by the supreme court of the United States that a conveyance though made for the avowed purpose of transferring an interest so as to give the United States courts jurisdiction as of a suit between citizens of different states will accomplish that purpose if the interest be really transferred. But a conveyance without consideration, with a distinct understanding that the grantors are to retain all their real interest, and that the deed is to have no other ef­fect than to give jurisdiction to the court, is to be treated as a fraud upon the court. Smith v. Kemeschen, 7 How. 216; Barney v. Baltimore City, 6 Wall. 288, and cases cited. If, then, the transfer to a merely “nominal and colorable’-’ gran­tee, for the purpose of enabling him to sue in the United States courts is considered a fraud upon the court, although the object of the parties is not reprehensible, and the desired result would have been attained if the interest had really been transferred, how much more must the transfer in this case be held to be a fraud upon the laws of the United States, since it was not only made without consideration to a merely nominal and colorable vendee, but the object of the sale was to give to a vessel the false appearance of Russian property, and thereby induce the United States authorities to admit her to privileges to which she was not entitled.</p>
+                <p pgmap="62" id="b62-4">A decree of forfeiture must be entered.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="56" ORDERLABEL="44" TYPE="page">
+        <fptr FILEID="tiff_00028_1"/>
+        <fptr FILEID="jpg_00028_1"/>
+        <fptr FILEID="alto_00028_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_56.3" BETYPE="IDREF" FILEID="alto_00028_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="57" ORDERLABEL="45" TYPE="page">
+        <fptr FILEID="tiff_00029_0"/>
+        <fptr FILEID="jpg_00029_0"/>
+        <fptr FILEID="alto_00029_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_57.3" BETYPE="IDREF" FILEID="alto_00029_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="58" ORDERLABEL="46" TYPE="page">
+        <fptr FILEID="tiff_00029_1"/>
+        <fptr FILEID="jpg_00029_1"/>
+        <fptr FILEID="alto_00029_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_58.2" BETYPE="IDREF" FILEID="alto_00029_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="59" ORDERLABEL="47" TYPE="page">
+        <fptr FILEID="tiff_00030_0"/>
+        <fptr FILEID="jpg_00030_0"/>
+        <fptr FILEID="alto_00030_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_59.3" BETYPE="IDREF" FILEID="alto_00030_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="60" ORDERLABEL="48" TYPE="page">
+        <fptr FILEID="tiff_00030_1"/>
+        <fptr FILEID="jpg_00030_1"/>
+        <fptr FILEID="alto_00030_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_60.2" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="61" ORDERLABEL="49" TYPE="page">
+        <fptr FILEID="tiff_00031_0"/>
+        <fptr FILEID="jpg_00031_0"/>
+        <fptr FILEID="alto_00031_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_61.2" BETYPE="IDREF" FILEID="alto_00031_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="62" ORDERLABEL="50" TYPE="page">
+        <fptr FILEID="tiff_00031_1"/>
+        <fptr FILEID="jpg_00031_1"/>
+        <fptr FILEID="alto_00031_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_62.2" BETYPE="IDREF" FILEID="alto_00031_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-11" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.12" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.11" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-12" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.13" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.4" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.5" BETYPE="IDREF" FILEID="alto_00030_0"/>
+            <area BEGIN="BL_60.1" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.4" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            <area BEGIN="BL_61.1" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.4" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.7" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-3" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.4" BETYPE="IDREF" FILEID="alto_00031_0"/>
+            <area BEGIN="BL_62.1" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.10" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.8" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.9" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-13" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.11" BETYPE="IDREF" FILEID="alto_00029_0"/>
+            <area BEGIN="BL_58.1" BETYPE="IDREF" FILEID="alto_00029_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.10" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b58-3" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_58.4" BETYPE="IDREF" FILEID="alto_00029_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b58-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_58.5" BETYPE="IDREF" FILEID="alto_00029_1"/>
+            <area BEGIN="BL_59.1" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

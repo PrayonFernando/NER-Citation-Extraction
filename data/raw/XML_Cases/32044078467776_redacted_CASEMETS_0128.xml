@@ -1,0 +1,1301 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0128" publicationstatus="published">
+          <court abbreviation="U.S." jurisdiction="United States">Supreme Court of the United States</court>
+          <name abbreviation="Bird v. United States">HOMER BIRD v. UNITED STATES</name>
+          <docketnumber>No. 306</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 890</citation>
+          <citation category="parallel" type="bluebook">187 U.S. 118, 23 S.Ct. 42</citation>
+          <decisiondate>1902-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:11Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00451_1" MIMETYPE="image/tiff" CHECKSUM="88ca30b8485b663b1f330d61f4131d12" CHECKSUMTYPE="MD5" SIZE="22674">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00451_1.tif"/>
+      </file>
+      <file ID="tiff_00452_0" MIMETYPE="image/tiff" CHECKSUM="fe34786892af505a57cdc5cef13c1789" CHECKSUMTYPE="MD5" SIZE="3638">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00452_0.tif"/>
+      </file>
+      <file ID="tiff_00452_1" MIMETYPE="image/tiff" CHECKSUM="3233c0f2ba2796463bbcf621a5c20d5e" CHECKSUMTYPE="MD5" SIZE="38848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00452_1.tif"/>
+      </file>
+      <file ID="tiff_00453_0" MIMETYPE="image/tiff" CHECKSUM="07cb967ac57b41f628910a8200c9202a" CHECKSUMTYPE="MD5" SIZE="48942">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00453_0.tif"/>
+      </file>
+      <file ID="tiff_00453_1" MIMETYPE="image/tiff" CHECKSUM="1e713318839f621faf8bcb57bad79896" CHECKSUMTYPE="MD5" SIZE="49726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00453_1.tif"/>
+      </file>
+      <file ID="tiff_00454_0" MIMETYPE="image/tiff" CHECKSUM="3085f5440b5968b1129f17f6f8d468ea" CHECKSUMTYPE="MD5" SIZE="47898">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00454_0.tif"/>
+      </file>
+      <file ID="tiff_00454_1" MIMETYPE="image/tiff" CHECKSUM="244a800f931f95900a5a2a9960cdc729" CHECKSUMTYPE="MD5" SIZE="53830">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00454_1.tif"/>
+      </file>
+      <file ID="tiff_00455_0" MIMETYPE="image/tiff" CHECKSUM="bb98c934ecfae5c9657afcd4cf6cb612" CHECKSUMTYPE="MD5" SIZE="52844">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00455_0.tif"/>
+      </file>
+      <file ID="tiff_00455_1" MIMETYPE="image/tiff" CHECKSUM="3257fed25e947130ed7e3182339b32f4" CHECKSUMTYPE="MD5" SIZE="51486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00455_1.tif"/>
+      </file>
+      <file ID="tiff_00456_0" MIMETYPE="image/tiff" CHECKSUM="462ee5bd897f4acec1c99017f35995d3" CHECKSUMTYPE="MD5" SIZE="54154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00456_0.tif"/>
+      </file>
+      <file ID="tiff_00456_1" MIMETYPE="image/tiff" CHECKSUM="249ef3e9e3fc9820edf6aaa84eeda619" CHECKSUMTYPE="MD5" SIZE="48718">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00456_1.tif"/>
+      </file>
+      <file ID="tiff_00457_0" MIMETYPE="image/tiff" CHECKSUM="8ade63702b8e5667903062161cbf6ed9" CHECKSUMTYPE="MD5" SIZE="53240">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00457_0.tif"/>
+      </file>
+      <file ID="tiff_00457_1" MIMETYPE="image/tiff" CHECKSUM="23200511cc7989a3b24682589e43bcce" CHECKSUMTYPE="MD5" SIZE="52244">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00457_1.tif"/>
+      </file>
+      <file ID="tiff_00458_0" MIMETYPE="image/tiff" CHECKSUM="052fc4a06c2dd04901ee9648d46bbd47" CHECKSUMTYPE="MD5" SIZE="52748">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00458_0.tif"/>
+      </file>
+      <file ID="tiff_00458_1" MIMETYPE="image/tiff" CHECKSUM="9cb1d879707d029b6ac9f92eb4402763" CHECKSUMTYPE="MD5" SIZE="50736">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00458_1.tif"/>
+      </file>
+      <file ID="tiff_00459_0" MIMETYPE="image/tiff" CHECKSUM="51fcca94ad8d4558d9fde1582f919f9d" CHECKSUMTYPE="MD5" SIZE="33626">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00459_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00451_1" MIMETYPE="image/jpg" CHECKSUM="b9679ed6b74146aaa651bc9b6788f25a" CHECKSUMTYPE="MD5" SIZE="114138">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00451_1.jpg"/>
+      </file>
+      <file ID="jpg_00452_0" MIMETYPE="image/jpg" CHECKSUM="3381bb63d5fa9db259a205c781443c5e" CHECKSUMTYPE="MD5" SIZE="50550">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00452_0.jpg"/>
+      </file>
+      <file ID="jpg_00452_1" MIMETYPE="image/jpg" CHECKSUM="d0451ca44ffdafc7c256ae98a22cfee9" CHECKSUMTYPE="MD5" SIZE="172495">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00452_1.jpg"/>
+      </file>
+      <file ID="jpg_00453_0" MIMETYPE="image/jpg" CHECKSUM="d5e8cc0e0fdff97882e639b81af32be8" CHECKSUMTYPE="MD5" SIZE="187367">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00453_0.jpg"/>
+      </file>
+      <file ID="jpg_00453_1" MIMETYPE="image/jpg" CHECKSUM="9d7f47647f8c7b1498b180bce2256cd7" CHECKSUMTYPE="MD5" SIZE="196648">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00453_1.jpg"/>
+      </file>
+      <file ID="jpg_00454_0" MIMETYPE="image/jpg" CHECKSUM="2660f6f53ba60e89c977440be5db9410" CHECKSUMTYPE="MD5" SIZE="181806">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00454_0.jpg"/>
+      </file>
+      <file ID="jpg_00454_1" MIMETYPE="image/jpg" CHECKSUM="0a8382f58768eea7b996c979bd3885fd" CHECKSUMTYPE="MD5" SIZE="212731">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00454_1.jpg"/>
+      </file>
+      <file ID="jpg_00455_0" MIMETYPE="image/jpg" CHECKSUM="65402b9aab98791b316a70487641ab1b" CHECKSUMTYPE="MD5" SIZE="200078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00455_0.jpg"/>
+      </file>
+      <file ID="jpg_00455_1" MIMETYPE="image/jpg" CHECKSUM="d7185fb68f9579c565f6f58240758454" CHECKSUMTYPE="MD5" SIZE="198722">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00455_1.jpg"/>
+      </file>
+      <file ID="jpg_00456_0" MIMETYPE="image/jpg" CHECKSUM="01408db4d9a09f00885cb333b2da1bef" CHECKSUMTYPE="MD5" SIZE="192615">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00456_0.jpg"/>
+      </file>
+      <file ID="jpg_00456_1" MIMETYPE="image/jpg" CHECKSUM="72c02097383fcd21e57c4aa170b41d30" CHECKSUMTYPE="MD5" SIZE="197440">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00456_1.jpg"/>
+      </file>
+      <file ID="jpg_00457_0" MIMETYPE="image/jpg" CHECKSUM="059725fb64d09eaf4dcb9bd7db16c84e" CHECKSUMTYPE="MD5" SIZE="198564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00457_0.jpg"/>
+      </file>
+      <file ID="jpg_00457_1" MIMETYPE="image/jpg" CHECKSUM="9c6a58ae636a4d41dec2fbdedd2ae9a9" CHECKSUMTYPE="MD5" SIZE="201913">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00457_1.jpg"/>
+      </file>
+      <file ID="jpg_00458_0" MIMETYPE="image/jpg" CHECKSUM="79430c30e8d80928f95db46642189568" CHECKSUMTYPE="MD5" SIZE="196952">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00458_0.jpg"/>
+      </file>
+      <file ID="jpg_00458_1" MIMETYPE="image/jpg" CHECKSUM="ac5e1894ada130d850527b2560c2db69" CHECKSUMTYPE="MD5" SIZE="207201">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00458_1.jpg"/>
+      </file>
+      <file ID="jpg_00459_0" MIMETYPE="image/jpg" CHECKSUM="57c19ab628ecfb9b765f73d6d73a9509" CHECKSUMTYPE="MD5" SIZE="149196">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00459_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00451_1" MIMETYPE="text/xml+gzip" CHECKSUM="ecb25daf27b7a3947829ebf4c1795a42" CHECKSUMTYPE="MD5" SIZE="5872">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00451_1.xml.gz"/>
+      </file>
+      <file ID="alto_00452_0" MIMETYPE="text/xml+gzip" CHECKSUM="e8bcd0cfc69ee15610e25a73acd726b1" CHECKSUMTYPE="MD5" SIZE="882">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00452_0.xml.gz"/>
+      </file>
+      <file ID="alto_00452_1" MIMETYPE="text/xml+gzip" CHECKSUM="f67d5e74d37943d5ad4db785102cd6fd" CHECKSUMTYPE="MD5" SIZE="9977">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00452_1.xml.gz"/>
+      </file>
+      <file ID="alto_00453_0" MIMETYPE="text/xml+gzip" CHECKSUM="449517a955416f72a1ebaf08c43bf688" CHECKSUMTYPE="MD5" SIZE="11870">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00453_0.xml.gz"/>
+      </file>
+      <file ID="alto_00453_1" MIMETYPE="text/xml+gzip" CHECKSUM="1334f9e3593661390a10312fe8f9da44" CHECKSUMTYPE="MD5" SIZE="11958">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00453_1.xml.gz"/>
+      </file>
+      <file ID="alto_00454_0" MIMETYPE="text/xml+gzip" CHECKSUM="ea3168f68781b19b5be20bca616df425" CHECKSUMTYPE="MD5" SIZE="11699">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00454_0.xml.gz"/>
+      </file>
+      <file ID="alto_00454_1" MIMETYPE="text/xml+gzip" CHECKSUM="5c8bf6a219799b88b26fe854d034e0d5" CHECKSUMTYPE="MD5" SIZE="13225">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00454_1.xml.gz"/>
+      </file>
+      <file ID="alto_00455_0" MIMETYPE="text/xml+gzip" CHECKSUM="41437d7169e0ba60249342e669dcade8" CHECKSUMTYPE="MD5" SIZE="13598">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00455_0.xml.gz"/>
+      </file>
+      <file ID="alto_00455_1" MIMETYPE="text/xml+gzip" CHECKSUM="3221e72d87f67a23616d69a4999fb702" CHECKSUMTYPE="MD5" SIZE="12696">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00455_1.xml.gz"/>
+      </file>
+      <file ID="alto_00456_0" MIMETYPE="text/xml+gzip" CHECKSUM="3cc19990bbbdaa5c5d1e1e8d15b16f79" CHECKSUMTYPE="MD5" SIZE="13189">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00456_0.xml.gz"/>
+      </file>
+      <file ID="alto_00456_1" MIMETYPE="text/xml+gzip" CHECKSUM="3f7b46e2cc6a32d2154aaeca3932088e" CHECKSUMTYPE="MD5" SIZE="12946">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00456_1.xml.gz"/>
+      </file>
+      <file ID="alto_00457_0" MIMETYPE="text/xml+gzip" CHECKSUM="f98a65e26cf8f27ecb6d85a8752683cb" CHECKSUMTYPE="MD5" SIZE="12813">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00457_0.xml.gz"/>
+      </file>
+      <file ID="alto_00457_1" MIMETYPE="text/xml+gzip" CHECKSUM="24ef6a59797f6830b021691f0e6b700c" CHECKSUMTYPE="MD5" SIZE="12099">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00457_1.xml.gz"/>
+      </file>
+      <file ID="alto_00458_0" MIMETYPE="text/xml+gzip" CHECKSUM="e614ab95777107a5c8e832d5d19ecef9" CHECKSUMTYPE="MD5" SIZE="12696">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00458_0.xml.gz"/>
+      </file>
+      <file ID="alto_00458_1" MIMETYPE="text/xml+gzip" CHECKSUM="bdee63f92a863530518164dff3a0c443" CHECKSUMTYPE="MD5" SIZE="12392">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00458_1.xml.gz"/>
+      </file>
+      <file ID="alto_00459_0" MIMETYPE="text/xml+gzip" CHECKSUM="5617b2ba07bb2bc5860735dd83f26d41" CHECKSUMTYPE="MD5" SIZE="9434">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00459_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0128" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="890" lastpage="905">
+              <court pgmap="902" id="b902-9">Supreme Court of the United States.</court>
+              <docketnumber pgmap="902" id="b902-8">No. 306.</docketnumber>
+              <citation pgmap="902" id="b902-6">187 U.S. 118, 23 S.Ct. 42</citation>
+              <parties pgmap="902" id="b902-7">HOMER BIRD v. UNITED STATES.</parties>
+              <decisiondate pgmap="902" id="Aqz">Decided Nov. 17, 1902.</decisiondate>
+              <otherdate pgmap="902" id="b902-10">Argued Oct. 14, 1902.</otherdate>
+              <attorneys pgmap="904" id="b904-5">Messrs. L. T. Michener, W. W. Dudley, and Malony &amp; Cobb, for plaintiff in error.</attorneys>
+              <attorneys pgmap="904" id="b904-6">Assistant Attorney General Beck and Mr. Charles H. Robb for defendant in error.</attorneys>
+              <opinion type="majority">
+                <author pgmap="904" id="b904-7">Mr. Justice McKENNA</author>
+                <p pgmap="904" id="AXS">delivered the opinion of the court:</p>
+                <p pgmap="904" id="b904-8">Homer Bird was found guilty of the crime of murder, and was sentenced to death. On appeal to this court the judgment and sentence were reversed, and the case re­manded for a new trial. 180 U.S. 356, 21 S.Ct. 403, 45 L.Ed. 570.</p>
+                <p pgmap="904" id="b904-9">A new trial was had, resulting again in the conviction of Bird for murder, and a sentence of death by hanging was pronounced against him. To this judgment and sen­tence this writ of errqr is directed.</p>
+                <p pgmap="904" id="b904-10">After the first trial and while the case was pending in this court, that is, on March 3, 1899, Congress passed a criminal code and code of civil procedure for Alaska, en­titled “An Act to Define and Punish Crimes in the Dis­trict of Alaska, and to Provide a Code of Criminal Pro­cedure for Said District.” [30 Stat. at L. 1253, chap. 429.] It went into effect July 1, 1899.</p>
+                <p pgmap="904" id="b904-11">On June 6, 1900, Congress passed another act for Alas­ka, entitled “An Act Making Further Provision for a Civil Government for Alaska, and for Other Purposes.” 31 Stat. at L. 321, chap. 786.</p>
+                <p pgmap="904" id="b904-12">Plaintiff in error, contending that these acts deprived the court of jurisdiction, when the case was called,for trial, moved the court to strike the cause from the docket and order him discharged: (1) Because the court had no ju­risdiction of the crime charged; (2) because the court had no jurisdiction of the case. The motion was denied. It was renewed again in arrest of judgment, and the grounds of it specifically alleged as follows:</p>
+                <blockquote pgmap="905" id="b905-3">“I. Because there has never been any plea entered in this court by the defendant, the only plea ever made by him being in the district court for Alaska, established by the act of Congress of May 17, 1884, which was abolished by the act of Congress of June 6, 1900.</blockquote>
+                <blockquote pgmap="905" id="b905-4">“II. Because the court has no jurisdiction of this cause, the indictment herein having been returned into the district court for Alaska, established by the act of Congress of May 17, 1884, and not into this court, and there is no law conferring upon this court jurisdiction over indictments returned into said court.</blockquote>
+                <blockquote pgmap="905" id="b905-5">“III. Because this court has no jurisdiction of the of­fense charged in the indictment herein, in this: The said indictment charges an offense under § 5339 of the Revised Statutes of the United States, while this court has no jurisdiction of crimes, except as defined in the Criminal Code for Alaska.”</blockquote>
+                <p pgmap="905" id="b905-6">The motion was denied and an exception was taken. This ruling constitutes the first assignment of error.</p>
+                <p pgmap="905" id="b905-7">1. The act of 1884 provided a civil government for Alaska, and by § 3 it was enacted as follows:</p>
+                <blockquote pgmap="905" id="b905-8">“That there shall be, and hereby is, established a district court for said district, with the civil and criminal jurisdic­tion of district courts of the United States, and the civil and criminal jurisdiction of district courts of the United States exercising the jurisdiction of circuit courts, and such other jurisdiction, not inconsistent with this act, as may be established by law; and a district judge shall be appointed for said district, who shall, during his term of office, reside therein, and hold at least two terms of said court therein in each year, one at Sitka, beginning on the 1st Monday in May, and the other at Wrangel, be­ginning on the 1st Monday in November.”</blockquote>
+                <p pgmap="905" id="b905-9">By § 7 it was provided:</p>
+                <blockquote pgmap="905" id="b905-10">“That the general laws of the state of Oregon now in force are hereby declared to be the law in said district, so far as the same may be applicable and not in conflict with the provisions of this act or the laws of the United States.” [23 Stat. at L. 24, chap. 53.]</blockquote>
+                <p pgmap="905" id="b905-11">It was under this law that plaintiff in error was indict­ed and tried the first time.</p>
+                <p pgmap="906" id="b906-3">The act of March 3, 1899, defined the crime of homi­cide, and divided it into murder, in the first and second degrees, and manslaughter. The act contained a clause, it is conceded, saving the jurisdiction of the court over prior cases and crimes. And it is also conceded that the act is still in force, but it is urged that it has no bearing on the questions presented. It is contended that the act of 1884 was entirely repealed and superseded by the act of June 6, 1900, “both by express enactment and by neces­sary implication;” that “the district court for Alaska created by the act of May 17, 1884, was abolished by the act of June 6, 1900, and an entirely new court creat­ed;” and it is hence asserted “that, in the absence of a provision in the latter act, transferring criminal causes pending in the old court to the new, the latter had no ju­risdiction of indictments returned into the old court;” that “a statute conferring upon a court ‘general’ jurisdic­tion in criminal matters must be construed to refer to and to be limited by the code of criminal law enacted for the territory, and does not include jurisdiction of any offense not embodied in the code.”</p>
+                <p pgmap="906" id="b906-4">The act of 1884, we have seen, established the district court for Alaska “with the civil and criminal jurisdiction of district courts of the United States, and the civil and criminal jurisdiction of district courts of the United States exercising the jurisdiction of circuit courts.” It also pro­vided for the appointment of a district judge, a governor and other officers. It made provision, as declared in its title, for a civil government in Alaska.</p>
+                <p pgmap="906" id="b906-5">The act of June 6, 1900, is entitled “An Act Making Further Provision for a Civil Government for Alaska, and for Other Purposes.” It provides for a governor and other officers, and its provisions for a court are as follows:</p>
+                <blockquote pgmap="906" id="b906-6">“There is hereby established a district court for the dis­trict, which shall be a court of general jurisdiction in civil, criminal, equity, and admiralty causes; and three district judges shall be appointed for the district, who shall, during their terms of office, reside in the divisions of the district to which they may be respectively assigned by the President.</blockquote>
+                <blockquote pgmap="907" id="b907-3">“The court shall consist of three divisions. The judge designated to preside over division numbered one shall, during his term of office, reside at Juneau, and shall hold at least four terms of court in the district each year, two at Juneau and two at Skagway, and the judge shall, as near January 1 as practicable, designate the time of hold­ing the terms during the current year.</blockquote>
+                <blockquote pgmap="907" id="b907-4">“The judge designated to preside over division num­bered two shall reside at St. Michaels during his term of office, and shall hold at least one term of court each year at St. Michaels, in the district, beginning the 3d Monday in June.</blockquote>
+                <blockquote pgmap="907" id="b907-5">“The judge designated to preside over division num­bered three shall reside at Eagle City during his term of office, and shall hold at least one term of court each year at Eagle City, in the district, beginning on the 1st Monday in July.” [31 Stat. at L. 321, chap. 786, § 4.]</blockquote>
+                <p pgmap="907" id="b907-6">Section 5 (48 U.S.C.A. 103) declares the jurisdiction of each division of the court to extend over the whole district, and provides for a change of venue from one di­vision or place to another. The act further empowers the judges to appoint their own clerks, commissioners, etc.</p>
+                <p pgmap="907" id="b907-7">Section 10 (48 U.S.C.A. § 112) provides that the “judges * * * [and other officers] provided for in this act shall be appointed by the President, by and with the advice and consent of the Senate,” etc., and a salary of $5,000 is provided, instead of $3,000, as under the old law.</p>
+                <p pgmap="907" id="b907-9">Section 25 provides that “the officers properly qualified and actually discharging official duties in the district at the time of the approval of this act may continue to act in their respective official capacities until the expiration of the terms for which they were respectively appointed unless sooner removed.” And it is provided in § 368 as follows:</p>
+                <blockquote pgmap="907(52) 908(30)" id="b907-10">“No person shall be deprived of any existing legal right or remedy by reason of the passage of this act, and all civil actions or proceedings commenced in the courts of the district before or within sixty days after the approval of this act may be prosecuted to final judgment under the law now in force in the district, or under this act. All acts and parts of acts in conflict with the provisions of this act are hereby repealed.” [p. 552.]</blockquote>
+                <p pgmap="908(402) 909(14)" id="b908-4">It is upon these provisions that counsel for plaintiff in error rest the contentions which we have quoted. The principal contention is that the district court for Alaska, created by the act of May 17, 1884, was abolished by the act of June 6, 1900, and an entirely new court created. The contention is supported with ability, but we do not think that it is necessary to decide it on this record. That Congress did not intend, by the act of June, 1900, to affect the prosecution of prior offenses is manifest from the act of March 3, 1899, supra. 30 Stat. at L. 1285, chap. 429. This act, though passed prior to the act of June, 1900, constituted, with the latter act, a part of the scheme of government for Alaska. By the act of March 3, 1899, it is provided “that nothing herein contained shall apply to, or in any way affect, any proceeding or indictment now found or pending, or that may be found, 'for any offense committed before the passage of this act.” Section 219. The act was in force at the time of the passage of the act of June, 1900. It constituted then and constitutes now the code of criminal law enacted for the territory, and the crimes there defined constitute the criminal causes of which the district court, by the act of June, 1900, is given “general” jurisdiction. Necessarily, therefore, not only the criminal causes subsequent to the act of 1899, but the criminal causes saved by it, are covered by its pro­visions. In other words, the tribunal provided by the act of 1900, whether it is newly created or an existing one continued, has jurisdiction of all the criminal causes embraced by the provisions of the act of March 3, 1899. And it makes no difference that the records and files “of the old court” are not made records and files “of the new court.” They must be considered 'as made, as the means of exercising the jurisdiction conferred. It being the intent of Congress to save “any proceeding or indictment” found or pending “for any offense committed before the passage” of the act of 1899, in construing tjie act of 1900, “some degree of implication may be called in to aid that intent.” 6 Cranch, 314, 3 L.Ed. 234. There is a pre­sumption against a construction which would render a stat­ute ineffective or inefficient, or which would cause grave public injury or even inconvenience.</p>
+                <p pgmap="909" id="b909-3">We find nothing in the cases cited by plaintiff in error to defeat our conclusion. In McNulty v. Batty, 10 How. 72, 13 L.Ed. 333, there was a transfer of sovereignty; a territory became a state, and it was held “the territorial government ceased to exist and all the authority under it, including the laws organizing its courts of justice, and pro­viding for a revision of their judgments in this court [Su­preme Court of the United States] by appeals or writs of error.” All that is material in Freeborn v. Smith, 2 Wall. 160, 17 L.Ed. 922, depends upon the same consideration. In Merchants’ Ins. Co. v. Ritchie, 5 Wall. 541, 18 L.Ed. 540, it was decided that the act of 1833, which gave the citizens of a state the right to sue citizens of the same state in the courts of the United States, for causes aris­ing under the revenue laws, was repealed by a subsequent statute, and that therefore the national courts had no long­er jurisdiction of such causes. In other words, it was held that, as the jurisdiction depended upon the statute, it was taken away by the repeal of the statute. Ex parte Mc­Cardle, 7 Wall. 506, 19 L.Ed. 264; The Assessor v. Os­borne, 9 Wall. 567, sub nom. Gates v. Osborne, 19 L.Ed. 748; Baltimore &amp; P. R. Co. v. Grant, 98 U.S. 398, 25 L.Ed. 231, and United States v. Tynen, 11 Wall. 88, 20 L.Ed. 153, were to the same effect. In the latter case there was not an express repeal of the prior statute, but it was decided that the latter act effected such repeal upon the principle that if two acts are “repugnant in any of their provisions, the latter act, without any repealing clause, op­erates, to the extent of the repugnancy, as a repeal of the first; and even where two acts are not in express terms repugnant, yet, if the latter act covers the whole subject of the first, and embraces new provisions, plainly showing that it was intended as a substitute for the first act, it will operate as a repeal of that act.” This principle plaintiff in error relies on, and urges that it was recently asserted " and applied in Murphy v. Utter, 186 U.S. 95, 22 S.Ct. 776, 46 L.Ed. 1070. The principle is not pertinent in the view we take of the statutes.</p>
+                <p pgmap="909(21) 910(203)" id="b909-4">2. One of the witnesses for the prosecution was a wo­man. She was designated on the indictment by the name of Naomi Strong. It was contended that Naomi Strong was not her name, and plaintiff in error objected to her testimony on the ground that her true name had not been furnished on the list of witnesses given. The objection was overruled, and the ruling is assigned as error. At the request of the plaintiff in error the jury was withdrawn and the witness examined before the court as to her name, and she testified that her maiden name was Naomi Strong, but she had been married and divorced. She refused to give the name of her husband. She also testified that she had been divorced ten or twelve years, and upon her di­vorce she went by her maiden name. Subsequently she went by the name of Byers, when living with a man by that name, and, after meeting plaintiff in error, she went by his name. She testified that she met the plaintiff in error in 1893 or 1894, and left New Orleans with him the 1st of May, 1898, to join the expedition to Alaska, during which the homicide was committed. She and plain­tiff in error traveled as husband and wife under the name of Mr. and Mrs. Bundick.</p>
+                <p pgmap="910" id="b910-3">The ruling of the court was right. Section 1033 of the Revised Statutes of 'the United States (18 U.S.C.A. § 562) requires that in a capital case the list of the witness­es and jurors shall be delivered to the defendant at least two entire days before the trial. By list of the witnesses' means a list containing the names of the witnesses, and, necessarily, this means the names which they then bear, and which identify them. The purpose of the statute is to point out to the defendant the person who may testify against him, and that is best accomplished by the name the witness bears at the time, and not some name that such witness may have had at some prior time. The present case demonstrates the sense of this. It does not appear how long the witness had been married, and to have des­ignated her by her married name might have conveyed no information about her. A question could be raised whether the objection to the witness was made in time. Logan v. United States, 144 U.S. 263, 12 S.Ct. 617, 36 L.Ed. 429.</p>
+                <p pgmap="910" id="b910-4">3. There are errors assigned on the instructions given or refused, and for their understanding an outline of the facts is necessary.</p>
+                <p pgmap="911" id="b911-3">In the spring of 1898 the plaintiff in error, Hurlin, the deceased, Charles Scheffler, R. S. Patterson, and Naomi Strong organized a party to prospect in Alaska for gold. Each of the men, was to contribute $500 for purchasing an outfit. Scheffler failed with his contribution, and plain­tiff in error furnished something over $1,000. At San Francisco, California, a small steam launch and a scow 32 feet long by 6 feet beam were bought, together with the usual supply of food, clothing, etc.</p>
+                <p pgmap="911" id="b911-4">The party sailed from San Francisco, and reached St. Michael July 4. Shortly after, they started up the Yukon river, reaching a point in September about 600 miles above its mouth, and there determined to go into winter quarters, and for that purpose began the construction of a cabin. Dissentions arose in the party, and the plaintiff in error and the rest of the party do not agree in their testimony as to who was in fault. A resolution to separate was formed, but its execution was postponed, at the re­quest of the plaintiff in error, until the cabin should be finished. The cabin was finished on September 26. In the meantime there had been disagreements as to the divi­sion of supplies. The homicide occurred on the morning of the 27th of September. The witnesses for the prosecu­tion substantially agree that the party collected for break­fast on that morning, — Patterson, Hurlin, and Scheffler going first, the plaintiff in error subsequently joining them, he seating himself on his bunk back of the others, and they sat as follows: Patterson on the right, Scheffler in the center, and Hurlin on the left.</p>
+                <p pgmap="911" id="b911-5">We may quote from the testimony of the woman. Her statement was substantially corroborated by the others; their statements only varied in some details or differences which arose from their different positions.</p>
+                <p pgmap="911(99) 912(211)" id="b911-6">Scheffler and I were talking about a trap I had set to catch some grouse, and- * * * A.-we were talking about it, and all at once I heard Mr. Bird’s gun click, — shotgun,—when he broke it, it clicked, of course, and I looked up, and he had the gun to his shoul­der, and in the meantime Mr. Scheffler looked around; I think he fired at Mr. Hurlin, and then Scheffler looked around and held up his hands and told him for God’s sake not to shoot him, and I jumped up after he fired at Hurlin, and Mr. Patterson kind of jumped back of me,— jumped behind me like, and I asked Bird not to shoot; he had the gun to his shoulder all the time, and I. jumped and run; put my head over Patterson’s shoulder and run through the boat, and just as I passed him in the boat he fired at Mr. Patterson, and Patterson jumped overboard; whether the shot struck him when he jumped overboard I don’t know; and in the meantime I jumps out on the beach, and Mr. Patterson jumps overboard, and Mr. Bird comes running out, climbs over the bow of the boat with two guns in his hand — his own and Mr. Scheffier’s — and heads Patterson off; the boat was in the water just kind of half on the beach and half in the water, and so Mr. Patterson wades around on the side of the boat to get out, and Bird heads him off and tells him not to come near him, and Patterson kept begging him not to shoot him, and. Bird up with his gun again and says, “Bob, you dirty son of a bitch, you’re the cause of this,” and shot at him the second time, and Patterson came to the beach.</p>
+                <blockquote pgmap="912" id="b912-4">Q. Well, compose yourself, Mrs. Strong, if you can, and go on and state what occurred there. What happened when Mr. Patterson got to the beach? — A. They were all on the beach then, and he begged Bird not to shoot him.</blockquote>
+                <blockquote pgmap="912" id="b912-5">Q. What did he say to him? — A. He held out his hands and told him for God’s sake to think of his poor family.</blockquote>
+                <blockquote pgmap="912" id="b912-6">Q. What did Bird say? — A. I don’t remember any more what he did say; I think he says, “Bob, I have thought of our families,” or something like that.</blockquote>
+                <blockquote pgmap="912" id="b912-7">Q. At the time he1 fired at Hurlin, did you see what Mr. Hurlin did? Immediately after, as far as Hurlin was concerned? Immediately after the shooting of Hurlin, what followed [witness sobs]; what did he do, Mrs. Strong? — A. Mr. Hurlin?</blockquote>
+                <blockquote pgmap="912" id="b912-8">Q. Yes. — A. He never moved at all; he sat in the same position when he was shot.</blockquote>
+                <blockquote pgmap="912" id="b912-9">Q. Did his body change position at all? — A. No; just remained that way for quite a while.</blockquote>
+                <blockquote pgmap="912" id="b912-10">Q. Did you see any evidence of a wound on Mr. Hur­lin, — anything? — A. I saw where there was a hole in his head right here, the left side.</blockquote>
+                <p pgmap="913" id="b913-3">The plaintiff in error claimed to have acted in self-de­fense. His testimony will be given hereafter, in connection with an instruction to which it is more particularly perti­nent.</p>
+                <p pgmap="913" id="b913-4">In view of the testimony, error is based upon the fol­lowing instruction given by the trial court:</p>
+                <blockquote pgmap="913" id="b913-5">“In this connection you may consider whether the gun of the defendant was placed at a point near his bed, as stat­ed by the witnesses for the prosecution, and whether the defendant took his gun from the point where it was de­scribed to have been placed, by the witnesses for the prosecution, and whether, without any act on the part of the deceased or either of those sitting near him, he maliciously, from behind the backs of these men, when no attack was made against him in any way, wilfully and maliciously shot the deceased, Hurlin, in the back and side of the head, thereby taking his life; or whether the state­ment of the defendant is true, that a quarrel ensued be­tween himself and Patterson while discussing their ac­counts; that blows passed between them, and that, after hearing the witness Naomi Strong say, ‘They are getting their guns,’ — if he did hear any such thing, and if you so find, — whether he sprang down to a point near the water barrel and there seized his gun, and immediately raising the same shot Hurlin while he, the said Hurlin, .was in the act of attempting to draw a gun from his sleeping bag; and, if all of that was true, as the defendant states, whether he was under the necessity of immediately shoot­ing and killing the said Hurlin in order to protect his own life, or if, ■ as the situation then appeared to him, such necessity of immediately shooting Hurlin in order to save his own life existed.</blockquote>
+                <blockquote pgmap="913(104) 914(90)" id="b913-6">“If you find from the evidence that the statements of defendant Bird in these respects are true, and that the statement of the witnesses of the prosecution are not true, and that the defendant Bird shot and killed the said Hur­lin under circumstances, as they then appeared to him, necessary for the protection of his own, life, then you should- find him not guilty. But if -you should further find that the statement of the defendant Bird is true as to the acts of the said Hürlin as to obtaining his own gun in the manner he described, and yet the apparent dan­ger was not such as to make it necessary or apparently necessary for him to kill the deceased, Hurlin, without giving him any warning, — if you find he gave him no warning, — and without calling upon him, the said Hurlin, to desist in his efforts to obtain his gun, and that the de­fendant, under such circumstances, shot and killed the de­ceased, Hurlin, without apparent necessity therefor in or­der to preserve his own life, then you should find the de­fendant guilty of manslaughter at least.</blockquote>
+                <blockquote pgmap="914" id="AAjK">“But in determining this matter, under the evidence be­fore you, you must consider the situation of the parties at the time and all the surrounding circumstances, togeth­er with the testimony of the witnesses for the prosecution, as well as the evidence of the defendant.”</blockquote>
+                <p pgmap="914" id="b914-5">The contention of the plaintiff in error is that the last paragraph “qualified the whole instruction, and permeated it with two errors;” because it was in effect declared that, even if the testimony of the witnesses for the gov­ernment were untrue, it was to be considered in determin­ing the verdict; and' because all of the evidence of the defendant (plaintiff in error) was withdrawn from the jury in passing on the issue of self-defense. The instruc­tion is not open to this criticism when considered in con­nection with other instructions. The rule as to the cred­ibility of witnesses was given in other instructions, and did not have to accompany every ruling, and the jury were instructed that it was their duty “to consider the whole evidence, and render a verdict in accordance with the facts proved upon the trial.” The injunction was not lim­ited by the paragraph complained of by plaintiff in error. That was preceded by the following:</p>
+                <blockquote pgmap="914" id="b914-6">“In considering whether the killing in this case was •justifiable or excusable on the ground of self-defense, the jury should consider all the circumstances attending the killing, the conduct of the parties at the time and shortly prior thereto, and their respective situations at the time. You should determine from the evidence in this case whether the several parties were situated, at the time of the killing, as described by the witness for the prosecution or described by the defendant himself ”</blockquote>
+                <p pgmap="915" id="b915-2">The italics are ours, and manifestly the injunction was to determine from the whole evidence “the respective situ­ations” of the “several parties.” And the same injunc­tion was expressed in the concluding paragraph of the in­struction. This view makes it unnecessary to consider at length the instruction requested by plaintiff in error, the refusal of which constitutes the 8th assignment of error. It selected and gave certain testimony prominence, and at­tempted to make it determinative of a reasonable doubt of the guilt of the plaintiff in error. If we could concede the correctness of such an instruction the refusal cannot be claimed as error, if the whole case was submitted to the jury; and we think it was.</p>
+                <p pgmap="915" id="b915-3">4. The 7th assignment of error is based upon the fol­lowing instructions:</p>
+                <blockquote pgmap="915" id="b915-4">“Evidence has been.offered of the escape of the defend­ant, or attempted escape, after arrest on the charge on which the defendant is now being tried. This evidence is admitted on the theory that the defendant is in fear of the consequences of his crime and is attempting to escape therefrom; in other words, that guilt may be inferred from the fact of escape from custody. The court in­structs you that the inference that may be drawn from an escape is strong or slight according to the facts sur­rounding the party at the time. If a party is caught in the act of crime and speedily makes an attempt for liber­ty under desperate circumstances, the inference of guilt would be strong; but if the attempt was made after many months of confinement and escapes comparatively without danger, then the inference of guilt to be drawn from an escape is slight; but whether the inference of guilt is strong or slight depends upon the conditions and circum­stances surrounding the accused person at the time.”</blockquote>
+                <p pgmap="915(96) 916(181)" id="b915-5">There was no error in the instruction. It submitted to the jury the .attempt to escape as a fact to be consid­ered, not as determinative of guilt, and Allen v. United States, 164 U.S. 492, 17 S.Ct. 154, 41 L.Ed. 528, ap­plies, and not Starr v. United States, 164 U.S. 627, 17 S.Ct. 223, 41 L.Ed. 577. Indeed, when the state of the record is considered the charge given was as favorable to the accused as the law warranted. The only testimony on the subject of flight related to an escape made by the prisoner in October, following his arrest in June. This testimony was objected to, not because proof of flight was per se inadmissible, but solely on the ground that the es­cape in question was too remote from • the commission of the offense charged and the arrest and imprisonment of the accused, to be entitled to go to the jury. The court overruled the objection on the ground that it went to the force of the evidence, and not to its admissibility. When, therefore, the court charged the jury that an at­tempt to escape, “made after many months of confine­ment” and “comparatively without danger,” tended only slightly to prove guilt, we think the instruction was not amenable to the criticism made of it. In view of the in­struction which the court gave, as just stated, we think the court committed no error in not giving a more elabo­rate instruction on the subject of flight, which was asked by the accused. Everything in the charge asked, as ap­plied to the case, was embraced in the charge given.</p>
+                <p pgmap="916" id="b916-3">5. The plaintiff in error requested the- court to give an instruction which defined principal and accessory, ex­pressed the legal value of the testimony of an accomplice and the necessity of its corroboration to justify a convic­tion, and submitted to the jury to determine whether Charles Scheffler and Naomi Strong were or were not the accomplices of plaintiff in error in the killing of Hur­lin. Assuming, without deciding, that the instruction re­quested expressed the law correctly, if was nevertheless rightly refused, because there were no facts in the case to justify it. The plaintiff in error testified, and claimed to have killed Hurlin in self-defense. His version of the controversy which preceded the homicide was as follows:</p>
+                <p pgmap="916" id="b916-4">I says to him [Patterson], “You fellows are nothing but a pack of thieves; you made 10 per cent on them bills in Fresco;” and Patterson says “You’re a liar;” I says, “You’re another,” and with that we dug into each other.</p>
+                <blockquote pgmap="916" id="b916-5">Q. And what happened? '— A. He struck me and I struck him.</blockquote>
+                <blockquote pgmap="916(32) 917(51)" id="b916-6">Q. Where did you strike him? — A. In the eye, and I knocked him off the sacks and he fell down, and with that Naomi hollers, “Look out, Homer, they’re getting their guns.” Hurlin was coming up with his gun under his sleeping bag, one end of it this way. I shot Hurlin, and Patterson ran to the bow of the boat; he had to stoop like that, and he jumped for his gun, and as he did so, I shot him.</blockquote>
+                <blockquote pgmap="917" id="b917-4">Q. Come to this map and point out just where you were when you shot at Hurlin. — A. I was in here; I jumped down here and got the gun and stood right about here; Scheffler and the woman was here.</blockquote>
+                <blockquote pgmap="917" id="b917-5">Q. Where was Hurlin? — A. Hurlin was here reach­ing for his gun under the sleeping bags, and had it under his knee like this way.</blockquote>
+                <blockquote pgmap="917" id="b917-6">Q. And where was Patterson? — A. He was jumping from here over against the edge like, — you see the rifle was right in here. I had seen that gun there before, for Scheffler had it out, and brought in and set it down there. He was going for that.</blockquote>
+                <p pgmap="917" id="b917-7">It is hardly necessary to point out that this testimony shows the woman to have been an innocent spectator of the fray, and if Scheffler had any guilty connection with what transpired, it was not as the accomplice of plaintiff in error. Nor did he become an accomplice by not dis­closing the homicide until some time afterward.</p>
+                <p pgmap="917" id="b917-8">We find no error in the other rulings, objected to, nor do they require particular review.</p>
+                <p pgmap="917" id="b917-9">Judgment affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="902" ORDERLABEL="890" TYPE="page">
+        <fptr FILEID="tiff_00451_1"/>
+        <fptr FILEID="jpg_00451_1"/>
+        <fptr FILEID="alto_00451_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_902.2" BETYPE="IDREF" FILEID="alto_00451_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="903" ORDERLABEL="891" TYPE="page">
+        <fptr FILEID="tiff_00452_0"/>
+        <fptr FILEID="jpg_00452_0"/>
+        <fptr FILEID="alto_00452_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_903.3" BETYPE="IDREF" FILEID="alto_00452_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="904" ORDERLABEL="892" TYPE="page">
+        <fptr FILEID="tiff_00452_1"/>
+        <fptr FILEID="jpg_00452_1"/>
+        <fptr FILEID="alto_00452_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_904.1" BETYPE="IDREF" FILEID="alto_00452_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="905" ORDERLABEL="893" TYPE="page">
+        <fptr FILEID="tiff_00453_0"/>
+        <fptr FILEID="jpg_00453_0"/>
+        <fptr FILEID="alto_00453_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_905.2" BETYPE="IDREF" FILEID="alto_00453_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="906" ORDERLABEL="894" TYPE="page">
+        <fptr FILEID="tiff_00453_1"/>
+        <fptr FILEID="jpg_00453_1"/>
+        <fptr FILEID="alto_00453_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_906.1" BETYPE="IDREF" FILEID="alto_00453_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="907" ORDERLABEL="895" TYPE="page">
+        <fptr FILEID="tiff_00454_0"/>
+        <fptr FILEID="jpg_00454_0"/>
+        <fptr FILEID="alto_00454_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_907.2" BETYPE="IDREF" FILEID="alto_00454_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="908" ORDERLABEL="896" TYPE="page">
+        <fptr FILEID="tiff_00454_1"/>
+        <fptr FILEID="jpg_00454_1"/>
+        <fptr FILEID="alto_00454_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_908.2" BETYPE="IDREF" FILEID="alto_00454_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="909" ORDERLABEL="897" TYPE="page">
+        <fptr FILEID="tiff_00455_0"/>
+        <fptr FILEID="jpg_00455_0"/>
+        <fptr FILEID="alto_00455_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_909.2" BETYPE="IDREF" FILEID="alto_00455_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="910" ORDERLABEL="898" TYPE="page">
+        <fptr FILEID="tiff_00455_1"/>
+        <fptr FILEID="jpg_00455_1"/>
+        <fptr FILEID="alto_00455_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_910.2" BETYPE="IDREF" FILEID="alto_00455_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="911" ORDERLABEL="899" TYPE="page">
+        <fptr FILEID="tiff_00456_0"/>
+        <fptr FILEID="jpg_00456_0"/>
+        <fptr FILEID="alto_00456_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_911.2" BETYPE="IDREF" FILEID="alto_00456_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="912" ORDERLABEL="900" TYPE="page">
+        <fptr FILEID="tiff_00456_1"/>
+        <fptr FILEID="jpg_00456_1"/>
+        <fptr FILEID="alto_00456_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_912.2" BETYPE="IDREF" FILEID="alto_00456_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="913" ORDERLABEL="901" TYPE="page">
+        <fptr FILEID="tiff_00457_0"/>
+        <fptr FILEID="jpg_00457_0"/>
+        <fptr FILEID="alto_00457_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_913.2" BETYPE="IDREF" FILEID="alto_00457_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="914" ORDERLABEL="902" TYPE="page">
+        <fptr FILEID="tiff_00457_1"/>
+        <fptr FILEID="jpg_00457_1"/>
+        <fptr FILEID="alto_00457_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_914.2" BETYPE="IDREF" FILEID="alto_00457_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="915" ORDERLABEL="903" TYPE="page">
+        <fptr FILEID="tiff_00458_0"/>
+        <fptr FILEID="jpg_00458_0"/>
+        <fptr FILEID="alto_00458_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_915.1" BETYPE="IDREF" FILEID="alto_00458_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="916" ORDERLABEL="904" TYPE="page">
+        <fptr FILEID="tiff_00458_1"/>
+        <fptr FILEID="jpg_00458_1"/>
+        <fptr FILEID="alto_00458_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_916.2" BETYPE="IDREF" FILEID="alto_00458_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="917" ORDERLABEL="905" TYPE="page">
+        <fptr FILEID="tiff_00459_0"/>
+        <fptr FILEID="jpg_00459_0"/>
+        <fptr FILEID="alto_00459_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_917.3" BETYPE="IDREF" FILEID="alto_00459_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b907-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_907.8" BETYPE="IDREF" FILEID="alto_00454_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b907-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_907.5" BETYPE="IDREF" FILEID="alto_00454_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b907-4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_907.4" BETYPE="IDREF" FILEID="alto_00454_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b907-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_907.7" BETYPE="IDREF" FILEID="alto_00454_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b906-3" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_906.3" BETYPE="IDREF" FILEID="alto_00453_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b906-4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_906.4" BETYPE="IDREF" FILEID="alto_00453_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b906-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_906.5" BETYPE="IDREF" FILEID="alto_00453_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b906-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_906.6" BETYPE="IDREF" FILEID="alto_00453_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b905-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_905.8" BETYPE="IDREF" FILEID="alto_00453_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b908-4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_908.4" BETYPE="IDREF" FILEID="alto_00454_1"/>
+            <area BEGIN="BL_909.1" BETYPE="IDREF" FILEID="alto_00455_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b911-4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_911.4" BETYPE="IDREF" FILEID="alto_00456_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b905-11" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_905.11" BETYPE="IDREF" FILEID="alto_00453_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b905-10" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_905.10" BETYPE="IDREF" FILEID="alto_00453_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b902-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.9" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b902-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.8" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b902-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.6" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b902-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.7" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b904-12" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_904.14" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b904-10" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_904.12" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b904-11" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_904.13" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b911-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_911.6" BETYPE="IDREF" FILEID="alto_00456_0"/>
+            <area BEGIN="BL_912.1" BETYPE="IDREF" FILEID="alto_00456_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXS" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_904.8" BETYPE="IDREF" FILEID="alto_00452_1"/>
+            <area BEGIN="BL_904.9" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b912-10" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_912.10" BETYPE="IDREF" FILEID="alto_00456_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b907-10" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_907.9" BETYPE="IDREF" FILEID="alto_00454_0"/>
+            <area BEGIN="BL_908.1" BETYPE="IDREF" FILEID="alto_00454_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b913-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_913.6" BETYPE="IDREF" FILEID="alto_00457_0"/>
+            <area BEGIN="BL_914.1" BETYPE="IDREF" FILEID="alto_00457_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b913-4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_913.4" BETYPE="IDREF" FILEID="alto_00457_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b913-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_913.5" BETYPE="IDREF" FILEID="alto_00457_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b913-3" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_913.3" BETYPE="IDREF" FILEID="alto_00457_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b912-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_912.7" BETYPE="IDREF" FILEID="alto_00456_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b912-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_912.6" BETYPE="IDREF" FILEID="alto_00456_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b912-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_912.5" BETYPE="IDREF" FILEID="alto_00456_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b912-4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_912.4" BETYPE="IDREF" FILEID="alto_00456_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b912-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_912.9" BETYPE="IDREF" FILEID="alto_00456_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b912-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_912.8" BETYPE="IDREF" FILEID="alto_00456_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b905-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_905.7" BETYPE="IDREF" FILEID="alto_00453_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b907-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_907.6" BETYPE="IDREF" FILEID="alto_00454_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b909-4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_909.5" BETYPE="IDREF" FILEID="alto_00455_0"/>
+            <area BEGIN="BL_910.1" BETYPE="IDREF" FILEID="alto_00455_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b907-3" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_907.3" BETYPE="IDREF" FILEID="alto_00454_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b904-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_904.6" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b904-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_904.7" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b904-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_904.5" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAjK" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_914.4" BETYPE="IDREF" FILEID="alto_00457_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b904-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_904.10" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b904-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_904.11" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b905-3" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_905.3" BETYPE="IDREF" FILEID="alto_00453_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b916-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_916.7" BETYPE="IDREF" FILEID="alto_00458_1"/>
+            <area BEGIN="BL_917.1" BETYPE="IDREF" FILEID="alto_00459_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b916-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_916.6" BETYPE="IDREF" FILEID="alto_00458_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b916-4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_916.5" BETYPE="IDREF" FILEID="alto_00458_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b916-3" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_916.4" BETYPE="IDREF" FILEID="alto_00458_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b905-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_905.6" BETYPE="IDREF" FILEID="alto_00453_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b905-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_905.5" BETYPE="IDREF" FILEID="alto_00453_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b905-4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_905.4" BETYPE="IDREF" FILEID="alto_00453_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b902-10" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.10" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b910-4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_910.5" BETYPE="IDREF" FILEID="alto_00455_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b905-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_905.9" BETYPE="IDREF" FILEID="alto_00453_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b911-3" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_911.3" BETYPE="IDREF" FILEID="alto_00456_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b909-3" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_909.4" BETYPE="IDREF" FILEID="alto_00455_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b911-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_911.5" BETYPE="IDREF" FILEID="alto_00456_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b910-3" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_910.4" BETYPE="IDREF" FILEID="alto_00455_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqz" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.11" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b917-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_917.8" BETYPE="IDREF" FILEID="alto_00459_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b917-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_917.9" BETYPE="IDREF" FILEID="alto_00459_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b914-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_914.5" BETYPE="IDREF" FILEID="alto_00457_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b915-2" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_915.3" BETYPE="IDREF" FILEID="alto_00458_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b914-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_914.6" BETYPE="IDREF" FILEID="alto_00457_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b915-4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_915.5" BETYPE="IDREF" FILEID="alto_00458_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b915-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_915.6" BETYPE="IDREF" FILEID="alto_00458_0"/>
+            <area BEGIN="BL_916.1" BETYPE="IDREF" FILEID="alto_00458_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b915-3" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_915.4" BETYPE="IDREF" FILEID="alto_00458_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b917-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_917.6" BETYPE="IDREF" FILEID="alto_00459_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b917-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_917.7" BETYPE="IDREF" FILEID="alto_00459_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b917-4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_917.4" BETYPE="IDREF" FILEID="alto_00459_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b917-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_917.5" BETYPE="IDREF" FILEID="alto_00459_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

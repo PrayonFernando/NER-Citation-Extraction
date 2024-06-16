@@ -1,0 +1,647 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0127" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Heckman v. Sutter">HECKMAN et al. v. SUTTER et al.</name>
+          <docketnumber>No. 792</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 880</citation>
+          <citation category="parallel" type="bluebook">119 F. 83</citation>
+          <decisiondate>1902-11-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:11Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00446_1" MIMETYPE="image/tiff" CHECKSUM="75284f98b1b9a463ec4ff1fd5e81c55d" CHECKSUMTYPE="MD5" SIZE="17600">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00446_1.tif"/>
+      </file>
+      <file ID="tiff_00447_0" MIMETYPE="image/tiff" CHECKSUM="0a522db84bb97208e9a6df0b92d4c987" CHECKSUMTYPE="MD5" SIZE="28762">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00447_0.tif"/>
+      </file>
+      <file ID="tiff_00447_1" MIMETYPE="image/tiff" CHECKSUM="c614c90799cbfce535d4fd217b4452ea" CHECKSUMTYPE="MD5" SIZE="53572">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00447_1.tif"/>
+      </file>
+      <file ID="tiff_00448_0" MIMETYPE="image/tiff" CHECKSUM="fc171c2ac5c2237c3b8371bb4927fef7" CHECKSUMTYPE="MD5" SIZE="53590">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00448_0.tif"/>
+      </file>
+      <file ID="tiff_00448_1" MIMETYPE="image/tiff" CHECKSUM="862df74f7db6ba03a82fb42b4ca3d81b" CHECKSUMTYPE="MD5" SIZE="54502">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00448_1.tif"/>
+      </file>
+      <file ID="tiff_00449_0" MIMETYPE="image/tiff" CHECKSUM="365d02524dc1a3d22828487c616ddbf3" CHECKSUMTYPE="MD5" SIZE="56120">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00449_0.tif"/>
+      </file>
+      <file ID="tiff_00449_1" MIMETYPE="image/tiff" CHECKSUM="3efea7cd9b51e1c20a626d7a1be475b1" CHECKSUMTYPE="MD5" SIZE="56832">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00449_1.tif"/>
+      </file>
+      <file ID="tiff_00450_0" MIMETYPE="image/tiff" CHECKSUM="fcd2559c84ffbf019b2fc0b7ac6c3206" CHECKSUMTYPE="MD5" SIZE="53034">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00450_0.tif"/>
+      </file>
+      <file ID="tiff_00450_1" MIMETYPE="image/tiff" CHECKSUM="a5166d6572a6057ce962355355011fa1" CHECKSUMTYPE="MD5" SIZE="53788">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00450_1.tif"/>
+      </file>
+      <file ID="tiff_00451_0" MIMETYPE="image/tiff" CHECKSUM="ccb66100abba092e69369e590a5eb05d" CHECKSUMTYPE="MD5" SIZE="54314">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00451_0.tif"/>
+      </file>
+      <file ID="tiff_00451_1" MIMETYPE="image/tiff" CHECKSUM="88ca30b8485b663b1f330d61f4131d12" CHECKSUMTYPE="MD5" SIZE="22674">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00451_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00446_1" MIMETYPE="image/jpg" CHECKSUM="6cf527516f1176ef9cd8cf25d8f7e924" CHECKSUMTYPE="MD5" SIZE="115667">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00446_1.jpg"/>
+      </file>
+      <file ID="jpg_00447_0" MIMETYPE="image/jpg" CHECKSUM="1382bcd9beabdbc84b137a7de1033167" CHECKSUMTYPE="MD5" SIZE="129073">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00447_0.jpg"/>
+      </file>
+      <file ID="jpg_00447_1" MIMETYPE="image/jpg" CHECKSUM="ab687475fd5e9d73d47868081eb73854" CHECKSUMTYPE="MD5" SIZE="205153">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00447_1.jpg"/>
+      </file>
+      <file ID="jpg_00448_0" MIMETYPE="image/jpg" CHECKSUM="efbcb60382c99621147805a96e0a2ea2" CHECKSUMTYPE="MD5" SIZE="194085">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00448_0.jpg"/>
+      </file>
+      <file ID="jpg_00448_1" MIMETYPE="image/jpg" CHECKSUM="b9cb8860afaaa636345f7f4a39d08400" CHECKSUMTYPE="MD5" SIZE="211462">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00448_1.jpg"/>
+      </file>
+      <file ID="jpg_00449_0" MIMETYPE="image/jpg" CHECKSUM="4ef3170662efbf8e54e7532204483022" CHECKSUMTYPE="MD5" SIZE="203473">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00449_0.jpg"/>
+      </file>
+      <file ID="jpg_00449_1" MIMETYPE="image/jpg" CHECKSUM="f72aa97cff6c3e8dc4a9d776c20ec022" CHECKSUMTYPE="MD5" SIZE="213744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00449_1.jpg"/>
+      </file>
+      <file ID="jpg_00450_0" MIMETYPE="image/jpg" CHECKSUM="cbb8095e05fc30d626041314a069e88f" CHECKSUMTYPE="MD5" SIZE="193758">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00450_0.jpg"/>
+      </file>
+      <file ID="jpg_00450_1" MIMETYPE="image/jpg" CHECKSUM="920f1cb6af4b6ccd2e0f6c406dbf6a57" CHECKSUMTYPE="MD5" SIZE="209513">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00450_1.jpg"/>
+      </file>
+      <file ID="jpg_00451_0" MIMETYPE="image/jpg" CHECKSUM="e591b37af9bcd59c5f69074ac2630142" CHECKSUMTYPE="MD5" SIZE="197399">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00451_0.jpg"/>
+      </file>
+      <file ID="jpg_00451_1" MIMETYPE="image/jpg" CHECKSUM="b9679ed6b74146aaa651bc9b6788f25a" CHECKSUMTYPE="MD5" SIZE="114138">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00451_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00446_1" MIMETYPE="text/xml+gzip" CHECKSUM="52e3b80624777f5ecfa9bd97e627de62" CHECKSUMTYPE="MD5" SIZE="5244">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00446_1.xml.gz"/>
+      </file>
+      <file ID="alto_00447_0" MIMETYPE="text/xml+gzip" CHECKSUM="49cb96bf7a6aac0d8c6e21f03a2561ff" CHECKSUMTYPE="MD5" SIZE="7354">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00447_0.xml.gz"/>
+      </file>
+      <file ID="alto_00447_1" MIMETYPE="text/xml+gzip" CHECKSUM="6b32b34a033d4e628eed54bdb0b96d7d" CHECKSUMTYPE="MD5" SIZE="12677">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00447_1.xml.gz"/>
+      </file>
+      <file ID="alto_00448_0" MIMETYPE="text/xml+gzip" CHECKSUM="229b139e5a07c2c6cdf0337d4114b875" CHECKSUMTYPE="MD5" SIZE="12775">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00448_0.xml.gz"/>
+      </file>
+      <file ID="alto_00448_1" MIMETYPE="text/xml+gzip" CHECKSUM="72bc6e10c924787fa2b33c4d39c76671" CHECKSUMTYPE="MD5" SIZE="12531">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00448_1.xml.gz"/>
+      </file>
+      <file ID="alto_00449_0" MIMETYPE="text/xml+gzip" CHECKSUM="d25f369339b6485d79e9fc813358fefa" CHECKSUMTYPE="MD5" SIZE="13081">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00449_0.xml.gz"/>
+      </file>
+      <file ID="alto_00449_1" MIMETYPE="text/xml+gzip" CHECKSUM="4bd1d835d2d316cc5ad8ce15fbd6f080" CHECKSUMTYPE="MD5" SIZE="13014">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00449_1.xml.gz"/>
+      </file>
+      <file ID="alto_00450_0" MIMETYPE="text/xml+gzip" CHECKSUM="32a981d8719f5ea5ca54f8d1b3db350d" CHECKSUMTYPE="MD5" SIZE="13241">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00450_0.xml.gz"/>
+      </file>
+      <file ID="alto_00450_1" MIMETYPE="text/xml+gzip" CHECKSUM="25d9b18b14346aed2d355840b43e82a2" CHECKSUMTYPE="MD5" SIZE="13187">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00450_1.xml.gz"/>
+      </file>
+      <file ID="alto_00451_0" MIMETYPE="text/xml+gzip" CHECKSUM="ddb6203479cb8f215003bdcff8f580bd" CHECKSUMTYPE="MD5" SIZE="12868">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00451_0.xml.gz"/>
+      </file>
+      <file ID="alto_00451_1" MIMETYPE="text/xml+gzip" CHECKSUM="ecb25daf27b7a3947829ebf4c1795a42" CHECKSUMTYPE="MD5" SIZE="5872">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00451_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0127" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="880" lastpage="890">
+              <court pgmap="892" id="b892-22">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="892" id="A0k">No. 792.</docketnumber>
+              <citation pgmap="892" id="b892-20">119 F. 83</citation>
+              <parties pgmap="892" id="b892-21">HECKMAN et al. v. SUTTER et al.</parties>
+              <decisiondate pgmap="892" id="b892-23">Nov. 10, 1902.</decisiondate>
+              <judges pgmap="893" id="b893-7">Before GILBERT, ROSS, and MORROW, Circuit Judges.</judges>
+              <attorneys pgmap="893" id="b893-5">Chickering &amp; Gregory and Oscar Foote, for appellants.</attorneys>
+              <attorneys pgmap="893" id="b893-6">Winn &amp; Shackleford, for appellees.</attorneys>
+              <opinion type="majority">
+                <author pgmap="893" id="b893-8">ROSS, Circuit Judge.</author>
+                <p pgmap="893" id="b893-9">The record in this case shows that for many years there was a small Indian settlement at a point on Tongass nar­rows, in Southeastern Alaska, where Ketchikan creek flows into the sea. The shore line there is in the form of a crescent, in front of which, at low tide, there is a sand and gravel beach alternately covered and uncovered by the flow and ebb of the tide. It was the custom of the Indians to fish for salmon at that place, as they were and still are found in great numbers at and about the point where the creek empties into the sea.</p>
+                <p pgmap="893(86) 894(50)" id="b893-10">On the 17th day of May, 1884, congress passed an act entitled “An act providing a civil government for Alaska” (23 Stat. 26), by which the land district of Alaska was created, and a United States land office established at Sitka. No provision was thereby made for the entry nor for the survey of any of the public lands of the territory other than mining claims, but it was, among other things, provid­ed by section 8 of the act (48 U.S.C.A. § 356 and note) “that the Indians or other persons in said district shall not be disturbed in the possession of any lands actually in their use or occupation or now claimed by them, but the terms under which such persons may acquire title to such lands is reserved for future legislation by congress.”</p>
+                <p pgmap="894" id="b894-4">By an act approved March 3, 1891,- entitled “An act to repeal timber-culture laws, and for other purposes” (26 Stat. 1095), congress provided, among other things, for the entry of lands in Alaska for town site purposes, and also “that any citizen of the United States twenty-one years of age, and any association of such citizens, and any cor­poration incorporated under the laws of the United States, or of any state or territory of the United States now au­thorized by law to hold lands in the territories, now or hereafter in possession of and occupying public lands in Alaska for the purpose of trade or manufactures, may purchase not exceeding one hundred and sixty acres, to be taken as near as practicable in a square form, of such land at two dollars and fifty cents per acre: provided, that in case more than one person, association or corporation shall claim the same tract of land, the person, association or corporation having the prior claim by reason of possession and continuous occupation shall be entitled to purchase the same; but the entry of no person, association, or corpora­tion shall include improvements made by or in possession of another prior to the passage of this act.”</p>
+                <p pgmap="894(151) 895(80)" id="b894-5">In May, 1898, an act was passed by congress entitled “An act extending the homestead laws and providing for right of way for railroads in the district of Alaska, and for other purposes” (30 Stat. p. 409), the first section of which (48 U.S.C.A. § 371 note) is as follows: “That the home­stead land laws of the United States and the rights im cident thereto, including the right to enter surveyed or un­surveyed lands under provisions of law relating to the ac­quisition of title through soldiers’ additional homestead rights are hereby extended to the district of Alaska, sub­ject to such regulations as may be made by the secretary of the interior; and no indemnity, deficiency, or lieu lands pertaining to any land grant whatsoever originating out­side of said district of Alaska shall be located within or taken from lands in said district: provided, that no entry shall be allowed extending more than eighty rods along the shore of any navigable water, and along such shore a space of at least eighty rods shall be reserved from entry between all such claims, and that nothing herein contained shall be so construed as to authorize entries to be made, or title to be acquired, to the shore of any navigable waters within said district: and it is further provided, that no homestead shall exceed eighty acres in extent.”</p>
+                <p pgmap="895(338) 896(260)" id="b895-4">Section 10 of this latter act (48 U.S.C.A. §§ 461^-65) is in part as follows: “That any citizen of the United States twenty-one years of age, or any association of such citizens, or any corporation incorporated under the laws of the United States or of any state or territory now authorized by law to hold lands in the territories, here­after in the possession of and occupying public lands in the district of Alaska in good faith for the purposes of trade, manufacture, or other productive industry, may each purchase one claim only not exceeding eighty acres of such land for any one person, association, or corporation, at two dollars and fifty cents per acre, upon submission of proof that said area embraces improvements of the claim­ant and is needed in the prosecution of such trade, manu­facture, or other productive industry, such tract of land not to include mineral or coal lands, and ingress and egress shall be reserved to the public on the waters of all streams, whether navigable or otherwise: provided, that no entry shall be allowed under this act on lands abutting on naviga­ble water of more than eighty rods: provided, further, that there shall be reserved by the United States a space of eighty rods in width between tracts sold or entered un­der the provisions of this act on lands abutting on any navi­gable stream, inlet, gulf, bay, or seashore, and that the secretary of the interior may grant the use of such reserved lands abutting on the water front to any citizen or associa­tion of citizens, or to any incorporation incorporated under the laws of the United States or under the laws of any state or territory, for landings, and wharves, with the provision that the public shall have access to and proper use of such wharves, and landings, at reasonable rates of toll to be prescribed by said secretary, and a roadway sixty feet in width, parallel to the shore line as near as may be practicable, shall be reserved for the use of the public as a highway: provided, further, that in case more than one person, association, or corporation shall claim the same tract of land, the person, association, or corporation hav­ing the prior claim, by reason of actual possession and con­tinued occupation in good faith, shall be entitled to pur­chase the same, but where several persons are or may be so possessed of parts of the tract applied for, the same shall be awarded to them according to their respective interests: provided, further, that all claims substantially square in form and lawfully initiated, prior to January twenty-first, eighteen hundred and ninety-eight, by survey or otherwise, under sections twelve and thirteen of the act approved March third, eighteen hundred and ninety-one, twenty-­sixth Statutes at Large, chapter five hundred and sixty one, may be perfected and patented upon compliance with the provisions of said act, but subject to the requirements and provisions of this act, except as to area, but in no case shall such entry extend along the water front for more than one hundred and sixty rods: and provided, further, that the secretary of the interior shall reserve for the use of the, natives of Alaska suitable tracts of land along the water front of any stream, inlet, bay, or sea shore for landing places for canoes and other craft used by such natives: provided, that the Annette, Pribilof Islands, and the islands leased or occupied for the propagation of foxes be excepted from the operation of this act.”</p>
+                <p pgmap="896(143) 897(429) 898(433) 899(18)" id="b896-4">The evidence tended to show, and the court below found, that an Indian named Charles Dickson “had settled upon the uplands near the mouth of Ketchikan creek, in the dis­trict of Alaska, at the tide waters of Tongass narrows, and had occupied and possessed certain lands at said place, on which were constructed the houses in which he and his family lived, and from which, during certain portions of the year, he carried on and conducted the business of fishing, in the manner and in accordance with the usual customs of the Indians; that by such occupation and use of said uplands the said Charles Dickson, on the 17th day of May, 1884, and for many years prior thereto, was and had been in the actual possession of the uplands in and about the mouth of said Ketchikan creek, as aforesaid.” In 1888 the Indian Dickson executed to one Berry a quitclaim deed for a specifically described tract of 160 acres of land (including the house in which he lived, which was located a few hundred feet from Ketchikan creek, and but a few feet above high tide), fronting about a mile on the sea, and extending back therefrom about a quarter of a mile. It seems from the record that at the time of the execution of this deed Dickson was the only Indian (besides his wife and her daughter, who lived with him) then remaining at the place. The evidence concerning the question of Dick­son’s possession is wholly indefinite and uncertain, and the court below so stated in its findings of fact; finding, how­ever, that “he actually occupied a small tract of land, suffi­cient for the small houses in which he lived, and for the said fishing business, according to the primitive methods then employed by Indians.” The evidence shows, and the court found, that the complainants below (appellees here) and their grantors (claiming under Berry) reduced to pos­session a considerable portion of the 160 acres described in the deed from Dickson to Berry, and “have used, occu­pied, and possessed all that portion thereof immediately about the mouth of the said Ketchikan creek bordering on Tongass narrows as aforesaid”; that for many years they have cleared the tide flats in and about the mouth of the creek of “stones, trees, stumps, and other débris that has drifted thereon each and every year before the beginning of the fishing season, and have prepared the said flats for fishing purposes, and during the fishing season have fished thereon, and on so much of said flats and the uplands as immediately surround the mouth of the said Ketchikan creek.” It also appears that the complainants or their grantors erected a cannery and other "improvements within 1,000 or 1,200 feet of the mouth of the creek, for the pur­pose of canning the salmon so caught, at a cost of about $40,000. In catching the fish the complainants and their grantors used long seines, one end of which was fastened on the beach, and the other end carried out into the water so as to gather in the fish, and brought around to the beach also, thus necessitating the use of a portion of the tide flat in the operation. In July of the year 1900 the appel­lant the Alaska Packers’ Association, which had a cannery within a few miles of this fishing ground, through some of its employés, who were also made defendants to the suit and are also appellants here, undertook, by means of larger seines and more of them, to commence to operate the same ground, and thus interfered with the possession and use of the tide flat in question then and theretofore enjoyed by the complainants, and prevented the complainants from using the same except when the defendants were not doing so. For those acts this suit was brought, the complainants seeking a decree restraining the defendants from entering upon the tide flat in question and waters ’in front thereof and taking fish therefrom, or from interfering with the alleged sole right of the complainants to use the said ground for fishing purposes. The court below having found posses­sion by the complainants and their grantors of the upland ad­joining the tide land adjacent to Ketchikan creek, and that 600 feet along the shore line of Tongass narrows (being 300 feet on each side of Ketchikan creek) “is a reasonable and proper space as a right of way for the said complain­ants from their said uplands to the deep water of the sea, and in setting their seines, and landing the same in their fishing business, and they are entitled to the sole and un­restrained use thereof for such purposes,” rendered a de­cree1 adjudging that the complainants have the “use and oc­cupancy of a highway from their upland holdings to the deep waters of the sea on Tongass narrows, in and about the mouth of Ketchikan creek, Alaska, of six hundred feet in width, being three hundred feet along the shore line of Tongass narrows on each side of Ketchikan creek,” and enjoining the defendants “from in any manner interfering with the complainants in their use of said right of way in going from their said upland holdings to the deep waters of the sea, and from interfering with the complainants or in any manner retarding or delaying them in the use of their seines and nets in spreading the same in the approach­es to the deep water, and in drawing them in upon the said tide flats or their upland grounds, and that they, and each of them, are further restrained and enjoined from in any manner interfering, hindering, or delaying the complain­ants in the use and occupation of the said right of way for the purpose of pursuing their business of fishing, and go­ing to and from their upland holdings to the deep water of the sea, and in so drawing and setting their seines with­out let, hindrance, or delay from any one over said right of way to their said upland holdings.”</p>
+                <p pgmap="899" id="b899-3">The ground upon which the court below gave its judg­ment may be seen from this excerpt from its opinion:</p>
+                <blockquote pgmap="899" id="b899-4">“We therefore have these propositions fairly well settled by the decisions: First, that the owner of the upland ad­joining tide waters has littoral rights in the tide fiats and the approaches to deep water that are valuable, and are property rights of which he cannot be deprived without due compensation; and, second, that he may construct wharves upon these tide fiats running out from his uplands and in front thereof to deep water, unless he shall so construct them as to make his wharves a nuisance or a purpresture, and thereby to impede navigation and the exercise of those rights enjoyed in common by all people. It is also settled by high authority that the right to take fish in the waters of the sea, and even along the tide flats, is one common to all of the citizens. In what, then, are the property rights of the littoral owner greater or more sacred than the com­mon right of all citizens to take fish?</blockquote>
+                <blockquote pgmap="899(234) 900(118)" id="b899-5">“The right of the littoral owner to construct a wharf in front of his land is unquestioned, and it is clear that by such construction he deprives all others from the right to fish or in any other way to occupy the ground covered by his wharf. It is a matter of common information that driving piles and the construction of wharves thereon make the taking of fish beneath the wharf practically impossible. Are we to say, then, that the littoral owner’s right of way across the tide flats to deep water permits him to occupy the tide flats to deep water, permits him to occupy the tide flats with his wharf whereby the right of fishery is made im­possible, and yet by cleaning the flats from debris and other material that gathers thereon, and making them practical for the use of his nets and for the purpose of drawing them across the same, and landing the fish upon the uplands, that he acquires no higher or better right in this behalf than that which inures in common to all citizens to fish and navigate the seas and rivers of our country ? It is believed that the principle which gives the littoral owner a right of way and the right to construct a wharf in front of his up­land across the tide flats to the deep water may be also as clearly and reasonably applied to a right of way that shall permit the littoral owner to exercise certain possessory rights as a right of way to the deep water of the sea over the tide flats, and that he may acquire certain possessory rights of such right of way by cleaning away the debris and material deposited thereon and making it a clear and proper roadway from the deep water to the upland over which he may pass and repass with his nets in the act of fishing, un­obstructed and uninterrupted by the nets or other appliances of those who have a common right to take fish in the waters of the seas and rivers of Alaska.</blockquote>
+                <blockquote pgmap="900" id="b900-4">“It appears from the testimony in this case that the nets commonly used by fishermen in taking salmon are from a hundred to several hundreds of fathoms in length. A rea­sonable right of way to deep water for the purpose of set­ting and bringing in these nets to the high land would cer­tainly seem to be not less in width than the shortest nets used, viz., six hundred feet, and that in going over this right of way to and from the upland the complainants should not be impeded or obstructed by any others who may have the common rights of fishery at this point. That the possessory rights exercised over the right of way by the littoral owners in cleaning the débris, stumps, timber brush, and stones therefrom gives the complainants as clear a right thereto as if the same was covered by a wharf. It is not intended that this right of way shall give the com­plainants exclusive rights of fishery upon the tide flats, but it is intended that in pursuing their vocation in taking fish from the deep water or along the tide flats, in going and returning to and from their upland holdings, they shall be in no wise interfered with or hindered by other fishermen. It seems clear to the court that to this extent the property rights of the littoral owners must be protected by law, and that, as in the case of the construction of a wharf, any in­terference with the right of the littoral owner or any in­terference with the littoral rights to the upland owner may be prevented by the restraining order and injunction issuing from this court.”</blockquote>
+                <p pgmap="900(31) 901(72)" id="b900-5">We are of the opinion that the decree may and should be. affirmed without reference to the theory upon which the court below proceeded. It is well settled that the United States government, while it holds country as a territory, has all the powers of national and municipal 'government, and may, if it sees fit to do so, grant rights in or titles to the tide lands of such territory as well as the public lands above high-water mark. The case of Shiveley v. Bowlby, 152 U.S. 1, 14 S.Ct. 548, 38 L.Ed. 331, leaves nothing more to be said on that question.</p>
+                <p pgmap="901(348) 902(125)" id="b901-4">When, in 1884, congress undertook to provide a civil government for Alaska, it made of the territory a land district, located a United States land office at Sitka; put in full force and effect therein “the laws of the United States relating to mineral claims and the rights incident thereto,” with certain conditions not necessary to be mentioned, with­holding therefrom the application of “the general land laws of the United States,” and expressly declaring “that the Indians or other persons in said district shall not be dis­turbed in the possession of any lands actually in their use or occupation or now claimed by them, but the terms under which such persons may acquire title to such lands is re­served for future legislation by congress.” Section 8, Act May 17, 1884 (23 Stat. 24). There has been no “future legislation by congress” that applies to the present case, for this case involves no question of purchase or entry, and con­cerns only the right of occupancy and use of certain of the lands of the United States, including a small strip of tide land, as against a similarly asserted right on the part of third persons, which occupancy and use in no manner in­terferes with the right of navigation of the public waters. The prohibition contained in the act of 1884 against the disturbance of the use or possession of any Indian or other person of any land in Alaska claimed by them is sufficiently general and comprehensive to include tide lands as well as lands above high-water mark. Nor is it surprising that congress, in first dealing with the then sparsely settled country, was disposed to protect its few inhabitants in the possession of lands, of whatever character, by means of which they eked out their hard and precarious existence. The fact that at that time the Indians and other occupants of the country largely made their living by fishing was no doubt well known to the legislative branch of the govern­ment, as well as the fact that that business, if conducted on any substantial scale, necessitated the use of parts of the tide flats in the putting out and hauling in of the necessary seines. Congress saw proper to protect by its act of 1884 the possession and use by these Indians and other persons of any and all lands in Alaska against intrusion by third persons, and so far has never deemed it wise to otherwise provide. That legislation was sufficient authority, in our opinion, for the decree of the court below securing the complainants in the use and possession of land which the evidence shows and the court found was held and main­tained at the time of their disturbance therein by the de­fendants, and for years theretofore had been so held and maintained.</p>
+                <p pgmap="902" id="b902-4">The judgment is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="892" ORDERLABEL="880" TYPE="page">
+        <fptr FILEID="tiff_00446_1"/>
+        <fptr FILEID="jpg_00446_1"/>
+        <fptr FILEID="alto_00446_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_892.1" BETYPE="IDREF" FILEID="alto_00446_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="893" ORDERLABEL="881" TYPE="page">
+        <fptr FILEID="tiff_00447_0"/>
+        <fptr FILEID="jpg_00447_0"/>
+        <fptr FILEID="alto_00447_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_893.3" BETYPE="IDREF" FILEID="alto_00447_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="894" ORDERLABEL="882" TYPE="page">
+        <fptr FILEID="tiff_00447_1"/>
+        <fptr FILEID="jpg_00447_1"/>
+        <fptr FILEID="alto_00447_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_894.2" BETYPE="IDREF" FILEID="alto_00447_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="895" ORDERLABEL="883" TYPE="page">
+        <fptr FILEID="tiff_00448_0"/>
+        <fptr FILEID="jpg_00448_0"/>
+        <fptr FILEID="alto_00448_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_895.3" BETYPE="IDREF" FILEID="alto_00448_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="896" ORDERLABEL="884" TYPE="page">
+        <fptr FILEID="tiff_00448_1"/>
+        <fptr FILEID="jpg_00448_1"/>
+        <fptr FILEID="alto_00448_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_896.2" BETYPE="IDREF" FILEID="alto_00448_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="897" ORDERLABEL="885" TYPE="page">
+        <fptr FILEID="tiff_00449_0"/>
+        <fptr FILEID="jpg_00449_0"/>
+        <fptr FILEID="alto_00449_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_897.3" BETYPE="IDREF" FILEID="alto_00449_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="898" ORDERLABEL="886" TYPE="page">
+        <fptr FILEID="tiff_00449_1"/>
+        <fptr FILEID="jpg_00449_1"/>
+        <fptr FILEID="alto_00449_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_898.2" BETYPE="IDREF" FILEID="alto_00449_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="899" ORDERLABEL="887" TYPE="page">
+        <fptr FILEID="tiff_00450_0"/>
+        <fptr FILEID="jpg_00450_0"/>
+        <fptr FILEID="alto_00450_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_899.2" BETYPE="IDREF" FILEID="alto_00450_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="900" ORDERLABEL="888" TYPE="page">
+        <fptr FILEID="tiff_00450_1"/>
+        <fptr FILEID="jpg_00450_1"/>
+        <fptr FILEID="alto_00450_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_900.2" BETYPE="IDREF" FILEID="alto_00450_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="901" ORDERLABEL="889" TYPE="page">
+        <fptr FILEID="tiff_00451_0"/>
+        <fptr FILEID="jpg_00451_0"/>
+        <fptr FILEID="alto_00451_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_901.3" BETYPE="IDREF" FILEID="alto_00451_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="902" ORDERLABEL="890" TYPE="page">
+        <fptr FILEID="tiff_00451_1"/>
+        <fptr FILEID="jpg_00451_1"/>
+        <fptr FILEID="alto_00451_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_902.2" BETYPE="IDREF" FILEID="alto_00451_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b893-7" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_893.7" BETYPE="IDREF" FILEID="alto_00447_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b893-6" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_893.6" BETYPE="IDREF" FILEID="alto_00447_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b893-5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_893.5" BETYPE="IDREF" FILEID="alto_00447_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b894-4" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_894.4" BETYPE="IDREF" FILEID="alto_00447_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b895-4" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_895.4" BETYPE="IDREF" FILEID="alto_00448_0"/>
+            <area BEGIN="BL_896.1" BETYPE="IDREF" FILEID="alto_00448_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b899-3" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_899.4" BETYPE="IDREF" FILEID="alto_00450_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b899-5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_899.6" BETYPE="IDREF" FILEID="alto_00450_0"/>
+            <area BEGIN="BL_900.1" BETYPE="IDREF" FILEID="alto_00450_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b899-4" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_899.5" BETYPE="IDREF" FILEID="alto_00450_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b893-9" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_893.9" BETYPE="IDREF" FILEID="alto_00447_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b894-5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_894.5" BETYPE="IDREF" FILEID="alto_00447_1"/>
+            <area BEGIN="BL_895.1" BETYPE="IDREF" FILEID="alto_00448_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b892-23" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_892.26" BETYPE="IDREF" FILEID="alto_00446_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b892-22" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_892.25" BETYPE="IDREF" FILEID="alto_00446_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b892-21" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_892.23" BETYPE="IDREF" FILEID="alto_00446_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b892-20" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_892.22" BETYPE="IDREF" FILEID="alto_00446_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b893-8" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_893.8" BETYPE="IDREF" FILEID="alto_00447_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b893-10" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_893.10" BETYPE="IDREF" FILEID="alto_00447_0"/>
+            <area BEGIN="BL_894.1" BETYPE="IDREF" FILEID="alto_00447_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b896-4" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_896.4" BETYPE="IDREF" FILEID="alto_00448_1"/>
+            <area BEGIN="BL_897.1" BETYPE="IDREF" FILEID="alto_00449_0"/>
+            <area BEGIN="BL_898.1" BETYPE="IDREF" FILEID="alto_00449_1"/>
+            <area BEGIN="BL_899.1" BETYPE="IDREF" FILEID="alto_00450_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b901-4" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_901.4" BETYPE="IDREF" FILEID="alto_00451_0"/>
+            <area BEGIN="BL_902.1" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b902-4" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.4" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b900-5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_900.5" BETYPE="IDREF" FILEID="alto_00450_1"/>
+            <area BEGIN="BL_901.1" BETYPE="IDREF" FILEID="alto_00451_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b900-4" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_900.4" BETYPE="IDREF" FILEID="alto_00450_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0k" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_892.24" BETYPE="IDREF" FILEID="alto_00446_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

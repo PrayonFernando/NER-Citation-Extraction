@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0034" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Ex parte Kie">Ex parte KIE</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 239</citation>
+          <citation category="parallel" type="bluebook">46 F. 485</citation>
+          <decisiondate>1891</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:01Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00126_0" MIMETYPE="image/tiff" CHECKSUM="43ee8d8584c7dced68a52b217cb59e7a" CHECKSUMTYPE="MD5" SIZE="25520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00126_0.tif"/>
+      </file>
+      <file ID="tiff_00126_1" MIMETYPE="image/tiff" CHECKSUM="727c2ff9123d97ac8ff053a223daae2c" CHECKSUMTYPE="MD5" SIZE="40260">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00126_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00126_0" MIMETYPE="image/jpg" CHECKSUM="ab4e3b800b21694240f059cb3b546e87" CHECKSUMTYPE="MD5" SIZE="115522">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00126_0.jpg"/>
+      </file>
+      <file ID="jpg_00126_1" MIMETYPE="image/jpg" CHECKSUM="bf2386f76d81e85d51342a043f8b2862" CHECKSUMTYPE="MD5" SIZE="174039">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00126_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00126_0" MIMETYPE="text/xml+gzip" CHECKSUM="22549b75ab0bae05b65bdf3b91eee8fb" CHECKSUMTYPE="MD5" SIZE="6645">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00126_0.xml.gz"/>
+      </file>
+      <file ID="alto_00126_1" MIMETYPE="text/xml+gzip" CHECKSUM="aed1da6bde9feb4a1be367ffdc4d8863" CHECKSUMTYPE="MD5" SIZE="10272">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00126_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0034" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="239" lastpage="240">
+              <court pgmap="251" id="b251-6">District Court, D. Alaska.</court>
+              <citation pgmap="251" id="b251-4">46 F. 485</citation>
+              <parties pgmap="251" id="b251-5">Ex parte KIE.</parties>
+              <decisiondate pgmap="251" id="Avu">1891.</decisiondate>
+              <attorneys pgmap="251" id="b251-10">Willoughby Clark, for petitioner.</attorneys>
+              <opinion type="majority">
+                <author pgmap="251" id="b251-11">BUGBEE, Judge.</author>
+                <p pgmap="251(134) 252(290)" id="b251-12">The return to the writ shows that petitioner is detained by the United States marshal, by virtue of a commitment is­sued by Hon. James Sheakley, United States commissioner at Wrangel, on the 5th day of June, 1890, in a criminal action, for the crime of larceny, the amount stolen being less than $35, whereof prisoner was adjudged guilty, and sentenced to imprisonment in the jail at Sitka for a period of one year. The transcript of the commissioner’s docket, which is before me as part of the case of petitioner, shows that there was a “complaint filed on oath of W. W. Card, accusing the above-named Kie, an Indian, of the crime of larceny, by stealing a lady’s satchel and contents from his room on board the steam-ship Geo. W. Elder, while in the port of Wrangel, the value of which is about thirty dollars.” That on a plea of not guilty the prisoner was tried by the commissioner, and, the amount stolen being found to be less than $35, he was convicted and sentenced. The crime charged undoubtedly comes under the provisions of section 553 of the Criminal Code of Oregon, which pro­vides that, if any person shall commit the crime of larceny “in any ship, steam-boat, or other vessel, * * * such person, upon conviction thereof, shall be punished by im­prisonment in the penitentiary not less than one nor more than seven years,” and it makes no difference in such case whether or not the "property stolen exceeds the value of $35. A justice’s court under the laws of Oregon has jurisdiction of the crime of larceny only where the punishment therefor may be imprisonment in the county jail or by fine. Jus­tices’ Code, § 2, subd. 1, c. 1. The commissioners for Alaska exercise all the duties and powers, civil and crim­inal, conferred at the time of the passage of the organic act on justices of the peace under the general laws of Oregon, so far as the same may be applicable in this dis­trict, and may not be in conflict with the organic act or the laws of the United States. Organic Act, § 5. The crime complained of, and of which, from all that appears to the contrary, he was convicted, was not one where the punish­ment might be imprisonment in the county jail or by fine, and was therefore not within the jurisdiction of the com­missioner. It is therefore ordered that the prisoner be, and he is hereby, discharged.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="251" ORDERLABEL="239" TYPE="page">
+        <fptr FILEID="tiff_00126_0"/>
+        <fptr FILEID="jpg_00126_0"/>
+        <fptr FILEID="alto_00126_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_251.3" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="252" ORDERLABEL="240" TYPE="page">
+        <fptr FILEID="tiff_00126_1"/>
+        <fptr FILEID="jpg_00126_1"/>
+        <fptr FILEID="alto_00126_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_252.2" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-12" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.14" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            <area BEGIN="BL_252.1" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Avu" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.8" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-11" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.13" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-10" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.12" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.7" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.6" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-4" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.5" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

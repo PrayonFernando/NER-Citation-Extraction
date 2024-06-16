@@ -1,0 +1,559 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0018" publicationstatus="published">
+          <court abbreviation="C.C.D. Or." jurisdiction="United States">United States Circuit Court for the District of Oregon</court>
+          <name abbreviation="United States v. Stephens">UNITED STATES v. STEPHENS</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 118</citation>
+          <citation category="parallel" type="bluebook">12 F. 52</citation>
+          <decisiondate>1882-05-15</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:01Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00065_1" MIMETYPE="image/tiff" CHECKSUM="9303eb6a04aba13a4b1aa71c5ae1a6a4" CHECKSUMTYPE="MD5" SIZE="33390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00065_1.tif"/>
+      </file>
+      <file ID="tiff_00066_0" MIMETYPE="image/tiff" CHECKSUM="70fa124c45a0f95ec6f9dd026982f9d4" CHECKSUMTYPE="MD5" SIZE="13840">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00066_0.tif"/>
+      </file>
+      <file ID="tiff_00066_1" MIMETYPE="image/tiff" CHECKSUM="608e800e282dd5a82ca6e67ee9164996" CHECKSUMTYPE="MD5" SIZE="49666">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00066_1.tif"/>
+      </file>
+      <file ID="tiff_00067_0" MIMETYPE="image/tiff" CHECKSUM="f8679a56c0b11d77c1324ddf9a42387c" CHECKSUMTYPE="MD5" SIZE="51854">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00067_0.tif"/>
+      </file>
+      <file ID="tiff_00067_1" MIMETYPE="image/tiff" CHECKSUM="91c50b3abd9a788e4a73cdcc66002867" CHECKSUMTYPE="MD5" SIZE="51338">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00067_1.tif"/>
+      </file>
+      <file ID="tiff_00068_0" MIMETYPE="image/tiff" CHECKSUM="73f434c02c390358290986555982b465" CHECKSUMTYPE="MD5" SIZE="53322">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00068_0.tif"/>
+      </file>
+      <file ID="tiff_00068_1" MIMETYPE="image/tiff" CHECKSUM="09cfa4b4a716ed6ab108f352c357fc17" CHECKSUMTYPE="MD5" SIZE="46536">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00068_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00065_1" MIMETYPE="image/jpg" CHECKSUM="f008c8ef3c55697e827aa351589e2134" CHECKSUMTYPE="MD5" SIZE="141103">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00065_1.jpg"/>
+      </file>
+      <file ID="jpg_00066_0" MIMETYPE="image/jpg" CHECKSUM="f687341b1dc1a195ccc188099fc90567" CHECKSUMTYPE="MD5" SIZE="83766">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00066_0.jpg"/>
+      </file>
+      <file ID="jpg_00066_1" MIMETYPE="image/jpg" CHECKSUM="ad2944eff30d0f1c640d7e336cad96e0" CHECKSUMTYPE="MD5" SIZE="200928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00066_1.jpg"/>
+      </file>
+      <file ID="jpg_00067_0" MIMETYPE="image/jpg" CHECKSUM="a28517925691cdabc0aed518d9a411a7" CHECKSUMTYPE="MD5" SIZE="192502">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00067_0.jpg"/>
+      </file>
+      <file ID="jpg_00067_1" MIMETYPE="image/jpg" CHECKSUM="392d3997979bde6c15e34138c1f7b93b" CHECKSUMTYPE="MD5" SIZE="192252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00067_1.jpg"/>
+      </file>
+      <file ID="jpg_00068_0" MIMETYPE="image/jpg" CHECKSUM="60805547452e0bedca9087135f875c15" CHECKSUMTYPE="MD5" SIZE="188784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00068_0.jpg"/>
+      </file>
+      <file ID="jpg_00068_1" MIMETYPE="image/jpg" CHECKSUM="cc357933cb4372d3613c211ce944e302" CHECKSUMTYPE="MD5" SIZE="191269">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00068_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00065_1" MIMETYPE="text/xml+gzip" CHECKSUM="1e5473813af0e21bcafffe70748ea92e" CHECKSUMTYPE="MD5" SIZE="8402">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00065_1.xml.gz"/>
+      </file>
+      <file ID="alto_00066_0" MIMETYPE="text/xml+gzip" CHECKSUM="845a5992c2ce63e1d148ef4e99886b59" CHECKSUMTYPE="MD5" SIZE="3532">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00066_0.xml.gz"/>
+      </file>
+      <file ID="alto_00066_1" MIMETYPE="text/xml+gzip" CHECKSUM="6ddbf0af068feb21faf42f21153a79a5" CHECKSUMTYPE="MD5" SIZE="12038">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00066_1.xml.gz"/>
+      </file>
+      <file ID="alto_00067_0" MIMETYPE="text/xml+gzip" CHECKSUM="c503900abf8c07fe549fdb5c9e40104c" CHECKSUMTYPE="MD5" SIZE="12662">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00067_0.xml.gz"/>
+      </file>
+      <file ID="alto_00067_1" MIMETYPE="text/xml+gzip" CHECKSUM="d6cab1266a4a2769f17aa84e66796e99" CHECKSUMTYPE="MD5" SIZE="12801">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00067_1.xml.gz"/>
+      </file>
+      <file ID="alto_00068_0" MIMETYPE="text/xml+gzip" CHECKSUM="5c380b4522527e60177ee00fd11eee59" CHECKSUMTYPE="MD5" SIZE="12357">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00068_0.xml.gz"/>
+      </file>
+      <file ID="alto_00068_1" MIMETYPE="text/xml+gzip" CHECKSUM="a80f94b247ec0f98f1cef15d29b4c9c5" CHECKSUMTYPE="MD5" SIZE="11604">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00068_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0018" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="118" lastpage="124">
+              <court pgmap="130" id="b130-10">Circuit Court, D. Oregon.</court>
+              <citation pgmap="130" id="b130-8">12 F. 52</citation>
+              <parties pgmap="130" id="b130-9">UNITED STATES v. STEPHENS.</parties>
+              <decisiondate pgmap="130" id="b130-11">May 15, 1882.</decisiondate>
+              <attorneys pgmap="131" id="b131-10">Rufus Mallory, for plaintiff.</attorneys>
+              <attorneys pgmap="131" id="b131-11">Cyrus Dolph, for defendant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="131" id="b131-12">DEADY, District Judge.</author>
+                <p pgmap="131(70) 132(123)" id="b131-13">On March 30, 1882, an information was filed by the dis­trict attorney accusing the defendant, by the first count, of the crime of introducing spirituous liquors into the district of Alaska contrary to law; and by the second count, of the crime of “attempting” to so introduce such liquors in­to said district. The defendant demurs to the information because it does not state facts sufficient to constitute a crime. Upon the argument of the demurrer it was aban­doned as to the first count, and insisted upon as to the second. This count alleges that on July 14, 1879, the de­fendant, being in the district of Alaska, wrote and trans­mitted a letter to a certain firm in San Francisco, Califor­nia, wherein and whereby he requested said firm to ship and send to him at Fort Wrangle, in said district, 100 gallons of whisky; the defendant then well knowing that, said firm were then wholesale dealers in spirituous liquors, and owned and possessed said 100 gallons of whisky; “and he thereby contriving and intending to introduce the said 100 gallons of whisky into the said district of Alas­ka.”</p>
+                <p pgmap="132" id="b132-4">In U. S. v. Seveloff, Fed.Cas.No.16,252, 2 Sawy. 311, the district court for this district having decided that the district of Alaska was not “Indian country,” and that the act of June 30, 1834, (4 St. 729), regulating the trade and intercourse with the Indian tribes, was not in force there­in, congress, in the general appropriation act of March 3, 1873, (17 St. 530), amended section 1 of the Alaska act of June 27, 1868, (15 St. 240; section 1954, Rev.St.), so as to extend over that country sections 20 and 21 of said act of June 30, 1834 (see 25 U.S.C.A. §§ 223, 241, 251, and notes) as well as the acts relating “to customs, commerce, and navigation.”</p>
+                <p pgmap="132" id="b132-5">The first of these sections provides, among other things, that “if any person shall introduce or attempt to introduce any spirituous liquors or wine into the Indian country,” ex­cept supplies for the army under the direction of the war department, he “shall forfeit and pay a sum not exceeding $300.”</p>
+                <p pgmap="132(92) 133(15)" id="b132-6">By the act of March 3, 1847, (9 St. 203), said section 20 was amended so that upon a conviction before the proper district court of such act or attempt the party should be punished by imprisonment not exceeding one year. The section was again amended by the acts of February 13, 1862, (12 St. 339), and March 15, 1864, (13 St. 29; sec­tion 2139, Rev.St. [25 U.S.C.A. § 241 note]). By these latter amendments the maximum punishment for a violation of the section was fixed at two years’ imprisonment and $300 fine; and jurisdiction was given to the circuit court as well as the district.</p>
+                <p pgmap="133" id="b133-4">By section 2 of the Alaska act, supra, (section 1955, Rev. St.), the president was given “power to restrict and regu­late or to prohibit the importation and use of fire-arms, am­munition, and distilled spirits into and within the territory of Alaska.” It is a question whether this provision, so far as distilled spirits are concerned, was not superseded and repealed by the extension of said section 20 over Alas­ka by the act of March 3, 1873, supra. This section, as has been stated, absolutely prohibits the introduction of spiritu­ous liquors, which of course includes distilled spirits, into Alaska, except for the use of the army, by permission of the war department. Without doubt, as to the executive power to restrict or prohibit, the later act supersedes the earlier one. A statute power in the president to restrict or prohibit is certainly rendered nugatory by a subsequent act which absolutely prohibits. But as to the power “to regu­late,” which naturally implies the power to permit, the case is not so clear. Probably the better conclusion is that the acts should be construed as in pari materia, and both have effect so far as possible. Upon this construction of the statutes the law concerning the introduction of spirituous liquors and wine into Alaska is that such introduction is absolutely prohibited, subject to the power of the war de­partment to permit the same for the use of the army, and the power of the president to permit the introduction of distilled spirits, but not wine, for any purpose.</p>
+                <p pgmap="133" id="b133-5">It is doubtful if any attempt to commit an offense of this character is indictable at common law, and this is probably the reason why it was made so specially by the act defining the crime. 1 Whart.Crim.Law, § 177; 1 Bish.Crim.Law, §§ 684, 687.</p>
+                <p pgmap="133(83) 134(28)" id="b133-6">It is said that the subject of attempt to commit crime is “less understood by the courts” and “more obscure in the text-books” than any other branch of the criminal law. Bish.Crim.Law, § 657. And certainly there is none in some repects more intricate and difficult of comprehension. It is almost impossible to comprehend all cases of attempt in a definition that does not necessarily run into a mere enum­eration of instances. It is easy to say that there must be a combination of intent and act — an intent to commit a crime and an act done in pursuance of such intent, which falls short of the thing intended.</p>
+                <p pgmap="134" id="b134-4">There are a class of acts which may be fairly said to be done in pursuance of or in combination with an intent to commit a crime, but are not in a legal sense a part of it, and therefore do not with such intent constitute an indictable attempt; for instance, the purchase of a gun with a design to commit murder, or the purchase of poison with the same intent. These are considered in the nature of preliminary preparations — conditions, not causes — and, although co­existent with a guilty intent, are indifferent in their char­acter, and do not advance the conduct of the party beyond the sphere of mere intent. They are, it is true, the neces­sary conditions, without which the shooting or poisoning could not take place, but they are not in the eye of the law the cause of either. 1 Whart.Crim.Law, §§ 178, 181; 1 Bish.Crim.Law, § 668 et seq.; People v. Murray, 14 Cal. 160.</p>
+                <p pgmap="134" id="b134-5">Dr. Wharton says, (supra, § 181) : “To make the act an indictable attempt it must be a cause, as distinguished from a condition; and it must go so far that it would re­sult in the crime unless frustrated by extraneous circum­stances.”</p>
+                <p pgmap="134" id="b134-7">Bishop says, (supra, § 669) :</p>
+                <blockquote pgmap="134" id="b134-8">“It is plain that if a man who has a wicked purpose in his heart does something entirely foreign in its nature from that purpose, he does not commit a criminal attempt to do the thing proposed. On the other hand, if he does what is exactly adapted to accomplish the evil meant, yet proceeds not far enough in the doing for the cognizance of the law, he still escapes punishment. Again, if he does a thing not completely, as the result discloses, adapted to accomplish the wrong, he may under some circumstances be punishable, while under other circumstances he may escape. And the difficulty is not a small one to lay down rules, readily ap­plied, which shall guide the practitioner in respect to the cir­cumstances in which the criminal attempt is sufficient.”</blockquote>
+                <p pgmap="134(29) 135(44)" id="b134-9">In People v. Murray, supra, the defendant was indicted for an attempt to contract an incestuous marriage, and was found guilty. From the evidence it appeared that he in­tended to contract such marriage, that he eloped with his niece for that purpose, and requested a third person to get a magistrate to perform the ceremony. Upon an appeal the judgment was reversed. Chief Justice Field, delivering the opinion of the court, said:</p>
+                <blockquote pgmap="135" id="b135-4">“It [the evidence] shows very clearly the intention of the defendant, but something more than mere intention is nec­essary to constitute the offence charged. Between prepara­tion for the attempt and the attempt itself there is a wide difference. The preparation consists in divising or arrang­ing the means or measures necessary for the commission of the offence; the attempt is the direct movement towards the commission after the preparations are made; * * * but until the officer was engaged, and the parties stood be­fore him, ready to take the vows appropriate to the con­tract of marriage, it cannot be said, in strictness, that the attempt was made. The attempt contemplated by the stat­ute must be manifested by acts which would end in the consummation of the particular offense, but for the inter­vention of circumstances independent of the will of the party.”</blockquote>
+                <p pgmap="135(201) 136(361)" id="b135-6">In the case under consideration, to constitute the attempt charged in the information, there must have been an intent to commit the crime of introducing spirituous liquors into Alaska, combined with an act done in pursuance of such intention, that, apparently, in the usual course of events, would have resulted in such introduction, unless interrupted by extraneous circumstances, but which actually fell short of such result. But it does not appear that anything was done by the defendant towards the commission of the in­tended crime of introducing spirituous liquors into Alaska but to offer or attempt to purchase the same in San Fran­cisco. The written order sent there by the defendant was, in effect, nothing more or less than an offer by him to pur­chase the 100 gallons of whisky; and it will simplify the case to regard him as being present at the house of the San Francisco firm at the time his order reached them, seeking to purchase the liquor with the intent of committing the crime of introducing the same into Alaska. But the case made by the information stops here. It does not show that he bought any liquor. Whether he changed his mind and countermanded the order before the delivery of the goods, or whether the firm refused to deal with him, does not appear. Now, an offer to purchase whisky with the in­tent to ship it to Alaska is, in any view of the matter, a mere act of preparation, of which the law takes no cogni­zance. As the matter then stood, it was impossible for the defendant to attempt to introduce this liquor into Alaska, because he did not own or control it. It was simply an at­tempt to purchase — an act harmless and indifferent in itself, whatever the purpose with which it was done. But suppose the defendant had gone further, and actually succeeded in purchasing the liquor, wherein would the case differ from that of the person who bought the gun or poison with in­tent to commit murder, but did no subsequent act in execu­tion of such purpose? In all essentials they are the same. A purchase of spirituous liquor at San Francisco or Port­land, either in person or by written order or application, with intent to commit a crime with the same, — as to dis­pose of it at retail without a license, or to a minor, or to in­troduce it into Alaska, — is merely a preparatory act, indiff­erent in its character, of which the law, lacking the om­niscience of Deity, cannot take cognizance. At what period of the transaction the shipper of liquor to Alaska is guilty of an attempt to introduce the same there is not very easily determined. Certainly, the liquor must first be purchased, obtained in some way, and started for its illegal destination. But it is doubtful whether the attempt, or the act necessary to constitute it, can be committed until the liquor is taken so near to some point or place of “the main-land, islands, or waters” of Alaska as to render it convenient to intro­duce it from there, or to make it manifest that such was the present purpose of the parties concerned. But this is a mere suggestion, and each case must be determined upon its own circumstances.</p>
+                <p pgmap="136" id="b136-4">The demurrer is sustained to the second count, and over­ruled as to the first.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="130" ORDERLABEL="118" TYPE="page">
+        <fptr FILEID="tiff_00065_1"/>
+        <fptr FILEID="jpg_00065_1"/>
+        <fptr FILEID="alto_00065_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_130.2" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="131" ORDERLABEL="119" TYPE="page">
+        <fptr FILEID="tiff_00066_0"/>
+        <fptr FILEID="jpg_00066_0"/>
+        <fptr FILEID="alto_00066_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_131.3" BETYPE="IDREF" FILEID="alto_00066_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="132" ORDERLABEL="120" TYPE="page">
+        <fptr FILEID="tiff_00066_1"/>
+        <fptr FILEID="jpg_00066_1"/>
+        <fptr FILEID="alto_00066_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_132.2" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="133" ORDERLABEL="121" TYPE="page">
+        <fptr FILEID="tiff_00067_0"/>
+        <fptr FILEID="jpg_00067_0"/>
+        <fptr FILEID="alto_00067_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_133.3" BETYPE="IDREF" FILEID="alto_00067_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="134" ORDERLABEL="122" TYPE="page">
+        <fptr FILEID="tiff_00067_1"/>
+        <fptr FILEID="jpg_00067_1"/>
+        <fptr FILEID="alto_00067_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_134.2" BETYPE="IDREF" FILEID="alto_00067_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="135" ORDERLABEL="123" TYPE="page">
+        <fptr FILEID="tiff_00068_0"/>
+        <fptr FILEID="jpg_00068_0"/>
+        <fptr FILEID="alto_00068_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_135.3" BETYPE="IDREF" FILEID="alto_00068_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="136" ORDERLABEL="124" TYPE="page">
+        <fptr FILEID="tiff_00068_1"/>
+        <fptr FILEID="jpg_00068_1"/>
+        <fptr FILEID="alto_00068_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_136.2" BETYPE="IDREF" FILEID="alto_00068_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-11" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.11" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-10" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.10" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-4" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.4" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.8" BETYPE="IDREF" FILEID="alto_00067_1"/>
+            <area BEGIN="BL_135.1" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.7" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.5" BETYPE="IDREF" FILEID="alto_00068_0"/>
+            <area BEGIN="BL_136.1" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-4" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.4" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b131-13" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_131.12" BETYPE="IDREF" FILEID="alto_00066_0"/>
+            <area BEGIN="BL_132.1" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b131-12" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_131.11" BETYPE="IDREF" FILEID="alto_00066_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.6" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.5" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-4" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.4" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b131-10" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_131.9" BETYPE="IDREF" FILEID="alto_00066_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.8" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.5" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-4" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.4" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.9" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.6" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            <area BEGIN="BL_133.1" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-4" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.4" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.5" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.6" BETYPE="IDREF" FILEID="alto_00067_0"/>
+            <area BEGIN="BL_134.1" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b131-11" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_131.10" BETYPE="IDREF" FILEID="alto_00066_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,481 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0025" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Haltern v. Emmons">HALTERN v. EMMONS et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 177</citation>
+          <citation category="parallel" type="bluebook">46 F. 452</citation>
+          <decisiondate>1890-04-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:21:59Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00095_0" MIMETYPE="image/tiff" CHECKSUM="eaec9717c97b19a3bc16843a14a85c15" CHECKSUMTYPE="MD5" SIZE="25400">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00095_0.tif"/>
+      </file>
+      <file ID="tiff_00095_1" MIMETYPE="image/tiff" CHECKSUM="27bb12439a021273423aa43636c15e07" CHECKSUMTYPE="MD5" SIZE="51226">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00095_1.tif"/>
+      </file>
+      <file ID="tiff_00096_0" MIMETYPE="image/tiff" CHECKSUM="84c774f6c5b3c1e46023c7a0632446a2" CHECKSUMTYPE="MD5" SIZE="54924">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00096_0.tif"/>
+      </file>
+      <file ID="tiff_00096_1" MIMETYPE="image/tiff" CHECKSUM="5c20e790fd75d8fae704f2d00d78d399" CHECKSUMTYPE="MD5" SIZE="54758">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00096_1.tif"/>
+      </file>
+      <file ID="tiff_00097_0" MIMETYPE="image/tiff" CHECKSUM="2066ca1e17e892c5f0c8d88ea3fc5372" CHECKSUMTYPE="MD5" SIZE="53698">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00097_0.tif"/>
+      </file>
+      <file ID="tiff_00097_1" MIMETYPE="image/tiff" CHECKSUM="8bd0ab932b4c742833016588f48dcaef" CHECKSUMTYPE="MD5" SIZE="54414">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00097_1.tif"/>
+      </file>
+      <file ID="tiff_00098_0" MIMETYPE="image/tiff" CHECKSUM="38b427fa8ef1732f1f990fc1a3dbcf6f" CHECKSUMTYPE="MD5" SIZE="20478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00098_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00095_0" MIMETYPE="image/jpg" CHECKSUM="82a6ff1a512211938687dad24ef0f112" CHECKSUMTYPE="MD5" SIZE="121137">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00095_0.jpg"/>
+      </file>
+      <file ID="jpg_00095_1" MIMETYPE="image/jpg" CHECKSUM="faae51e152bed0d014c8a6d12582aef2" CHECKSUMTYPE="MD5" SIZE="198108">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00095_1.jpg"/>
+      </file>
+      <file ID="jpg_00096_0" MIMETYPE="image/jpg" CHECKSUM="391f3c6ded9798ab0a49cea7b817096a" CHECKSUMTYPE="MD5" SIZE="195147">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00096_0.jpg"/>
+      </file>
+      <file ID="jpg_00096_1" MIMETYPE="image/jpg" CHECKSUM="c83fdcb07501e5ac1976dbe328fc2517" CHECKSUMTYPE="MD5" SIZE="213545">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00096_1.jpg"/>
+      </file>
+      <file ID="jpg_00097_0" MIMETYPE="image/jpg" CHECKSUM="589b1777705263c868ece02fb7ddd608" CHECKSUMTYPE="MD5" SIZE="195278">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00097_0.jpg"/>
+      </file>
+      <file ID="jpg_00097_1" MIMETYPE="image/jpg" CHECKSUM="be1d657cd3bd9ec8c3c3373c17ced796" CHECKSUMTYPE="MD5" SIZE="203615">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00097_1.jpg"/>
+      </file>
+      <file ID="jpg_00098_0" MIMETYPE="image/jpg" CHECKSUM="4e7f48e375a5eebc28567ce1781907cd" CHECKSUMTYPE="MD5" SIZE="99746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00098_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00095_0" MIMETYPE="text/xml+gzip" CHECKSUM="65e75e706b45e397ef2f18c4f9c24aba" CHECKSUMTYPE="MD5" SIZE="6335">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00095_0.xml.gz"/>
+      </file>
+      <file ID="alto_00095_1" MIMETYPE="text/xml+gzip" CHECKSUM="805c76e3075dce30bab3361fa31888fd" CHECKSUMTYPE="MD5" SIZE="12124">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00095_1.xml.gz"/>
+      </file>
+      <file ID="alto_00096_0" MIMETYPE="text/xml+gzip" CHECKSUM="d90ed1dff19f158270375a5c311e4c65" CHECKSUMTYPE="MD5" SIZE="13281">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00096_0.xml.gz"/>
+      </file>
+      <file ID="alto_00096_1" MIMETYPE="text/xml+gzip" CHECKSUM="1f8d7b45fd1ef5c452c652f26972f7c8" CHECKSUMTYPE="MD5" SIZE="12922">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00096_1.xml.gz"/>
+      </file>
+      <file ID="alto_00097_0" MIMETYPE="text/xml+gzip" CHECKSUM="b8f9a1c4ca81d508c9fcae68d55e2c96" CHECKSUMTYPE="MD5" SIZE="12754">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00097_0.xml.gz"/>
+      </file>
+      <file ID="alto_00097_1" MIMETYPE="text/xml+gzip" CHECKSUM="93d7a1d55cde945fb6b799b9728f2976" CHECKSUMTYPE="MD5" SIZE="13202">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00097_1.xml.gz"/>
+      </file>
+      <file ID="alto_00098_0" MIMETYPE="text/xml+gzip" CHECKSUM="34885c2cc4eed74bc409b5f3f399b161" CHECKSUMTYPE="MD5" SIZE="5561">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00098_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0025" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="177" lastpage="183">
+              <court pgmap="189" id="b189-8">District Court, D. Alaska.</court>
+              <citation pgmap="189" id="b189-6">46 F. 452</citation>
+              <parties pgmap="189" id="b189-7">HALTERN v. EMMONS et al.</parties>
+              <decisiondate pgmap="189" id="b189-9">April 12, 1890.</decisiondate>
+              <attorneys pgmap="190" id="b190-4">Charles S. Johnson, Dist. Atty., for plaintiff.</attorneys>
+              <attorneys pgmap="190" id="b190-5">A. New Gamel, for defendants.</attorneys>
+              <opinion type="majority">
+                <author pgmap="190" id="b190-6">BUGBEE, Judge,</author>
+                <p pgmap="190" id="A3y">(charging jury).</p>
+                <p pgmap="190(369) 191(137)" id="b190-7">This is an action brought by Theodore Haltera against George T. Emmons and Otto Nelson, to recover the pos­session of a certain lot of land lying within the town of Sitka; also for damages for the unlawful withholding thereof. It is the duty of the court to give you all neces­sary information as to the law; but you are instructed that you are the exclusive judges of all questions of fact, no matter what statement the court may make in regard to them. Nevertheless, the court’s instructions as to law should control you. The action is brought under the stat­utes of Oregon, applicable to this district, which provide, in substance, that any person who has a legal estate in real property, and a present right to the possession thereof, may recover such possession, with damages for withholding the same, by an action at law. Such attion must be commenced against the person in the actual possession of the property at the time; and was properly brought in this case against the defendant Emmons and against the defendant Nelson, his landlord, who is the person who was acting as the own­er of the land. The defendant Emmons has pleaded that he was only in possession as tenant of the defendant Nel­son, disclaiming any other interest in the premises himself; and your verdict in this case will, in effect, be for or against the plaintiff, or for or against the defendant Nelson alone. If your verdict be for the plaintiff, it should find that he is entitled to the possession of the property described in the complaint, and should find the nature and duration of his estate, with damages for withholding the property, up to the time of your verdict, exclusive of the use of permanent improvements made by defendants. And if you find that defendant Nelson, or those under whom he claims, have made permanent improvements upon the property in good faith, holding under color of title adversely to the claim of plaintiff, the value of such improvements at the time of trial must be allowed by you as a set-off against such dam­ages. The nature and duration of the estate to be found by you must be such nature and duration as were recog­nized by the treaty between Russia and the United States, the articles of transfer, and subsequent acts of congress; for further than this it will be impossible to go under ex­isting circumstances. Of course, if you do not find any damages in favor of the plaintiff, the value of improvements made by defendant cuts no figure in the case. If your ver­dict be for the defendant, it must find that the plaintiff is not entitled to the possession of the property described in the complaint, or any part thereof. This is merely a pos­sessory action, but, to maintain it, plaintiff must have a legal interest in the property and a present right of posses­sion, which existed at the commencement of the suit.</p>
+                <p pgmap="191(297) 192(277)" id="b191-4">It is not necessary that plaintiff should show a perfect title, but he must recover on the strength of his own title, and not on the defects of that of his adversary. Plaintiff must have had a legal estate at the time of the commence­ment of the action, as contradistinguished from an equitable titlé; and, so far as any one could have a legal estate other than an estate in fee-simple in Alaska, he must be consid­ered to have had such, if the same could have been derived from his grantors and predecessors in interest. A legal title may be acquired by adverse possession for such a length of time that the statute of limitations may be invoked to sustain it; that is to say, undisturbed possession may ripen into a legal title, and as against one party a person may have a legal title, though as against the government it may not have been perfected. The title to land in Alaska is in an anomalous position. With the exception of some few titles in fee-simple, which were recognized by the treaty between Russia and the United States, there is no such thing as private ownership of land in fee-simple in the territory. Plaintiff’s legal interest, if he has any, was acquired in the following manner, and under the following circumstances: The land in dispute is part of the territory ceded by the imperial government of Russia to the United States, pur­suant to the treaty of March 30, 1867. That cession in­cluded all ungranted lots of ground in Sitka, (and it is not claimed by either party that this land has ever been granted by the Russian government to any one), but it did not in­clude private dwellings and warehouses, ice-houses, etc.; these having been left subject to the control of their own­ers. This property is claimed to have been occupied prior to and at the time of the cession by plaintiff’s grantors as an icé-house, and, if you find such to be the fact, the build­ings so used were not transferred to this government by the treaty, but such buildings remained subject to the con­trol of their owners, who retained also a possessory right to the land on which they were erected, such possessory right being naturally essential to the enjoyment of their property, but such owners had no title in fee to the land in dispute, it not being one of the granted lots, as I have •stated. When the actual transfer of the territory was made, on October 26, 1867, the commissioners of the re­spective governments attached to their certificate or articles of transfer certain inventories of public and private prop­erty in Sitka, embracing that which was actually trans­ferred as well as that which remained in individual owner­ship. One of these inventories was marked “D,” and was designated: “Inventory of private property in the city of New Archangel, (Sitka), with the numbers and letters in­dicating the situation of dwelling-houses, establishments, and lots of ground as marked on the plan of the city at­tached to the protocol of transfer.” There was also a map, which has been offered in evidence here as the plan of the city referred to in the inventory. The inventory and map show that lot numbered 55 on the plan was described as an ice-house. This is the lot in dispute in this action.</p>
+                <p pgmap="192(144) 193(135)" id="b192-5">Plaintiff claims that prior to and at the time of the trans­fer the ice-house was the property of J. Mora Moss and Charles Baun, their ownership having been certified to, prior to the transfer, by the*governor of the Russian colo­nies in America; that Moss and Baun assigned their in­terest therein to plaintiff, who took possession thereof and fenced in the lot prior to 1885; that in 1887 one Clark, the defendant’s grantor, wrongfully entered upon the lot, and in place of the ice-house, which had been blown down, erect­ed a house, which at the time of the commencement of the action was occupied by the defendant Emmons. Defend­ant denies any transfer to Moss and Baun by the governor, the transfer to plaintiff by Moss and Baun, and that the premises were ever listed or marked as private property by the commissioners of the two governments, but admits the entry by Clark and his sale to defendant Nelson, and claims that at the time of the execution of the treaty the premises were occupied by and belonged to the Russian American Company, a corporation existing under a charter from the Russian government, and that under the provisions of that treaty all the rights, grants, privileges, and franchises of said company within Alaska were extinguished, and this property in question was transferred to the United States, and thereupon became subject to entry and occupation as “unused and unoccupied” domain of our government, (al­though no evidence has been offered as to that), and that as such “unused and unoccupied” land Clark rightfully en­tered upon and took possession of it, and erected a dwelling-­house thereon.</p>
+                <p pgmap="193" id="b193-4">If you should find that at the time of the cession the property in dispute was in fact the ice-house on lot num­bered 55 on the plan, that the same was owned by said Moss and Baun, and that they, or either of them, trans­ferred their right to plaintiff, and that he has not parted therewith, and that his possession was prior to that of de­fendant, then it follows, as a matter of law, that plaintiff had such a legal estate in the property as, under the statute, would entitle him to maintain the action, and, unless de­fendant can show a better title and a present right of pos­session, plaintiff is entitled to a verdict at your hands. The interest and estate held by Moss and Baun was held by them in common. It has not been shown that plaintiff suc­ceeded to the interest of Moss by any -regular conveyance, Moss having died, and the deed of his executrix and ex­ecutor being insufficient to convey his interest. But a deed from Baun to plaintiff has been put in evidence, the legal effect of which is to make plaintiff a tenant in common with the heirs or devisees of the deceased, and as such tenant in common plaintiff is entitled to maintain this suit against the defendant; and if you find that plaintiff has so succeeded to the title of Baun, then you may, if other circumstances permit, find a verdict for plaintiff for the entire interest, notwithstanding the fact that he is the own­er of only an undivided interest in common, and that his co-tenant is not joined.</p>
+                <p pgmap="194" id="b194-2">Although defendant sets up in his answer that the prem­ises in dispute were at the time of the cession the property of the corporation, he does not claim to have succeeded to its interest, and does not in fact set up, nor has he attempt­ed to prove, any legal estate whatever, but relies upon his right to occupy and possess the land as “unused and un­occupied” domain of the United States. In order to de­feat the plaintiff, defendant must show that his right to occupy and possess the land is superior to that of plaintiff; that is, he must show that the premises were unused and unoccupied public domain at the time he entered into pos­session. If they were used and occupied by plaintiff at that time, and the plaintiff was an owner in common as successor to Baun, defendant’s grantor, Clark, as against the plaintiff, was a mere intruder, without any rights what­ever, and whatever buildings he erected were erected at his own risk, and your verdict must be for plaintiff.</p>
+                <p pgmap="194" id="b194-3">As I have stated, under the existing laws neither plain­tiff nor defendant can claim a fee-simple title to the land in controversy. The treaty - and acts of cession recognized absolute title only to the building which was on the land, the right to possession of which is in dispute here. But that right to possession was distinctly affirmed by the “Organic Act,” passed May 17, 1884, which said “that the Indians or other persons in said district shall not be dis­turbed in the possession of any lands actually in their use or occupation, or now claimed by them, but the terms un­der which said persons may acquire title to such lands is reserved for future legislation by congress.”</p>
+                <p pgmap="194(133) 195(76)" id="b194-4">If plaintiff or his grantor, Baun, at the time of the passage of the organic act, was actually in the use or occu­pation of the land in dispute, or claimed it, whether in their own right or as tenants in common, the government could not disturb him, and he and his tenant in common were and are, unless they abandoned all claim, the only persons who could obtain title by future legislation, and, as against the defendant, he or his co-tenant or both have the only legal estate in the property which is recognized by the organic act, so far as there can be any legal estate. If you should find for plaintiff, it is your duty to consider and admeasure what, if any, damages he has sustained by reason of the wrongful occupation by the defendant of the premises; but against these you may offset,^so far as it may be, the value of the improvements put on the premises, if you believe such improvements were made in good faith. The fact that defendant’s grantor was a lawyer, and advised de­fendant that his title was good, has nothing to do with your verdict, except in so far as it may show defendant’s good faith in the matter.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="189" ORDERLABEL="177" TYPE="page">
+        <fptr FILEID="tiff_00095_0"/>
+        <fptr FILEID="jpg_00095_0"/>
+        <fptr FILEID="alto_00095_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_189.3" BETYPE="IDREF" FILEID="alto_00095_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="190" ORDERLABEL="178" TYPE="page">
+        <fptr FILEID="tiff_00095_1"/>
+        <fptr FILEID="jpg_00095_1"/>
+        <fptr FILEID="alto_00095_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_190.1" BETYPE="IDREF" FILEID="alto_00095_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="191" ORDERLABEL="179" TYPE="page">
+        <fptr FILEID="tiff_00096_0"/>
+        <fptr FILEID="jpg_00096_0"/>
+        <fptr FILEID="alto_00096_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_191.3" BETYPE="IDREF" FILEID="alto_00096_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="192" ORDERLABEL="180" TYPE="page">
+        <fptr FILEID="tiff_00096_1"/>
+        <fptr FILEID="jpg_00096_1"/>
+        <fptr FILEID="alto_00096_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_192.2" BETYPE="IDREF" FILEID="alto_00096_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="193" ORDERLABEL="181" TYPE="page">
+        <fptr FILEID="tiff_00097_0"/>
+        <fptr FILEID="jpg_00097_0"/>
+        <fptr FILEID="alto_00097_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_193.3" BETYPE="IDREF" FILEID="alto_00097_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="194" ORDERLABEL="182" TYPE="page">
+        <fptr FILEID="tiff_00097_1"/>
+        <fptr FILEID="jpg_00097_1"/>
+        <fptr FILEID="alto_00097_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_194.1" BETYPE="IDREF" FILEID="alto_00097_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="195" ORDERLABEL="183" TYPE="page">
+        <fptr FILEID="tiff_00098_0"/>
+        <fptr FILEID="jpg_00098_0"/>
+        <fptr FILEID="alto_00098_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_195.3" BETYPE="IDREF" FILEID="alto_00098_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3y" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.7" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-3" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.4" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-2" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.3" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.4" BETYPE="IDREF" FILEID="alto_00096_1"/>
+            <area BEGIN="BL_193.1" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.10" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.9" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.5" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-4" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.4" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.8" BETYPE="IDREF" FILEID="alto_00095_1"/>
+            <area BEGIN="BL_191.1" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.6" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-4" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.4" BETYPE="IDREF" FILEID="alto_00096_0"/>
+            <area BEGIN="BL_192.1" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.8" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b193-4" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.4" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.7" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-4" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.5" BETYPE="IDREF" FILEID="alto_00097_1"/>
+            <area BEGIN="BL_195.1" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

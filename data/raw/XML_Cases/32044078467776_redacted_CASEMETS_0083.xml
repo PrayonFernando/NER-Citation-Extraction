@@ -1,0 +1,515 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0083" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Kohn v. McKinnon">KOHN v. McKINNON et al.</name>
+          <docketnumber>No. 672</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 553</citation>
+          <citation category="parallel" type="bluebook">90 F. 623</citation>
+          <decisiondate>1898-10-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:06Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00283_0" MIMETYPE="image/tiff" CHECKSUM="79fd3a094793ceb09c74c0843aa0d5ea" CHECKSUMTYPE="MD5" SIZE="17104">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00283_0.tif"/>
+      </file>
+      <file ID="tiff_00283_1" MIMETYPE="image/tiff" CHECKSUM="c1c70d85edb8cd77e0e3aca3cfd2e19d" CHECKSUMTYPE="MD5" SIZE="38866">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00283_1.tif"/>
+      </file>
+      <file ID="tiff_00284_0" MIMETYPE="image/tiff" CHECKSUM="df9afe13f2834d66b5d398911a93ed37" CHECKSUMTYPE="MD5" SIZE="55322">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00284_0.tif"/>
+      </file>
+      <file ID="tiff_00284_1" MIMETYPE="image/tiff" CHECKSUM="f34d9d2bff60129a10d947f1f9d04a19" CHECKSUMTYPE="MD5" SIZE="54834">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00284_1.tif"/>
+      </file>
+      <file ID="tiff_00285_0" MIMETYPE="image/tiff" CHECKSUM="ead09e64b9d00510505546ad3e1ea84d" CHECKSUMTYPE="MD5" SIZE="55442">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00285_0.tif"/>
+      </file>
+      <file ID="tiff_00285_1" MIMETYPE="image/tiff" CHECKSUM="9389f607a71a8cd13e1e5a07df6a8928" CHECKSUMTYPE="MD5" SIZE="55964">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00285_1.tif"/>
+      </file>
+      <file ID="tiff_00286_0" MIMETYPE="image/tiff" CHECKSUM="d4289e5e26d74d3879c216e8d6ab040c" CHECKSUMTYPE="MD5" SIZE="40644">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00286_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00283_0" MIMETYPE="image/jpg" CHECKSUM="04231706a2c95468620067e90f8726f5" CHECKSUMTYPE="MD5" SIZE="107533">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00283_0.jpg"/>
+      </file>
+      <file ID="jpg_00283_1" MIMETYPE="image/jpg" CHECKSUM="698e5c0a9846c608ef098161c42b4e28" CHECKSUMTYPE="MD5" SIZE="159773">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00283_1.jpg"/>
+      </file>
+      <file ID="jpg_00284_0" MIMETYPE="image/jpg" CHECKSUM="539d44f38a16807bc827db2389645a57" CHECKSUMTYPE="MD5" SIZE="195941">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00284_0.jpg"/>
+      </file>
+      <file ID="jpg_00284_1" MIMETYPE="image/jpg" CHECKSUM="cc67d9ebe5f850d9736de064353519e7" CHECKSUMTYPE="MD5" SIZE="211424">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00284_1.jpg"/>
+      </file>
+      <file ID="jpg_00285_0" MIMETYPE="image/jpg" CHECKSUM="ac3731042449f8e83635de27bdd50565" CHECKSUMTYPE="MD5" SIZE="202800">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00285_0.jpg"/>
+      </file>
+      <file ID="jpg_00285_1" MIMETYPE="image/jpg" CHECKSUM="ccd57c139280e776c6cfe31c5c86632a" CHECKSUMTYPE="MD5" SIZE="205658">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00285_1.jpg"/>
+      </file>
+      <file ID="jpg_00286_0" MIMETYPE="image/jpg" CHECKSUM="ced6fd60c85840b5fc6c568e1ed3fc0f" CHECKSUMTYPE="MD5" SIZE="158612">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00286_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00283_0" MIMETYPE="text/xml+gzip" CHECKSUM="c33c49fd39f2153a59ed4566931ff675" CHECKSUMTYPE="MD5" SIZE="4586">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00283_0.xml.gz"/>
+      </file>
+      <file ID="alto_00283_1" MIMETYPE="text/xml+gzip" CHECKSUM="33fb2a0316ef47d860e7e2a83779ec50" CHECKSUMTYPE="MD5" SIZE="8998">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00283_1.xml.gz"/>
+      </file>
+      <file ID="alto_00284_0" MIMETYPE="text/xml+gzip" CHECKSUM="937529dad8b7bb5fb14dc0745050b4a9" CHECKSUMTYPE="MD5" SIZE="13716">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00284_0.xml.gz"/>
+      </file>
+      <file ID="alto_00284_1" MIMETYPE="text/xml+gzip" CHECKSUM="c5f45c82eabc5d793eb2bad7ee84fb51" CHECKSUMTYPE="MD5" SIZE="13190">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00284_1.xml.gz"/>
+      </file>
+      <file ID="alto_00285_0" MIMETYPE="text/xml+gzip" CHECKSUM="4470f2139010d9628a8797edeb10a3fd" CHECKSUMTYPE="MD5" SIZE="13263">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00285_0.xml.gz"/>
+      </file>
+      <file ID="alto_00285_1" MIMETYPE="text/xml+gzip" CHECKSUM="0c8698e931fa554e106db7dce1b2e407" CHECKSUMTYPE="MD5" SIZE="13607">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00285_1.xml.gz"/>
+      </file>
+      <file ID="alto_00286_0" MIMETYPE="text/xml+gzip" CHECKSUM="d4848c16cf22892508853d7a4df6783c" CHECKSUMTYPE="MD5" SIZE="10747">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00286_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0083" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="553" lastpage="559">
+              <court pgmap="565" id="b565-8">District Court, D. Alaska.</court>
+              <docketnumber pgmap="565" id="b565-7">No. 672.</docketnumber>
+              <citation pgmap="565" id="b565-5">90 F. 623</citation>
+              <parties pgmap="565" id="b565-6">KOHN v. McKINNON et al.</parties>
+              <decisiondate pgmap="565" id="b565-9">Oct. 24, 1898.</decisiondate>
+              <attorneys pgmap="566" id="b566-5">M. J. Cochran, Charles D. Bates, and K. M. Jackson, for plaintiff.</attorneys>
+              <attorneys pgmap="566" id="b566-6">A. G. McBride and C. H. Sundmacher, for defendants.</attorneys>
+              <opinion type="majority">
+                <author pgmap="566" id="b566-7">JOHNSON, District Judge.</author>
+                <p pgmap="566" id="b566-8">On the 17th day of June, 1898, the plaintiff commenced an ordinary action in ejectment against Duncan McKinnon and 11 other persons named as defendants. The premises sought to be recovered are described as certain lots or par­cels of land situate in the town of Ft. Wrangel, Alaska. To the complaint no demurrer was filed, but the defend­ants made answer, some of them denying the allegations of the complaint, and setting up title to the premises in them­selves, while others pleaded that they only claimed posses­sion of the premises by virtue of being tenants of McKin­non, and all. disclaimed as to part of the premises described in the complaint. To the answers of Duncan and Mary McKinnon the plaintiff demurred, and at the same time moved for judgment against all of the defendants for that portion of the premises to which all had disclaimed any interest. While árgument was being made on the demur­rers to the answers, the court raised the question of -the right of the plaintiff, as administrator, to maintain the ac­tion, whereupon defendants asked leave (which was grant­ed) to amend their answers by inserting the clause, “The facts stated in the complaint do not constitute a cause of action.” The answers being thus amended, all the questions raised were by mutual consent submitted to the court upon oral arguments, and briefs filed.</p>
+                <p pgmap="566(18) 567(113)" id="b566-9">It would undoubtedly have been better pleading had a demurrer to the complaint been filed on the statutory grounds (1) “that the plaintiff has no legal capacity to sue,” and (2) “that the complaint does not state facts suf­ficient to constitute a cause of action,” and the court asked to dispose of the demurrer before requiring defendants to answer. However, by section 71, p. 210, Hill’s Ann.Laws Or., which is the law of this district, governing this case, the objection that the complaint does not state facts suffi­cient to constitute a cause of action is not waived by a fail­ure to take the objection by demurrer. Bowen v. Emmer­son, 3 Or. 452; Evarts v. Steger, 5 Or. 147; Olds v. Cary, 13 Or. 362, 10 P. 786.</p>
+                <p pgmap="567(326) 568(26)" id="b567-4">The sufficiency of the complaint being put in issue by the amended answers, it is best to first dispose of that issue; for, if it shall be found that the complaint does not state facts sufficient to constitute'a cause of action, it will be unnecessary to pass upon the demurrers to the answers and the motion for judgment. The real question before the court is, can. the plaintiff, in his capacity as administrator, maintain this action against the defendants? If he can, then the complaint states facts sufficient to constitute a cause of action; otherwise not. All of the powers of ad­ministrators must necessarily be derived from, and their duties prescribed by, either the common law or statutory enactments. At common law, real estate becomes vested, on the death of the owner, in his heirs or devisees, and the executor or administrator has no inherent power over it. It is only as legislation or the will of the testator may have conferred an express power upon the executor or admin­istrator that he can exert it in respect of real estate. Schouler, Ex’rs, § 212. He has no cause to recover pos­session of the lands of the deceased by a suit at law, and cannot maintain such suit. Id. §§ 213-509, and authorities cited. By an act of the congress providing a civil govern­ment for Alaska, passed May 17, 1884, the general laws of the state of Oregon then in force were declared to be the law of this district, so far as the same were applicable, and not in conflict with the provisions of that act or the laws of the United States. The laws governing the administration of estates, and defining the powers and duties of executors and administrators, then in force in the state of Oregon, are applicable to the district of Alaska, and are not in conflict with any law of the United States upon the subject, and are therefore the laws of this district. To these statutory pro­visions, then, and to these only, must we look in determin­ing the question before us:</p>
+                <blockquote pgmap="568" id="b568-3">' “Any person who has a legal estate in real property, and a present right to the possession thereof, may recover such possession, with damages, for withholding the same, by an action at law.” Hill’s Ann.Laws Or. p. 378, § 316.</blockquote>
+                <blockquote pgmap="568" id="b568-4">“The executor or administrator is entitled to the pos­session and control of the property of deceased, both real and personal, and to receive the rents and profits thereof until the administration is completed, or the same is sur­rendered to the heirs or devisees by order of the court or judge thereof.” Id. p. 720, § 1120.</blockquote>
+                <p pgmap="568(294) 569(179)" id="b568-5">Under these provisions of the Code, has an administrator such a .legal estate in the property of the deceased as will empower him to maintain an action in ejectment to recover the possession of real estate claimed to be the property of the decedent? We think not. In a brief of more than ordi­nary merit, counsel for plaintiff relies much upon the case of Balch v. Smith, 30 P. 648. This was a case arising un­der the laws of the state of Washington, and decided by the supreme court of that state. It is not necessary to go beyond the opinion of the court itself to see that the laws of that state are broader, and yet more specific, in defining the powers of executors and administrators, than any law we have upon the subject. Indeed, that court relies entirely and absolutely upon the state statutes when it holds that administrators must take possession of all the property of the decedent, and that, therefore, even an heir is not en­titled, as against him, to the possession of the real prop­erty. Section 956 of the Code of that state is similar to section 1120 of our laws, heretofore quoted. But in addi­tion to that section we find that sections 1041-1044 of the Code of that state provide, among other things, that execu­tors and administrators shall take into their possession all the estate of the deceased, real and personal; that actions for the recovery of any property, real or personal, or the possession thereof, may be maintained by and against them; that they may maintain actions for trespass committed on the estate of the deceased during his lifetime, and actions may be maintained against them for trespass.' It will thus be seen that the laws of Washington, by direct enactments, confer upon administrators the right to maintain actions in ejectment,, while our statutes are silent upon the subject. What is here said of the laws of Washington applies with equal force to the laws and decisions quoted in plaintiff’s brief from Montana. Black v. Story, 7 Mont. 238, 14 P. 703; In re Higgins’ Estate, 15 Mont. 485, 39 P. 506. Upon examination it is found that, while Montana has a law very similar to our section 1120, it also has other laws which we do not have, by virtue of which the supreme court of that state holds that administrators may maintain actions in ejectment for the recovery of the real estate of their de­cedents. The right of the administrator to the possession of the real estate of the deceased for any purpose whatever being in contravention of the common law, statutory au­thority to take possession must be directly and, clearly con­ferred, or he must fail in any action instituted by him for that purpose.</p>
+                <p pgmap="569(256) 570(116)" id="b569-4">While the doctrine of stare decisis may not be binding upon this court in this case, yet we think the decisions of the highest court of the state of Oregon in construing the statutes quoted should not be departed from, without the gravest reasons for so doing. “Where the legislature of one state adopts by enactment the statute of another state, it may be said, as a general rule, that the courts adopt the construction put upon such statute by the courts of the state from which it was taken; this, upon the presumption that the legislature was familiar with the construction put upon the statute in the state from which it was taken.” 23 Am. &amp; Eng.Enc.Law, p. 24, and authorities cited. Applying this principle to the case, at bar, and remembering that the con­gress extended the laws of the state of Oregon in force May 17, 1884, to Alaska, and that the supreme court of that state had in more than one case passed upon the statutes being construed in this case, prior to that date, we must presume that the congress was familiar with the construction put upon these statutes, and the decisions of that court should therefore have great weight with us. In 1873 the supreme court of Oregon, in the case of King v. Boyd, 4 Or. 327, decided that an administrator had no authority to institute a suit to set aside a conveyance of real estate made by his decedent in his lifetime, without leave first had and ob­tained from the county court or judge thereof. While the case is not identical with the one at bar, the reasoning of the court is in point. The court says: “We think it would be an unwise and unwarranted construction of the authority of executors or administrators to infer from any language found in the statute on that subject that they might, upon their own motion, institute suits to set aside conveyances, or remove clouds from titles to real estate, without any showing, as a condition precedent, that the possession of the same was wrongfully withheld, or that there was any necessity for selling the same, or any part thereof, to satisfy claims against the estate.”</p>
+                <p pgmap="570(321) 571(56)" id="b570-4">This language will appear all the more pertinent to the case at bar when it is remembered that the pleadings dis­close the fact that the deceased had been dead nearly nine years before this action was brought; that two administra­tors have been appointed to administer the estate; that more than five years elapsed after the alleged trespass of defendants before this action was instituted; that there is no allegation that the land in question is needed to pay the debts of the estate, or, in fact, that there are any creditors of the estate whatever. The administrator’s right of pos­session of the real estate of his decedent is for the purpose of administration only. These purposes are almost, if not quite, wholty to enable the administrator to apply the rents and profits, or, if need be, the proceeds derived from a sale, of the real estate, to the payment of the debts, and to distribute the remainder to the heirs. If there be no debts, as in this case, the bald right to distribute the estate to the heirs, alone, remains to the administrator; and for the purpose of exercising this right, only, an administrator is not warranted.in bringing an action in ejectment. We can but commend the following language used by the court in King v. Boyd, supra. “No one is better qualified to liti­gate the title to real estate than the person who owns it. An administrator, who has no direct interest in the result of a suit, — who personally loses nothing if the suit be inju­diciously instituted and adversely determined, — is not as safe a person to intrust with the right to litigate as he who is the owner of the property which is the subject of litiga­tion, and the one who must suffer if the determination of the cause be adverse to him. A due regard for the rights of both heirs and creditors of estates, we think, demands that the limitations of our statute on the authority of execu­tors and administrators to institute suits affecting the title to real estate should be carefully guarded, so that estates may not be subject to be consumed by the costs and ex­penses of ill-advised lawsuits.”</p>
+                <p pgmap="571" id="b571-4">In Humphreys v. Taylor, 5 Or. 261, the supreme court of that state holds specifically that executors and admin­istrators have not such an estate in the lands of the deceased as will enable them to maintain actions for the possession thereof. And we know of no case since these quoted where that court has reversed or modified these decisions. Coun­sel for plaintiff quotes Butler v. Smith, 20 Or. 130, 25 P. 381, claiming it to be in conflict with Humphreys v. Taylor; but, upon a careful examination of that case, we cannot concur in this contention of counsel. The case of Starr v. Murray, tried in this court some years ago, although not reported, turned upon the identical points raised in this case; and this court then held that Starr, as administrator, could not maintain his action.</p>
+                <p pgmap="571" id="b571-5">Upon the argument of the case, counsel for plaintiff maintained that, even if the administrator could not main­tain this action alone, in his representative capacity, he might do so jointly with the heirs. But, if there be no cred­itors, — no debts to pay, — we can see no reason why the es­tate should not be closed, nor why the heirs are not the proper persons to bring the action. However, we will give the plaintiff 30 days from the filing of this opinion in which to file an amended complaint. If none be filed with­in that time, the action will be dismissed for the reasons herein stated.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="565" ORDERLABEL="553" TYPE="page">
+        <fptr FILEID="tiff_00283_0"/>
+        <fptr FILEID="jpg_00283_0"/>
+        <fptr FILEID="alto_00283_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_565.3" BETYPE="IDREF" FILEID="alto_00283_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="566" ORDERLABEL="554" TYPE="page">
+        <fptr FILEID="tiff_00283_1"/>
+        <fptr FILEID="jpg_00283_1"/>
+        <fptr FILEID="alto_00283_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_566.2" BETYPE="IDREF" FILEID="alto_00283_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="567" ORDERLABEL="555" TYPE="page">
+        <fptr FILEID="tiff_00284_0"/>
+        <fptr FILEID="jpg_00284_0"/>
+        <fptr FILEID="alto_00284_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_567.3" BETYPE="IDREF" FILEID="alto_00284_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="568" ORDERLABEL="556" TYPE="page">
+        <fptr FILEID="tiff_00284_1"/>
+        <fptr FILEID="jpg_00284_1"/>
+        <fptr FILEID="alto_00284_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_568.2" BETYPE="IDREF" FILEID="alto_00284_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="569" ORDERLABEL="557" TYPE="page">
+        <fptr FILEID="tiff_00285_0"/>
+        <fptr FILEID="jpg_00285_0"/>
+        <fptr FILEID="alto_00285_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_569.3" BETYPE="IDREF" FILEID="alto_00285_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="570" ORDERLABEL="558" TYPE="page">
+        <fptr FILEID="tiff_00285_1"/>
+        <fptr FILEID="jpg_00285_1"/>
+        <fptr FILEID="alto_00285_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_570.2" BETYPE="IDREF" FILEID="alto_00285_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="571" ORDERLABEL="559" TYPE="page">
+        <fptr FILEID="tiff_00286_0"/>
+        <fptr FILEID="jpg_00286_0"/>
+        <fptr FILEID="alto_00286_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_571.3" BETYPE="IDREF" FILEID="alto_00286_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b567-4" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_567.4" BETYPE="IDREF" FILEID="alto_00284_0"/>
+            <area BEGIN="BL_568.1" BETYPE="IDREF" FILEID="alto_00284_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b571-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_571.5" BETYPE="IDREF" FILEID="alto_00286_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b570-4" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_570.4" BETYPE="IDREF" FILEID="alto_00285_1"/>
+            <area BEGIN="BL_571.1" BETYPE="IDREF" FILEID="alto_00286_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b569-4" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_569.4" BETYPE="IDREF" FILEID="alto_00285_0"/>
+            <area BEGIN="BL_570.1" BETYPE="IDREF" FILEID="alto_00285_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b568-3" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_568.4" BETYPE="IDREF" FILEID="alto_00284_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b568-4" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_568.5" BETYPE="IDREF" FILEID="alto_00284_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b568-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_568.6" BETYPE="IDREF" FILEID="alto_00284_1"/>
+            <area BEGIN="BL_569.1" BETYPE="IDREF" FILEID="alto_00285_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-8" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.8" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-9" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.9" BETYPE="IDREF" FILEID="alto_00283_1"/>
+            <area BEGIN="BL_567.1" BETYPE="IDREF" FILEID="alto_00284_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b565-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_565.5" BETYPE="IDREF" FILEID="alto_00283_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b571-4" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_571.4" BETYPE="IDREF" FILEID="alto_00286_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b565-7" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_565.7" BETYPE="IDREF" FILEID="alto_00283_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b565-6" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_565.6" BETYPE="IDREF" FILEID="alto_00283_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b565-9" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_565.9" BETYPE="IDREF" FILEID="alto_00283_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b565-8" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_565.8" BETYPE="IDREF" FILEID="alto_00283_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-6" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.6" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-7" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.7" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.5" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

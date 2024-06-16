@@ -1,0 +1,624 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0024" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Fuller v. Harris">FULLER et al. v. HARRIS</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 169</citation>
+          <citation category="parallel" type="bluebook">29 F. 814</citation>
+          <decisiondate>1887</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:01Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00091_0" MIMETYPE="image/tiff" CHECKSUM="616179a816a1fa9db356c87f068b1dfb" CHECKSUMTYPE="MD5" SIZE="7764">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00091_0.tif"/>
+      </file>
+      <file ID="tiff_00091_1" MIMETYPE="image/tiff" CHECKSUM="cedb95f07df5ee2ee0e0458789cae269" CHECKSUMTYPE="MD5" SIZE="31286">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00091_1.tif"/>
+      </file>
+      <file ID="tiff_00092_0" MIMETYPE="image/tiff" CHECKSUM="f4fb44e6a38a28f3fabc2851276eb83a" CHECKSUMTYPE="MD5" SIZE="52344">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00092_0.tif"/>
+      </file>
+      <file ID="tiff_00092_1" MIMETYPE="image/tiff" CHECKSUM="5903d72504f480a741816408e84f9edd" CHECKSUMTYPE="MD5" SIZE="55008">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00092_1.tif"/>
+      </file>
+      <file ID="tiff_00093_0" MIMETYPE="image/tiff" CHECKSUM="1ca878753b6493358b85f26312177a26" CHECKSUMTYPE="MD5" SIZE="54392">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00093_0.tif"/>
+      </file>
+      <file ID="tiff_00093_1" MIMETYPE="image/tiff" CHECKSUM="6c893514539f3d6ae21a47d8d1f1175d" CHECKSUMTYPE="MD5" SIZE="52720">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00093_1.tif"/>
+      </file>
+      <file ID="tiff_00094_0" MIMETYPE="image/tiff" CHECKSUM="b1510323f0fb9fd9907c66c1907d04e3" CHECKSUMTYPE="MD5" SIZE="53052">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00094_0.tif"/>
+      </file>
+      <file ID="tiff_00094_1" MIMETYPE="image/tiff" CHECKSUM="cf3c4cd05956609b9760e1ec56af44a7" CHECKSUMTYPE="MD5" SIZE="49964">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00094_1.tif"/>
+      </file>
+      <file ID="tiff_00095_0" MIMETYPE="image/tiff" CHECKSUM="eaec9717c97b19a3bc16843a14a85c15" CHECKSUMTYPE="MD5" SIZE="25400">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00095_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00091_0" MIMETYPE="image/jpg" CHECKSUM="8ca995f3257e9be58a3a22b173cd97ae" CHECKSUMTYPE="MD5" SIZE="71134">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00091_0.jpg"/>
+      </file>
+      <file ID="jpg_00091_1" MIMETYPE="image/jpg" CHECKSUM="3edea9b9c4590ce3b878fb494af338d9" CHECKSUMTYPE="MD5" SIZE="134565">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00091_1.jpg"/>
+      </file>
+      <file ID="jpg_00092_0" MIMETYPE="image/jpg" CHECKSUM="1f8145b422e02805d649816c0260501c" CHECKSUMTYPE="MD5" SIZE="187145">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00092_0.jpg"/>
+      </file>
+      <file ID="jpg_00092_1" MIMETYPE="image/jpg" CHECKSUM="a3610a503f184931f94f3df46b0e0f31" CHECKSUMTYPE="MD5" SIZE="210881">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00092_1.jpg"/>
+      </file>
+      <file ID="jpg_00093_0" MIMETYPE="image/jpg" CHECKSUM="8e8806cafca42385ad94ae3ebd6eeb4f" CHECKSUMTYPE="MD5" SIZE="194631">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00093_0.jpg"/>
+      </file>
+      <file ID="jpg_00093_1" MIMETYPE="image/jpg" CHECKSUM="2fa12425e7171af85fc06a496e555ca6" CHECKSUMTYPE="MD5" SIZE="200164">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00093_1.jpg"/>
+      </file>
+      <file ID="jpg_00094_0" MIMETYPE="image/jpg" CHECKSUM="db8918220a7b170591871c5874382cb0" CHECKSUMTYPE="MD5" SIZE="190294">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00094_0.jpg"/>
+      </file>
+      <file ID="jpg_00094_1" MIMETYPE="image/jpg" CHECKSUM="95c8fea730b1b67a0a6b7047a5fd8eff" CHECKSUMTYPE="MD5" SIZE="197116">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00094_1.jpg"/>
+      </file>
+      <file ID="jpg_00095_0" MIMETYPE="image/jpg" CHECKSUM="82a6ff1a512211938687dad24ef0f112" CHECKSUMTYPE="MD5" SIZE="121137">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00095_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00091_0" MIMETYPE="text/xml+gzip" CHECKSUM="1891e8247e70eb85516770afe3e895a7" CHECKSUMTYPE="MD5" SIZE="2339">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00091_0.xml.gz"/>
+      </file>
+      <file ID="alto_00091_1" MIMETYPE="text/xml+gzip" CHECKSUM="0d4580b26054df530193312feb88fa10" CHECKSUMTYPE="MD5" SIZE="7417">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00091_1.xml.gz"/>
+      </file>
+      <file ID="alto_00092_0" MIMETYPE="text/xml+gzip" CHECKSUM="2adfb5cc15dd74045a777864de5e5af4" CHECKSUMTYPE="MD5" SIZE="12386">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00092_0.xml.gz"/>
+      </file>
+      <file ID="alto_00092_1" MIMETYPE="text/xml+gzip" CHECKSUM="d929015e89c3f81a53718aa17fa588ed" CHECKSUMTYPE="MD5" SIZE="12805">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00092_1.xml.gz"/>
+      </file>
+      <file ID="alto_00093_0" MIMETYPE="text/xml+gzip" CHECKSUM="f59bc84d5aedc6fa055979178ee73272" CHECKSUMTYPE="MD5" SIZE="12901">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00093_0.xml.gz"/>
+      </file>
+      <file ID="alto_00093_1" MIMETYPE="text/xml+gzip" CHECKSUM="cca86fa03491ca1371f7ef11359f456d" CHECKSUMTYPE="MD5" SIZE="13111">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00093_1.xml.gz"/>
+      </file>
+      <file ID="alto_00094_0" MIMETYPE="text/xml+gzip" CHECKSUM="baf708438bb0ebc61c0d55d8ba6b597f" CHECKSUMTYPE="MD5" SIZE="13177">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00094_0.xml.gz"/>
+      </file>
+      <file ID="alto_00094_1" MIMETYPE="text/xml+gzip" CHECKSUM="2cd21361513e95fe2c81c58d4bc321c4" CHECKSUMTYPE="MD5" SIZE="12179">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00094_1.xml.gz"/>
+      </file>
+      <file ID="alto_00095_0" MIMETYPE="text/xml+gzip" CHECKSUM="65e75e706b45e397ef2f18c4f9c24aba" CHECKSUMTYPE="MD5" SIZE="6335">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00095_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0024" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="169" lastpage="177">
+              <court pgmap="181" id="b181-6">District Court, D. Alaska.</court>
+              <citation pgmap="181" id="b181-4">29 F. 814</citation>
+              <parties pgmap="181" id="b181-5">FULLER et al. v. HARRIS.</parties>
+              <decisiondate pgmap="181" id="A2J">1887.</decisiondate>
+              <opinion type="majority">
+                <author pgmap="182" id="b182-7">DAWSON, Judge.</author>
+                <p pgmap="182" id="AAq">This action was brought in June, 1885. Plaintiff Fuller alleges in his complaint that in August, 1880, he hired the defendant, Harris, and one Joseph Juneau, to prospect and locate mining claims for him;, that defendant and said Juneau did on the fourth day of October, 1880, discover and locate what is known as the “Fuller First,” in Silver Bow basin, near the town of Juneau, and that subsequently defendant, Harris, located a placer mining claim overlap­ping the quartz location of plaintiff. Defendant’s answer was a general denial. A temporary injunction was granted by my predecessor, and made returnable to the May term, 1886, of the district court.</p>
+                <p pgmap="182(106) 183(36)" id="ALq">A trial was had on the' twenty-fourth day of May, 1886, in the district court, and a jury impaneled to find certain facts, to-wit: Was the Fuller First (the quartz lode) lo­cated prior to the location of the placer mine located by Harris in his own name ? and the value of the ore taken by Harris from that portion of the placer claim which over­lapped the quartz location. The jury found by their verdict that the quartz lode was first located, and that plaintiff Fuller had been damaged $7,200 in consequence of Harris operating the placer mine during the years 1883 and 1884; whereupon the court rendered a decree divesting defendant of any claim or title to that portion of his placer claim which overlaps plaintiff’s quartz lode, made the injunction perpetual, and rendered judgment against defendant for $7,000.</p>
+                <p pgmap="183" id="b183-4">Defendant now files his motion asking that the decree and judgment be set aside, and he be granted a new trial on the ground of newly-discovered evidence, — the fraud­ulent concealment of material facts by the plaintiff, and the commission of perjury by Joseph Juneau, who testified as a witness on the trial of this cause.</p>
+                <p pgmap="183" id="b183-5">Before discussing the merits of the motion, it may not be amiss to briefly review the evidence. The proof was quite convincing that in August, 1880, defendant and Juneau were outfitting at Sitka, and started on a prospecting tour under a contract in the name of one Pilz, but Fuller fur­nishing the supplies. On the fourth day of October, 1880, they discovered and located a quartz ledge in Silver Bow basin, 1,500 feet in length by 600 feet in width, and named it the “Fuller First.” Subsequently, on the twelfth day of October, Harris and Juneau located a placer mining claim (the richest portion of which overlapped the “Fuller First”) in their own name. Juneau seems to have dis­posed of his interest, and, by a system of conveyances pe­culiar to mining camps, his interest is now vested in one Williams. Pilz disposed of his interest in the quartz loca­tion (it being two-fifteenths) to the plaintiff Coleman, who, upon motion, was made a party plaintiff when the above facts were disclosed in the progress of the trial.</p>
+                <p pgmap="183(122) 184(98)" id="b183-6">The defendant, Harris, claims that he and Juneau, upon the discovery of the quartz ledge which was located in the name of and for Fuller, in the presence of three Indians who could neither speak nor understand our language, held an election, under the provisions of the act of congress of May 10, 1872, (section 2324, Rev.St. [30 U.S.C.A. § 28 and note]) at which he (Harris) was elected recorder for the mining district, which he then christened “Harris Min­ing District,” and made a record of the location of the placer claim, dated on the fourth day of October, 1880. While it appears from his pass-book in which the record was made that the Fuller First was located on the twelfth day of October, 1880, Joseph Juneau testified at the trial that he and Harris located the quartz lode (the “Fuller First”) on the fourth day of October, and the placer claim on the twelfth day of October, over-lapping the quartz lode, and that Harris changed the record accordingly. The evi­dence of Juneau is materially streightened by the circum­stance of Harris having given Fuller a receipt for his wages earned while prospecting, in which he certified, over his own signature, that the quartz lode designated as the “Fuller First” was the first location in Silver Bow basin.</p>
+                <p pgmap="184" id="b184-4">It appears from the evidence and circumstances that both Harris and Juneau acted in bad faith, and abused the con­fidence reposed in them by Fuller, and, but for the fact of their subsequent disagreement, the real fact of the fraudu­lent alteration of the record might never have been known. Harris and Juneau now make most bitter and malignant charges against each other, but, upon a careful examina­tion of the case, I may well doubt if either of them is the unconscionable reprobate which each would make the other appear. It is indeed sad that two men, who were so closely allied in the daring and hazardous enterprise of extorting from the bowels of the earth a fortune, should now invade the vocabulary of acrimony in search of epithets with which to blacken each others’ character, and transmit to their off­spring an inheritance of dishonor.</p>
+                <p pgmap="184(170) 185(278)" id="b184-5">The record made by Harris in his pass-book was by no means a compliance with the act of congress of May 10, 1872. . While the act extended many favors to and aimed to facilitate miners in the enterprise of locating and estab­lishing titles to the mineral lands of the United States, still it requires certain formalities. The miners of each mining district may make regulations, but they must not be in con­flict with the laws of the United States. One of the re­quirements is that the location must be distinctly marked on the ground so that the boundaries can be readily traced, and the act requires that all records of mining claims shall contain the name or names of the locators, the date of the location, and such a description of the claim or claims, by reference to some natural object or permanent monument, as will identify the claim. To say hothing about the ab­surdity of the election at which Harris claims to have been elected recorder, it requires but a glance at his memoranda to see that the entry made by him in relation to the placer mine location wholly fails to comply with the act of con­gress. It begins nowhere and ends nowhere. There is neither a natural object, or permanent monument, or any designation or mark, by which the placer claim can be identi­fied. The idea that such a record complies with the law, or that it imparted any notice or information to the public, is too absurd to require serious consideration. The liberality extended by congress to prospectors and miners was not in­tended to entirely dispense with legal rules, or abrogate the fundamental principles of law. The court is not to pre­sume that congress intended that a man could procure his election as recorder in the manner in which Harris did,— make a record utterly void of legal requisites, of a placer mine rich in precious metals, and carry that record in his coat-pocket. The object of all public records is to impart notice to the public of all such matters as the law requires to be of-record, and such records are open to the inspection of the public. But it is difficult to understand how the pub­lic, or how the plaintiffs, could know of this placer loca­tion by Harris, the imperfect record of which was by him secreted. The mineral lands of the United States are usual­ly prospected and located by sturdy adventurers, who have imperfect notions of the application of legal principles, and hence congress has prescribed what the record of a mining claim must set forth. Section 2324, Rev.St.</p>
+                <p pgmap="185(140) 186(44)" id="b185-4">The evidence further discloses the fact that upon the execution and delivery of the receipt by Harris to Fuller, in December, 1880, in which he certified to Fuller that the Fuller First — the quartz lode — was the first location in the basin, Fuller, as soon thereafter as was convenient, procured wage-workers, and expended both money and labor in developing the mine. It is a well-established principle of law that admissions, whether of law or fact, which have been acted upon by others, are conclusive against the party making them, in all cases, between him and the party whose conduct he has thus influenced. Kinney v. Farnsworth, 17 Conn. 355; 1 Greenl.Ev. § 207. It is wholly immaterial in the application of this principle whether the admission made by Harris was true or false; the fact that it was acted upon by Fuller, that he was influenced by it, and in­duced to spend his money, renders it conclusive as against Flarris. Trustees’ Presb. Cong. v. Williams, 9 Wend.(N. Y.) 147; Livermore v. Herschell, 3 Pick.(Mass.) 38; Davenport v. Mason, 15 Mass. 85.</p>
+                <p pgmap="186" id="b186-4">The next point raised by the motion is that of newly-­discovered evidence by the defendant. The motion is sup­ported only by the affidavit of Harris, and the certificate of the present mining recorder, and sets forth that the loca­tion of the Fuller First was made on the twelfth day of October, 1880, eight days after the location of the placer mine. But these records were available to Harris before the trial, and his evidence before the jury was substantially the same as now set forth in the motion. The general rule in relation to newly-discovered evidence, in order to entitle a party to a new trial, is that it must not be merely cumula­tive, but it must be shown to be material in its object, go­ing to the real merits of the case, and it must be made to appear that reasonable diligence on the part of the party offering it could not have secured it at the former trial, and ought to be of such nature and force as to be decisive and productive of an opposite result upon the merits on an­other trial. Wise v. State, 24 Ga. 31; Smith v. Matthews, 6 Mo. 600; Crozier v. Cooper, 14 Ill. 139.</p>
+                <p pgmap="186" id="b186-5">Motions of this kind are to be received with great cau­tion, for there are few cases tried in which something may not be discovered, and for the further reason that it tends to the introduction of perjury. It is infinitely better that a single person should suffer mischief or loss than that every suitor should have it in his power, by keeping back a part of his evidence, and then swearing it was mislaid, or that he was ignorant of its materiality, to destroy verdicts, and introduce new trial at his pleasure. Yet there may be cases in which the party applying for a new trial has been dili­gent, or has been deceived or thrown off his guard, in which, in equity and good conscience, he should be permit­ted to bring forward and introduce newly-discovered ma­terial evidence. But is this such a case? I think not. The defendant, Harris, knew of the records, lived in the town where they were kept, had made the entries himself, and his neglect to produce them is inexcusable.</p>
+                <p pgmap="187" id="b187-3">Another point made in the motion is that Fuller, on the fourth day of April, 1881, relocated the Fuller First, and it is argued that the relocation by Fuller was an abandon­ment of the first location by Harris in Fuller’s name. It is now contended that the record Harris made, bearing date of October 4, 1880, gave him title to all that portion of the placer mine which overlaps the quartz lode by reason of the relocation by Fuller. But it must be observed that, accord­ing to the evidence of Harris himself, there were no local rules of the mining district requiring a record on the fourth or even on the twelfth of October, 1880. Defendant’s counsel seems to overlook the fact that the record is to be provided for, and its effect determined, by the local laws or regulations of miners in the district, and, if no record had been provided for, which provision must precede the act of recording, then no record was necessary. Golden Fleece, etc., Co. v. Cable etc., Min. Co., 12 Nev. 312. If a record is provided for by local rules, it must, under the mining laws of the United States, contain an accurate description of the locus of the claim by reference to natural or perma­nent monuments.</p>
+                <p pgmap="187(216) 188(44)" id="b187-4">Although the record of the first location for Fuller, and in his name, was imperfect, and made in the absence of rules and regulations of any organized mining district, yet, as a physical fact, the location was made for him and in his name by Harris and Juneau while they were in his em­ploy, sustaining the relation of agents, charged with the execution of a trust, and any act by them, or either of them, detrimental to Fuller’s interest while that relation ex­isted, was void. An abuse of a trust can confer no rights on the party abusing it, or on any one claiming in privity with him. Story, Eq.Jur. § 1258. It was lawful for Fuller to relocate his claim in April, 1881, so as to conform to the requirements of the act of congress, and his title dated back by relation to the first location by Harris and Juneau. Fiction in law is sometimes resorted to to prevent injustice. The relation back to the first delivery of a deed, so as to give it effect from that time, is often allowed in the fur­therance of justice, and to prevent injury from events hap­pening between the first and second delivery. 4 Kent, Comm. 454. Now, by the principles of analogy, Fuller’s relocation of the quartz lode in April, 1881, related back to and took effect from the first act of his agents in Octo­ber. There could be no intervening interest to Harris, be­cause he was an original wrong-doer, and had violated his trust.</p>
+                <p pgmap="188" id="b188-3">It is argued by defendant’s counsel that, regardless of the priority of location, the defendant was not a trespasser, and the case of Bullion Min. Co. v. Crœsus Min. Co., 2 Nev. 168, is referred to. It is quite evident the learned judge who delivered the opinion in that case was hampered b)^ some local law or regulation, for he says:</p>
+                <blockquote pgmap="188" id="b188-4">“The doctrine of the common law, that he who has a right to the surface of any portion of the earth has also the right to all beneath and above that surface, has but a limited application to the rights of miners and others us­ing the public lands of this state.”</blockquote>
+                <p pgmap="188" id="b188-5">That decision was rendered in July, 1866, six years prior to the act of congress under which the parties to this cause are contending. The present mining laws, (see section 2322, Rev.St. [30 U.S.C.A. §26]) say:</p>
+                <blockquote pgmap="188" id="b188-6">“The locators of all mining locations heretofore made, or which shall hereafter be made, on any mineral vein, lode, or ledge situated on the public domain, their heirs and as­signs, where no adverse claim exists on the tenth day of May, 1872, so long as they comply with the laws of the United States, and with state, territorial, and local regula­tions not in conflict with the laws of the United States gov­erning their possessory title, shall have the exclusive right of possession and enjoyment of all the surface included within the lines of their locations, and of all veins, lodes, and ledges throughout their entire depth, the top or apex of which lies inside of such surface lines extended down­ward vertically, although such veins, lodes, or ledges may so far depart from a perpendicular in their course down­ward as to extend outside of the vertical side lines of such surface locations.”</blockquote>
+                <p pgmap="188(43) 189(59)" id="b188-7">From this section it is manifest that congress intended the locator should hold, be entitled to, and enjoy the profits of all the surface included within the boundary lines of his claim, and, if in possession in person or by agent, no one had a, right to enter upon and take therefrom mineral or other valuable substance. Actual possession of the quartz lode by plaintiff prior to the years of 1882, 1883, and 1884 was sufficient evidence of title to authorize him to main­tain this action, and recover damages against a trespasser. Campbell v. Rankin, 99 U.S. 291; Copp, U.S.Min.Lands, 413.</p>
+                <p pgmap="189" id="b189-4">The allegation in defendant’s motion of the fraudulent concealment of material facts by plaintiff is not sufficient­ly proven. A court of equity cannot set aside proceedings, and grant relief against judgments, unless the proof of fraud, concealment, or imposition is clear, positive, and unequivocal. Story, Eq.Jur. § 252. The motion in this case having only the support of the defendant, who gave substantially the same evidence before the jury as is set forth in the motion, is not sufficient to warrant the court in disturbing the judgment.</p>
+                <p pgmap="189" id="b189-5">The motion is overruled.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="181" ORDERLABEL="169" TYPE="page">
+        <fptr FILEID="tiff_00091_0"/>
+        <fptr FILEID="jpg_00091_0"/>
+        <fptr FILEID="alto_00091_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_181.3" BETYPE="IDREF" FILEID="alto_00091_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="182" ORDERLABEL="170" TYPE="page">
+        <fptr FILEID="tiff_00091_1"/>
+        <fptr FILEID="jpg_00091_1"/>
+        <fptr FILEID="alto_00091_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_182.2" BETYPE="IDREF" FILEID="alto_00091_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="183" ORDERLABEL="171" TYPE="page">
+        <fptr FILEID="tiff_00092_0"/>
+        <fptr FILEID="jpg_00092_0"/>
+        <fptr FILEID="alto_00092_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_183.3" BETYPE="IDREF" FILEID="alto_00092_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="184" ORDERLABEL="172" TYPE="page">
+        <fptr FILEID="tiff_00092_1"/>
+        <fptr FILEID="jpg_00092_1"/>
+        <fptr FILEID="alto_00092_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_184.2" BETYPE="IDREF" FILEID="alto_00092_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="185" ORDERLABEL="173" TYPE="page">
+        <fptr FILEID="tiff_00093_0"/>
+        <fptr FILEID="jpg_00093_0"/>
+        <fptr FILEID="alto_00093_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_185.3" BETYPE="IDREF" FILEID="alto_00093_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="186" ORDERLABEL="174" TYPE="page">
+        <fptr FILEID="tiff_00093_1"/>
+        <fptr FILEID="jpg_00093_1"/>
+        <fptr FILEID="alto_00093_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_186.2" BETYPE="IDREF" FILEID="alto_00093_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="187" ORDERLABEL="175" TYPE="page">
+        <fptr FILEID="tiff_00094_0"/>
+        <fptr FILEID="jpg_00094_0"/>
+        <fptr FILEID="alto_00094_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_187.2" BETYPE="IDREF" FILEID="alto_00094_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="188" ORDERLABEL="176" TYPE="page">
+        <fptr FILEID="tiff_00094_1"/>
+        <fptr FILEID="jpg_00094_1"/>
+        <fptr FILEID="alto_00094_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_188.2" BETYPE="IDREF" FILEID="alto_00094_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="189" ORDERLABEL="177" TYPE="page">
+        <fptr FILEID="tiff_00095_0"/>
+        <fptr FILEID="jpg_00095_0"/>
+        <fptr FILEID="alto_00095_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_189.3" BETYPE="IDREF" FILEID="alto_00095_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-5" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.5" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-4" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.4" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-6" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.6" BETYPE="IDREF" FILEID="alto_00092_0"/>
+            <area BEGIN="BL_184.1" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-7" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.7" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2J" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.8" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-4" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.4" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-5" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.5" BETYPE="IDREF" FILEID="alto_00092_1"/>
+            <area BEGIN="BL_185.1" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b187-3" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.3" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALq" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.9" BETYPE="IDREF" FILEID="alto_00091_1"/>
+            <area BEGIN="BL_183.1" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-6" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.7" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-5" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.6" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-4" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.5" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-4" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.4" BETYPE="IDREF" FILEID="alto_00093_0"/>
+            <area BEGIN="BL_186.1" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b187-4" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.4" BETYPE="IDREF" FILEID="alto_00094_0"/>
+            <area BEGIN="BL_188.1" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-5" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.5" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-4" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.4" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-4" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.4" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-5" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.5" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-3" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.4" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAq" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.8" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-6" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.7" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-7" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.8" BETYPE="IDREF" FILEID="alto_00094_1"/>
+            <area BEGIN="BL_189.1" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-4" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.5" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-5" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.6" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

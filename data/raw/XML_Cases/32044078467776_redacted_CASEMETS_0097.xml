@@ -1,0 +1,676 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0097" publicationstatus="published">
+          <court abbreviation="U.S." jurisdiction="United States">Supreme Court of the United States</court>
+          <name abbreviation="Marx v. Ebner">D. MARX v. WILLIAM M. EBNER et al.</name>
+          <docketnumber>No. 126</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 664</citation>
+          <citation category="parallel" type="bluebook">180 U.S. 314, 21 S.Ct. 376</citation>
+          <decisiondate>1901-02-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:09Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00338_1" MIMETYPE="image/tiff" CHECKSUM="bff868b6e41783aa42954d6c94b2fcc3" CHECKSUMTYPE="MD5" SIZE="18940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00338_1.tif"/>
+      </file>
+      <file ID="tiff_00339_0" MIMETYPE="image/tiff" CHECKSUM="5fb9a92ddc8780555cc1418f07479575" CHECKSUMTYPE="MD5" SIZE="3688">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00339_0.tif"/>
+      </file>
+      <file ID="tiff_00339_1" MIMETYPE="image/tiff" CHECKSUM="c89f5388bf53da93fc0a0f694a42f24b" CHECKSUMTYPE="MD5" SIZE="39024">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00339_1.tif"/>
+      </file>
+      <file ID="tiff_00340_0" MIMETYPE="image/tiff" CHECKSUM="0c4d950276dc3e46a850a706953bd596" CHECKSUMTYPE="MD5" SIZE="48510">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00340_0.tif"/>
+      </file>
+      <file ID="tiff_00340_1" MIMETYPE="image/tiff" CHECKSUM="3276371ef1b5ebde618ca2e859a76353" CHECKSUMTYPE="MD5" SIZE="55734">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00340_1.tif"/>
+      </file>
+      <file ID="tiff_00341_0" MIMETYPE="image/tiff" CHECKSUM="0c896e5d56f39b8399900495cec944f6" CHECKSUMTYPE="MD5" SIZE="53138">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00341_0.tif"/>
+      </file>
+      <file ID="tiff_00341_1" MIMETYPE="image/tiff" CHECKSUM="bd7f631137594eb16bb8627ac828511d" CHECKSUMTYPE="MD5" SIZE="52292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00341_1.tif"/>
+      </file>
+      <file ID="tiff_00342_0" MIMETYPE="image/tiff" CHECKSUM="258c7de2757006eeb77295a6a36ddca6" CHECKSUMTYPE="MD5" SIZE="12978">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00342_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00338_1" MIMETYPE="image/jpg" CHECKSUM="50a30fc187a8434f4e8afd3cc38201da" CHECKSUMTYPE="MD5" SIZE="115123">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00338_1.jpg"/>
+      </file>
+      <file ID="jpg_00339_0" MIMETYPE="image/jpg" CHECKSUM="b5eeeb423dc647439f638d9c3e23e899" CHECKSUMTYPE="MD5" SIZE="56268">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00339_0.jpg"/>
+      </file>
+      <file ID="jpg_00339_1" MIMETYPE="image/jpg" CHECKSUM="3c958f8c56aebbe6c8bc9e32ba97bd19" CHECKSUMTYPE="MD5" SIZE="164293">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00339_1.jpg"/>
+      </file>
+      <file ID="jpg_00340_0" MIMETYPE="image/jpg" CHECKSUM="907029256982a6aa9ac9a8a39cfe000c" CHECKSUMTYPE="MD5" SIZE="179707">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00340_0.jpg"/>
+      </file>
+      <file ID="jpg_00340_1" MIMETYPE="image/jpg" CHECKSUM="d124921f30cec2455723d9ff76a94f2a" CHECKSUMTYPE="MD5" SIZE="216891">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00340_1.jpg"/>
+      </file>
+      <file ID="jpg_00341_0" MIMETYPE="image/jpg" CHECKSUM="a7a3b758b434ab6702ba93d72fb47136" CHECKSUMTYPE="MD5" SIZE="197232">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00341_0.jpg"/>
+      </file>
+      <file ID="jpg_00341_1" MIMETYPE="image/jpg" CHECKSUM="2d3a5ded280f83d379f6878dae523663" CHECKSUMTYPE="MD5" SIZE="199472">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00341_1.jpg"/>
+      </file>
+      <file ID="jpg_00342_0" MIMETYPE="image/jpg" CHECKSUM="351cc634ba778c18de12cf4911dc6f6c" CHECKSUMTYPE="MD5" SIZE="80420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00342_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00338_1" MIMETYPE="text/xml+gzip" CHECKSUM="718df5c0a6a96b5667dcbbbc99b112b1" CHECKSUMTYPE="MD5" SIZE="5285">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00338_1.xml.gz"/>
+      </file>
+      <file ID="alto_00339_0" MIMETYPE="text/xml+gzip" CHECKSUM="86f7169894d092a55cae6165eda4bec8" CHECKSUMTYPE="MD5" SIZE="888">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00339_0.xml.gz"/>
+      </file>
+      <file ID="alto_00339_1" MIMETYPE="text/xml+gzip" CHECKSUM="39a74559ebc169359b0cf28584d93eb1" CHECKSUMTYPE="MD5" SIZE="9792">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00339_1.xml.gz"/>
+      </file>
+      <file ID="alto_00340_0" MIMETYPE="text/xml+gzip" CHECKSUM="83ef816eb82f039c8e0d482228e77b1d" CHECKSUMTYPE="MD5" SIZE="11267">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00340_0.xml.gz"/>
+      </file>
+      <file ID="alto_00340_1" MIMETYPE="text/xml+gzip" CHECKSUM="7f97dca9216a4e62f8babc4c74f48f97" CHECKSUMTYPE="MD5" SIZE="12968">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00340_1.xml.gz"/>
+      </file>
+      <file ID="alto_00341_0" MIMETYPE="text/xml+gzip" CHECKSUM="84a467fbb184a061fd22cec5b1febd98" CHECKSUMTYPE="MD5" SIZE="12652">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00341_0.xml.gz"/>
+      </file>
+      <file ID="alto_00341_1" MIMETYPE="text/xml+gzip" CHECKSUM="32ab1fc4b95a01d1819e80cdc929146e" CHECKSUMTYPE="MD5" SIZE="12415">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00341_1.xml.gz"/>
+      </file>
+      <file ID="alto_00342_0" MIMETYPE="text/xml+gzip" CHECKSUM="b60aa3c03cd8c61250203845a05d6341" CHECKSUMTYPE="MD5" SIZE="3639">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00342_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0097" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="664" lastpage="671">
+              <court pgmap="676" id="b676-18">Supreme Court of the United States.</court>
+              <docketnumber pgmap="676" id="b676-17">No. 126.</docketnumber>
+              <citation pgmap="676" id="b676-15">180 U.S. 314, 21 S.Ct. 376</citation>
+              <parties pgmap="676" id="b676-16">D. MARX v. WILLIAM M. EBNER et al.</parties>
+              <decisiondate pgmap="676" id="A80">Decided Feb. 25, 1901.</decisiondate>
+              <otherdate pgmap="676" id="b676-19">Argued Jan. 22, 1901.</otherdate>
+              <attorneys pgmap="678" id="b678-5">Mr. W. Scott Beebe, for appellant.</attorneys>
+              <attorneys pgmap="678" id="b678-6">Messrs; Henry E. Davis, Wm. W. Dudley, L T. Miche­ner, and R. A. Friedrich, for appellees.</attorneys>
+              <opinion type="majority">
+                <author pgmap="678" id="b678-7">Mr. Justice PECKHAM,</author>
+                <p pgmap="678" id="AGc">after stating the foregoing facts, delivered the opinion of the court:</p>
+                <p pgmap="678" id="b678-8">Counsel for the appellant admits that if the foreclosure proceedings operated to pass the title to the property mort­gaged, this decree must be affirmed. He contends, how­ever, that it appears on the face of the complaint that there was a want of jurisdiction in the court to render any judg­ment whatever in the foreclosure action, and that hence no title was conveyed to the defendants by virtue of the foreclosure decree and the sale thereunder. The record of the foreclosure action is set out in the complaint, and the ground upon which the allegation of a lack of jurisdiction is founded is the alleged defective character of the proof of the service of process by publication.</p>
+                <p pgmap="678" id="b678-9">Section 56 of the Code [Hill’s Anno. Laws (Or.)] un­der which this service was made reads as follows:</p>
+                <blockquote pgmap="678" id="b678-10">“When service of the summons cannot be made as pre­scribed in the last preceding section, and the defendant after due diligence cannot be found within the state, and when that fact appears by affidavit to the satisfaction of the court or judge thereof, or justice of the peace, in an action in a justice’s court; and it also appears that a cause of action exists against the defendant, or that he is a proper party to an action relating to real property in this state, the court or judge thereof, or a justice of the peace in an action in a justice’s court, shall grant an order that the service be made by publication of a summons in either of the following cases.”</blockquote>
+                <p pgmap="679" id="b679-3">Here follows a list of the cases in which an order for publication may be made, and it is not disputed that the case of the foreclosure of a mortgage of land within the territory was one in which such publication could be or­dered.</p>
+                <p pgmap="679" id="b679-4">From the record in the foreclosure action it appears that process was issued to the marshal in Alaska on the 21st of December, 1893, and that it was returned by him to the clerk’s office January 2, 1894, with the following in­dorsement by him:</p>
+                <p pgmap="679" id="b679-5">“United States of America,</p>
+                <p pgmap="679" id="b679-6">District of Alaska,</p>
+                <p pgmap="679" id="b679-7">“I hereby certify that the within summons came into my hands for service on the 22d day of December, 1893, and that after due and diligent search neither of the within-­named defendants nor their agents could be found within this district.</p>
+                <p pgmap="679" id="b679-8">“Dated at Juneau, Alaska, this 2d day of January, 1894.”</p>
+                <p pgmap="679" id="b679-9">With such summons and the return made thereon by the marshal was an affidavit made by the attorney for the plaintiff, which, among other things, stated that the de­fendant, the Takou Mining &amp; Milling Company, was a foreign corporation organized and existing under the laws of the state of Oregon, and that the defendant Far­rell was not a resident of the district of Alaska, but re­sided in the city of Portland in the state of Oregon; that the defendant corporation was the mortgagor, and that Farrell purchased from the mortgagor some of the prop­erty subsequent to the execution of the mortgage.</p>
+                <p pgmap="679" id="b679-10">It also appeared from the affidavit that no officer of the defendant corporation resided within the district of Alaska, and that the corporation had no managing agent or representative within that district; that the postoffice address'of its president • was No. 246 Washington street, Portland, Oregon, and that Portland, Oregon, was also the postoffice address of the defendant Farrell; that the summons was duly issued out of the court to the United States marshal for the district of Alaska, with directions to the marshal to serve the same upon the defendants; that personal service of the summons could not be made</p>
+                <p pgmap="680" id="b680-3">on the defendants, and the plaintiff therefore asked an order that the service of the same might be made by pub­lication. Upon this proof an order was made by the judge of the court, which, after reciting that it satisfac­torily appeared to him that the defendants resided out of the district and could not, after due diligence, be found therein, directed the publication of the summons in a newspaper published at Juneau, Alaska, at least once a week for eight weeks. The order was dated January —, 1894, and signed by the judge. The summons was there­after' published as required by the order and a copy of the complaint was sent by mail to each of the defendants at their postoffice address, as directed, and as the defend­ants did not appear, judgment of foreclosure and sale was given, and under the decree the premises were sold and the defendants have the title which passed by the sale. The objection is made by the appellant that there was no sufficient proof that the defendants, after due dili­gence, could not be found, and therefore the court order­ing the publication had no jurisdiction to make the order; that the simple statement of the marshal that defendants could not be found after due and diligent search was no proof that any such search had been made, and that it was necessary to show what had been done in the way of searching for defendants, so that the coürt could itself judge' whether due diligence had been exercised. Tak­ing the -return of the officer, with the other facts proved, we think this contention not well founded.</p>
+                <p pgmap="680(148) 681(26)" id="b680-4">As to the case of the corporation, it appeared that it was a foreign corporation organized under the laws of Oregon, that none of its officers resided within the district of Alaska, and that it had no managing agent or repre­sentative therein, and that its president resided' in Port­land, Oregon. There is also a distinct allegation in the affidavit of the attorney for the plaintiff, used to procure the order for publication, that the defendant Farrell was not a resident of the district of Alaska at the time of the making of the affidavit, and that he resided in the city of Portland, in the state of Oregon, and that personal serv­ice of the summons could not be made on him, and then there is the return of the marshal stating that the sum­mons came into his hands on December 22, 1893, and that after due and diligent search neither of the defendants nor their agents could be found within the district, and that certificate was dated January 2, 1894.</p>
+                <p pgmap="681" id="b681-4">We think on these facts there was sufficient proof to give the judge jurisdiction to determine the question be­fore him, and consequently his order for publication was valid. The order was not alone based on the statement that the defendants could not after due and diligent search be found, but there were the other facts showing the non-­residence of both parties; that there was no managing agent or representative of the corporation defendant with­in the district; and that neither could be personally served with process therein.</p>
+                <p pgmap="681" id="b681-5">The cases referred to by the appellant are not opposed to these views. There is nothing to the contrary in Mc­Cracken v. Flanagan, 127 N.Y. 493, 28 N.E. 385, cited by the appellant. At the time of that decision, § 135 of the Code of Procedure of that state provided that where the person on whom the service of summons is to be made cannot after due diligence be found within the state, and that fact appears to the satisfaction of the court or a judge thereof, etc., art order for publication may be made in the cases mentioned. The affidavit which in the above case was held insufficient stated “that defendant is a nonresi­dent of this state nór can be found therein,” leaving out the statutory words “after due diligence;” and for want of those words, or of language substantially like them, the affidavit was held fatally defective, no proof of any effort to serve being given.</p>
+                <p pgmap="681" id="b681-6">The case of Kennedy v. New York Life Ins. &amp; T. Co., 101 N.Y. 487, 5 N.E. 774, was cited in the opin­ion, and the affidavit in that case stated that the defend­ants “cannot after due diligence be found within this state,” and that they were residents of other states named, and that the summons “was duly issued for said defend­ants, but cannot be served personally upon them by rea­son of such nonresidence.” This affidavit was held to be sufficient, and the court said: “The statement as to due diligence is not absolutely an allegation of a conclusion of law or an opinion, but, in connection with what follows, a statement of facts which tend to establish that due dili­uence has been used.”</p>
+                <p pgmap="682" id="b682-3">In McDonald v. Cooper, 32 F. 745, the circuit court of the district of Oregon held that the affidavit to obtain the order for publication must contain some evidence having a legal tendency to prove that the defendant could not be found in the state after due diligence, and the mere as­sertion of the fact was insufficient, but it was also held that a statement of the facts as to the residence and actual abode of the defendant, which shows beyond a peradven­ture that a search for him within the state would be un­availing, is sufficient. “Beyond a peradventure” is strong­er language than is necessary. It is seldom that such cer­tainty of proof is possible.</p>
+                <p pgmap="682" id="b682-4">We think where the affidavit shows that the defendant is a nonresident of the district and that personal service cannot be made upon him, and the marshal, or other pub­lic officer to whom the summons was delivered, returns it with his indorsement that after due ánd diligent search he cannot find the defendant, such proof is sufficient to give jurisdiction to the court or judge to decide the ques­tion. It is not to be expected that positive proof that the defendant cannot be found within the state or district will always be attainable. Facts must appear from which it will be a just and reasonable inference that the de­fendant could not after due diligence be found, and that due diligence has been exercised, and we think such an inference is reasonable when proof is made that the de­fendant is a nonresident of the state, and there is an af­fidavit that personal service cannot be made upon him within its borders and there is a certificate of the marshal such as appears in this case. There is, too, some presump­tion that the public officer who has received the process for service has done his duty and has made the reasonable and diligent search for the defendant that is required. Such presumption is not alone sufficient in the absence of all proof of other facts, but when such other facts as appear in this case are sworn to, it may add some weight to them as a presumption in favor of the performance of official duty.</p>
+                <p pgmap="682" id="b682-5">Within this rule the proof in this case was enough to give jurisdiction to the judge who granted the order to decide the question.</p>
+                <p pgmap="683" id="b683-3">We have not overlooked the other objections made by the appellant relating to the invalidity of the decree, but we do not regard it necessary to notice them further than to say that we think they are not well founded.</p>
+                <p pgmap="683" id="b683-4">The judgment of the court below is therefore affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="676" ORDERLABEL="664" TYPE="page">
+        <fptr FILEID="tiff_00338_1"/>
+        <fptr FILEID="jpg_00338_1"/>
+        <fptr FILEID="alto_00338_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_676.1" BETYPE="IDREF" FILEID="alto_00338_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="677" ORDERLABEL="665" TYPE="page">
+        <fptr FILEID="tiff_00339_0"/>
+        <fptr FILEID="jpg_00339_0"/>
+        <fptr FILEID="alto_00339_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_677.3" BETYPE="IDREF" FILEID="alto_00339_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="678" ORDERLABEL="666" TYPE="page">
+        <fptr FILEID="tiff_00339_1"/>
+        <fptr FILEID="jpg_00339_1"/>
+        <fptr FILEID="alto_00339_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_678.2" BETYPE="IDREF" FILEID="alto_00339_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="679" ORDERLABEL="667" TYPE="page">
+        <fptr FILEID="tiff_00340_0"/>
+        <fptr FILEID="jpg_00340_0"/>
+        <fptr FILEID="alto_00340_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_679.2" BETYPE="IDREF" FILEID="alto_00340_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="680" ORDERLABEL="668" TYPE="page">
+        <fptr FILEID="tiff_00340_1"/>
+        <fptr FILEID="jpg_00340_1"/>
+        <fptr FILEID="alto_00340_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_680.1" BETYPE="IDREF" FILEID="alto_00340_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="681" ORDERLABEL="669" TYPE="page">
+        <fptr FILEID="tiff_00341_0"/>
+        <fptr FILEID="jpg_00341_0"/>
+        <fptr FILEID="alto_00341_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_681.3" BETYPE="IDREF" FILEID="alto_00341_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="682" ORDERLABEL="670" TYPE="page">
+        <fptr FILEID="tiff_00341_1"/>
+        <fptr FILEID="jpg_00341_1"/>
+        <fptr FILEID="alto_00341_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_682.1" BETYPE="IDREF" FILEID="alto_00341_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="683" ORDERLABEL="671" TYPE="page">
+        <fptr FILEID="tiff_00342_0"/>
+        <fptr FILEID="jpg_00342_0"/>
+        <fptr FILEID="alto_00342_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_683.2" BETYPE="IDREF" FILEID="alto_00342_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b678-10" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_678.12" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b681-6" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_681.6" BETYPE="IDREF" FILEID="alto_00341_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b680-3" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_680.3" BETYPE="IDREF" FILEID="alto_00340_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A80" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_676.21" BETYPE="IDREF" FILEID="alto_00338_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b679-3" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_679.3" BETYPE="IDREF" FILEID="alto_00340_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b680-4" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_680.4" BETYPE="IDREF" FILEID="alto_00340_1"/>
+            <area BEGIN="BL_681.1" BETYPE="IDREF" FILEID="alto_00341_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b679-10" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_679.10" BETYPE="IDREF" FILEID="alto_00340_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b681-4" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_681.4" BETYPE="IDREF" FILEID="alto_00341_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b681-5" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_681.5" BETYPE="IDREF" FILEID="alto_00341_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGc" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_678.8" BETYPE="IDREF" FILEID="alto_00339_1"/>
+            <area BEGIN="BL_678.9" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b682-5" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_682.5" BETYPE="IDREF" FILEID="alto_00341_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b683-4" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_683.4" BETYPE="IDREF" FILEID="alto_00342_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b679-6" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_679.6" BETYPE="IDREF" FILEID="alto_00340_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b683-3" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_683.3" BETYPE="IDREF" FILEID="alto_00342_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b679-9" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_679.9" BETYPE="IDREF" FILEID="alto_00340_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b679-8" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_679.8" BETYPE="IDREF" FILEID="alto_00340_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b682-3" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_682.3" BETYPE="IDREF" FILEID="alto_00341_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b676-18" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_676.19" BETYPE="IDREF" FILEID="alto_00338_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b676-19" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_676.20" BETYPE="IDREF" FILEID="alto_00338_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b676-16" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_676.17" BETYPE="IDREF" FILEID="alto_00338_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b676-17" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_676.18" BETYPE="IDREF" FILEID="alto_00338_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b676-15" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_676.16" BETYPE="IDREF" FILEID="alto_00338_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b679-5" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_679.5" BETYPE="IDREF" FILEID="alto_00340_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b679-4" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_679.4" BETYPE="IDREF" FILEID="alto_00340_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b679-7" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_679.7" BETYPE="IDREF" FILEID="alto_00340_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b678-5" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_678.5" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b678-6" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_678.6" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b678-7" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_678.7" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b682-4" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_682.4" BETYPE="IDREF" FILEID="alto_00341_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b678-8" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_678.10" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b678-9" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_678.11" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

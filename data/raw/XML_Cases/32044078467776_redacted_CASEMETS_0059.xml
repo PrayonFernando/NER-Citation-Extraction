@@ -1,0 +1,657 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0059" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Bonnifield v. Thorp">BONNIFIELD et al. v. THORP</name>
+          <docketnumber>No. 439</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 414</citation>
+          <citation category="parallel" type="bluebook">71 F. 924</citation>
+          <decisiondate>1896-01-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:03Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00213_1" MIMETYPE="image/tiff" CHECKSUM="0f44f0d79af2bd1656e9de29b77bf074" CHECKSUMTYPE="MD5" SIZE="5942">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00213_1.tif"/>
+      </file>
+      <file ID="tiff_00214_0" MIMETYPE="image/tiff" CHECKSUM="598577a8c54841006f8610b7fa6e3164" CHECKSUMTYPE="MD5" SIZE="24202">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00214_0.tif"/>
+      </file>
+      <file ID="tiff_00214_1" MIMETYPE="image/tiff" CHECKSUM="962cb483c8037d632a879173936bb91b" CHECKSUMTYPE="MD5" SIZE="56166">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00214_1.tif"/>
+      </file>
+      <file ID="tiff_00215_0" MIMETYPE="image/tiff" CHECKSUM="90385d8406419a4415773f383f6271e4" CHECKSUMTYPE="MD5" SIZE="54432">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00215_0.tif"/>
+      </file>
+      <file ID="tiff_00215_1" MIMETYPE="image/tiff" CHECKSUM="95b67fbfb83564270d6a3df68c1d7789" CHECKSUMTYPE="MD5" SIZE="51152">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00215_1.tif"/>
+      </file>
+      <file ID="tiff_00216_0" MIMETYPE="image/tiff" CHECKSUM="3b7582d224918c133506028f43a2f756" CHECKSUMTYPE="MD5" SIZE="48992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00216_0.tif"/>
+      </file>
+      <file ID="tiff_00216_1" MIMETYPE="image/tiff" CHECKSUM="9324f6996ad4bf2abd707c6c4d9f0f60" CHECKSUMTYPE="MD5" SIZE="52872">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00216_1.tif"/>
+      </file>
+      <file ID="tiff_00217_0" MIMETYPE="image/tiff" CHECKSUM="67544e7250797d08b571c8af62827335" CHECKSUMTYPE="MD5" SIZE="51916">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00217_0.tif"/>
+      </file>
+      <file ID="tiff_00217_1" MIMETYPE="image/tiff" CHECKSUM="ed0c5d05937b88602a9ed8f90b2ff855" CHECKSUMTYPE="MD5" SIZE="52938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00217_1.tif"/>
+      </file>
+      <file ID="tiff_00218_0" MIMETYPE="image/tiff" CHECKSUM="acb124940891f525567ea67d7ee9fc96" CHECKSUMTYPE="MD5" SIZE="53982">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00218_0.tif"/>
+      </file>
+      <file ID="tiff_00218_1" MIMETYPE="image/tiff" CHECKSUM="1236596eae027f8089381d499aa74374" CHECKSUMTYPE="MD5" SIZE="22400">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00218_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00213_1" MIMETYPE="image/jpg" CHECKSUM="7206574cd3e18aeab57472b09179d042" CHECKSUMTYPE="MD5" SIZE="61355">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00213_1.jpg"/>
+      </file>
+      <file ID="jpg_00214_0" MIMETYPE="image/jpg" CHECKSUM="a84ec60cd1d4c86b0bdef5a343af124e" CHECKSUMTYPE="MD5" SIZE="107615">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00214_0.jpg"/>
+      </file>
+      <file ID="jpg_00214_1" MIMETYPE="image/jpg" CHECKSUM="ea941e7439402184332b4517e090026e" CHECKSUMTYPE="MD5" SIZE="216399">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00214_1.jpg"/>
+      </file>
+      <file ID="jpg_00215_0" MIMETYPE="image/jpg" CHECKSUM="ba45b0c75d86731cd527003da6b10545" CHECKSUMTYPE="MD5" SIZE="199315">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00215_0.jpg"/>
+      </file>
+      <file ID="jpg_00215_1" MIMETYPE="image/jpg" CHECKSUM="1b1f10bbcfeb728a36ae1c547e769bdb" CHECKSUMTYPE="MD5" SIZE="196281">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00215_1.jpg"/>
+      </file>
+      <file ID="jpg_00216_0" MIMETYPE="image/jpg" CHECKSUM="553fc94cc8b6c45196244a69c2070489" CHECKSUMTYPE="MD5" SIZE="180318">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00216_0.jpg"/>
+      </file>
+      <file ID="jpg_00216_1" MIMETYPE="image/jpg" CHECKSUM="987d56eb91b523930a61b09d6c315797" CHECKSUMTYPE="MD5" SIZE="211057">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00216_1.jpg"/>
+      </file>
+      <file ID="jpg_00217_0" MIMETYPE="image/jpg" CHECKSUM="0cdff6395d2c6be5b89a70dde7d3a9bd" CHECKSUMTYPE="MD5" SIZE="195933">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00217_0.jpg"/>
+      </file>
+      <file ID="jpg_00217_1" MIMETYPE="image/jpg" CHECKSUM="8270b0e4b482756150101b3712592fa7" CHECKSUMTYPE="MD5" SIZE="202821">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00217_1.jpg"/>
+      </file>
+      <file ID="jpg_00218_0" MIMETYPE="image/jpg" CHECKSUM="692928e75a44243dfbae4d5c04af7722" CHECKSUMTYPE="MD5" SIZE="192548">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00218_0.jpg"/>
+      </file>
+      <file ID="jpg_00218_1" MIMETYPE="image/jpg" CHECKSUM="51c49b9e1676f19122d280ad0d86ad50" CHECKSUMTYPE="MD5" SIZE="124650">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00218_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00213_1" MIMETYPE="text/xml+gzip" CHECKSUM="ebf6dc3a9a0b38a2a17aa3ee1dd87765" CHECKSUMTYPE="MD5" SIZE="1737">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00213_1.xml.gz"/>
+      </file>
+      <file ID="alto_00214_0" MIMETYPE="text/xml+gzip" CHECKSUM="8bcf4f5f273fef2cbef31f89b8a15ced" CHECKSUMTYPE="MD5" SIZE="6002">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00214_0.xml.gz"/>
+      </file>
+      <file ID="alto_00214_1" MIMETYPE="text/xml+gzip" CHECKSUM="51be1bd6741b2a6a08781d3e89c2fb98" CHECKSUMTYPE="MD5" SIZE="13220">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00214_1.xml.gz"/>
+      </file>
+      <file ID="alto_00215_0" MIMETYPE="text/xml+gzip" CHECKSUM="05e0c47d35bf12cbd2363628ab4208ec" CHECKSUMTYPE="MD5" SIZE="12364">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00215_0.xml.gz"/>
+      </file>
+      <file ID="alto_00215_1" MIMETYPE="text/xml+gzip" CHECKSUM="8289e65eb6f28fe330c63dc04a5a529b" CHECKSUMTYPE="MD5" SIZE="12491">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00215_1.xml.gz"/>
+      </file>
+      <file ID="alto_00216_0" MIMETYPE="text/xml+gzip" CHECKSUM="6811cb3799b25f6a7fe95c251e554455" CHECKSUMTYPE="MD5" SIZE="12028">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00216_0.xml.gz"/>
+      </file>
+      <file ID="alto_00216_1" MIMETYPE="text/xml+gzip" CHECKSUM="6fae717275f617c64586d0dddc47b4d3" CHECKSUMTYPE="MD5" SIZE="12644">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00216_1.xml.gz"/>
+      </file>
+      <file ID="alto_00217_0" MIMETYPE="text/xml+gzip" CHECKSUM="f99c94cd0d622472e9a4243bd6323537" CHECKSUMTYPE="MD5" SIZE="12679">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00217_0.xml.gz"/>
+      </file>
+      <file ID="alto_00217_1" MIMETYPE="text/xml+gzip" CHECKSUM="ff799984399d84606a3a38fb3185d626" CHECKSUMTYPE="MD5" SIZE="12586">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00217_1.xml.gz"/>
+      </file>
+      <file ID="alto_00218_0" MIMETYPE="text/xml+gzip" CHECKSUM="60364d8d416013d18732c6e72b44f050" CHECKSUMTYPE="MD5" SIZE="13001">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00218_0.xml.gz"/>
+      </file>
+      <file ID="alto_00218_1" MIMETYPE="text/xml+gzip" CHECKSUM="d1aa6785a143b3ffafa078135233906c" CHECKSUMTYPE="MD5" SIZE="6140">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00218_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0059" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="414" lastpage="424">
+              <court pgmap="426" id="b426-6">District Court, D. Alaska.</court>
+              <docketnumber pgmap="426" id="b426-5">No. 439.</docketnumber>
+              <citation pgmap="426" id="b426-3">71 F. 924</citation>
+              <parties pgmap="426" id="b426-4">BONNIFIELD et al. v. THORP.</parties>
+              <decisiondate pgmap="426" id="b426-7">January 25, 1896.</decisiondate>
+              <attorneys pgmap="427" id="b427-6">J. F. Maloney and Johnson &amp; Heid, for plaintiff.</attorneys>
+              <attorneys pgmap="427" id="b427-7">Bostwick &amp; Crews, for defendant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="427" id="b427-8">DELANEY, District Judge.</author>
+                <p pgmap="427(137) 428(429) 429(167)" id="b427-9">While the courts are vested with a large discretion in determining applications of this character, its exercise must be confined to the limits prescribed by statute, which, so far as this court is concerned, are laid down in section 102, pp. 242, 243, Hill’s Code Or. This section provides that the court may, in its discretion, “relieve a party from a judgment, order or other proceeding, taken against him through his mistake, inadvertence, surprise, or excusable neglect.” The only testimony submitted in support of the application is the affidavit of one of the attorneys for the defendant. The allegations therein set forth are, substan­tially, to the effect that he was under the impression that the time to answer was 60 days, but on examination of his office docket on the morning of the 23d of December, 1895, he learned that the answer was due'that day; that he went to the office of Johnson &amp; Heid, the attorneys of record for the plaintiffs, to get- an extension of time to answer, but found neither of them in their office when he called, at 10 o’clock a. m.-; that he was engaged in his office the balance of said day, and did not have an oppor­tunity to see said attorneys until the next morning, when he saw Johnson going to the Juneau wharf with his hand baggage; that he spoke to him, and mentioned the fact that the time to answer had expired, and wanted an ex­tension; and that Johnson referred him to Heid; that he soon after prepared a stipulation, and went to Johnson &amp; Heid’s office, and after he had stated that his client had been unexpectedly called to the state of Washington, and that he could not prepare an answer without his presence, the attorneys for the plaintiffs then and there refused to extend the time; that affiant then stated that, unless they gave- him time to answer by stipulation, it would compel him to' go to Sitka for an order of court for such exten­sion; that thereafter, about 2:30 o’clock p. m., he saw the plaintiff Bonnifield, who signed, with defendant’s at­torneys, a stipulation extending the time until the 1st of March, 1896; that it was then too late to reach the - mail steamer, as the ferryboat had gone to Douglas Island; that his reasons for having Bonnifield sign the stipulation in person was that he had discharged his attorney, Malony, and no notice of substitution of any other attorney had been given; that, upon the argument of the demurrer, said Bonnifield was unrepresented by counsel, Johnson &amp; Heid appearing for plaintiff Heid; that he is informed and believes that they have no authority to appear for Bonni­field, and that any action taken by them for him is unau­thorized; that they have never advised defendant or his attorneys that they were authorized to act for Bonnifield, but, on the other hand, stated in open court that they were not so authorized; that the default was taken through mistake, inadvertence, and neglect, as above fully set forth; that he relied upon the stipulation with Bonnifield, and therefore did not go to Sitka to get an extension, and also relied upon the fact that the attorneys for plain­tiff Heid, knowing full well that he intended to answer, would not attempt to take a default or judgment. He also states that the defendant has fully stated the facts in the case to affiant, and from such statement affiant be­lieves that defendant has a good and substantial defense on the merits. These allegations comprise all the testi­mony submitted by the defendant that is pertinent to the motion under consideration. Counter affidavits were filed by each of the plaintiffs’ attorneys, denying the allegation that they are not the attorneys for plaintiff Bonnifield, and denying that they stated in open court that they were not authorized to represent him. The paramount question to be determined from this testimony, is, does it show such mistake, inadvertence, surprise", or excusable neglect as will warrant the court to set aside the default? Incidental­ly to this, the questions as to whether plaintiff Bonnifield had an attorney of record when the stipulation of the 24th of December, 1895, extending the time, was made, and the effect of such stipulation, are presented. The inciden­tal questions will be first disposed of.</p>
+                <p pgmap="429(227) 430(140)" id="b429-4">The summons and complaint both bear the signatures of Johnson &amp; Heid and J. F. Malony, plaintiffs’ attorneys, and the complaint is verified by Bonnifield. Service of a notice of appearance for the defendant by his attorneys is admitted May 4, 1895, by “J. F. Malony and Johnson &amp; Heid, Plaintiffs’ Attorneys,” as is also an admission of service, of same date, of notice of motion to make more definite and certain. Service of the demurrer is admitted in the same manner, and in all the proceedings with refer­ence to a writ of attachment and its discharge, subsequent­ly occurring in the cause, notices are addressed by defend­ant’s attorneys to “J- F. Malony and Messrs. Johnson &amp; Heid, Attorneys for Plaintiffs.” On the 19th day of No­vember, ' 1895, the plaintiff Bonnifield served a written notice upon Malony, discontinuing his services, which, however, was not filed until the 10th day of January, 1896, the day upon which all the papers having reference to this motion were filed. The record discloses no changes as to Johnson &amp; Heid, nor any proceedings for any change at all, as provided by statute (Hill’s Code, pp. 688, 689, §§ 1042, 1043). Upon the record, then, as it appeared upon the 26th day of December, 1895 (the day the default was entered), the same attorneys who signed the original summons and complaint were still the attorneys for the plaintiffs. An inference might be suggested from the af­fidavit submitted in behalf of the defendant that Malony was the attorney for the plaintiff Bonnifield only, and that Johnson &amp; Heid were the attorneys for Heid only. The rule, however, is too well settled to need the citation of any authorities, that a separate appearance must be so stated, and a general appearance for plaintiffs and defend­ants is an appearance by all the attorneys jointly, for all the clients; so that, upon the record in the case, whatever the status of Malony may have (been after he had been discharged by Bonnifield, Johnson &amp; Heid were the at­torneys of record for the plaintiffs upon the 24th day of December, 1895, when the stipulation in question was signed by Bonnifield.</p>
+                <p pgmap="430" id="b430-4">There is no principle of practice better settled in our American law than that an appearance in court by an at­torney for a client carries with it the presumption of au­thority to appear. This rule was early laid down by Chief Justice Marshall, speaking for the supreme court of the United States, in the case of Osborn v. Bank, 9 Wheat. 739. The learned chief justice there says: “Certain gen­tlemen, first licensed by the government, are admitted by order of court to stand at the bar, with a general capacity to represent all the suitors in the court. The appearance of any one of these gentlemen in a cause has always been received as evidence of his authority; and no additional evidence, so far as we are informed, has ever been re­quired. This practice, we believe, has existed from the first establishment of our courts, and no departure from it has been made in those of any state or of the Union.”</p>
+                <p pgmap="430(91) 431(17)" id="b430-5">From the multitude of authorities affirming the rule here stated, the following have been collated: Hill v. Men­denhall, 21 Wall. 453; Insurance Co. v. Oakley, 9 Paige (N.Y.) 496; Kelso v. Steigar, 75 Md. 376, 24 A. 18; Steffe v. Railroad Co., 156 Mass. 262, 30 N.E. 1137; Bank v. Fellows, 28 N.H. 302; Taylor v. New Orleans, 41 La.Ann. 891, 6 So. 723; Norberg v. Heineman, 59 Mich. 210, 26 N.W. 481; Reynolds v. Fleming, 30 Kan. 106, 1 P. 61; Vorce v. Page, 28 Neb. 294, 44 N.W. 452; Garrison v. McGowan, 48 Cal. 592; Carter v. Kosh­land, 12 Or. 292, 8 P. 556.</p>
+                <p pgmap="431" id="b431-3">The burden of proof rests upon him who denies the authority. Weeks, Attys. § 344. The presumption of au­thority is not overcome by affidavit of opposing counsel, challenging authority, if the attorney appearing presents counter affidavit, asserting authority. Ring v. Glass Co., 46 Mo.App. 374. And allegations of belief are not suf­ficient. Facts must be stated. Valle v. Picton, 91 Mo. 207, 3 S.W. 860.</p>
+                <p pgmap="431" id="b431-4">It may be observed here that the absence of any testi­mony on the part of Bonnifield concerning this matter is quite significant, as it appears that he was in Juneau on the 24th of December, 1895, when he signed the stipula­tion.</p>
+                <p pgmap="431" id="b431-5">The practice is also well settled that the authority for an attorney to appear cannot be called into question ex­cept by a motion directly for that purpose, based upon af­fidavits, showing, in the first instance, prima facie a want of authority; and, upon the hearing, such want must be established by clear and positive proofs. The proceeding may be by motion to vacate the appearance, to dismiss the action, or for an order requiring authority to be shown; and, in cases where the validity of an order, judgment, or decree depends on the jurisdiction of the court over the person of a party, acquired solely by an appearance of attorneys, the authority of such attorney may be attacked upon a motion to vacate the order, judgment, or decree. In the absence of some such proceeding, directly challeng­ing the authority, the court will not hear or inquire into the question of the authority of the attorney for his appear­ance. Hollins v. Railroad Co. (Sup.) 11 N.Y.S. 27; Insurance Co. v. Pinner, 43 N.J.Eq. 52, 10 A. 184; Hill v. Mendenhall, supra; McKiernon v. Patrick, 4 How. (Miss.) 336; Howe v. Anderson (Ky.) 14 S.W. 216; Reynolds v. Fleming, supra; Williams v. Canal Co., 13 Colo. 469, 22 P. 806, affirmed in Dillon v. Rand, 15 Colo. 372, 25 P. 185; Winters v. Means, 25 Neb. 241, 41 N.W. 157; Turner v. Caruthers, 17 Cal. 432; People v. Mariposa Co., 39 Cal. 683.</p>
+                <p pgmap="432" id="b432-2">While, under the authorities just cited, this question is not regularly presented, I have been inclined to pass upon it for the purpose of settling the future practice of this court; and the conclusion reached is that the appearance by Johnson &amp; Heid, as plaintiffs’ attorneys, upon the sum­mons and complaint, is an appearance for both plaintiffs, and they ever since have been, and now are, such attorneys.</p>
+                <p pgmap="432(332) 433(51)" id="b432-3">This brings us to the consideration of the stipulation made on the 24th of December, 1895, by and between Bonnifield, as plaintiff, and the attorneys for the defend­ant, extending the time to answer. The court has no doubt whatever that this stipulation must be disregarded. The line of demarkation between the respective rights and pow­ers of an attorney and client is clearly defined. The cause of action, the claim or demand sued upon, the subject-­matter of the litigation, are within the exclusive control of the client; and the attorney may not impair, comprom­ise, settle, surrender, or destroy them without the client’s consent. Holker v. Parker, 7 Cranch, 436; Bates v. Voor­hees, 20 N.Y. 525; Whitehall Tp. v. Keller, 100 Pa. 105; Dickerson v. Hodges, 43 N.J.Eq. 45, 10 A. 111; Moulton v. Bowker, 115 Mass. 40; Crotty v. Eagle’s Adm’r (W.­Va.) 13 S.E. 59; Mitchell v. Cotton, 3 Fla. 136; Weath­ers v. Ray, 4 Dana (Ky.) 474; Peters v. Lawson, 66 Tex. 336, 17 S.W. 734; Repp v. Wiles (Ind.App.) 29 N.E. 441; Martin v. Insurance Co. (Iowa) 52 N.W. 534; Herriman v. Shomon, 24 Kan. 387; Stoll v. Sheldon, 13 Neb. 207, 13 N.W. 201. But all the proceedings in court to enforce the remedy, to bring the claim, demand, cause of action, or subject-matter of the suit to hearing, trial, determination, judgment, and execution, are within the exclusive control of the attorney. “All acts, in and .out of court, necessary or incidental to the prosecution or management of the suit, and which affect the remedy only, and not the cause of action,” are to be performed by the attorney. Moulton v. Bowker, supra; State v. Hawkins, 28 Mo. 366; Cheever v. Mirrick, 2 N.H. 376; Anon., 1 Wend. 109; Webb v. Dill, 18 Abb.Prac.N.Y. 264; Hughes v. Hollingsworth, 1 Murph.(N.C.) 146; Thomp­son v. Pershing, 86 Ind. 304; Wilson v. Spring, 64 Ill. 16; Smith v. Mulliken, 2 Minn. 319 (Gil. 273); Bank v. Geary, S Pet. 99. A footnote to the latter case, pub­lished in Book 8 of the Lawyers’ Co-Operative Company’s Edition of the United States Supreme Court Reports (page 60), presents a voluminous citation of authorities as to what acts an attorney may perform in the progress of an action.</p>
+                <p pgmap="433" id="b433-4">The rule now under consideration has been followed by the courts of the Pacific states, and the supreme court of California has declared the rule in the following lan­guage : “A party to an action may appear in his own prop­er person or by attorney, but he cannot do both. If he appears by attorney, he must be heard through him; and it is indispensable to the decorum of the court and the due and orderly conduct of a cause that such attorneys shall have the management and control of the action, and his acts go unquestioned by any one except the party he rep­resents. So long as he remains the attorney of record, the court cannot recognize any other as having the man­agement of the case. If the party, for any cause, becomes dissatisfied with his attorney, the law points, out a remedy. He may move the court for leave to change his attorney. Until that has been done, the client cannot assume control of the case. While there is an attorney of record, no stipulation as to the conduct or disposal of the action should be entertained by the court, unless the same is signed or assented to by such attorneys. Such a rule is not only indispensable to the orderly conduct of the cause, but is likewise a safeguard to the client against the in­trigues of his adversary. Moreover (without being un­derstood as making any reference to the present case), it is proper to add that to entirely ignore the attorney of rec­ord, and enter, without his consent, into a secret negoti­ation with his client touching the management of his case, is unbecoming the dignity of the profession, and is de­structive of that courtesy which is due from one member to another.” Commissioners v. Younger, 29 Cal. 147.</p>
+                <p pgmap="433(46) 434(30)" id="b433-5">The doctrine here laid down has been repeatedly reaf­firmed by the supreme court of that state. The rule now under consideration has also received the weight of leg­islative sanction. The statutes of Oregon provide “that where a party appears by attorney, the written proceed­ings must be in the name of the attorney, who is the sole representative of his client as between him and the adverse party.” Hill’s Code, p. 680, § 1032.</p>
+                <p pgmap="434" id="b434-4">A stipulation extending the time to answer is certainly one of the proceedings in or incident to the progress of a cause pending in court; and, as Bonnifield was repre­sented by attorneys when the stipulation was made, his action cannot be recognized by the court. Additional force is given to the importance of this rule when it is considered that Bonnifield has a coplaintiff. The action on the part of the plaintiffs is joint, and, upon the cause of action set out in the complaint, both must recover, or neither. The right to a default on the part of the plain­tiffs was a vested one on the 24th day of December, 1895; and on that day one plaintiff refuses to waive the right, and the other stipulates to do so. Who is to have his way? This dilemma exemplifies in a striking manner the inextricable confusion into which judicial proceedings would be thrown if clients, and not their attorneys, were permitted to control and manage causes in court. The stipulation, therefore, must be held for naught.</p>
+                <p pgmap="434(197) 435(171)" id="b434-5">Upon the main question, the court is not satisfied, from the showing presented, that there is such mistake, inad­vertence, surprise, or excusable neglect as will justify the vacation of this default. It appears from the affidavits submitted on the part of the defendant that, although the defendant’s attorneys had been under the impression that they had 60 days to answer, they did learn from their office docket on the morning of the 23d of December, 1895, that the time to answer expired that day. After learning this, they could not have labored under any mistake, in­advertence, or surprise concerning the time to answer. The only step taken that day to guard against the default was a call at the office of the plaintiffs’ attorneys at 10 o’clock that forenoon, and they were not found. About 10 o’clock the next morning, and after the right to a de­fault had accrued, the affiant met Mr. Johnson on the street, with his hand baggage, going to the Juneau wharf, apparently on his way to take the regular mail steamer, which was then at Douglas Island, bound thence for Sitka. Here a conversation took place concerning an extension of time, and Mr. Johnson referred the affiant to Mr. Heid. A call on Mr. Heid was immediately made, and the ex­tension was refused. Affiant testifies that he stated at this time that, unless an extension was granted, he would be compelled to go to Sitka, and ask the court for fur­ther time; but nothing further was done except to obtain the stipulation from Bonnifield about 2:30 o’clock p. m., at which time it appears the steamer was still at Douglas Island. Although the ferry had then left Juneau, there certainly must have been an opportunity between 10 o’clock a. m. and 2:30 o’clock p. m. for counsel for defendant to reach the steamer. Mr. Johnson reached her after the conversation on the street occurred, came to Sitka by her, and on the 26th of December, 1895, took his order for de­fault. The court feels constrained to add that a like dili­gence on the part of counsel for defendant would have prevented the entry of the order.</p>
+                <p pgmap="435(247) 436(121)" id="b435-4">It further appears from the showing presented in behalf of the defendant that he had fully stated the facts in the case to his attorneys, and upon such statement they had advised him that he had a good and substantial defense on the merits. Attorneys for the defendant were, then, in the position, on the 23d day of December, to prepare, and, in the absence of their client, verify, and serve, an answer. That counsel were engaged in their office, or did not have an opportunity to see the attorneys for the plain­tiff, is not a sufficient excuse. Neither can any reliance which defendant’s attorneys may have placed in any knowl­edge of opposing counsel as to defendant’s intention to an­swer be considered. Defendant’s attorneys may have been, and doubtless were, disappointed that their request for an extension was refused; and, under the amenities and cour­tesies which are usually exchanged among the gentlemen of the bar, it would seem that the request might have been granted. But the question for the court to determine is one of law, and not of professional ethics; and, on the showing made by the defendant, the case is not one of such mistake, inadvertence, surprise, or excusable neglect as the law contemplates. Butler v. Morse (N.H.) 23 A. 90; Craig v. Wroth, 47 Md. 281; Skinner v. Terry, 107 N.C. 103, 12 S.E. 118; Landa v. McGehee (Tex.Sup.) 19 S.W. 516; Railroad Co. v. Flinn (Ind.App.) 28 N. E. 201; Devenbaugh v. Nifer (Ind.App.) 29 N.E. 923; Elton v. Brettschneider, 33 Ill.App. 355; Elder v. Bank, 12 Kan. 242; Haggin v. Lorentz, 13 Mont. 406, 34 P. 607; Thomas v. Chambers, 14 Mont. 423, 36 P. 814; City of Helena v. Brule, 15 Mont. 429, 39 P. 456, 852; Importing Co. v. Hogan (Mont.) 41 P. 135; Blaine v. Briscoe (Mont.) 41 P. 1002; Jenkins v. Telegraph Co. (Cal.) 31 P. 570; Shearman v. Jorgensen, 106 Cal. 483, 39 P. 863; Harbaugh v. Water Co. (Cal.) 41 P. 792; Myers v. Landrum, 4 Wash. 762, 31 P. 33; Haynes v. B. F. Schwartz Co., 5 Wash. 433, 32 P. 220; Deering v. Quivey, 26 Or. 566, 38 P. 710.</p>
+                <p pgmap="436" id="b436-5">It follows from these views that the motion to vacate the default must be denied, and the plaintiffs will have judgment in accordance with the demand of the summons and complaint.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="426" ORDERLABEL="414" TYPE="page">
+        <fptr FILEID="tiff_00213_1"/>
+        <fptr FILEID="jpg_00213_1"/>
+        <fptr FILEID="alto_00213_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_426.1" BETYPE="IDREF" FILEID="alto_00213_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="427" ORDERLABEL="415" TYPE="page">
+        <fptr FILEID="tiff_00214_0"/>
+        <fptr FILEID="jpg_00214_0"/>
+        <fptr FILEID="alto_00214_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_427.2" BETYPE="IDREF" FILEID="alto_00214_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="428" ORDERLABEL="416" TYPE="page">
+        <fptr FILEID="tiff_00214_1"/>
+        <fptr FILEID="jpg_00214_1"/>
+        <fptr FILEID="alto_00214_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_428.2" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="429" ORDERLABEL="417" TYPE="page">
+        <fptr FILEID="tiff_00215_0"/>
+        <fptr FILEID="jpg_00215_0"/>
+        <fptr FILEID="alto_00215_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_429.3" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="430" ORDERLABEL="418" TYPE="page">
+        <fptr FILEID="tiff_00215_1"/>
+        <fptr FILEID="jpg_00215_1"/>
+        <fptr FILEID="alto_00215_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_430.2" BETYPE="IDREF" FILEID="alto_00215_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="431" ORDERLABEL="419" TYPE="page">
+        <fptr FILEID="tiff_00216_0"/>
+        <fptr FILEID="jpg_00216_0"/>
+        <fptr FILEID="alto_00216_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_431.2" BETYPE="IDREF" FILEID="alto_00216_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="432" ORDERLABEL="420" TYPE="page">
+        <fptr FILEID="tiff_00216_1"/>
+        <fptr FILEID="jpg_00216_1"/>
+        <fptr FILEID="alto_00216_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_432.1" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="433" ORDERLABEL="421" TYPE="page">
+        <fptr FILEID="tiff_00217_0"/>
+        <fptr FILEID="jpg_00217_0"/>
+        <fptr FILEID="alto_00217_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_433.3" BETYPE="IDREF" FILEID="alto_00217_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="434" ORDERLABEL="422" TYPE="page">
+        <fptr FILEID="tiff_00217_1"/>
+        <fptr FILEID="jpg_00217_1"/>
+        <fptr FILEID="alto_00217_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_434.2" BETYPE="IDREF" FILEID="alto_00217_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="435" ORDERLABEL="423" TYPE="page">
+        <fptr FILEID="tiff_00218_0"/>
+        <fptr FILEID="jpg_00218_0"/>
+        <fptr FILEID="alto_00218_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_435.3" BETYPE="IDREF" FILEID="alto_00218_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="436" ORDERLABEL="424" TYPE="page">
+        <fptr FILEID="tiff_00218_1"/>
+        <fptr FILEID="jpg_00218_1"/>
+        <fptr FILEID="alto_00218_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_436.2" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-4" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.5" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-4" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.4" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-7" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.7" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-6" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.6" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-5" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.5" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-4" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.4" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-3" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.3" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-4" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.4" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-5" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.5" BETYPE="IDREF" FILEID="alto_00215_1"/>
+            <area BEGIN="BL_431.1" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b427-6" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_427.9" BETYPE="IDREF" FILEID="alto_00214_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b427-7" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_427.10" BETYPE="IDREF" FILEID="alto_00214_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b427-8" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_427.11" BETYPE="IDREF" FILEID="alto_00214_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b427-9" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_427.12" BETYPE="IDREF" FILEID="alto_00214_0"/>
+            <area BEGIN="BL_428.1" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            <area BEGIN="BL_429.1" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-2" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.3" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-4" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.4" BETYPE="IDREF" FILEID="alto_00217_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-5" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.6" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-5" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.5" BETYPE="IDREF" FILEID="alto_00217_0"/>
+            <area BEGIN="BL_434.1" BETYPE="IDREF" FILEID="alto_00217_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-5" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.5" BETYPE="IDREF" FILEID="alto_00217_1"/>
+            <area BEGIN="BL_435.1" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-4" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.4" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            <area BEGIN="BL_430.1" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-3" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.4" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b435-4" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_435.4" BETYPE="IDREF" FILEID="alto_00218_0"/>
+            <area BEGIN="BL_436.1" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-3" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.4" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            <area BEGIN="BL_433.1" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-5" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.4" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

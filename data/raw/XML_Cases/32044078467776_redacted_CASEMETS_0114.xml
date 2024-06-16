@@ -1,0 +1,569 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0114" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Griffin v. American Gold Min. Co.">GRIFFIN v. AMERICAN GOLD MIN. CO.</name>
+          <docketnumber>No. 712</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 791</citation>
+          <citation category="parallel" type="bluebook">114 F. 887</citation>
+          <decisiondate>1902-03-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:10Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00402_0" MIMETYPE="image/tiff" CHECKSUM="d0284058687d381c06978b53a09e831a" CHECKSUMTYPE="MD5" SIZE="15466">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00402_0.tif"/>
+      </file>
+      <file ID="tiff_00402_1" MIMETYPE="image/tiff" CHECKSUM="6db9488ee40d67a9ed944b99dbaa14e3" CHECKSUMTYPE="MD5" SIZE="23258">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00402_1.tif"/>
+      </file>
+      <file ID="tiff_00403_0" MIMETYPE="image/tiff" CHECKSUM="1a381755699d153821ae17d77e42a851" CHECKSUMTYPE="MD5" SIZE="55804">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00403_0.tif"/>
+      </file>
+      <file ID="tiff_00403_1" MIMETYPE="image/tiff" CHECKSUM="452a640ac387d1eb2c30ce7151d1349e" CHECKSUMTYPE="MD5" SIZE="55536">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00403_1.tif"/>
+      </file>
+      <file ID="tiff_00404_0" MIMETYPE="image/tiff" CHECKSUM="423bf712fdaeb84048562ca7fb973a15" CHECKSUMTYPE="MD5" SIZE="55832">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00404_0.tif"/>
+      </file>
+      <file ID="tiff_00404_1" MIMETYPE="image/tiff" CHECKSUM="3ac01397c22f714e536ad845916fc17d" CHECKSUMTYPE="MD5" SIZE="53042">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00404_1.tif"/>
+      </file>
+      <file ID="tiff_00405_0" MIMETYPE="image/tiff" CHECKSUM="ad86aca5b2d5180884d0aeac041e74a1" CHECKSUMTYPE="MD5" SIZE="54032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00405_0.tif"/>
+      </file>
+      <file ID="tiff_00405_1" MIMETYPE="image/tiff" CHECKSUM="1f4fab06d1cba83e1aac2397c4faa280" CHECKSUMTYPE="MD5" SIZE="26248">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00405_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00402_0" MIMETYPE="image/jpg" CHECKSUM="c504121658137a6df6d0504b4fb85b8a" CHECKSUMTYPE="MD5" SIZE="92174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00402_0.jpg"/>
+      </file>
+      <file ID="jpg_00402_1" MIMETYPE="image/jpg" CHECKSUM="4bb839950f92338fb8e98dcef26e6f15" CHECKSUMTYPE="MD5" SIZE="123187">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00402_1.jpg"/>
+      </file>
+      <file ID="jpg_00403_0" MIMETYPE="image/jpg" CHECKSUM="6696bd89dd8e9fa0eeb1822b2d71a621" CHECKSUMTYPE="MD5" SIZE="203160">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00403_0.jpg"/>
+      </file>
+      <file ID="jpg_00403_1" MIMETYPE="image/jpg" CHECKSUM="e9ae765e40e618c2c3650b9f69c778b5" CHECKSUMTYPE="MD5" SIZE="208105">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00403_1.jpg"/>
+      </file>
+      <file ID="jpg_00404_0" MIMETYPE="image/jpg" CHECKSUM="929aa2402c2372d2bd0336d5b9ce280a" CHECKSUMTYPE="MD5" SIZE="199235">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00404_0.jpg"/>
+      </file>
+      <file ID="jpg_00404_1" MIMETYPE="image/jpg" CHECKSUM="229e2a911e4acbbf32d0b87a2bc1cfbc" CHECKSUMTYPE="MD5" SIZE="208868">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00404_1.jpg"/>
+      </file>
+      <file ID="jpg_00405_0" MIMETYPE="image/jpg" CHECKSUM="e3d36f9b60aedb2eba3349d96f320455" CHECKSUMTYPE="MD5" SIZE="196009">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00405_0.jpg"/>
+      </file>
+      <file ID="jpg_00405_1" MIMETYPE="image/jpg" CHECKSUM="d1d3d46cad0e79700c21091cca79d6a8" CHECKSUMTYPE="MD5" SIZE="126298">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00405_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00402_0" MIMETYPE="text/xml+gzip" CHECKSUM="818429dbcb53c45f89daa913960fd4ed" CHECKSUMTYPE="MD5" SIZE="4538">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00402_0.xml.gz"/>
+      </file>
+      <file ID="alto_00402_1" MIMETYPE="text/xml+gzip" CHECKSUM="6e7ee1238720b20d8f9135723ad020eb" CHECKSUMTYPE="MD5" SIZE="5630">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00402_1.xml.gz"/>
+      </file>
+      <file ID="alto_00403_0" MIMETYPE="text/xml+gzip" CHECKSUM="1c849f9a3ac96d913ae40bf1291ca927" CHECKSUMTYPE="MD5" SIZE="13086">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00403_0.xml.gz"/>
+      </file>
+      <file ID="alto_00403_1" MIMETYPE="text/xml+gzip" CHECKSUM="48bda38e79fb5161efc9705d5e5ddd4e" CHECKSUMTYPE="MD5" SIZE="12679">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00403_1.xml.gz"/>
+      </file>
+      <file ID="alto_00404_0" MIMETYPE="text/xml+gzip" CHECKSUM="55629dcf10bead71a4b8cf1080158c05" CHECKSUMTYPE="MD5" SIZE="12878">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00404_0.xml.gz"/>
+      </file>
+      <file ID="alto_00404_1" MIMETYPE="text/xml+gzip" CHECKSUM="8c833627e19707ec7d63fa5d54761246" CHECKSUMTYPE="MD5" SIZE="12422">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00404_1.xml.gz"/>
+      </file>
+      <file ID="alto_00405_0" MIMETYPE="text/xml+gzip" CHECKSUM="5e8c371348298d371fdd928069f87bb4" CHECKSUMTYPE="MD5" SIZE="12949">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00405_0.xml.gz"/>
+      </file>
+      <file ID="alto_00405_1" MIMETYPE="text/xml+gzip" CHECKSUM="b4f436e08dd27f66f82a9fe655d6ec97" CHECKSUMTYPE="MD5" SIZE="6851">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00405_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0114" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="791" lastpage="798">
+              <court pgmap="803" id="b803-19">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="803" id="b803-18">No. 712.</docketnumber>
+              <citation pgmap="803" id="b803-16">114 F. 887</citation>
+              <parties pgmap="803" id="b803-17">GRIFFIN v. AMERICAN GOLD MIN. CO.</parties>
+              <decisiondate pgmap="803" id="b803-20">March 10, 1902.</decisiondate>
+              <judges pgmap="804" id="b804-9">Before GILBERT and ROSS, Circuit Judges, and HAWLEY, District Judge.</judges>
+              <attorneys pgmap="804" id="b804-7">R. F. Lewis, John G. Heid, and Alfred Sutro, for plaintiff in error.</attorneys>
+              <attorneys pgmap="804" id="b804-8">Lorenzo S. B. Sawyer, for defendant in error.</attorneys>
+              <opinion type="majority">
+                <author pgmap="804" id="b804-10">ROS.S, Circuit Judge.</author>
+                <p pgmap="804(117) 805(438) 806(87)" id="b804-11">This action was commenced November 20, 1893, in the district court for the district of Alaska, by Martin W. Mur­ray against the Nowell Gold Mining Company, to recover $25,000, with interest, under and by virtue of a written contract entered into August 21, 1891, by and between Murray and a corporation styled “Silver Bow Basin Min­ing Company.” By that contract Murray agreed and cove­nanted, for the considerations therein stated, to sell to the Silver Bow Company a certain mining lode claim, situated in the Harris mining district of Alaska, called the “Morris G,” which the contract declared to be fully described “in the deed of the party of the first part [Murray] to tl/e party of the second part [the Silver Bow Company] of even date herewith, conveying said premises, and also the field notes of the United States deputy surveyor as set forth in the application of the party of the first part for a United States patent to said location known as the ‘Morris G,’ which application bears date the 13th day of August, 1891.” The contract contained a further covenant on the part of Murray “to prosecute said application for a patent in the land office to a final destination [determination], and upon the issuance of a receiver’s receipt for said ground on said application for a patent, and upon the payment of the sum of twenty-five thousand dollars as hereinafter set forth, the party of the first part [Murray] hereby covenants and agrees that the deed heretofore mentioned and set forth, which by agreement of the parties is placed in escrow in the hands of A. K. Delaney, shall be forwarded, together with such receiver’s receipt, to the commissioner of the gen­eral land office at Washington, with any necessary instruc­tions of the party of the first part, to the end that the patent for said Morris G. lode may be issued to the party of the second part [the Silver Bow Company].” The agreement on the part of the Silver Bow Company to pay for the claim thereby agreed to be purchased was as follows: “Five thousand dollars on the 1st day of June, 1892, and twenty thousand dollars on the 1st day of August, 1892, provided, that on the 1st day of June, 1892, the said party of the first part shall have successfully prosecuted in the land office his application for a patent for said premises, and shall have come into possession under and by virtue of such proceedings in the land office of a receiver’s receipt, equivalent to a patent for said claim; hut in case the party of the first part shall not have received said receiver’s re­ceipt for the 1st of June, 1892, then the whole sum of twenty-five thousand dollars shall be payable on the 1st day of August, 1892, provided, as before, that the party of the first part shall have successfully prosecuted his applica­tion for a patent for said premises and obtained said re­ceiver’s receipt. And it is further agreed that in case the proceedings upon said application for a patent shall not have been perfected, and the said receiver’s receipt issued, by the 1st day of August, 1892, the party of the second part hereby agrees, at any time within one year from said date, to pay the said party of the first part the sum of twenty-five thousand dollars, the full consideration price of the said premises, whenever within that time the said party of the first part shall deliver to the party of the sec­ond part such receiver’s receipt, together with the deed above mentioned and the said necessary instructions to the general land office, whereby the patent to the said prem­ises may be issued by the general land office to the party of the second part.”</p>
+                <p pgmap="806" id="b806-4">And the contract concluded with this clause: “This agreement is drawn in triplicate, and collateral thereto a deed of the party of the first part, conveying the said prem­ises to the party of the second part, describing said prem­ises by field notes of the United States surveyor, as set forth in said application for patent, and containing the usual covenants of warranty, and which said deed, together with one triplicate of this agreement, is placed in the hands of A. K. Delaney, in escrow, to be disposed of in accordance with the terms of this agreement, or returned to the said party of the first part in case such agreement is not finally perfected and carried out, and one triplicate of this agreement is de­livered to each of the parties hereto, respectively.”</p>
+                <p pgmap="806" id="b806-5">The complaint alleged, among other things, that on the 14th day of December, 1891, the Silver Bow Company, in consideration of the sum of $5, and of the assumption in writing by the defendant Nowell Gold Mining Company of all the contracts, debts, and obligations of the Silver Bow Company, the latter sold and conveyed to the Nowell Com­pany all of its property, rights, and assets within the dis­trict of Alaska, in consideration of which the Nowell Com­pany did, in and by a written agreement, annexed to and made a part of the complaint, assume, among other obliga­tions, the contract of the Silver Bow Company with the plaintiff. Pending the action Frank W. Griffin was sub­stituted as plaintiff, as successor in interest of Murray, and the American Gold Mining Company was likewise sub­stituted as defendant, as successor in interest of the Nowell Gold Mining Company, and the case continued as between these parties, standing in the shoes, respectively, of the original parties to the action. Prior to the substitution of Griffin as plaintiff, an amended complaint was filed by Murray, in which it was alleged, among other things, that:</p>
+                <blockquote pgmap="807" id="b807-3">“Although said defendant has refused and still refuses to pay said sum of twenty-five thousand dollars, or any part thereof, nevertheless during the mining season of 1894 said defendant went upon said Morris G. lode claim and took possession of the same, and worked and mined said Morris G lode claim, and removed therefrom large quantities of earth and gravel containing gold and other precious metals, and still retains undisputed possession of said claim.”</blockquote>
+                <p pgmap="807" id="b807-4">The averments last quoted were put in issue by the answer of the American Gold Mining Company to the amended complaint, as well as the allegations in respect to the as­sumption by the Nowell Gold Mining Company of the ob­ligations imposed on the Silver Bow Company by reason of its agreement to purchase and pay for the Morris G lode claim. The only other defense interposed by the de­fendant American Gold Mining Company was that on the 30th day of June, 1894, Murray conveyed the Morris G lode claim to the present plaintiff, Griffin, who has ever since re­mained the owner thereof, and that—</p>
+                <blockquote pgmap="807(239) 808(13)" id="b807-5">“If it was ever bound, or could be held liable, on the con­cract between the plaintiff and the Silver Bow Basin Min­ing Company, yet it says that plaintiff ought not to have and maintain this suit against it, for that it is not true, as alleged by plaintiff, that he complied with all the terms and conditions of said contract, and defendant especially denies said allegation or performance by plaintiff; that in truth and in fact, while under the terms of said contract plaintiff was to obtain a receiver’s receipt, and give such instructions and perform such acts as were necessary to enable the Silver Bow Basin Mining Company to obtain a patent, to about thirteen (13) acres of ground embraced within the exterior limits of the said Morris G. lode as described in said contract, yet the receiver’s receipt finally given and entry allowed only embraced about six (6) acres of said ground; that the said ground embraced in the ex­terior boundaries of said Morris G lode claim as described in said contract conflicted with prior valid mineral loca­tions, to wit, with discovery claim, embraced in U. S. sur­veys Nos. 77, 78, 79 and 80, to the extent of about seven acres, which said prior locations were adjudged by the land department to have the prior and better right to said land so in conflict. The precise extent and nature of said con­fiict is shown in the plat hereto attached and made a part hereof.”</blockquote>
+                <p pgmap="808" id="b808-4">The case was tried with a jury, and a verdict returned for the defendant by direction of the court. The assign­ments of error present the questions hereinafter considered, which are the only ones we deem it necessary to mention.</p>
+                <p pgmap="808" id="b808-5">On the trial the plaintiff offered in evidence the writ­ten agreement of the Nowell Gold Mining Company, by which for valuable considerations it undertook to assume the obligations of the Silver Bow Basin Mining Company in respect to the purchase of the Morris G lode claim, which agreement was excluded by the court below on objections thereto interposed by the defendant. In that there was manifest error, not only because the alleged making of that agreement was one of the important issues in the case, but also for the feason that it was contemporaneous with, ex­planatory of, and, indeed, by express reference, was made a part of, the deed from Murray to the Silver Bow Com­pany, which the court did admit in evidence. Whether or not the error so committed demands a reversal of the judg­ment depends upon the view taken of other questions in the case.</p>
+                <p pgmap="808(193) 809(200)" id="b808-6">It appeared from the evidence that on the 4th day of October, 1880, the Discovery placer claim was located, by whom does not appear, and that an application for a patent therefor was filed in the local land office October 19, 1888. Meanwhile, to wit, June 4, 1881, the Morris G lode claim was located by Murray, and so located as to include a portion of the surface of the prior placer location. Notice of the application for a patent for the placer claim was duly posted and published, and, no adverse claim being made, the claimant was on March 14, 1891, permitted to make mineral entry No. 32, embracing lots Nos. 77, 78, 79, and 80 of the government surveys, upon which en­try a patent was issued September 18, 1891. Notwithstand­ing the fact that the Discovery placer claim included about 6.33 acres of .what Murray located as the Morris G lode claim and contracted to sell to the Silver Bow Company, he interposed no adverse claim or protest against the ap­plication of the placer claimant for a patent therefor. August 13, 1891, Murray filed his application for a patent for the Morris G lode claim, notice of which was published from August 20 to November 12, 1891, during which time the claimant of the Discovery placer claim filed no adverse claim or protest, notwithstanding the fact that the Mor­ris G lode claim, as surveyed, covered 6.33 acres of the ground embraced by lots 77, 78, 79, and 80 of the placer claimant. The result was that Murray was allowed to make mineral entry No. 39 for the Morris G lode claim. But on the 16th day of December, 1891, the Silver Bow Basin Mining Company, patentee of the Discovery placer claim, filed its protest against issuing a patent upon the mineral entry 39 for the Morris G lode claim; the ground alleged being that: “There is no lode or vein or rock in place bearing the precious metals within the exterior boundaries of said part of said Morris G lode claim which overlaps said lots numbered 77, 78, 79, and 80, as above described, known to protestant, and no vein, lode, or rock in place bearing the precious metals was known at the time the said company, by its grantors, made application for patent for said placer claim.”</p>
+                <p pgmap="809" id="b809-3">That question of fact, the evidence showed, was de­termined in favor of the protestant by the land department, and accordingly Murray’s mineral entry 39 was held for cancellation in so far as it.conflicted with the prior Dis­covery placer location, and the subsequent entry and patent of the Morris G lode claim allowed only for about 7 of the 13 acres Murray bound himself to convey. That the de­termination of such questions of fact by the land depart­ment. of the government is conclusive upon the courts has been so often decided as to render a citation of the cases unnecessary. There was, therefore, no error on the part of the court below in refusing to submit to the jury, at the request of the plaintiff, the questions: “(1) Was the Morris G lode or vein in existence at the date of the appli­cation for patent for the Discovery placer claims, situated in Silver Bow basin, Alaska? (2) If so, was the Morris G. lode or vein known to exist within the boundaries of said Discovery placer mining claims at the date of the ap­plication for a United States patent for said Discovery plac­er claims?”</p>
+                <p pgmap="809(21) 810(170)" id="b809-4">The contention on the part of the plaintiff in error that he and his predecessors in interest were prevented by the wrongful act of the predecessor in interest of the present defendant from performance of the plaintiff’s agreement cannot be sustained. The Silver Bow Company, in con­testing the application of the Morris G lode claimant, was but protecting its own prior placer location, and was un­der no obligation of any character to stand by and permit the claimant of the subsequent lode location to include there­in a part of its ground. The case, in truth, was one in which the plaintiff below contracted to sell what he did not own and could not convey, and, as the contract was entire, there was nothing left for the trial court to do, as the case was presented, but to instruct the jury to return a ver­dict for the defendant. The error first pointed out be­came immaterial, and the evidence in support of the alleged taking by the defendant of earth and gravel from the lode claim was too indefinite and uncertain, even if material to the action brought.</p>
+                <p pgmap="810" id="b810-3">The judgment is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="803" ORDERLABEL="791" TYPE="page">
+        <fptr FILEID="tiff_00402_0"/>
+        <fptr FILEID="jpg_00402_0"/>
+        <fptr FILEID="alto_00402_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_803.3" BETYPE="IDREF" FILEID="alto_00402_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="804" ORDERLABEL="792" TYPE="page">
+        <fptr FILEID="tiff_00402_1"/>
+        <fptr FILEID="jpg_00402_1"/>
+        <fptr FILEID="alto_00402_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_804.2" BETYPE="IDREF" FILEID="alto_00402_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="805" ORDERLABEL="793" TYPE="page">
+        <fptr FILEID="tiff_00403_0"/>
+        <fptr FILEID="jpg_00403_0"/>
+        <fptr FILEID="alto_00403_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_805.3" BETYPE="IDREF" FILEID="alto_00403_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="806" ORDERLABEL="794" TYPE="page">
+        <fptr FILEID="tiff_00403_1"/>
+        <fptr FILEID="jpg_00403_1"/>
+        <fptr FILEID="alto_00403_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_806.2" BETYPE="IDREF" FILEID="alto_00403_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="807" ORDERLABEL="795" TYPE="page">
+        <fptr FILEID="tiff_00404_0"/>
+        <fptr FILEID="jpg_00404_0"/>
+        <fptr FILEID="alto_00404_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_807.2" BETYPE="IDREF" FILEID="alto_00404_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="808" ORDERLABEL="796" TYPE="page">
+        <fptr FILEID="tiff_00404_1"/>
+        <fptr FILEID="jpg_00404_1"/>
+        <fptr FILEID="alto_00404_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_808.2" BETYPE="IDREF" FILEID="alto_00404_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="809" ORDERLABEL="797" TYPE="page">
+        <fptr FILEID="tiff_00405_0"/>
+        <fptr FILEID="jpg_00405_0"/>
+        <fptr FILEID="alto_00405_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_809.2" BETYPE="IDREF" FILEID="alto_00405_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="810" ORDERLABEL="798" TYPE="page">
+        <fptr FILEID="tiff_00405_1"/>
+        <fptr FILEID="jpg_00405_1"/>
+        <fptr FILEID="alto_00405_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_810.2" BETYPE="IDREF" FILEID="alto_00405_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b808-6" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_808.6" BETYPE="IDREF" FILEID="alto_00404_1"/>
+            <area BEGIN="BL_809.1" BETYPE="IDREF" FILEID="alto_00405_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b808-5" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_808.5" BETYPE="IDREF" FILEID="alto_00404_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b808-4" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_808.4" BETYPE="IDREF" FILEID="alto_00404_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b809-3" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_809.4" BETYPE="IDREF" FILEID="alto_00405_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b806-5" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_806.5" BETYPE="IDREF" FILEID="alto_00403_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b806-4" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_806.4" BETYPE="IDREF" FILEID="alto_00403_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b807-3" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_807.3" BETYPE="IDREF" FILEID="alto_00404_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b807-4" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_807.4" BETYPE="IDREF" FILEID="alto_00404_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b807-5" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_807.5" BETYPE="IDREF" FILEID="alto_00404_0"/>
+            <area BEGIN="BL_808.1" BETYPE="IDREF" FILEID="alto_00404_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b810-3" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_810.4" BETYPE="IDREF" FILEID="alto_00405_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b804-11" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_804.11" BETYPE="IDREF" FILEID="alto_00402_1"/>
+            <area BEGIN="BL_805.1" BETYPE="IDREF" FILEID="alto_00403_0"/>
+            <area BEGIN="BL_806.1" BETYPE="IDREF" FILEID="alto_00403_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b804-10" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_804.10" BETYPE="IDREF" FILEID="alto_00402_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b803-20" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_803.20" BETYPE="IDREF" FILEID="alto_00402_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b804-9" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_804.9" BETYPE="IDREF" FILEID="alto_00402_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b804-8" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_804.8" BETYPE="IDREF" FILEID="alto_00402_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b809-4" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_809.5" BETYPE="IDREF" FILEID="alto_00405_0"/>
+            <area BEGIN="BL_810.1" BETYPE="IDREF" FILEID="alto_00405_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b803-16" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_803.16" BETYPE="IDREF" FILEID="alto_00402_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b803-17" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_803.17" BETYPE="IDREF" FILEID="alto_00402_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b803-18" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_803.18" BETYPE="IDREF" FILEID="alto_00402_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b803-19" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_803.19" BETYPE="IDREF" FILEID="alto_00402_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b804-7" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_804.7" BETYPE="IDREF" FILEID="alto_00402_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

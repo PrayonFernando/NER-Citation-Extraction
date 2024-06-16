@@ -1,0 +1,503 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0111" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Alaska United Gold Min. Co. v. Muset">ALASKA UNITED GOLD MIN. CO. v. MUSET</name>
+          <docketnumber>No. 710</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 767</citation>
+          <citation category="parallel" type="bluebook">114 F. 66</citation>
+          <decisiondate>1902-02-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:08Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00390_0" MIMETYPE="image/tiff" CHECKSUM="17f0b8302a7c73416a57e8b8e06b25a8" CHECKSUMTYPE="MD5" SIZE="6478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00390_0.tif"/>
+      </file>
+      <file ID="tiff_00390_1" MIMETYPE="image/tiff" CHECKSUM="0b2f0bbbc264e41d13ac3d06ea711070" CHECKSUMTYPE="MD5" SIZE="3890">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00390_1.tif"/>
+      </file>
+      <file ID="tiff_00391_0" MIMETYPE="image/tiff" CHECKSUM="e3cf702ddf8aa0a9403d867d3b57c96f" CHECKSUMTYPE="MD5" SIZE="3838">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00391_0.tif"/>
+      </file>
+      <file ID="tiff_00391_1" MIMETYPE="image/tiff" CHECKSUM="dff31fb3f0d445f23a66f5d702690a56" CHECKSUMTYPE="MD5" SIZE="25444">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00391_1.tif"/>
+      </file>
+      <file ID="tiff_00392_0" MIMETYPE="image/tiff" CHECKSUM="13324c7713cef8d10776ecb58ccc94ce" CHECKSUMTYPE="MD5" SIZE="53500">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00392_0.tif"/>
+      </file>
+      <file ID="tiff_00392_1" MIMETYPE="image/tiff" CHECKSUM="3f2314b0f29171ab8fd6f97da6586c94" CHECKSUMTYPE="MD5" SIZE="56722">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00392_1.tif"/>
+      </file>
+      <file ID="tiff_00393_0" MIMETYPE="image/tiff" CHECKSUM="4d32ac3d5cccc60657e00a9f5a63b9f6" CHECKSUMTYPE="MD5" SIZE="56076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00393_0.tif"/>
+      </file>
+      <file ID="tiff_00393_1" MIMETYPE="image/tiff" CHECKSUM="8b3e0cacf26272ba59b00b360a0693a5" CHECKSUMTYPE="MD5" SIZE="23200">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00393_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00390_0" MIMETYPE="image/jpg" CHECKSUM="09285f952627c86056740a207b4fa1bc" CHECKSUMTYPE="MD5" SIZE="58348">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00390_0.jpg"/>
+      </file>
+      <file ID="jpg_00390_1" MIMETYPE="image/jpg" CHECKSUM="fc8cb7d156eead90c5080142ae913573" CHECKSUMTYPE="MD5" SIZE="55789">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00390_1.jpg"/>
+      </file>
+      <file ID="jpg_00391_0" MIMETYPE="image/jpg" CHECKSUM="5a1533ce3163a565c3ee7af27f31bb05" CHECKSUMTYPE="MD5" SIZE="46228">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00391_0.jpg"/>
+      </file>
+      <file ID="jpg_00391_1" MIMETYPE="image/jpg" CHECKSUM="1b0067bc9aabcbd717bacf260c84ed36" CHECKSUMTYPE="MD5" SIZE="115848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00391_1.jpg"/>
+      </file>
+      <file ID="jpg_00392_0" MIMETYPE="image/jpg" CHECKSUM="3b0ba36813b9764de617898dfbb873ae" CHECKSUMTYPE="MD5" SIZE="192141">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00392_0.jpg"/>
+      </file>
+      <file ID="jpg_00392_1" MIMETYPE="image/jpg" CHECKSUM="58e1d47496b31c56ba798a676e6a0359" CHECKSUMTYPE="MD5" SIZE="217207">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00392_1.jpg"/>
+      </file>
+      <file ID="jpg_00393_0" MIMETYPE="image/jpg" CHECKSUM="8035049ea0fe71b7e0737c6d967ee268" CHECKSUMTYPE="MD5" SIZE="203528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00393_0.jpg"/>
+      </file>
+      <file ID="jpg_00393_1" MIMETYPE="image/jpg" CHECKSUM="6bb0d7e952d95146e737fe1102685806" CHECKSUMTYPE="MD5" SIZE="110538">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00393_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00390_0" MIMETYPE="text/xml+gzip" CHECKSUM="ef33643c5c4c0d25717ae7d676feae90" CHECKSUMTYPE="MD5" SIZE="1835">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00390_0.xml.gz"/>
+      </file>
+      <file ID="alto_00390_1" MIMETYPE="text/xml+gzip" CHECKSUM="c66d6bce1579bb4ad00d1f7df15870c3" CHECKSUMTYPE="MD5" SIZE="877">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00390_1.xml.gz"/>
+      </file>
+      <file ID="alto_00391_0" MIMETYPE="text/xml+gzip" CHECKSUM="c507a69ac6669fe4702e63a81af4d752" CHECKSUMTYPE="MD5" SIZE="889">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00391_0.xml.gz"/>
+      </file>
+      <file ID="alto_00391_1" MIMETYPE="text/xml+gzip" CHECKSUM="fe1c3dd53285e024846aaaa8ab780730" CHECKSUMTYPE="MD5" SIZE="6409">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00391_1.xml.gz"/>
+      </file>
+      <file ID="alto_00392_0" MIMETYPE="text/xml+gzip" CHECKSUM="f923099ba25d68c38baf35ce97ebcb92" CHECKSUMTYPE="MD5" SIZE="12962">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00392_0.xml.gz"/>
+      </file>
+      <file ID="alto_00392_1" MIMETYPE="text/xml+gzip" CHECKSUM="0e1273f1021682544dce867caa3edcf7" CHECKSUMTYPE="MD5" SIZE="13473">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00392_1.xml.gz"/>
+      </file>
+      <file ID="alto_00393_0" MIMETYPE="text/xml+gzip" CHECKSUM="d21e1f315717fa5f9774c75304e4c946" CHECKSUMTYPE="MD5" SIZE="13332">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00393_0.xml.gz"/>
+      </file>
+      <file ID="alto_00393_1" MIMETYPE="text/xml+gzip" CHECKSUM="78c9991e617ec304084bc980ba027c67" CHECKSUMTYPE="MD5" SIZE="5940">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00393_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0111" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="767" lastpage="774">
+              <court pgmap="779" id="b779-5">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="779" id="b779-4">No. 710.</docketnumber>
+              <citation pgmap="779" id="b779-2">114 F. 66</citation>
+              <parties pgmap="779" id="b779-3">ALASKA UNITED GOLD MIN. CO. v. MUSET.</parties>
+              <decisiondate pgmap="779" id="b779-6">Feb. 3, 1902.</decisiondate>
+              <judges pgmap="782" id="b782-5">Before GILBERT and ROSS, Circuit Judges, and HAWLEY, District Judge.</judges>
+              <attorneys pgmap="782" id="b782-3">Malony &amp; Cobb and John Flournoy, for plaintiff in er­ror.</attorneys>
+              <attorneys pgmap="782" id="b782-4">Lorenzo S. B. Sawyer and Crews &amp; Hellenthal, for de­fendant in error.</attorneys>
+              <opinion type="majority">
+                <author pgmap="782" id="b782-6">GILBERT, Circuit Judge,</author>
+                <p pgmap="782" id="ArD">after stating the case as above, delivered the opinion of the court.</p>
+                <p pgmap="782(130) 783(139)" id="b782-7">A motion is made to dismiss the writ of error. The prin­cipal ground of the motion, involving the only question which we find it necessary to discuss, is that the writ of error was issued and filed 20 days before the assignments of error were filed, whereas rule 11 of this court provides that no writ of error shall be allowed until the assignment of errors shall have been filed. The record shows, however, that on the day when the assignments of error were filed, the plaintiff in error applied to the court for leave to withdraw its writ of error, and to correct the proceedings by present­ing a new petition, writ, and bond at the same time with the assignments of error. The application was opposed by counsel for the defendant in error. In view of that fact and the failure of the court to allow the application, we think the present motion should be denied. The substantial re­sult secured by rule 11 is that the assignment of error shall be on file at the time when the writ of error is taken out and the citation issued. The defendant in error has no ground of complaint if he had notice of the filing of these papers, and in open court opposed the application for leave to file a new writ. To dismiss the writ of error would have the effect only of imposing upon the plaintiff in error the additional burden of bringing up a new transcript on a new writ of error, the time for suing out the same having not yet expired.</p>
+                <p pgmap="783" id="b783-3">The assignments of error present two principal questions —First, was Pope, the foreman in charge of the mine, a fel­low servant with the deceased? Second, if he was not a fellow servant, and the plaintiff in error was answerable for his negligence, did the plaintiff in error supply an ade­quate means of protecting the deceased against danger from blasts by providing a means of escape from the shaft other than the hoist?</p>
+                <p pgmap="783(206) 784(438) 785(312)" id="b783-4">Upon a consideration of the whole evidence concerning the duties of the foreman of the Seven Hundred mine, and his relation to the plaintiff in error, we are of the opinion that the trial court committed no error in ruling that he was the representative of the plaintiff in error. The plain­tiff in error was a corporation owning large mining and milling properties on Douglas Island, Alaska, all of which were placed under the charge of a single superintendent. Its properties consisted of two distinct mines, and a sep­arate stamp mill for each. The men employed in each mine were engaged in different classes of work. They consisted of blacksmiths, engineers, miners, and drill men, with different shifts for each branch of the work. Pope, the foreman, had general supervision of the Seven Hundred mine, and of all the men employed therein or connected therewith. There was evidence that he hired and discharged the men and directed their work. He was, we think, the general superintendent in charge of that branch of the business of the plaintiff in error. Although he was called a foreman, his duties were evidently more than those of an' ordinary foreman. It is not shown that Week, the gen­eral superintendent, had any direct supervision over the men, or ever inspected the premises in which they worked, or was present at any time to see personally that they were supplied with proper appliances and a safe place wherein to work, or that it was his duty so to do. One of the wit­nesses, who was a workman at the Seven Hundred mine, testified: “I have no idea who was the superintendent of the mine. No man showed me anything, only Pope, or gave me any orders. They told me Mr. Week was superintendent, but I didn’t know it.’’ We think, within the principle of the case of Railroad Co. v. Baugh, 149 U.S. 368, 13 S.Ct. 914, 37 L.Ed. 772, the representative of the defendant cor­poration, so far as the question of the duty which the cor­poration owed to the employés who worked in and about the Seven Hundred mine was concerned, was Pope, and not Week, notwithstanding the fact that Week was the su­perior officer of Pope, and was the disbursing officer who had the power to approve or disapprove the acts of the fore­man in hiring and discharging the men, and through whom the corporation paid all the employés of its various prop­erties upon time checks furnished by the foreman of each. The plaintiff in error was a corporation whose home office was at a distance from the place where its properties were situated. Being a corporation, it could act only by means of officers and agents. It placed all of its properties and business on Douglas Island in charge of a general super­intendent. It placed its four distinct and separate depart­ments of business each under the charge of a foreman or superintendent, who was subject to the general superin­tendent, but who was given substantially the entire control of that department. The general superintendent had no personal relation to either of the four departments. He had no office or place of business at either of the mines or the mills. It is not shown that he was ever present at the Seven Hundred mine, or inspected it, or had personal knowledge of its operation or its appliances. The only of­ficer or agent of the corporation who had such knowledge of that mine was Pope. He it was who stood in the place of the master to the men. His duty it was to see that the men were supplied with the necessary appliances for their safety. Before he cut off the supply of compressed air which operated the hoist in the shaft, on the morning of the accident, it was his duty to see that the men therein working were furnished other safe means of escape there­from. In relation to that duty, he stood in the place of the corporation, and for his neglect to discharge it the cor­poration is liable. He was not a mere foreman of a gang of men, as was the case of the negligent foreman in Rail­road Co. v. Peterson, 162 U.S. 346, 16 S.Ct. 843, 40 L.Ed. 994, and Mining Co. v. Whelan, 168 U.S. 86, 18 S.Ct. 40, 42 L.Ed. 390. He was the representative of the corporation placed in charge of its servants in a separate department of its business, and as such he was the vice principal, within the definition furnished in the Baugh Case. The plaintiff in error could not meet the full meas­ure of its duty as a master to its servants by placing its vari­ous properties under the charge of a general superintendent, who was not a superintendent in fact as to any particular branch of its service, and say that, because the general super­intendent who had no knowledge of the want of proper appliances or defects in machinery or apparatus was not negligent, the master shall not be held for damages for the negligence in those respects of the foreman, who had the particular supervision and control over its property and its servants. The plaintiff in error owed a positive duty to its employés, — the duty of affording them a safe place to work, and safe tools to work with. That duty was neces­sarily delegated to a representative, — an individual who, for that purpose, should stand in the corporation’s place. We have no hesitation in saying that that duty as to the men employed in the Seven Hundred mine was delegated to the foreman, Pope.</p>
+                <p pgmap="785(127) 786(133)" id="b785-3">The question of the contributory negligence of the de­ceased was properly left to the jury. Some of the testimony tended to show that the plaintiff iñ error, through its fore­man, Pope, had made ample provision for the safety of the workmen in the shaft by providing a ladder whereby they might escape after' blasts were lighted, and that the ladder would have been available for the deceased but for the negligence of himself or that of his fellow workmen in the shaft. There was other evidence, however, to the effect that the men who worked in the shaft had been working there and setting off blasts for three weeks without a ladder, and that when on the morning of October 9th, the day of the accident, a ladder was ready in the blacksmith shop, the foreman instructed Pianfetti, one of the fellow workmen with the deceased, to place it in the shaft that day at noon. The accident occurred a little before noon. There was other evidence that the workmen in the shaft had on several occasions mentioned the absence of the ladder in that shaft, and that none of them knew or heard? that the ladder was ready for them until after the accident. It was for the jury, under these circumstances, to say whether or not the deceased was guilty of contributory negligence, and whether the negligence of his fellow workman was the cause of his death, and there was no error in submitting that question to the jury, as the court did, with proper instructions.</p>
+                <p pgmap="786" id="b786-4">The judgment of the district court is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="779" ORDERLABEL="767" TYPE="page">
+        <fptr FILEID="tiff_00390_0"/>
+        <fptr FILEID="jpg_00390_0"/>
+        <fptr FILEID="alto_00390_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_779.1" BETYPE="IDREF" FILEID="alto_00390_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="780" ORDERLABEL="768" TYPE="page">
+        <fptr FILEID="tiff_00390_1"/>
+        <fptr FILEID="jpg_00390_1"/>
+        <fptr FILEID="alto_00390_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_780.2" BETYPE="IDREF" FILEID="alto_00390_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="781" ORDERLABEL="769" TYPE="page">
+        <fptr FILEID="tiff_00391_0"/>
+        <fptr FILEID="jpg_00391_0"/>
+        <fptr FILEID="alto_00391_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_781.2" BETYPE="IDREF" FILEID="alto_00391_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="782" ORDERLABEL="770" TYPE="page">
+        <fptr FILEID="tiff_00391_1"/>
+        <fptr FILEID="jpg_00391_1"/>
+        <fptr FILEID="alto_00391_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_782.2" BETYPE="IDREF" FILEID="alto_00391_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="783" ORDERLABEL="771" TYPE="page">
+        <fptr FILEID="tiff_00392_0"/>
+        <fptr FILEID="jpg_00392_0"/>
+        <fptr FILEID="alto_00392_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_783.2" BETYPE="IDREF" FILEID="alto_00392_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="784" ORDERLABEL="772" TYPE="page">
+        <fptr FILEID="tiff_00392_1"/>
+        <fptr FILEID="jpg_00392_1"/>
+        <fptr FILEID="alto_00392_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_784.2" BETYPE="IDREF" FILEID="alto_00392_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="785" ORDERLABEL="773" TYPE="page">
+        <fptr FILEID="tiff_00393_0"/>
+        <fptr FILEID="jpg_00393_0"/>
+        <fptr FILEID="alto_00393_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_785.2" BETYPE="IDREF" FILEID="alto_00393_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="786" ORDERLABEL="774" TYPE="page">
+        <fptr FILEID="tiff_00393_1"/>
+        <fptr FILEID="jpg_00393_1"/>
+        <fptr FILEID="alto_00393_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_786.2" BETYPE="IDREF" FILEID="alto_00393_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b783-3" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_783.4" BETYPE="IDREF" FILEID="alto_00392_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b783-4" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_783.5" BETYPE="IDREF" FILEID="alto_00392_0"/>
+            <area BEGIN="BL_784.1" BETYPE="IDREF" FILEID="alto_00392_1"/>
+            <area BEGIN="BL_785.1" BETYPE="IDREF" FILEID="alto_00393_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b779-4" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_779.5" BETYPE="IDREF" FILEID="alto_00390_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b779-5" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_779.6" BETYPE="IDREF" FILEID="alto_00390_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b779-6" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_779.7" BETYPE="IDREF" FILEID="alto_00390_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b779-2" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_779.3" BETYPE="IDREF" FILEID="alto_00390_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b779-3" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_779.4" BETYPE="IDREF" FILEID="alto_00390_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArD" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_782.8" BETYPE="IDREF" FILEID="alto_00391_1"/>
+            <area BEGIN="BL_782.9" BETYPE="IDREF" FILEID="alto_00391_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b785-3" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_785.4" BETYPE="IDREF" FILEID="alto_00393_0"/>
+            <area BEGIN="BL_786.1" BETYPE="IDREF" FILEID="alto_00393_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b786-4" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_786.4" BETYPE="IDREF" FILEID="alto_00393_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b782-6" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_782.7" BETYPE="IDREF" FILEID="alto_00391_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b782-7" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_782.10" BETYPE="IDREF" FILEID="alto_00391_1"/>
+            <area BEGIN="BL_783.1" BETYPE="IDREF" FILEID="alto_00392_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b782-4" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_782.5" BETYPE="IDREF" FILEID="alto_00391_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b782-5" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_782.6" BETYPE="IDREF" FILEID="alto_00391_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b782-3" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_782.4" BETYPE="IDREF" FILEID="alto_00391_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

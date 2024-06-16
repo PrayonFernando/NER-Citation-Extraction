@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0036" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Lear v. United States">LEAR v. UNITED STATES</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 242</citation>
+          <citation category="parallel" type="bluebook">50 F. 65</citation>
+          <decisiondate>1892-02-19</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:00Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00127_1" MIMETYPE="image/tiff" CHECKSUM="492725deda943bf8aba261e71cc9dcc3" CHECKSUMTYPE="MD5" SIZE="27478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00127_1.tif"/>
+      </file>
+      <file ID="tiff_00128_0" MIMETYPE="image/tiff" CHECKSUM="b7c1c538591d4f1321b1cd4fd74166bc" CHECKSUMTYPE="MD5" SIZE="54650">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00128_0.tif"/>
+      </file>
+      <file ID="tiff_00128_1" MIMETYPE="image/tiff" CHECKSUM="fac71e9b4c4af6f10683e11fb17c7b01" CHECKSUMTYPE="MD5" SIZE="33618">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00128_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00127_1" MIMETYPE="image/jpg" CHECKSUM="e7324d18a93a86056928e23969d0fc37" CHECKSUMTYPE="MD5" SIZE="129232">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00127_1.jpg"/>
+      </file>
+      <file ID="jpg_00128_0" MIMETYPE="image/jpg" CHECKSUM="de4fb5c9f7ea93abe97f544b1d88374a" CHECKSUMTYPE="MD5" SIZE="192466">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00128_0.jpg"/>
+      </file>
+      <file ID="jpg_00128_1" MIMETYPE="image/jpg" CHECKSUM="123199a30b75980f36b4b4978945a97f" CHECKSUMTYPE="MD5" SIZE="157191">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00128_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00127_1" MIMETYPE="text/xml+gzip" CHECKSUM="e786fdec53f82091d00e3930f75cfd4d" CHECKSUMTYPE="MD5" SIZE="7652">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00127_1.xml.gz"/>
+      </file>
+      <file ID="alto_00128_0" MIMETYPE="text/xml+gzip" CHECKSUM="6e4e5aa18d21013cf51664795941fdd7" CHECKSUMTYPE="MD5" SIZE="12827">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00128_0.xml.gz"/>
+      </file>
+      <file ID="alto_00128_1" MIMETYPE="text/xml+gzip" CHECKSUM="7a633d62795599deb64beacf20dd673d" CHECKSUMTYPE="MD5" SIZE="8456">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00128_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0036" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="242" lastpage="244">
+              <court pgmap="254" id="b254-10">District Court, D. Alaska.</court>
+              <citation pgmap="254" id="b254-8">50 F. 65</citation>
+              <parties pgmap="254" id="b254-9">LEAR v. UNITED STATES.</parties>
+              <decisiondate pgmap="254" id="b254-11">Feb. 19, 1892.</decisiondate>
+              <attorneys pgmap="254" id="b254-15">Delaney &amp; Gamel and Geo. A. King, for plaintiff.</attorneys>
+              <attorneys pgmap="254" id="b254-16">C. S. Johnson, U. S. Dist. Atty.</attorneys>
+              <opinion type="majority">
+                <author pgmap="254" id="b254-17">BUGBEE, District Judge.</author>
+                <p pgmap="254(23) 255(416) 256(238)" id="b254-18">This action was brought under and by authority of sec­tion 2 of an act of congress entitled “An act to provide for the bringing of suits against the government of the United States,” approved March 3, 1887. From the admissions in the pleadings and from the evidence, which is entirely documentary, it appears that the material facts in the case are as follows: During the years 1868, ’69, ’70, the gov­ernment erected at Wrangell, then occupied as a military station, certain wooden buildings for the use and occupa­tion of the United States soldiers at that place. In 1871 the site was abandoned as a military post, and by authority of the secretary of war, and under the instructions of the department commander, the chief quartermaster advertised the buildings for sale. On or about the 23d of August, 1871, they were sold to the petitioner, Lear, for the sum of $600, which was paid by him to the government on Decem­ber 19, 1871, and the property so sold was thereupon trans­ferred by the military officers, then occupying it, to petition­er, who remained for years thereafter in possession, and who still claims ownership of the same, by reason of such purchase. On August 1, 1875, Ft. Wrangell was re-estab­lished as a military post, and subsequently, during the pe­riod from August 1, 1875, to June 15, 1877, when the' garrison was withdrawn, the buildings in question were reoccupied by the troops, as tenants of the plaintiff, and rent was paid to him by the government at a rate fixed by a board of army officers appointed to tax the same. The same board also recommended the purchase of the build­ings by the government from petitioner for the price of $7,000. On the 21st of June, 1884, the deputy collector of customs at Wrangell, acting under instructions from the secretary of the treasury, demanded of petitioner the pos­session of the said buildings, claiming them as the property of the United States. The demand was not acceded to, and on the 25th day of June, 1884, the deputy-collector took possession by force, and the property has ever since re­mained in the possession of the government, and been used for civil purposes. It is not claimed that the government has ever parted with its title to the land on which the build­ings claimed by petitioner were erected. The prayer of the petitioner is: (1) For the sum of $7,000, being the pur­chase price fixed by the military board, above mentioned. (2) If not allowed that sum, then that he be allowed rent from the time of his ouster by the treasury department. (3) If not allowed either amount, then that he be awarded the $600 paid by him as purchase money on December 19, 1871, with interest at 6 per cent, per annum from that date. In its answer the government confesses that plaintiff is en­titled to judgment for the amount paid for the property, with interest, but claims that petitioner is hot entitled to any other relief asked for, because the sale was without author­ity of congress, in violation of the constitution of the United States, and therefore wholly void, and passed no title to plaintiff. The relief asked for in the first and sec­ond subdivisions, respectively, of the. prayer could only be granted on the theory that the sale was a valid one, and that thereby the petitioner acquired, as against the United States, the full title to the property. No authority what­ever has been produced, nor have I been able to find any law, which will support such a theory. The sale was not authorized nor ratified by congress, and I must therefore hold that it was void. Judgment, however, is given for petitioner for the amount confessed in the answer to be due, to-wit, the sum of $600, with interest at 6 per cent, per annum from December 19, 1871, and the costs of the clerk of the court, after issue joined.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="254" ORDERLABEL="242" TYPE="page">
+        <fptr FILEID="tiff_00127_1"/>
+        <fptr FILEID="jpg_00127_1"/>
+        <fptr FILEID="alto_00127_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_254.2" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="255" ORDERLABEL="243" TYPE="page">
+        <fptr FILEID="tiff_00128_0"/>
+        <fptr FILEID="jpg_00128_0"/>
+        <fptr FILEID="alto_00128_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_255.3" BETYPE="IDREF" FILEID="alto_00128_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="256" ORDERLABEL="244" TYPE="page">
+        <fptr FILEID="tiff_00128_1"/>
+        <fptr FILEID="jpg_00128_1"/>
+        <fptr FILEID="alto_00128_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_256.2" BETYPE="IDREF" FILEID="alto_00128_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-16" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.16" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-17" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.17" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-15" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.15" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-10" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.10" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-8" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.8" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-11" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.11" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-9" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.9" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-18" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.18" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            <area BEGIN="BL_255.1" BETYPE="IDREF" FILEID="alto_00128_0"/>
+            <area BEGIN="BL_256.1" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

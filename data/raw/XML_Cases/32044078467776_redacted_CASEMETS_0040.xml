@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0040" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="United States v. Warwick">UNITED STATES v. WARWICK</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 286</citation>
+          <citation category="parallel" type="bluebook">51 F. 280</citation>
+          <decisiondate>1892-05-23</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:01Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00149_1" MIMETYPE="image/tiff" CHECKSUM="15033f039a364f7c62197dcb4fc12fc7" CHECKSUMTYPE="MD5" SIZE="19150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00149_1.tif"/>
+      </file>
+      <file ID="tiff_00150_0" MIMETYPE="image/tiff" CHECKSUM="d4b4e030f501645b38f240c068b404b0" CHECKSUMTYPE="MD5" SIZE="45492">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00150_0.tif"/>
+      </file>
+      <file ID="tiff_00150_1" MIMETYPE="image/tiff" CHECKSUM="9a1270b2c6082646a9f2322a86bfa795" CHECKSUMTYPE="MD5" SIZE="53326">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00150_1.tif"/>
+      </file>
+      <file ID="tiff_00151_0" MIMETYPE="image/tiff" CHECKSUM="b551ddde7adb23ffc818f7f224242770" CHECKSUMTYPE="MD5" SIZE="32256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00151_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00149_1" MIMETYPE="image/jpg" CHECKSUM="bf3aa42463ce18c55bb6a5ea672b8999" CHECKSUMTYPE="MD5" SIZE="104014">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00149_1.jpg"/>
+      </file>
+      <file ID="jpg_00150_0" MIMETYPE="image/jpg" CHECKSUM="b98aec22d10e689eb5981a2542dfcb4d" CHECKSUMTYPE="MD5" SIZE="173361">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00150_0.jpg"/>
+      </file>
+      <file ID="jpg_00150_1" MIMETYPE="image/jpg" CHECKSUM="f880f9df1c708f162947c249dccfb098" CHECKSUMTYPE="MD5" SIZE="212700">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00150_1.jpg"/>
+      </file>
+      <file ID="jpg_00151_0" MIMETYPE="image/jpg" CHECKSUM="3efa9d109aec5ed74ba713b652b83454" CHECKSUMTYPE="MD5" SIZE="141477">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00151_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00149_1" MIMETYPE="text/xml+gzip" CHECKSUM="6004ef44bb6d477a1b2df1eadced7555" CHECKSUMTYPE="MD5" SIZE="4928">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00149_1.xml.gz"/>
+      </file>
+      <file ID="alto_00150_0" MIMETYPE="text/xml+gzip" CHECKSUM="3209f7a1de4ef6941c31f0e44921800c" CHECKSUMTYPE="MD5" SIZE="10736">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00150_0.xml.gz"/>
+      </file>
+      <file ID="alto_00150_1" MIMETYPE="text/xml+gzip" CHECKSUM="9f932e593007cd378b076e300afd331b" CHECKSUMTYPE="MD5" SIZE="13075">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00150_1.xml.gz"/>
+      </file>
+      <file ID="alto_00151_0" MIMETYPE="text/xml+gzip" CHECKSUM="0cebb6448132eeeea9e93690b864663e" CHECKSUMTYPE="MD5" SIZE="8347">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00151_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0040" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="286" lastpage="289">
+              <court pgmap="298" id="b298-7">District Court, D. Alaska.</court>
+              <citation pgmap="298" id="b298-5">51 F. 280</citation>
+              <parties pgmap="298" id="b298-6">UNITED STATES v. WARWICK.</parties>
+              <decisiondate pgmap="298" id="b298-8">May 23, 1892.</decisiondate>
+              <attorneys pgmap="299" id="b299-4">C. S. Johnson, U. S. Dist. Atty.</attorneys>
+              <attorneys pgmap="299" id="b299-5">J. F. Malony, for defendant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="299" id="b299-6">TRUITT, District Judge.</author>
+                <p pgmap="299" id="ADf">On the 18th day of May, 1892, the grand jury for said district returned an indict­ment against the defendant charging that he did, on or about the 24th day of November, 1891, unlawfully and willfully sell a quantity -of intoxicating liquor, commonly called “whisky,” to two certain Indian women therein named. To this indictment the defendant files a motion to quash on the following grounds:</p>
+                <p pgmap="299" id="b299-7">“That section. 669 of the Oregon Code, under which this indictment is brought, is not applicable to the district of Alaska, and is in conflict with the laws of the United States, and that the offense charged is one not known to the laws in force or applicable to the district of Alaska.” The defendant’s counsel claims that section 669 of the Oregon Code does not apply in this case, for the reason that section 14 of the organic act, providing for a civil government in Alaska, and section 1955 of the Revised Statutes, together with the regulations of the president in relation thereto, fully cover the subject of the importa­tion, manufacture, and sale of liquor in this district. Sec­tion 14 of the organic act reads as follows:</p>
+                <blockquote pgmap="299" id="b299-8">“That the provisions of chapter three, title twenty-three, of the .Revised Statutes of the United States, relating to the unorganized territory of Alaska, shall remain in full force, except as herein specially otherwise provided; and the importation, manufacture, and sale of intoxicating liq­uors in said district, except for medicinal, mechanical, and scientific purposes, is hereby prohibited, under the penalties which are provided in section nineteen hundred and fifty-five of the Revised Statutes for wrongful impor­tation of distilled spirits; and the president of the Unit­ed States shall make such regulations as are necessary to carry out the provisions of this section.”</blockquote>
+                <p pgmap="299(21) 300(182)" id="b299-9">The provisions of chapter 3, tit. 23, Rev.St., referred to, on the subject of the sale of liquors, only provide that “the president shall have power to restrict and regulate or to prohibit the importation and use of firearms, am­munition, and distilled spirits into and within the territory of Alaska.” It then provides the penalty for the viola­tion of such regulations as the president shall make, which is a fine of not more than $500, or imprisonment not to. exceed six months. This statute did not directly attempt to restrict, regulate, or prohibit the importation and use of distilled spirits into Alaska, but simply conferred upon the president the power to do so. But the first direct legislation of congress upon the subject of the importa­tion, manufacture, and sale of intoxicating liquors in this district is found in the act of March 3, 1873, which amend­ed section 1 of the Alaska act of 1868, so as to extend over the country, sections 20 and 21 of the intercourse act of 1834 (see 25 U.S.C.A. §§ 223, 241, 251, and notes). Section 20 of this act, as amended by subsequent legisla­tion (25 U.S.C.A. § 241 note), reads as follows:</p>
+                <blockquote pgmap="300" id="b300-4">“No ardent spirits shall be introduced, under any pre­tense, into the Indian country. Every person who sells, exchanges, gives, barters, disposes of any spirituous liquors or wine to any Indian under the charge of any Indian su­perintendent or agent, or introduces or attempts to intro­duce any spirituous liquor or wine into the Indian country, shall be punished by imprisonment for not more than two years, and by a fine of not more than three hundred dollars, ($300.) But it shall be a sufficient defense to any charge of introducing, or attempting to introduce, liquor into the Indian country, that the acts charged were done by order of, or under authority from, the war department, or any officer duly authorized thereto by the war department.”</blockquote>
+                <p pgmap="300" id="Any">This law was in force here from the date of the pas­sage of the act extending it to Alaska until May 17, 1884, the date of the approval of the organic act, by which it was repealed by implication, at least as to the portions in conflict or subjects fully covered by the later law. “A statute is repealed by the enactment of another repug­nant to it, or covering the whole subject of the former.” U. S. v. Barr, Fed.Cas.No.14,527, 4 Sawy. 254. But this point was passed upon by Judge Deady in his very able decision in Nelson v. U. S., 30 F. 112, 12 Sawy. 285, where he says:</p>
+                <blockquote pgmap="301" id="b301-3">“No particular question was made on the argument as to the scope and effect of the act; but, as it covers the whole ground, the most reasonable conclusion is that it supersedes or repeals all former laws on the subject of in­toxicating liquors in Alaska.”</blockquote>
+                <p pgmap="301" id="b301-4">As to the importation, manufacture, 0and sale of intox­icating liquor in this district, section 14, supra, in connec­tion with section 1955 of the Revised Statutes, and the regulations of the president, must be accepted as the law; and, if such is the case, then if the defendant sold it to any person, as charged in the indictment, he has violated the law. It is immaterial whether the vendee is a white man or an Indian, or belongs to some other nationality, and the statement in this indictment' that the parties named are Indian women may be regarded as descriptive, or, if not, then surplusage. The indictment in the case of Nelson v. U. S., supra, did not contain the name of the vendee, but it was held that “the name can only be required for the more convenient identification of the transaction. It is not a necessary ingredient of the offense, particularly where the prohibition to sell is general, irrespective of persons.” If my views as stated are correct, then the indictment is good in this case, and the motion is overruled.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="298" ORDERLABEL="286" TYPE="page">
+        <fptr FILEID="tiff_00149_1"/>
+        <fptr FILEID="jpg_00149_1"/>
+        <fptr FILEID="alto_00149_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_298.2" BETYPE="IDREF" FILEID="alto_00149_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="299" ORDERLABEL="287" TYPE="page">
+        <fptr FILEID="tiff_00150_0"/>
+        <fptr FILEID="jpg_00150_0"/>
+        <fptr FILEID="alto_00150_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_299.2" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="300" ORDERLABEL="288" TYPE="page">
+        <fptr FILEID="tiff_00150_1"/>
+        <fptr FILEID="jpg_00150_1"/>
+        <fptr FILEID="alto_00150_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_300.2" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="301" ORDERLABEL="289" TYPE="page">
+        <fptr FILEID="tiff_00151_0"/>
+        <fptr FILEID="jpg_00151_0"/>
+        <fptr FILEID="alto_00151_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_301.2" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADf" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.9" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            <area BEGIN="BL_299.10" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.8" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.6" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-3" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.3" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.5" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.4" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.4" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-9" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.13" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            <area BEGIN="BL_300.1" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.12" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Any" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.5" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.7" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.11" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.8" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.7" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.6" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

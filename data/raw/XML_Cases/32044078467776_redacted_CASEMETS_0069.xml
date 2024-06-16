@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0069" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Lewis v. Johnson">LEWIS et al. v. JOHNSON</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 475</citation>
+          <citation category="parallel" type="bluebook">76 F. 476</citation>
+          <decisiondate>1896-09-23</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:04Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00244_0" MIMETYPE="image/tiff" CHECKSUM="89a21c8a0fd6f13b4f0daacb44af8f86" CHECKSUMTYPE="MD5" SIZE="21644">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00244_0.tif"/>
+      </file>
+      <file ID="tiff_00244_1" MIMETYPE="image/tiff" CHECKSUM="3ece1ae9ee71d02e438a55f8553d48e2" CHECKSUMTYPE="MD5" SIZE="53924">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00244_1.tif"/>
+      </file>
+      <file ID="tiff_00245_0" MIMETYPE="image/tiff" CHECKSUM="41ee14dd217812929caa4f9fd5440524" CHECKSUMTYPE="MD5" SIZE="53676">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00245_0.tif"/>
+      </file>
+      <file ID="tiff_00245_1" MIMETYPE="image/tiff" CHECKSUM="73f1c018633553f8dc4a22587b6fe62f" CHECKSUMTYPE="MD5" SIZE="54400">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00245_1.tif"/>
+      </file>
+      <file ID="tiff_00246_0" MIMETYPE="image/tiff" CHECKSUM="9d1f21db706d916b2f9c1d64931497c0" CHECKSUMTYPE="MD5" SIZE="9510">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00246_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00244_0" MIMETYPE="image/jpg" CHECKSUM="2d06be0997ca1024c91413434694f764" CHECKSUMTYPE="MD5" SIZE="116238">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00244_0.jpg"/>
+      </file>
+      <file ID="jpg_00244_1" MIMETYPE="image/jpg" CHECKSUM="c57df34cb8bf7e5306bddf4c44a58a92" CHECKSUMTYPE="MD5" SIZE="212645">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00244_1.jpg"/>
+      </file>
+      <file ID="jpg_00245_0" MIMETYPE="image/jpg" CHECKSUM="1078b4144813557cbb4a23d35dcad1bd" CHECKSUMTYPE="MD5" SIZE="198752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00245_0.jpg"/>
+      </file>
+      <file ID="jpg_00245_1" MIMETYPE="image/jpg" CHECKSUM="da0e6c9963e055ea8f21af3fc00008c2" CHECKSUMTYPE="MD5" SIZE="207743">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00245_1.jpg"/>
+      </file>
+      <file ID="jpg_00246_0" MIMETYPE="image/jpg" CHECKSUM="bdcf9e051116c005c4b7a32908cf9afd" CHECKSUMTYPE="MD5" SIZE="81191">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00246_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00244_0" MIMETYPE="text/xml+gzip" CHECKSUM="f4490ece9978be62443b753f371b1d63" CHECKSUMTYPE="MD5" SIZE="5886">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00244_0.xml.gz"/>
+      </file>
+      <file ID="alto_00244_1" MIMETYPE="text/xml+gzip" CHECKSUM="dcf038a2f615088b9d3ae2af00e0f81d" CHECKSUMTYPE="MD5" SIZE="13191">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00244_1.xml.gz"/>
+      </file>
+      <file ID="alto_00245_0" MIMETYPE="text/xml+gzip" CHECKSUM="ec24ad86a2322592f1731e02a31df95b" CHECKSUMTYPE="MD5" SIZE="13176">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00245_0.xml.gz"/>
+      </file>
+      <file ID="alto_00245_1" MIMETYPE="text/xml+gzip" CHECKSUM="6a95b4714485c494b6f52cda95f12b7c" CHECKSUMTYPE="MD5" SIZE="13550">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00245_1.xml.gz"/>
+      </file>
+      <file ID="alto_00246_0" MIMETYPE="text/xml+gzip" CHECKSUM="0d74c26fe60c360fd01afb737bca5f0a" CHECKSUMTYPE="MD5" SIZE="2820">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00246_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0069" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="475" lastpage="479">
+              <court pgmap="487" id="b487-7">District Court, D. Alaska.</court>
+              <citation pgmap="487" id="b487-5">76 F. 476</citation>
+              <parties pgmap="487" id="b487-6">LEWIS et al. v. JOHNSON.</parties>
+              <decisiondate pgmap="487" id="b487-8">Sept. 23, 1896.</decisiondate>
+              <attorneys pgmap="487" id="b487-17">Johnson &amp; Heid (R. F. Lewis, on brief), for plaintiffs.</attorneys>
+              <attorneys pgmap="487" id="b487-18">J. F. Maloney (John Trumbull, on brief), for defendant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="487" id="b487-19">DELANEY, District Judge.</author>
+                <p pgmap="487(20) 488(141)" id="b487-20">The plaintiffs allege that they are the owners, by claim, possession, and occupation, of a certain lot of ground at Juneau, abutting on the tide waters of Gastineaux Channel,' an arm of the North Pacific Ocean, and that defendant has commenced the erection of certain structures on the abut­ting tidelands in front of such lot, which, if completed, will destroy or impair the littoral rights of the plaintiffs in­cident to said lot of ground, and pray relief by injunction. It is contended by the defendant upon the demurrer (1) that the upland owner, even in fee simple, has no rights in abutting tidelands by virtue of such ownership; (2) that, granting such rights to exist as incident to ownership in fee, the plaintiffs have no such title to the uplands described in the bill as will vest them with any littoral. or riparian rights; and (3) that the proper remedy is at law, and equity ought not to interfere.</p>
+                <p pgmap="488(281) 489(50)" id="b488-4">The court feels obliged to dissent from all of these propositions. Whatever conflict of authority may hereto­fore have existed in regard to littoral rights of upland own­ers in adjoining tidelands, the law may now be considered as finally settled by the courts of last resort both in Eng­land and this country. Under comparatively recent deci­sions of the house of lords, the law in England now is that the owner of land fronting on a navigable river, in which the tide ebbs and flows, has a right of access from his land to the river, and may recover compensation for the cutting off of that access by the construction of public works au­thorized by parliament by an act which provides .for com­pensation for injuries affecting lands, “including easements, interests, rights, and privileges in, over, or affecting lands.” 25 &amp; 26 Viet. c. 93, § 4. The right thus recognized, how­ever, is not a title in the soil below high-water mark, nor a right to build thereon, but a right of access only, anal­ogous to that of an abutter upon a highway. Buccleuch v. Board, L.R. 5 H.L. 418; Lyon v. Fishmongers’ Co., 1 App.Cas. 662. It has been further held that the rules here laid down must apply to every country where the same general law of riparian rights prevails, unless excluded by some positive rule or binding authority of the lex loci. Railway Co. v. Pion, 14 App.Cas. 612, 620, affirming 14 Can. Sup. Ct. 677. The same rules undoubtedly apply to navigable arms of the sea. The law laid down in these cases has been quite recently affirmed by the supreme court of the United States in a most exceptionally learned and exhaustive opinion covering the entire field of the law of littoral and riparian rights in this country. Shively v. Bowlby, 152 U.S. 1, 14 S.Ct. 548. The rules laid down in these decisions are therefore the law of this court.</p>
+                <p pgmap="489(375) 490(443) 491(40)" id="b489-4">After a mature consideration of the subject, the court is not prepared to hold that a bona fide claimant, in actual possession and occupation of a lot of ground on the public lands, which abuts on tide water, does not take all the lit­toral or riparian rights of an owner in fee. Reason and equity are on the other side of the question. For a long period of years the federal government has not only con­ceded to American citizens the right to enter upon, possess, and improve public lands, but it-has encouraged them so to do, by reserving to the bona fide settler the first right to a patent to the land so possessed and improved by him. This policy has obtained in both the legislative and execu­tive branches of the government, and has met the approval of the courts. Clements v. Warner, 24 How. 394; Shepley v. Cowan, 91 U.S. 330; Ard v. Brandon, 156 U.S. 537, 15 S.Ct. 406. It therefore partakes of the nature of a guar­anty on the part of the United States that the actual settler and bona fide occupant, within reasonable limits, may per­fect his title in fee against all comers, whenever the lands are opened by congress for entry at the land offices. Lands are valuable only for the uses that may be made of them. They may be valuable for residential purposes, for the erection of business blocks, as sites for manufacturing plants, for the water powers afforded by streams running through them, for the timber growing thereon, for parks and places of summer resort or recreative outings, for agricultural and grazing purposes, and for the littoral and riparian privileges appurtenant or incident to them. The proposition that the courts are not open to the owner in fee for the preservation of any of the rights incident to landed property • above mentioned would be dismissed by every court in the civilized world, without the grace of a mo­ment’s consideration. What tenable ground is there.from which to assert that the bona fide settler on and in actual possession of a piece of public land has not an equal right in the forum of the court? And, if he may maintain any one of the rights incident to ownership in fee, why not all? The soil is his against all the world except the United States. The neighbor c r the owner in fee may not convert the front yard of the lacter’s residence into a cesspool, nor flood his business house with water, nor undermine the foundation of his manufacturing establishment, nor divert the water flowing through his land so as to destroy the water power it affords, nor cut his growing timber, nor convert his park into a stock yard, nor cover his wheat field, pasture, or meadow with the débris of an hydraulic mining camp, nor cut off his access to deep water over an abutting tide flat. Can it be said that the law affords the owner in fee remedies against all these things, but the bona fide settler on and in actual possession of public lands, upon which he may have passed the best years of his life in honest labor to improve and beautify, must sit by and see his lot of ground permanently injured or destroyed, be­cause the law gives him no remedy for want of letters pat­ent which he may certainly obtain whenever congress opens the land for purchase ? If the courts must fold their hands while the settler on public lands is being thus deprived of all that is valuable in the land he occupies, the liberal policy the government has extended to him will be defeated; and, when the time comes that he may acquire his title, his pat­ent may bring to him but a barren estate, stripped of all that may give it value. The court cannot persuade itself that this is the law. On the contrary, in furtherance of the general policy of the government, and within the pur­view of -the act providing a civil government for Alaska (23 Stat. 24, § 8; Supp.Rev.St. p. 433), and the act of March 3, 1891 (26 Stat. 1095, § 12; Supp.Rev.St. p. 944), the court will maintain and enforce, in behalf of the bona fide settler in actual possession of lands in Alaska, all the rights appurtenant or incident to such lands which a title in fee would vest in him, saving only the paramount rights of the United States as the sovereign owner of the soil. Included within these rights of the settler who holds lands abutting on tide water is the right of access over and across fronting tidelands to deep water, as now determined by the highest courts of England and this country. The right-cer­tainly brings with it the remedy, and where the law side of the court affords no plain, speedy, and adequate remedy, as in the case of the erection of structures which impair or de­stroy this right of access, equity will interfere. The de­murrer is overruled, with 30 days to answer.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="487" ORDERLABEL="475" TYPE="page">
+        <fptr FILEID="tiff_00244_0"/>
+        <fptr FILEID="jpg_00244_0"/>
+        <fptr FILEID="alto_00244_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_487.3" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="488" ORDERLABEL="476" TYPE="page">
+        <fptr FILEID="tiff_00244_1"/>
+        <fptr FILEID="jpg_00244_1"/>
+        <fptr FILEID="alto_00244_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_488.2" BETYPE="IDREF" FILEID="alto_00244_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="489" ORDERLABEL="477" TYPE="page">
+        <fptr FILEID="tiff_00245_0"/>
+        <fptr FILEID="jpg_00245_0"/>
+        <fptr FILEID="alto_00245_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_489.3" BETYPE="IDREF" FILEID="alto_00245_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="490" ORDERLABEL="478" TYPE="page">
+        <fptr FILEID="tiff_00245_1"/>
+        <fptr FILEID="jpg_00245_1"/>
+        <fptr FILEID="alto_00245_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_490.2" BETYPE="IDREF" FILEID="alto_00245_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="491" ORDERLABEL="479" TYPE="page">
+        <fptr FILEID="tiff_00246_0"/>
+        <fptr FILEID="jpg_00246_0"/>
+        <fptr FILEID="alto_00246_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_491.3" BETYPE="IDREF" FILEID="alto_00246_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-17" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.20" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-18" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.21" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-19" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.22" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-4" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.4" BETYPE="IDREF" FILEID="alto_00244_1"/>
+            <area BEGIN="BL_489.1" BETYPE="IDREF" FILEID="alto_00245_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-20" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.23" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            <area BEGIN="BL_488.1" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-5" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.5" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-6" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.6" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-7" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.7" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-8" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.8" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b489-4" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_489.4" BETYPE="IDREF" FILEID="alto_00245_0"/>
+            <area BEGIN="BL_490.1" BETYPE="IDREF" FILEID="alto_00245_1"/>
+            <area BEGIN="BL_491.1" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

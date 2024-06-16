@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0011" publicationstatus="published">
+          <court abbreviation="D. Or." jurisdiction="United States">United States District Court for the District of Oregon</court>
+          <name abbreviation="United States v. Brown">UNITED STATES v. BROWN et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 79</citation>
+          <citation category="parallel" type="bluebook">Fed.Cas.No.14,1672</citation>
+          <decisiondate>1876-04-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:21:59Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00046_0" MIMETYPE="image/tiff" CHECKSUM="13b4291850692cd17358013e2fae7d74" CHECKSUMTYPE="MD5" SIZE="13666">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00046_0.tif"/>
+      </file>
+      <file ID="tiff_00046_1" MIMETYPE="image/tiff" CHECKSUM="616b39d758fc8f95126eef23bdaaf60b" CHECKSUMTYPE="MD5" SIZE="52592">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00046_1.tif"/>
+      </file>
+      <file ID="tiff_00047_0" MIMETYPE="image/tiff" CHECKSUM="ede8da7bf4402b14f5691bc8ec684d76" CHECKSUMTYPE="MD5" SIZE="24068">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00047_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00046_0" MIMETYPE="image/jpg" CHECKSUM="2e238473594c33d0b7492243ba6efdd0" CHECKSUMTYPE="MD5" SIZE="79549">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00046_0.jpg"/>
+      </file>
+      <file ID="jpg_00046_1" MIMETYPE="image/jpg" CHECKSUM="8b015ca3f6181e3d8e5ef4e1ad6c4b90" CHECKSUMTYPE="MD5" SIZE="206432">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00046_1.jpg"/>
+      </file>
+      <file ID="jpg_00047_0" MIMETYPE="image/jpg" CHECKSUM="0cd680b18f1cf0e5156558f7af7aeb92" CHECKSUMTYPE="MD5" SIZE="117331">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00047_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00046_0" MIMETYPE="text/xml+gzip" CHECKSUM="ea625aa9d8ad478a19e68c4d7dbd91a0" CHECKSUMTYPE="MD5" SIZE="3753">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00046_0.xml.gz"/>
+      </file>
+      <file ID="alto_00046_1" MIMETYPE="text/xml+gzip" CHECKSUM="c1786ca721b80c5d13c0144a6481f9cb" CHECKSUMTYPE="MD5" SIZE="12603">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00046_1.xml.gz"/>
+      </file>
+      <file ID="alto_00047_0" MIMETYPE="text/xml+gzip" CHECKSUM="b993e26cfe31a7246303b63772976486" CHECKSUMTYPE="MD5" SIZE="6409">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00047_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0011" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="79" lastpage="81">
+              <court pgmap="91" id="b91-6">District Court, D. Oregon.</court>
+              <citation pgmap="91" id="b91-4">Fed.Cas.No.14,1672</citation>
+              <parties pgmap="91" id="b91-5">UNITED STATES v. BROWN et al.<footnotemark>1</footnotemark>
+              </parties>
+              <decisiondate pgmap="91" id="b91-7">April 12, 1876.</decisiondate>
+              <attorneys pgmap="92" id="b92-2">Rufus Mallory, for'the United States.</attorneys>
+              <attorneys pgmap="92" id="b92-3">David Goodsell and Joseph Simon, for defendants.</attorneys>
+              <footnote label="1">
+                <p pgmap="91" id="b91-11">1 Reported by L. S. B. Sawyer, Esq., and here reprinted by permis­sion.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="92" id="b92-4">DEADY, District Judge.</author>
+                <p pgmap="92" id="b92-5">The crimes defined by section 4596 of the Revised Statutes (46 U.S.C.A. § 701 and note), which includes the charge against the defendants, relate to the discipline and conduct of the ship rather than the general public. If the master in­tended to prosecute a seaman for the commission of any of them, it is made his duty by sections 4290 and 4291 of the Revised Statutes (46 U.S.C.A. §§ 201 and note, 202), to make an entry concerning the same in the official log-book as soon as possible after the occurrence, and to read the same to the offender, or furnish him with a copy of the same, and enter his reply thereto. Section 4597 of the Revised Stat­utes (46 U.S.C.A. § 702 and note), provides that “in any subsequent legal proceedings” said entries “shall, if prac­ticable, be produced or proved, and in default of such pro­duction or proof, the court hearing the case may, at its dis­cretion, refuse to receive evidence of the offense.”</p>
+                <p pgmap="92" id="b92-6">It is maintained on the part of the prosecution that when an entry was made, it must be produced or proved, or the court in its discretion may refuse to hear the evidence in support of the charge, but when it appears that no entry was made, then the statute does not apply. But this construction of the statute would make it almost devoid of meaning and useless. The evident purpose of the statute is to prevent prosecutions for breaches of discipline on shipboard, except in those cases where the master shall deem the matter of sufficient importance, while the circumstances are all fresh in his memory, and before there is any temptation to make use of it as a means to some other end, to enter a charge against the offender, together with his reply, in the official log-book. ■ If any difficulty arises between the crew and the master, a previous offense or dereliction, of which no entry was made, cannot be invoked or trumped up, as a make­weight in this subsequent controversy.</p>
+                <p pgmap="92(43) 93(147)" id="b92-7">In this case, it appears by the affidavit of the master, made before the deputy collector and ex officio shipping master at Sitka, that the defendants, in company with one Antonio Page, attempted to desert the ship in a small boat at Sitka, but being capsized, were discovered and rescued by the offi­cers of the ship, except Page, who was drowned. The de­fendants then refused to work, and the master, by the ad­vice of the collector, put them in irons until they consented to work, and made this affidavit of the transaction, instead of making an entry in the log-book. The confinement of the defendants was proper enough, if they refused to work, but if it was intended to prosecute them also for the offense of disobeying orders, it was incumbent on the master to have made the proper entries in his log-book. This not having been done, the law presumes that it was not deemed of suffi­cient importance at the time, but is now sought to be done as an afterthought, or with some ulterior purpose. The de­fendants are found not guilty, and discharged.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="91" ORDERLABEL="79" TYPE="page">
+        <fptr FILEID="tiff_00046_0"/>
+        <fptr FILEID="jpg_00046_0"/>
+        <fptr FILEID="alto_00046_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_91.2" BETYPE="IDREF" FILEID="alto_00046_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="92" ORDERLABEL="80" TYPE="page">
+        <fptr FILEID="tiff_00046_1"/>
+        <fptr FILEID="jpg_00046_1"/>
+        <fptr FILEID="alto_00046_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_92.1" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="93" ORDERLABEL="81" TYPE="page">
+        <fptr FILEID="tiff_00047_0"/>
+        <fptr FILEID="jpg_00047_0"/>
+        <fptr FILEID="alto_00047_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_93.3" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-11" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.15" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-3" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.4" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-4" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.5" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.6" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.7" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.8" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-2" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.3" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.8" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            <area BEGIN="BL_93.1" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.7" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.6" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-4" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.5" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

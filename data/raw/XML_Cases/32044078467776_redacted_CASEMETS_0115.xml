@@ -1,0 +1,713 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0115" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Engelstad v. Dufresne">ENGELSTAD v. DUFRESNE</name>
+          <docketnumber>No. 768</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 798</citation>
+          <citation category="parallel" type="bluebook">116 F. 582</citation>
+          <decisiondate>1902-05-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:09Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00405_1" MIMETYPE="image/tiff" CHECKSUM="1f4fab06d1cba83e1aac2397c4faa280" CHECKSUMTYPE="MD5" SIZE="26248">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00405_1.tif"/>
+      </file>
+      <file ID="tiff_00406_0" MIMETYPE="image/tiff" CHECKSUM="2538c2a3bc69fb9858265d3e78035a04" CHECKSUMTYPE="MD5" SIZE="23544">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00406_0.tif"/>
+      </file>
+      <file ID="tiff_00406_1" MIMETYPE="image/tiff" CHECKSUM="28c5ba5053c31e7a5d103d28754565e8" CHECKSUMTYPE="MD5" SIZE="52436">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00406_1.tif"/>
+      </file>
+      <file ID="tiff_00407_0" MIMETYPE="image/tiff" CHECKSUM="afeb28d25693371f6eb1e7ab16ae50e8" CHECKSUMTYPE="MD5" SIZE="56402">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00407_0.tif"/>
+      </file>
+      <file ID="tiff_00407_1" MIMETYPE="image/tiff" CHECKSUM="4a2b0e0a919347c498676e47f2874b56" CHECKSUMTYPE="MD5" SIZE="54094">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00407_1.tif"/>
+      </file>
+      <file ID="tiff_00408_0" MIMETYPE="image/tiff" CHECKSUM="42b6f71d7b38be8b3cc77c2d325e7a22" CHECKSUMTYPE="MD5" SIZE="56550">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00408_0.tif"/>
+      </file>
+      <file ID="tiff_00408_1" MIMETYPE="image/tiff" CHECKSUM="ed43791446e0a470b0c8bfc36c82427e" CHECKSUMTYPE="MD5" SIZE="56188">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00408_1.tif"/>
+      </file>
+      <file ID="tiff_00409_0" MIMETYPE="image/tiff" CHECKSUM="e53275a7865e71aac0fe900abcfbbfe7" CHECKSUMTYPE="MD5" SIZE="57104">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00409_0.tif"/>
+      </file>
+      <file ID="tiff_00409_1" MIMETYPE="image/tiff" CHECKSUM="b19c1367a37cd9275dd7d9c60b3fd4e7" CHECKSUMTYPE="MD5" SIZE="55396">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00409_1.tif"/>
+      </file>
+      <file ID="tiff_00410_0" MIMETYPE="image/tiff" CHECKSUM="c805267bb761b60a54e08d0169a07687" CHECKSUMTYPE="MD5" SIZE="53442">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00410_0.tif"/>
+      </file>
+      <file ID="tiff_00410_1" MIMETYPE="image/tiff" CHECKSUM="ec9b653abef8e0bd0da2ef880d0bbe77" CHECKSUMTYPE="MD5" SIZE="55876">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00410_1.tif"/>
+      </file>
+      <file ID="tiff_00411_0" MIMETYPE="image/tiff" CHECKSUM="6e3d410c7dfcc0fdf48c5da0fba8a473" CHECKSUMTYPE="MD5" SIZE="56100">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00411_0.tif"/>
+      </file>
+      <file ID="tiff_00411_1" MIMETYPE="image/tiff" CHECKSUM="376e8da4c5bd17ec788e2d77cea5859f" CHECKSUMTYPE="MD5" SIZE="27200">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00411_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00405_1" MIMETYPE="image/jpg" CHECKSUM="d1d3d46cad0e79700c21091cca79d6a8" CHECKSUMTYPE="MD5" SIZE="126298">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00405_1.jpg"/>
+      </file>
+      <file ID="jpg_00406_0" MIMETYPE="image/jpg" CHECKSUM="f42345e742d97a0bbd934b4897426bb2" CHECKSUMTYPE="MD5" SIZE="110244">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00406_0.jpg"/>
+      </file>
+      <file ID="jpg_00406_1" MIMETYPE="image/jpg" CHECKSUM="4adb7a97a791bd99c2da204715617527" CHECKSUMTYPE="MD5" SIZE="206652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00406_1.jpg"/>
+      </file>
+      <file ID="jpg_00407_0" MIMETYPE="image/jpg" CHECKSUM="7c93dc65228a9c29404a07883b6e0e20" CHECKSUMTYPE="MD5" SIZE="205005">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00407_0.jpg"/>
+      </file>
+      <file ID="jpg_00407_1" MIMETYPE="image/jpg" CHECKSUM="4cb52b562ba6500c95aa85a78ec32aaf" CHECKSUMTYPE="MD5" SIZE="207955">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00407_1.jpg"/>
+      </file>
+      <file ID="jpg_00408_0" MIMETYPE="image/jpg" CHECKSUM="dc71cbc2e1da4f94c8e291484b8449ea" CHECKSUMTYPE="MD5" SIZE="200759">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00408_0.jpg"/>
+      </file>
+      <file ID="jpg_00408_1" MIMETYPE="image/jpg" CHECKSUM="7fcc366415ad5deb5bf7846b2dfeb620" CHECKSUMTYPE="MD5" SIZE="217257">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00408_1.jpg"/>
+      </file>
+      <file ID="jpg_00409_0" MIMETYPE="image/jpg" CHECKSUM="b4b21608232818a7cf68cbb30484205a" CHECKSUMTYPE="MD5" SIZE="205923">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00409_0.jpg"/>
+      </file>
+      <file ID="jpg_00409_1" MIMETYPE="image/jpg" CHECKSUM="5c1f90743fb8e8e7ed6f0b9d293d84e1" CHECKSUMTYPE="MD5" SIZE="211611">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00409_1.jpg"/>
+      </file>
+      <file ID="jpg_00410_0" MIMETYPE="image/jpg" CHECKSUM="321d539fdde12778d9e462225d4f87f2" CHECKSUMTYPE="MD5" SIZE="196516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00410_0.jpg"/>
+      </file>
+      <file ID="jpg_00410_1" MIMETYPE="image/jpg" CHECKSUM="26effec3414cdb04adbe0a4f84dffba4" CHECKSUMTYPE="MD5" SIZE="216598">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00410_1.jpg"/>
+      </file>
+      <file ID="jpg_00411_0" MIMETYPE="image/jpg" CHECKSUM="3e6da3ae59bb5f4d4f31db5bd6c4bbbc" CHECKSUMTYPE="MD5" SIZE="204455">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00411_0.jpg"/>
+      </file>
+      <file ID="jpg_00411_1" MIMETYPE="image/jpg" CHECKSUM="f0b98f7765e8f5c3326cc89870cff717" CHECKSUMTYPE="MD5" SIZE="130819">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00411_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00405_1" MIMETYPE="text/xml+gzip" CHECKSUM="b4f436e08dd27f66f82a9fe655d6ec97" CHECKSUMTYPE="MD5" SIZE="6851">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00405_1.xml.gz"/>
+      </file>
+      <file ID="alto_00406_0" MIMETYPE="text/xml+gzip" CHECKSUM="37391a22b62e240b394059e12f26077a" CHECKSUMTYPE="MD5" SIZE="5789">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00406_0.xml.gz"/>
+      </file>
+      <file ID="alto_00406_1" MIMETYPE="text/xml+gzip" CHECKSUM="e64e2ea4e4f5ec791141e0bc8c146ea9" CHECKSUMTYPE="MD5" SIZE="12396">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00406_1.xml.gz"/>
+      </file>
+      <file ID="alto_00407_0" MIMETYPE="text/xml+gzip" CHECKSUM="e813f071a8351f629cc1aa1df90de047" CHECKSUMTYPE="MD5" SIZE="12909">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00407_0.xml.gz"/>
+      </file>
+      <file ID="alto_00407_1" MIMETYPE="text/xml+gzip" CHECKSUM="222ba9a83cdc1662d4c21927121dc3b3" CHECKSUMTYPE="MD5" SIZE="12409">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00407_1.xml.gz"/>
+      </file>
+      <file ID="alto_00408_0" MIMETYPE="text/xml+gzip" CHECKSUM="ec4fa68cdeda4e43d2ddd167ed785af7" CHECKSUMTYPE="MD5" SIZE="13474">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00408_0.xml.gz"/>
+      </file>
+      <file ID="alto_00408_1" MIMETYPE="text/xml+gzip" CHECKSUM="94145d81727795b0bcfdc99740fcd1c5" CHECKSUMTYPE="MD5" SIZE="13308">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00408_1.xml.gz"/>
+      </file>
+      <file ID="alto_00409_0" MIMETYPE="text/xml+gzip" CHECKSUM="091394e48e9b31159c17a7ab1c2674b1" CHECKSUMTYPE="MD5" SIZE="13078">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00409_0.xml.gz"/>
+      </file>
+      <file ID="alto_00409_1" MIMETYPE="text/xml+gzip" CHECKSUM="3356f181daf5ffb9cc55b82e718d9647" CHECKSUMTYPE="MD5" SIZE="13449">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00409_1.xml.gz"/>
+      </file>
+      <file ID="alto_00410_0" MIMETYPE="text/xml+gzip" CHECKSUM="feb54f76937e39d2e9bc9ad06c6097cd" CHECKSUMTYPE="MD5" SIZE="12692">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00410_0.xml.gz"/>
+      </file>
+      <file ID="alto_00410_1" MIMETYPE="text/xml+gzip" CHECKSUM="a29cc4434d703f2da77ff0a3a73cec5e" CHECKSUMTYPE="MD5" SIZE="12571">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00410_1.xml.gz"/>
+      </file>
+      <file ID="alto_00411_0" MIMETYPE="text/xml+gzip" CHECKSUM="4aa0950ba646af84030d28bd124b4de6" CHECKSUMTYPE="MD5" SIZE="13587">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00411_0.xml.gz"/>
+      </file>
+      <file ID="alto_00411_1" MIMETYPE="text/xml+gzip" CHECKSUM="2ccce81b20b18a2d5c7526ede8e3ae74" CHECKSUMTYPE="MD5" SIZE="7170">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00411_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0115" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="798" lastpage="810">
+              <court pgmap="810" id="b810-8">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="810" id="b810-7">No. 768.</docketnumber>
+              <citation pgmap="810" id="b810-5">116 F. 582</citation>
+              <parties pgmap="810" id="b810-6">ENGELSTAD v. DUFRESNE.</parties>
+              <decisiondate pgmap="810" id="A2p">May 5, 1902.</decisiondate>
+              <judges pgmap="811" id="b811-9">Before GILBERT, ROSS, and MORROW, Circuit judges.</judges>
+              <attorneys pgmap="811" id="b811-7">Gordon Hall, Jackson, Pittman &amp; Fink, and Ira D. Or-­ton, for appellant.</attorneys>
+              <attorneys pgmap="811" id="b811-8">R. B. Milroy, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="811" id="b811-10">ROSS, Circuit Judge.</author>
+                <p pgmap="811" id="b811-11">This was a suit for the specific performance of the fol­lowing written instrument, executed by the respective par­ties on the 19th day of January, 1899, at St. Michaels. Alaska:</p>
+                <blockquote pgmap="811(96) 812(216)" id="b811-12">“This agreement, made and entered into this 19th day of January, A. D. 1899, by and between E. Engelstad, the party of the first part, and J. A. Dufresne, the party of the second part witnesseth: That the said party of the first part, in consideration of the covenants and agreements hereinafter made by the said party of the second part, here­by covenants that he, the said party of the first part, will give an undivided one-half net interest in the claim selected by the said party of the second part from claims owned and operated by the said party of the first part or his agents, said mining claims being situated in the Cape Nome min­ing district, district of Alaska, and known and designated as follows, to wit: Claim No. 4 below on Mountain creek; claim No. 1 below on Extra Dry creek; claim known as ‘Yugar’; claim known as ‘Rock Creek,’ 1,000 feet by 660 feet; claim known as ‘Lone Star Claim,’ Joe’s gulch, tribu­tary to Dexter creek,* claim No. IS below on Dry creek; Claim No. 3 below on Glacier creek, an undivided one-half; claim No. 2 below on Lindblom creek, 500 feet by 1,000 feet; claim No. 12 on Anvil creek, an undivided one-half. And the said party of the second part, for and in considera­tion of the covenants and agreements of the said party of the first part, hereto covenants and agrees to and with the said party of the first part that the said party of the second part hereto will give one-half interest in claim No. 10 on Dexter creek, situate in the Cape Nome mining district, district of Alaska, owned and operated by the said party of the second part. In witness whereof the said parties have hereunto set their hands and seals the day and year first above written.</blockquote>
+                <blockquote pgmap="812" id="b812-3">“Edwin Engelstad. [Seal.]</blockquote>
+                <blockquote pgmap="812" id="Aaf">“J. H. Dufresne. [Seal.]</blockquote>
+                <blockquote pgmap="812" id="b812-4">“Signed, sealed, and delivered in the presence of:</blockquote>
+                <blockquote pgmap="812" id="b812-5">“W. Alex. Hudson.</blockquote>
+                <blockquote pgmap="812" id="b812-6">“H. G. Stevens.”</blockquote>
+                <p pgmap="812(165) 813(424) 814(31)" id="b812-7">The bill sets out the contract in hsec verba, and alleges that the complainant, prior to its execution, discovered gold upon the claims of which he is stated in the contract to be the owner, and located the same under and in pursuance of the laws of the United States and of the local rules and regulations of the mining district in which they are situated, ever since which time he has been the owner and in the pos­session thereof, and engaged in the operation of the same; and that the defendant is, and has been during the same time, the owner of a claim known as “No. 10 on Dexter Creek,” having theretofore discovered gold thereon, and having theretofore located the same under and in pursuance of the same laws, rules, and regulations, and having during the same time been in the undisputed possession thereof, operating the same for mining purposes, and extracting therefrom large quantities of gold. It is alleged that prior to the commencement of the suit the complainant demanded in writing that the defendant make his selection of a claim from the list of claims mentioned in the contract, of which he desired a conveyance by the complainant of an undi­vided half interest, and that the complainant then and there offered in writing to make, acknowledge, and deliver to the defendant a good and sufficient conveyance of an un­divided half interest in such claim so selected by him, and thereupon demanded of the defendant a conveyance to the complainant of an undivided half interest in claim No. 10 on Dexter creek; that the defendant, with intent to defraud the complainant, refused, and still refuses, to per­form his part of the agreement, and to execute or deliver to the complainant a conveyance of the undivided half in­terest in claim No. 10 on Dexter creek, although able to do so. The bill further alleges that the last-mentioned claim is a placer mining claim, easily worked, and that the defend­ant is continuously working the same, and extracting there­from gold, with the intent to defraud the complainant, and is appropriating all of the output to his own use and bene­fit; that a large portion of the claim remains undeveloped, which portion, the complainant alleges, contains valuable deposits of gold, and that the defendant, unless restrained by the court, will continue to mine and extract gold there­from, and convert the same to his own use, to the irrep­arable damage of the complainant; that the defendant is insolvent, and unable to respond in damages to the com­plainant, who has no plain, speedy, or adequate remedy at law; that the defendant’s said mining claim is so situated that the gold cannot be extracted therefrom except during the summer season of the year, and that, in order to pre­vent the complainant from being damaged by. reason of the failure of the defendant to conform to his part of the con­tract, it is necessary and proper that a receiver be appointed to operate and care for the mining claim during the pen­dency of the suit, and that an injunction should issue re­straining the defendant and those acting under him from mining the claim or extracting any gold therefrom; that the complainant is, and at all of the times mentioned in the bill has been, ready, willing, and able to perform his part of the agreement, and concludes with a prayer for a specific performance théreof, for the injunction men­tioned, and for an accounting between the defendant and the complainant, with a decree for such amount as shall be found due the complainant upon such accounting, together with his costs.</p>
+                <p pgmap="814" id="b814-4">The answer of the defendant puts in issue each and all of the allegations of the bill, except that alleging the execu­tion of the contract sued on, which the answer admits to have been signed by the respective parties, but which it alleges was entirely without consideration; and for further and separate defense alleges: “That prior to the 17th day of August, 1899, and before the time that C. E. Hoxie, acting or pretending to act as attorney in fact for the plain­tiff herein, demanded that defendant select one of the claims described in the plaintiff’s complaint and said agreement, and mentioned in the demand referred to in plaintiff’s com­plaint, the defendant requested the plaintiff to open up, develop, and operate the placer mining claims alleged to have been acquired and owned by the plaintiff, and more particularly described in the alleged agreement, so that the defendant might be able to form some opinion of the value of said claims,, in order to make an intelligent selec­tion in reference to the relative values thereof; that the plaintiff then and there refused to do so, and informed de­fendant at that time that he would not operate said claims, nor any of them; that thereupon the said defendant rescind­ed said agreement, and informed the plaintiff that he would not convey to l]im an undivided one-half interest in No. 10 on Dexter creek, or any part thereof, for the reason that the said plaintiff refused to open up, operate, and de­velop the claims alleged to be owned by him, and mentioned in said contract, and demonstrate the values thereof.”</p>
+                <p pgmap="814(95) 815(234)" id="b814-5">The answer further alleges that the complainant never opened up, prospected, developed, nor operated any of his alleged claims so that the value thereof could be ascer­tained, and that the defendant has had no opportunity of ac­quiring any information from any source concerning their value, and that the complainant has, with intent to defraud the defendant, purposely refused to open up, develop, or prospect any of his alleged claims, or to give the defendant any opportunity of ascertaining their value, by reason of which the defendant has been unable to make any selection from the plaintiff’s alleged claims, whose value, if any, is wholly unknown to the defendant, who would be un­able to make any intelligent selection of any one thereof; that the defendant in good faith entered upon his claim No. 10 on Dexter creek, and by prospecting the same demon­strated it to be of considerable value, and that to require the defendant to select from ten claims, each and all of which the complainant refuses and neglects to open up, prospect, or develop, in exchange for an undivided one-­half intérest in one of which he should convey an undivided one-half interest in his developed and valuable claim, would be inequitable and unjust. And for a further and separate defense the answer alleges, upon the information and be­lief of the defendant, that the plaintiff is unable to carry out his part of the contract; that he has leased a portion of his alleged claims, the lessees of which are in possession of and working the same, and that there are adverse claim­ants to some of the complainant’s other claims described_in the contract, claiming the same adversely to the complain­ant, by reason of which the complainant is unable to convey to the defendant an undivided one-half interest in either of his said claims. To the answer the complainant filed a rep­lication, putting in issue the matters of defense set up.</p>
+                <p pgmap="815(207) 816(215)" id="b815-4">It further appears from the record that on the 7th day of January, 1901, the cause was, upon the application of the defendant, ordered by the court to be placed on its trial calendar, and that on the 31st day of the same month, it being about to be reached for trial, the complainant moved for a continuance of the cause for the term, upon the affi­davit of Charles E. Hoxie, which stated that he is attorney in fact for the complainant, and that, after fully and fairly stating the complainant’s case to his attorney, he was ad­vised and verily believed that the complainant had a good cause of action on the merits, and that he could not safely go to trial at that term of the court because of the com­plainant’s absence from the district; “that the plaintiff is the sole and only witness in rebuttal to the testimony of the defendant or the allegations of said answer; that said suit has been pending and ready for trial during the season of 1900, and the defendant (plaintiff) was present in Nome City, and in attendance upon this court, for the purpose of testifying in said cause, but was compelled to go to the city of Washington, D. C., to transact business with the post-office department in connection with a certain mail contract theretofore held by the plaintiff; that the said plaintiff is away from Nome City, but intends to return, via Katmai, over the trail, during the winter.” The affidavit of Hoxie further stated that the complainant, if present at the trial, would explicitly deny all of the averments of the answer set up in defense of the suit, and would further testify that he has prospected and opened up each and every of his alleged claims mentioned in the contract, and that he has been prevented from selling or properly operating them because of the contract and of this suit; and that he was then able and willing to perform his part of the con­tract, and convey to the defendant an undivided one-half interest in either of his said claims. The affidavit of Hoxie further stated that the work done upon the complainant’s alleged claims was done under and by direction of the af­fiant. The court overruled the motion for a continuance, and the cause was referred to P. C. Sullivan to take the testimony therein, and report his findings of fact and con­clusions of law to the court, all of which was done.</p>
+                <p pgmap="816(222) 817(431) 818(441) 819(422) 820(19)" id="b816-3">It is insisted upon the part of the appellant that the court erred in denying the motion for a continuance of the trial. We do not think so. It appears from the affidavit upon which the motion for the continuance was based that the complainant in the cause, with full knowledge of its pen­dency and of its readiness for trial, left the district in which it was pending, upon some other business of his own, which, for aught that was made to appear, may have been of far less importance than the suit which he had in­stituted. Having voluntarily absented himself from the district in which he knew the suit was to be tried, without having procured, or even made application for, a continu­ance of the trial thereof, and without having made, or even attempted to make, so far as appears, any arrangement for the taking of his testimony, he cannot be heard to com­plain that the case was tried in its regular order in his ab­sence. The referee, upon the evidence introduced by and on behalf of the respective parties, found as a fact, among other things, that at the time of the making of the con­tract sued on the complainant and defendant “orally agreed and understood that each should have title to the mining claim or claims which each party was stated to own in the written agreement; also that the contract should be void in case either did not have title to such claims. It was further agreed at the time that all of the mining claims mentioned in the contract should be worked and operated before the 1st day of August, 1899.” The referee further found that prior to the execution of the contract the de­fendant had never been upon any of the claims therein mentioned; that shortly after its execution, and some time in February or March, 1899, the defendant left St. Michaels, and went to Nome for the purpose of working his claim No. 10 on Dexter creek, and some time in the month of June of that year caused his said claim to be opened and operated, and that the same was worked during the months of June and July, 1899, and thereafter; that on the 2d day of August, 1899, the defendant and the complainant had a conversation in Nome in relation to the making of con­veyances under the contract, in which the defendant “re­pudiated the contract, and the plaintiff understood from the conversation that Dufresne would not carry out the terms of the contract, and that defendant declined to do so upon the ground that he was not in position to make any selec­tion from plaintiff’s claims, because, as defendant con­tended, plaintiff had not worked or operated his claims so that the defendant could make a fair selection”; that on the 17th day of August, 1899, the complainant, through his attorney in fact, Hoxie, made a written demand upon the defendant to the effect that he select one of the com­plainant’s claims of the undivided one-half interest in which he desired a conveyance, and which demand also contained, on the part of the complainant, an offer to make, acknowl­edge, and execute a good and sufficient conveyance by the complainant of such undivided one-half interest, and a de­mand that the defendant make, acknowledge, and execute to the complainant a like conveyance of an undivided one-­half interest in his claim No. 10 on Dexter creek, with which demands the defendant refused to comply. The referee further found as a fact that at the time of the execution of the contract none of the mining claims mentioned there­in as being owned and operated by the complainant were in actual operation, nor had any of them been opened up at all, and that there had then been no work of any kind done upon the defendant’s claim No. 10 on Dexter creek, also in the contract said to be then owned and operated by him. The referee further found “that more or less assess­ment work was done by the plaintiff upon the different claims mentioned as being owned by him in the months of August and September, 1899. Upon No. IS below on Dry creek assessment work was done in July and August, 1899, but beyond the doing of such assessment work there ap­pears not to have been any work or operations of any kind on the claims mentioned as belonging to the plaintiff, and none of the claims of plaintiff were ever mined or operated as mining claims within the meaning and intention of the parties under the contract.” It was further found by the referee that the complainant was not at the time of the ex­ecution of the contract, nor has he ever been, the owner of any of the claims of which he was therein stated to be the owner, but that all of them then were, and ever since have been, owned by the complainant, C. E. Hoxie, and one Macdonald, in equal shares. The referee further found that after the commencement of the suit, and during its pendency, to wit, on the 28th day of May, 1900, the com­plainant made to one Stephen Ivanoff “what is termed a lay lease’ for one of the claims mentioned in the contract as being owned by the plaintiff, being claim No. 12 above discovery on Anvil creek, called the ‘Last Paper Mine.’ ” by the terms of which one Martin Angel was granted the exclusive right to mine that claim during such time as, should be necessary to completely extract all the gold and other precious metals therefrom, in consideration of which Angel was to work the claim in a proper and miner-like way, and extract therefrom all the gold possible, 40 per cent, of the gross amount of which, and of other minerals taken therefrom, he should pay over to the complainant and the said Ivanoff from time to time as cleanups might be made, or upon their request; the said Angel to have the right to the exclusive possession of the claim until it was “fully worked out or abandoned” by him. The referee further found that one of the complainant’s claims men­tioned in the contract, to wit, No. 3 below on Glacier creek, is in litigation in a suit brought by one William Lichten­berg in the United States district court for the district of Alaska, Second division, in which Lichtenberg claims to be its owner, but that the character of the suit is not fur­ther shown by the testimony. It was further found by the referee that a number of the claims stated as being owned by the complainant are claimed by persons other than the complainant, but that the nature, extent, and character of said claims is not shown. The referee further found “that claim No. 12 above on Anvil creek was'located by various parties at different times, but that the plaintiff never made any location or attempted location thereof; that as to the other claims mentioned in the contract as being own­ed by plaintiff, the plaintiff located or attempted to lo­cate each and all of them; that the evidence does not dis­close that claim No. 12 above on Anvil creek was ever transferred or conveyed to the plaintiff by any of the par­ties who located or attempted to make location thereof, or by any person. The adverse and different locations or pur­ported locations, with the dates and names of parties, are shown by exhibit or schedule No. 1,” annexed to the find­ings. The referee further found that prior to the writ­ten demand made by Hoxie in behalf of the complainant, hereinbefore mentioned, the complainant had made a num­ber of lay contracts or leases for the operation of portions of the claims mentioned in the contract as being owned by him to various parties, extending over various periods of time, — one being for a period of three years, — none of which, however, were at the time of the trial in force, hav­ing theretofore been abandoned by the respective parties taking them; but whether abandoned prior to the written demand by Hoxie in behalf of the complainant, or of the commencement of the action, the referee found was not shown by the testimony. He further found that there was no other consideration for the contract sued on than the mutual promises therein contained, and that prior to the date of its execution the defendant' discovered gold upon his claim No. 10 on Dexter creek, and located the same in accordance with the laws of the United States and with the local rules and regulations of the mining district in which the claim is situated, and that he has ever since been the owner and in the quiet and peaceable possession thereof; and, as a conclusion of law, that the complainant was not entitled to the specific performance of the contract sued on. The report of the referee was subsequently confirmed by the court, and judgment given in favor of the defendant.</p>
+                <p pgmap="820(388) 821(39)" id="b820-4">It appears that during the fourth day of the proceedings before the referee, the complainant asked that the further taking of testimony be adjourned for such a time as would enable him to obtain the testimony of Stephen Ivanoff, basing the motion upon an affidavit of Hoxie to the effect that Ivanoff, if present, would testify that he was the orig­inal locator of placer mining claim No. 12 above discovery on Anvil creek, and that prior to the making of the loca­tion he discovered gold thereon, and that the boundaries were properly marked by him, and the claim otherwise properly located, an undivided one-half interest in which he afterwards conveyed to the complainant, Engelstad, for a valuable consideration; and “that he has caused the said claim to be opened, operated, developed, and prospected, so as to demonstrate the character of the ground and the value of the claim; and that he was in possession of said claim prior to August, 1899, and was engaged in opening, working, and operating said claim at said time on behalf of himself and plaintiff in this suit” (Engelstad); that those facts could not be proved by any other witness to the knowledge of affiant, and that Ivanoff was then residing at Unalaklik, Alaska, and that the reason a subpoena had not been'issued for him “is that since the reference of this cause there has been no opportunity, on account of the climatic conditions, lack of communication, and the distance to said Unalaklik from Nome, to obtain the presence of said Ivanoff; that, if this cause is continued, the plaintiff will be able to obtain the testimony of the said Ivanoff be­fore said referee; that said Unalaklik is a distance of about three hundred miles from Nome, and on account of the uncertainty of the weather, and storms, and the incon­venience of traveling, and the danger incident thereto, and the delays connected therewith, it will be necessary that this cause be continued for two months” to obtain the testimony desired. The referee denied the motion for a continuance, to which action the complainant excepted, and here assigns the ruling as error. It is a sufficient answer to this as­signment to say that such testimony on the part of Ivanoff would not have been admissible under the averments of the bill, which are to the effect that the complainant was the locator of claim No. 12 above discovery on Anvil creek, and has since been in the undisputed possession thereof, op­erating the same, and extracting gold therefrom.</p>
+                <p pgmap="821(408) 822(180)" id="b821-3">There are 47 assignments of error in all, many of which do not conform to the requirements of rule 24 of this court (11 C.C.A. xcv, 47 F. xi). Most of them relate to alleged errors committed by the referee in admitting or excluding testimony. In considering such specifications in an equity suit tried before the judge without a jury, or by a referee, who reports the evidence as well as his findings to the court, the appellate court ought not to reverse the cause merely upon the ground that the referee received irrelevant or incompetent testimony, or that he rejected testimony that was admissible, where, upon all of the facts rand circum­stances, it is clearly apparent that the result could not have been different if the testimony objected to had been re­jected in the one case or received in the other. Migeon v. Railroad Co., 23 C.C.A. 156, 77 F. 249, 252, and cases there cited. It is clear that the referee erred in admitting tes­timony to the effect that at the time of the making of the contract sued on the respective parties to it orally agreed that each should have title to the mining claim or claims which each was therein declared to own, and that the con­tract should be void in case either did not have such title, and that all of the mining claims mentioned in the contract should be worked and operated before the 1st day of Au­gust, 1899. Authorities need not be cited to the proposition that parol testimony is inadmissible to add to or alter a writ­ten agreement. But that testimony, as well as the findings of the referee in accordance with it, may be properly disre­garded on the present appeal. The contract itself declares that the ten claims to which the complainant asserted title were not only then owned, but were then operated by him. If in that condition, it was within the power of the de­fendant to make an intelligent selection of the one for an undivided one-half interest in which he agreed to convey an undivided one-half interest in his own claim. The evidence clearly shows, and the findings are to the effect, not only that not one of the claims to which the complain­ant asserted title was at the time of the execution of the contract operated by him, but that not one of them has at any time since been so operated or opened as to give the defendant a reasonable opportunity to make the selection provided for by the contract. This clearly established fact is, in our opinion, sufficient to defeat the complainant’s suit, without regard to the question as to whether the selec­tion contracted for was or was not entirely personal to the defendant, and could or could not be exercised on his be­half in the event of his unjustifiable refusal to exercise it, and without regard, also, to the objections urged on be­half of the appellee to the lack of title in the complainant to the claims alleged to have been owned and operated by him. A decree for the specific performance of a contract for the sale or exchange of real estate does not go as a matter of course, but is granted or withheld, according as equity and justice seem to demand, in view of all of the circumstances of the case. McCabe v. Matthews, 155 U.S. 550, 15 S.Ct. 190, 39 L.Ed. 253, and cases there cited.</p>
+                <p pgmap="822" id="b822-3">The judgment is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="810" ORDERLABEL="798" TYPE="page">
+        <fptr FILEID="tiff_00405_1"/>
+        <fptr FILEID="jpg_00405_1"/>
+        <fptr FILEID="alto_00405_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_810.2" BETYPE="IDREF" FILEID="alto_00405_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="811" ORDERLABEL="799" TYPE="page">
+        <fptr FILEID="tiff_00406_0"/>
+        <fptr FILEID="jpg_00406_0"/>
+        <fptr FILEID="alto_00406_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_811.3" BETYPE="IDREF" FILEID="alto_00406_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="812" ORDERLABEL="800" TYPE="page">
+        <fptr FILEID="tiff_00406_1"/>
+        <fptr FILEID="jpg_00406_1"/>
+        <fptr FILEID="alto_00406_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_812.2" BETYPE="IDREF" FILEID="alto_00406_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="813" ORDERLABEL="801" TYPE="page">
+        <fptr FILEID="tiff_00407_0"/>
+        <fptr FILEID="jpg_00407_0"/>
+        <fptr FILEID="alto_00407_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_813.3" BETYPE="IDREF" FILEID="alto_00407_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="814" ORDERLABEL="802" TYPE="page">
+        <fptr FILEID="tiff_00407_1"/>
+        <fptr FILEID="jpg_00407_1"/>
+        <fptr FILEID="alto_00407_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_814.2" BETYPE="IDREF" FILEID="alto_00407_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="815" ORDERLABEL="803" TYPE="page">
+        <fptr FILEID="tiff_00408_0"/>
+        <fptr FILEID="jpg_00408_0"/>
+        <fptr FILEID="alto_00408_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_815.3" BETYPE="IDREF" FILEID="alto_00408_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="816" ORDERLABEL="804" TYPE="page">
+        <fptr FILEID="tiff_00408_1"/>
+        <fptr FILEID="jpg_00408_1"/>
+        <fptr FILEID="alto_00408_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_816.2" BETYPE="IDREF" FILEID="alto_00408_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="817" ORDERLABEL="805" TYPE="page">
+        <fptr FILEID="tiff_00409_0"/>
+        <fptr FILEID="jpg_00409_0"/>
+        <fptr FILEID="alto_00409_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_817.3" BETYPE="IDREF" FILEID="alto_00409_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="818" ORDERLABEL="806" TYPE="page">
+        <fptr FILEID="tiff_00409_1"/>
+        <fptr FILEID="jpg_00409_1"/>
+        <fptr FILEID="alto_00409_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_818.2" BETYPE="IDREF" FILEID="alto_00409_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="819" ORDERLABEL="807" TYPE="page">
+        <fptr FILEID="tiff_00410_0"/>
+        <fptr FILEID="jpg_00410_0"/>
+        <fptr FILEID="alto_00410_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_819.3" BETYPE="IDREF" FILEID="alto_00410_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="820" ORDERLABEL="808" TYPE="page">
+        <fptr FILEID="tiff_00410_1"/>
+        <fptr FILEID="jpg_00410_1"/>
+        <fptr FILEID="alto_00410_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_820.2" BETYPE="IDREF" FILEID="alto_00410_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="821" ORDERLABEL="809" TYPE="page">
+        <fptr FILEID="tiff_00411_0"/>
+        <fptr FILEID="jpg_00411_0"/>
+        <fptr FILEID="alto_00411_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_821.2" BETYPE="IDREF" FILEID="alto_00411_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="822" ORDERLABEL="810" TYPE="page">
+        <fptr FILEID="tiff_00411_1"/>
+        <fptr FILEID="jpg_00411_1"/>
+        <fptr FILEID="alto_00411_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_822.2" BETYPE="IDREF" FILEID="alto_00411_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b811-12" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_811.12" BETYPE="IDREF" FILEID="alto_00406_0"/>
+            <area BEGIN="BL_812.1" BETYPE="IDREF" FILEID="alto_00406_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b811-11" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_811.11" BETYPE="IDREF" FILEID="alto_00406_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b811-10" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_811.10" BETYPE="IDREF" FILEID="alto_00406_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aaf" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_812.5" BETYPE="IDREF" FILEID="alto_00406_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b812-3" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_812.4" BETYPE="IDREF" FILEID="alto_00406_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b814-5" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_814.5" BETYPE="IDREF" FILEID="alto_00407_1"/>
+            <area BEGIN="BL_815.1" BETYPE="IDREF" FILEID="alto_00408_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b815-4" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_815.4" BETYPE="IDREF" FILEID="alto_00408_0"/>
+            <area BEGIN="BL_816.1" BETYPE="IDREF" FILEID="alto_00408_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b811-9" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_811.9" BETYPE="IDREF" FILEID="alto_00406_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b811-8" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_811.8" BETYPE="IDREF" FILEID="alto_00406_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b814-4" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_814.4" BETYPE="IDREF" FILEID="alto_00407_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b821-3" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_821.4" BETYPE="IDREF" FILEID="alto_00411_0"/>
+            <area BEGIN="BL_822.1" BETYPE="IDREF" FILEID="alto_00411_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b811-7" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_811.7" BETYPE="IDREF" FILEID="alto_00406_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b810-5" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_810.6" BETYPE="IDREF" FILEID="alto_00405_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b810-6" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_810.7" BETYPE="IDREF" FILEID="alto_00405_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b810-7" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_810.8" BETYPE="IDREF" FILEID="alto_00405_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b812-6" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_812.8" BETYPE="IDREF" FILEID="alto_00406_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b812-7" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_812.9" BETYPE="IDREF" FILEID="alto_00406_1"/>
+            <area BEGIN="BL_813.1" BETYPE="IDREF" FILEID="alto_00407_0"/>
+            <area BEGIN="BL_814.1" BETYPE="IDREF" FILEID="alto_00407_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b812-4" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_812.6" BETYPE="IDREF" FILEID="alto_00406_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b812-5" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_812.7" BETYPE="IDREF" FILEID="alto_00406_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b820-4" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_820.4" BETYPE="IDREF" FILEID="alto_00410_1"/>
+            <area BEGIN="BL_821.1" BETYPE="IDREF" FILEID="alto_00411_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2p" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_810.10" BETYPE="IDREF" FILEID="alto_00405_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b810-8" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_810.9" BETYPE="IDREF" FILEID="alto_00405_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b816-3" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_816.4" BETYPE="IDREF" FILEID="alto_00408_1"/>
+            <area BEGIN="BL_817.1" BETYPE="IDREF" FILEID="alto_00409_0"/>
+            <area BEGIN="BL_818.1" BETYPE="IDREF" FILEID="alto_00409_1"/>
+            <area BEGIN="BL_819.1" BETYPE="IDREF" FILEID="alto_00410_0"/>
+            <area BEGIN="BL_820.1" BETYPE="IDREF" FILEID="alto_00410_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b822-3" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_822.4" BETYPE="IDREF" FILEID="alto_00411_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

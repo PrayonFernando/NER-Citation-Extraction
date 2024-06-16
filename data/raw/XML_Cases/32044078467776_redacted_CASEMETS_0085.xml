@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0085" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="The Canada">THE CANADA</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 563</citation>
+          <citation category="parallel" type="bluebook">92 F. 196</citation>
+          <decisiondate>1899-01-28</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:07Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00288_0" MIMETYPE="image/tiff" CHECKSUM="d74d298dd028091eec440a63beae0814" CHECKSUMTYPE="MD5" SIZE="20282">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00288_0.tif"/>
+      </file>
+      <file ID="tiff_00288_1" MIMETYPE="image/tiff" CHECKSUM="4e39b6a012cb93458e862471c4b9689f" CHECKSUMTYPE="MD5" SIZE="55358">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00288_1.tif"/>
+      </file>
+      <file ID="tiff_00289_0" MIMETYPE="image/tiff" CHECKSUM="17035ee741c699311c7807acc5a620e7" CHECKSUMTYPE="MD5" SIZE="53356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00289_0.tif"/>
+      </file>
+      <file ID="tiff_00289_1" MIMETYPE="image/tiff" CHECKSUM="1849541408cb0958efdddd501d8c45fa" CHECKSUMTYPE="MD5" SIZE="19684">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00289_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00288_0" MIMETYPE="image/jpg" CHECKSUM="1cd5a67ee87d898ae5864814ec2d5b8d" CHECKSUMTYPE="MD5" SIZE="101662">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00288_0.jpg"/>
+      </file>
+      <file ID="jpg_00288_1" MIMETYPE="image/jpg" CHECKSUM="1827d762137e0c3190407df0cb8eef66" CHECKSUMTYPE="MD5" SIZE="212117">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00288_1.jpg"/>
+      </file>
+      <file ID="jpg_00289_0" MIMETYPE="image/jpg" CHECKSUM="94569e1d4521943e9b8bb348c63607f4" CHECKSUMTYPE="MD5" SIZE="195025">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00289_0.jpg"/>
+      </file>
+      <file ID="jpg_00289_1" MIMETYPE="image/jpg" CHECKSUM="f0c664d32537b02538c4f001493db09b" CHECKSUMTYPE="MD5" SIZE="105995">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00289_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00288_0" MIMETYPE="text/xml+gzip" CHECKSUM="071a2a80686820cd5a1787293c4748e3" CHECKSUMTYPE="MD5" SIZE="5428">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00288_0.xml.gz"/>
+      </file>
+      <file ID="alto_00288_1" MIMETYPE="text/xml+gzip" CHECKSUM="a2473db97b6ed9179f22ecccdbb78328" CHECKSUMTYPE="MD5" SIZE="13707">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00288_1.xml.gz"/>
+      </file>
+      <file ID="alto_00289_0" MIMETYPE="text/xml+gzip" CHECKSUM="6ad506e92607dd81c2d35103fb4198bc" CHECKSUMTYPE="MD5" SIZE="12634">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00289_0.xml.gz"/>
+      </file>
+      <file ID="alto_00289_1" MIMETYPE="text/xml+gzip" CHECKSUM="83f3a2d8900c19a79995ee1429ec1dec" CHECKSUMTYPE="MD5" SIZE="5294">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00289_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0085" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="563" lastpage="566">
+              <court pgmap="575" id="b575-5">District Court, D. Alaska.</court>
+              <citation pgmap="575" id="b575-3">92 F. 196</citation>
+              <parties pgmap="575" id="b575-4">THE CANADA.</parties>
+              <decisiondate pgmap="575" id="b575-6">Jan. 28, 1899.</decisiondate>
+              <attorneys pgmap="575" id="b575-13">John G. Heid, for libelants.</attorneys>
+              <attorneys pgmap="575" id="b575-14">H. J. Miller, for claimant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="575" id="b575-15">JOHNSON, District Judge.</author>
+                <p pgmap="575(112) 576(458) 577(13)" id="b575-16">The bark Canada was a sailing vessel of about 1,000 tons burden, the property of the Alaska Steamship Com­pany. She was valued at about $10,000, and her cargo, which consisted of general merchandise, lumber, and four head of horses, was of the estimated value of $50,000. On the 19th day of February, 1898, while lying at anchor in the harbor of Skaguay, Alaska, which harbor is an arm of the North Pacific Ocean, she parted her cables in a severe storm, lost both her anchors, and went adrift. A small ■steamer went to her, but, because of the severity of the storm, was unable to render her any assistance. There be­ing no other steam vessel in the vicinity of sufficient size and power to save her, she drifted before the wind for about three miles, when she went ashore on a rocky beach, bow on. Her captain and crew went to her, and made her fast to a large tree on shore with several strong lines. In this condition she remained for two or three days. During all this time the weather was extremely cold and the wind terrific. On the 20th of February her captain gave,or­ders to shoot the horses aboard, which was done, and di­rected the. officers and crew to take with them such per­sonal effects as 'they could carry. The captain took the ship’s papers, compasses, side lights, stove, and other ar­ticles, and all hands left the ship, and went to Skaguay to live. In speaking of the condition of the Canada at this time, her captain says: “The bow was on the beach, and when the tide went out, or at low water, the ship lay in that position, at an angle of about 45 degrees from forward aft. When the tide flowed, the vessel’s stern didn’t rise as fast as the water did, and as a consequence the water flooded the ship to her cabins.” On the night of February 23d the vessel parted all her fastenings, and again went adrift. On the morning of the 24th the steamer Colman found her, about 14 miles from Skaguay, and drifting on shore. Her hold was then filled with water, the seas were breaking over her, she was a mass of ice, a hole was found in her port bow, and her rigging was largely carried away. The weather was still very severe and the sea rough. The crew of the Colman boarded her, and made fast a line, but, be­cause of the heavy weather, were unable .to tow her to the best harbor in the vicinity. They then took her to a sand spit near Haine’s Mission, where they beached her, she having no anchors with which she,could be made fast in the harbor. There she remained till March 9th, when she was gotten off, and towed to Skaguay by the Colman. In the meantime many efforts had been made by the Colman, and one or more efforts were made by the claimant, to get the Canada off the beach. Such vessels as were available were used for that purpose, but, the tide not serving suffi­ciently high, all such efforts were unavailing. On March 7th the libelants herein filed their libel, and, by agreement of parties, an order was made directing the marshal to sell the vessel and cargo. This he did on May 14th, and paid to the clerk of this court $1,874.37 as the net proceeds of said sale.</p>
+                <p pgmap="577" id="b577-3">The claimant, defendant herein, denies that libelants are entitled to anything as salvors, but, on the contrary, says they did not salve the vessel; that she was not a derelict; and that because of libelants’ inability to save the vessel, and their refusal to allow claimant to assist them, claimant has suffered almost the total loss of the vessel and cargo, and he asks judgment against the libelants for damages. We cannot concur in this contention. ‘The evidence fully satisfies us that, at the time the Colman took the Canada in tow, the latter had been wholly abandoned by her officers and crew, that she was a derelict, and was in imminent dan­ger of destruction and total loss. It also satisfactorily ap­pears that the value of the vessel, and cargo must have been practically destroyed while she lay on the rocky beach, from the 19th till the 23d day of February, and the depreciation in the value of the lumber aboard will account for the re­mainder of the loss.</p>
+                <p pgmap="577" id="b577-4">While the conduct of the libelants, after the vessel was placed on the sand spit, cannot be commended for any great display of business sagacity, yet the owners could at any time have filed in this court their stipulation, conditioned for the payment to libelants of any salvage money which might be found due them, and thereby have obtained pos­session of the vessel and her cargo. This they did not do, though there is some claim that they offered to secure libelants if they would surrender possession of the vessel. Whatever loss may have been sustained to the vessel and cargo after being beached on the sand spit, it is clear from the evidence that both claimant and libelants are equally responsible. The libelants might, with perfect safety, have accepted the assistance of claimant, and the claimant could with equal safety have secured libelants against all loss, and thereby have compelled a surrender of the possession of the vessel.</p>
+                <p pgmap="577" id="b577-5">The Colman suffered some injury and loss of time while, undergoing repairs for these injuries, which ordinarily, un­der the law, would be allowed to her in addition to any salvage money found to be due her; but, in view of all the facts surrounding this case, we are not disposed to make any special allowance for these damages or loss of time.</p>
+                <p pgmap="578" id="b578-2">It is our judgment that a fair allowance for salvage would be, after deducting all costs, including the statutory fee of $20 for proctor for libelants, to divide what re­mains in the hands of the court from the sale of said vessel and cargo into equal parts, giving the libelants one half and the claimant the other half of said proceeds. Of the one half going to libelants, one half should be given to the steamer Colman, and the remaining half should be divided between the officers and crew of the Colman, in proportion to the wages being paid them at the time the Canada was salved, and a decree may be entered in conformity to this opinion and the findings herein contained.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="575" ORDERLABEL="563" TYPE="page">
+        <fptr FILEID="tiff_00288_0"/>
+        <fptr FILEID="jpg_00288_0"/>
+        <fptr FILEID="alto_00288_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_575.2" BETYPE="IDREF" FILEID="alto_00288_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="576" ORDERLABEL="564" TYPE="page">
+        <fptr FILEID="tiff_00288_1"/>
+        <fptr FILEID="jpg_00288_1"/>
+        <fptr FILEID="alto_00288_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_576.2" BETYPE="IDREF" FILEID="alto_00288_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="577" ORDERLABEL="565" TYPE="page">
+        <fptr FILEID="tiff_00289_0"/>
+        <fptr FILEID="jpg_00289_0"/>
+        <fptr FILEID="alto_00289_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_577.2" BETYPE="IDREF" FILEID="alto_00289_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="578" ORDERLABEL="566" TYPE="page">
+        <fptr FILEID="tiff_00289_1"/>
+        <fptr FILEID="jpg_00289_1"/>
+        <fptr FILEID="alto_00289_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_578.1" BETYPE="IDREF" FILEID="alto_00289_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b577-4" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_577.5" BETYPE="IDREF" FILEID="alto_00289_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b575-3" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_575.3" BETYPE="IDREF" FILEID="alto_00288_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b577-3" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_577.4" BETYPE="IDREF" FILEID="alto_00289_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-2" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.3" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b575-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_575.6" BETYPE="IDREF" FILEID="alto_00288_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b575-4" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_575.4" BETYPE="IDREF" FILEID="alto_00288_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b575-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_575.5" BETYPE="IDREF" FILEID="alto_00288_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b577-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_577.6" BETYPE="IDREF" FILEID="alto_00289_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b575-13" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_575.13" BETYPE="IDREF" FILEID="alto_00288_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b575-16" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_575.16" BETYPE="IDREF" FILEID="alto_00288_0"/>
+            <area BEGIN="BL_576.1" BETYPE="IDREF" FILEID="alto_00288_1"/>
+            <area BEGIN="BL_577.1" BETYPE="IDREF" FILEID="alto_00289_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b575-14" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_575.14" BETYPE="IDREF" FILEID="alto_00288_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b575-15" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_575.15" BETYPE="IDREF" FILEID="alto_00288_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

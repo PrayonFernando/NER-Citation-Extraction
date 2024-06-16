@@ -1,0 +1,635 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0064" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Carroll v. Price">CARROLL v. PRICE et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 445</citation>
+          <citation category="parallel" type="bluebook">81 F. 137</citation>
+          <decisiondate>1896-04-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:06Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00229_0" MIMETYPE="image/tiff" CHECKSUM="587b5af7baa5267b73492c7e51326244" CHECKSUMTYPE="MD5" SIZE="11042">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00229_0.tif"/>
+      </file>
+      <file ID="tiff_00229_1" MIMETYPE="image/tiff" CHECKSUM="84bb7c4daf750af657f96b3022c252a7" CHECKSUMTYPE="MD5" SIZE="4084">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00229_1.tif"/>
+      </file>
+      <file ID="tiff_00230_0" MIMETYPE="image/tiff" CHECKSUM="045d6f4dcbb20d941f1923bdb6c17613" CHECKSUMTYPE="MD5" SIZE="31658">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00230_0.tif"/>
+      </file>
+      <file ID="tiff_00230_1" MIMETYPE="image/tiff" CHECKSUM="85544c00ae0e939cc2336670783ba674" CHECKSUMTYPE="MD5" SIZE="53470">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00230_1.tif"/>
+      </file>
+      <file ID="tiff_00231_0" MIMETYPE="image/tiff" CHECKSUM="04dbfc008a02c7b0a2064e687441a599" CHECKSUMTYPE="MD5" SIZE="54386">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00231_0.tif"/>
+      </file>
+      <file ID="tiff_00231_1" MIMETYPE="image/tiff" CHECKSUM="d62065f1d4f402eb0c62445a061beef6" CHECKSUMTYPE="MD5" SIZE="54632">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00231_1.tif"/>
+      </file>
+      <file ID="tiff_00232_0" MIMETYPE="image/tiff" CHECKSUM="cce52929251570096b701d0378faa88f" CHECKSUMTYPE="MD5" SIZE="54094">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00232_0.tif"/>
+      </file>
+      <file ID="tiff_00232_1" MIMETYPE="image/tiff" CHECKSUM="8a60394ba5aed7d819e85c18d007181b" CHECKSUMTYPE="MD5" SIZE="52464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00232_1.tif"/>
+      </file>
+      <file ID="tiff_00233_0" MIMETYPE="image/tiff" CHECKSUM="8981e8856ae8d5d8456d545387e4f193" CHECKSUMTYPE="MD5" SIZE="53180">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00233_0.tif"/>
+      </file>
+      <file ID="tiff_00233_1" MIMETYPE="image/tiff" CHECKSUM="9a3bd754e63772cac2f5497921ee7042" CHECKSUMTYPE="MD5" SIZE="24750">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00233_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00229_0" MIMETYPE="image/jpg" CHECKSUM="58c78ffa30f43fe7addbcbc49e48fb09" CHECKSUMTYPE="MD5" SIZE="82235">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00229_0.jpg"/>
+      </file>
+      <file ID="jpg_00229_1" MIMETYPE="image/jpg" CHECKSUM="0d3d98bc4cf7ba4f92eb3c037cf399f4" CHECKSUMTYPE="MD5" SIZE="55008">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00229_1.jpg"/>
+      </file>
+      <file ID="jpg_00230_0" MIMETYPE="image/jpg" CHECKSUM="17a9918874566d878708df0077ff23ef" CHECKSUMTYPE="MD5" SIZE="134680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00230_0.jpg"/>
+      </file>
+      <file ID="jpg_00230_1" MIMETYPE="image/jpg" CHECKSUM="d670ac74a8b46f300cdf9868357d565d" CHECKSUMTYPE="MD5" SIZE="203279">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00230_1.jpg"/>
+      </file>
+      <file ID="jpg_00231_0" MIMETYPE="image/jpg" CHECKSUM="7916e5d924c0ab4a8d37aa5c19bcc183" CHECKSUMTYPE="MD5" SIZE="200271">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00231_0.jpg"/>
+      </file>
+      <file ID="jpg_00231_1" MIMETYPE="image/jpg" CHECKSUM="e932d1573c515ccad44753ea4cce3260" CHECKSUMTYPE="MD5" SIZE="206336">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00231_1.jpg"/>
+      </file>
+      <file ID="jpg_00232_0" MIMETYPE="image/jpg" CHECKSUM="1e18957221ce479d3ef60754b37025ff" CHECKSUMTYPE="MD5" SIZE="193233">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00232_0.jpg"/>
+      </file>
+      <file ID="jpg_00232_1" MIMETYPE="image/jpg" CHECKSUM="39677036784b6bbfea5201760d44f5dd" CHECKSUMTYPE="MD5" SIZE="207810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00232_1.jpg"/>
+      </file>
+      <file ID="jpg_00233_0" MIMETYPE="image/jpg" CHECKSUM="c4c5af9ab85e158acaa77c6fe181778f" CHECKSUMTYPE="MD5" SIZE="197583">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00233_0.jpg"/>
+      </file>
+      <file ID="jpg_00233_1" MIMETYPE="image/jpg" CHECKSUM="2afca90cb0ff1969204b18aabba0ff9b" CHECKSUMTYPE="MD5" SIZE="123161">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00233_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00229_0" MIMETYPE="text/xml+gzip" CHECKSUM="06ead712624dd09b3fa9534517342780" CHECKSUMTYPE="MD5" SIZE="3259">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00229_0.xml.gz"/>
+      </file>
+      <file ID="alto_00229_1" MIMETYPE="text/xml+gzip" CHECKSUM="d3c27f66f225e6f18d4835c71a97ef33" CHECKSUMTYPE="MD5" SIZE="926">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00229_1.xml.gz"/>
+      </file>
+      <file ID="alto_00230_0" MIMETYPE="text/xml+gzip" CHECKSUM="eefe8891708d699480ee22d9644fb079" CHECKSUMTYPE="MD5" SIZE="7953">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00230_0.xml.gz"/>
+      </file>
+      <file ID="alto_00230_1" MIMETYPE="text/xml+gzip" CHECKSUM="c052084215325679ee556d51f19201e1" CHECKSUMTYPE="MD5" SIZE="13125">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00230_1.xml.gz"/>
+      </file>
+      <file ID="alto_00231_0" MIMETYPE="text/xml+gzip" CHECKSUM="9bd79aa4be521e3182f978ce4629245f" CHECKSUMTYPE="MD5" SIZE="12581">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00231_0.xml.gz"/>
+      </file>
+      <file ID="alto_00231_1" MIMETYPE="text/xml+gzip" CHECKSUM="45a06e8beb84c272fe9b42616dba0ab0" CHECKSUMTYPE="MD5" SIZE="12799">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00231_1.xml.gz"/>
+      </file>
+      <file ID="alto_00232_0" MIMETYPE="text/xml+gzip" CHECKSUM="90e0a6b6d03a5b1a8fbca4d2ab3d4f5b" CHECKSUMTYPE="MD5" SIZE="13486">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00232_0.xml.gz"/>
+      </file>
+      <file ID="alto_00232_1" MIMETYPE="text/xml+gzip" CHECKSUM="c8b902d3aab2d55e579bffc93b07fe77" CHECKSUMTYPE="MD5" SIZE="12635">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00232_1.xml.gz"/>
+      </file>
+      <file ID="alto_00233_0" MIMETYPE="text/xml+gzip" CHECKSUM="a49de9781f828126c8ea04d58c457885" CHECKSUMTYPE="MD5" SIZE="12692">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00233_0.xml.gz"/>
+      </file>
+      <file ID="alto_00233_1" MIMETYPE="text/xml+gzip" CHECKSUM="6d52929851328e301f321b99d2a53a1c" CHECKSUMTYPE="MD5" SIZE="6377">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00233_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0064" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="445" lastpage="454">
+              <court pgmap="457" id="b457-7">District Court, D. Alaska.</court>
+              <citation pgmap="457" id="b457-5">81 F. 137</citation>
+              <parties pgmap="457" id="b457-6">CARROLL v. PRICE et al.</parties>
+              <decisiondate pgmap="457" id="AFt">April 25, 1896.</decisiondate>
+              <attorneys pgmap="459" id="b459-8">Johnson &amp; Heid, for plaintiff.</attorneys>
+              <attorneys pgmap="459" id="b459-9">J. F. Maloney and John Trumbull, for defendants.</attorneys>
+              <opinion type="majority">
+                <author pgmap="459" id="b459-10">DELANEY, District Judge</author>
+                <p pgmap="459" id="A-x">(orally charging jury).</p>
+                <p pgmap="459(211) 460(64)" id="b459-11">This is an action of ejectment, brought by the plaintiff to recover possession of a piece of ground described as fol­lows: “Beginning at the northeast corner thereof, whence an iron bolt establishing the southwest corner of lot num­ber 1, in block number 2, of the town of Juneau, accord­ing to the official survey of said town made by the deputy United States surveyors, and approved by the trustees of said town site, bears north, 57 degrees 52 minutes east, 34 feet; thence south, 44 degrees east, 35 feet; thence south, 46 degrees west, 50 feet; thence north, 44 degrees west, 35 feet; thence north, 46 degrees east, 50 feet to place of beginning.” The plaintiff alleges that these premises are a part of a tract of land abutting on lot No. 4, in block No. 1, of said town site, being 50 feet in width along said lot 4, and extending 100 feet into Gastinaux channel, an arm of the North Pacific Ocean. The tract 50 by 100 feet is there­fore partly up-land and partly tide-land, and is claimed by the plaintiff by virtue of possession, occupancy, and, im­provement, and upon which he has erected a wharf, ware­houses, and other appurtenances commonly used for ship­ping purposes. The defendants deny the prior possession and occupancy of the plaintiff of the ground in dispute, and claim to hold the same by virtue of prior location, pos­session, and occupancy. The question for you to determine from the evidence and under the instructions of the court is, which one of these parties is entitled to the piece of- ground in controversy.</p>
+                <p pgmap="460" id="b460-4">While the paramount title to all lands in Alaska is in the United States, congress and the general government have recognized for a great many years the right of the American citizen to go onto public lands, occupy, possess, use, and improve the same, with the view of ultimately ob­taining title thereto from the general government whenever the same shall be opened to purchase, and in this district this right is expressly recognized by congress in the first proviso of section 8 of the act of May 17, 1884, providing a civil government for Alaska. 23 Stat. 24; Supp.RewSt. (2d Ed.) p. 433 (8 U.S.C.A. § 356, and note). When congress enacted this law it undoubtedly had in view the condition of affairs in this country, and, in order to pro­tect settlers upon the public lands here, incorporated into said act the proviso above mentioned, which is in the following language: “That the Indians or other persons in said dis­trict shall not be disturbed in the possession of any lands ac­tually in their use or occupation or now claimed by them, but the terms under which such persons may acquire title to such lands is [are] reserved for future legislation by congress.”</p>
+                <p pgmap="460(145) 461(158)" id="b460-5">Under this provision, all persons who are in the actual use and occupancy of tracts of public land in this district, or who had laid claim to such tracts or pieces of land at the time this law was enacted, are protected against intrusion, and their possession cannot be disturbed. This provision is a mandate to the general land office to the effect that it cannot grant title adversely to a citizen who is in actual possession or occupancy, or who has a bona fide claim to a piece or tract of public land in this district; and the court also construes this provision as a mandate to the court that it shall not disturb a citizen who is in actual pos­session, or who has a well-founded bona fide claim to lands in Alaska.- As to up-lands, the law is well settled both by the decisions of the courts and by the acts of congress that, where two persons claim adversely to each other any piece or parcel of government land, the one having the prior pos­session has the prior and the better right. This rule has been very generally, if not universally, adopted by the courts in the Western states, and in this district has met the approval of congress in the proviso to section 12, c. 561, St.1891 (26 Stat. 1100), relating to public lands in Alaska. This act, after making provision concerning the entry of town sites, and for the location and entry of tracts of land for manufacturing and trading purposes, contains the following provision: “Provided that in case more than one person, association or corporation shall claim the same tract of land, the person, association or corporation having the prior claim by reason of possession and continuous oc­cupation shall be entitled to purchase the same.”</p>
+                <p pgmap="461" id="b461-4">So that congress, by this express enactment, recognizes the doctrine as to public lands in Alaska that a claim based upon the prior occupation and possession is the best claim, and is one which may ultimately ripen into a fee-simple title under letters patent issued to such prior claimant whenever congress shall so provide by extending the general land laws or otherwise.</p>
+                <p pgmap="461(181) 462(346)" id="b461-5">Priority of possession between the parties in this case is a question of fact for you to determine from the evidence; and, while no notice of location, such as is customary in case of mining claims, is necessary, still where such location notice is made with reference to nonmineral lands it may be received in evidence, and considered by the jury, as tend­ing to show possession in the locator or his grantees, to­gether with any other acts indicating possession, such as actual occupation of the ground, making improvements of any nature thereon, tilling the soil, clearing the land from trées and stumps, cutting brush, grading or leveling off the ground, building a house, constructing a wharf, or an entrance or approach thereto, or erecting warehouses, to­gether with the cost of such improvements and structures, and any other acts which usually accompany the possession and occupation of land, done by the person owning or claim­ing the same. These are things which you have a right to consider, on both sides of the case, for the purpose- of de­termining this question of occupancy and possession, and a bona fide intention on the part of the claimant to hold the land. The possessory right in and to government lands, when once acquired, may be conveyed from one person to another, and instruments in writing making such convey­ances are admissible in evidence, and may be considered by you as tending to establish possession. You will there­fore take into consideration in this case, on behalf of the parties on either side, the location notices, the deeds of con­veyance or instruments in writing transferring this pos­sessory right from one to another, and constituting chains of title on either side, — on the part of the plaintiff from the time the location is alleged to have been made by Mike Powers, in 1881, down to the plaintiff; and on the part of the defendants from the time of the alleged location by Price, in January, 1895. A possessory right acquired in public lands may be lost by abandonment, and where a party, having once acquired this right, surrenders his claim, goes off the ground, or gives up his possession in the sense of abandoning his right, the piece of land becomes restored to its original status in the public domain, and is subject to occupation and possession by any other citizen. But if the original occupant, after such abandonment takes place, and before any other person acquires any rights thereon, goes back on the ground, reassumes possession, makes additional improvements, his right to the piece of land becomes.re­stored, and the tract is again segregated from the public domain to such a degree as to enable him to hold it against anybody except the United States. There is some evidence in this case tending to show that the possession and oc­cupancy of the plaintiff and his grantors were not con­tinuous from 1881, but, although such possession may have been interrupted, if you find.that it was resumed prior to the locatio.n and occupancy claimed by the defendants, then the plaintiff has the better right.</p>
+                <p pgmap="462(67) 463(234)" id="b462-4">It is disclosed by the evidence, and not controverted on either side, that an official survey and plat of the town site of Juneau has been made, and a trustee appointed as provided by law, and an application made by him for a patent to said town site, for the purpose of granting title to persons law­fully entitled thereto, to the lots comprising said town site. You have a right to consider this testimony for the purpose of aiding you in locating this piece of ground in dispute, as well as that of the piece alleged to have been taken up by Mike Powers in 1881, of which the piece of ground in controversy here is claimed to be a part. And the court charges you that such official survey and plat of the town site may be considered by you for the purpose of deter­mining the locus of the ground in dispute. A town site, and the lots and blocks thereof, officially surveyed and platted by the United States, become permanent landmarks, and stakes and other markings indicating the boundaries thereof be­come permanent monuments, under such survey and plat, all of which the jury has the right to use and consider for the purpose of determining where a piece of land adjoining such town site, and outside of its exterior boundaries, is situated. And in this case you have a right to consider lot 4, in block 1, of the Juneau town site, upon which the restau­rant known as the “Owl” is alleged to be situated, a land­mark for the purpose of aiding you in determining where the piece of land, 50 by 100 feet, located by Powers in 1881, lies, and also where the land in dispute in this action is ac­tually located.</p>
+                <p pgmap="463(205) 464(269)" id="b463-4">With reference to tide-lands, the law in this country has been drawn by analogy from the law of England, and the doctrine there held, which, in principle, has been incorporat­ed into the law of this country, is that the fee-simple title to land lying within the ebb and flow of the tide is in the king or queen as sovereign of the realm. Following the principle of the English law, the rule in this country upon this subject .is that the title to land lying within the ebb and flow of the tide is in the state along whose shores the tide-lands lie, such title being so vested by virtue of the sovereign character of such state. Therefore, while the general government may retain its title to up-lands after a territory becomes a state, the title to all the tide-lands along the shores of a territory becomes vested in the state upon its admission into the Union, and its consequent assumption of state sovereignty. Until quite recently it has been the rule that a state is the only power that can primarily pass fee-simple title to tide-lands under our system of govern­ment. But before a state is admitted into the Union, — that is, while it is in its territorial condition, — it possesses no sovereignty whatever, and the courts have held that the gen­eral government is vested with the title to tide-lands along the shores of any territory, in the nature of a trust for the benefit of the future state whenever such territory be­comes a member of the federal Union. This rule has been modified by recent decisions of the supreme court of the United States, and the law now is that during the ter­ritorial period the general government has entire dominion and sovereignty, national and municipal, federal and state, over the territories, and may grant title and rights to lands below the high-water mark in aid of navigation and to pro­mote commerce. Shively v. Bowlby, 152 U.S. 1, 14 S.Ct. 548; Mann v. Land Co., 153 U.S. 273, 14 S.Ct. 820. The court therefore charges you that the United States holds paramount title to tide-lands in this territory; and, where the right of navigation is not impaired, rights of posses­sion by citizens of the United States to such tide-lands will be determined by the same rules of law as govern sim­ilar rights on the up-lands; and this court will apply to the tide-lands the rules that American citizens may occupy, possess, use, and improve the same, subject, however, to the paramount right of free navigation; and that the prior possession will determine the prior right, until “future legislation by congress,” as to up-lands, or until the ulti­mate sovereign, whether state or federal, having title to tide-lands, shall otherwise provide in relation thereto.</p>
+                <p pgmap="464" id="b464-3">The defendants have submitted to the court some proposi­tions of law, a portion of which I will give you.</p>
+                <p pgmap="464" id="b464-4">(1) “This is an action in what is known as ejectment. The plaintiff, to recover in this action, must do so upon the strength of his own title, and not upon the weakness of the defendants’ title.”</p>
+                <p pgmap="464" id="b464-5">(2) “The plaintiff in this action must prove to you by a preponderance of evidence, before he can recover, that he has a legal estate in the property in dispute, and a present right in the possession thereof; and by a legal estate is meant one the right of which may be enforced in a court of law.”</p>
+                <p pgmap="464(20) 465(72)" id="b464-6">Upon this second proposition the court further charges you that, if you find from the evidence, under the law as given you by the court, that the plaintiff by himself in person, or through his grantors, has the prior occupation and possession of the ground in dispute in this action, then he has the prior right thereto, and such right being one which may ultimately ripen into a fee-simple title, constitutes a legal estate, the right to which will be enforced and main­tained in this court by an action in ejectment.</p>
+                <p pgmap="465" id="b465-4">(3) “The plaintiff alleges in his complaint that the premises he claims is the identical piece or parcel of land upon which now stands erected and built the new wharf belonging to the plaintiff, and that he is entitled to the pos­session thereof. The plaintiff is bound by the allegations in his complaint, and, unless you find from the evidence that the defendants are in possession of the identical piece or parcel of land upon which now stands the plaintiff’s wharf, your verdict must be for the defendants.”</p>
+                <p pgmap="465" id="b465-5">In addition to this third proposition as submitted the court charges you that, if you find from the evidence that the plaintiff, by himself or his grantors, has the prior pos­session or occupancy of the piece of land SO by 100 feet claimed to have been located in 1881 by Powers and Starr, or either of them, and that the piece of land claimed by the defendants, upon which the building known as the “Horse Shoe” now stands, is a part and parcel of the ground so lo­cated, then the plaintiff has the right of possession to the whole of the ground so located, including the piece in dis­pute.</p>
+                <p pgmap="465(147) 466(153)" id="b465-6">These propositions cover all the law raised in this case under the evidence presented. Of course, gentlemen, the court expects you to determine this case according to the law and the evidence, and you will not be governed by any partiality towards either the plaintiff or the defendant. The simple question for you to determine from all the evidence presented in the case is, which one of these parties has the prior possession and occupancy of the piece of ground described in the complaint. If you find from the evi­dence that the plaintiff and his grantors have been in the continuous occupancy and possession of the tract located by Powers in 1881, and that the piece of ground in dispute is a part of said tract, or if you find from the evidence that in 1894, or prior to the location made by Price, and the erection by him of the Horse Shoe Building, the plaintiff had gone on to this Powers tract, while it was unoccupied and unpossessed public land, and took possession of it, in­cluding the ground in dispute, improved it, built a wharf, warehouses, and other structures thereon, costing, as he testifies, about $30,000, and was in the possession and oc­cupancy thereof at the time Price filed his location notice and built the structure known as the “Horse Shoe,” then the plaintiff is entitled to the ground, and you should so find in your verdict. On the other hand, if you find that the plain­tiff did not have such possession, or that the ground was un­occupied, unpossessed, and unimproved public land when Price took possession of it, in 1895, then he had the right to go on, locate and occupy it, and the defendants, as his grantees, are entitled to your verdict.</p>
+                <p pgmap="466" id="b466-4">Verdict for the plaintiff.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="457" ORDERLABEL="445" TYPE="page">
+        <fptr FILEID="tiff_00229_0"/>
+        <fptr FILEID="jpg_00229_0"/>
+        <fptr FILEID="alto_00229_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_457.3" BETYPE="IDREF" FILEID="alto_00229_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="458" ORDERLABEL="446" TYPE="page">
+        <fptr FILEID="tiff_00229_1"/>
+        <fptr FILEID="jpg_00229_1"/>
+        <fptr FILEID="alto_00229_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_458.2" BETYPE="IDREF" FILEID="alto_00229_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="459" ORDERLABEL="447" TYPE="page">
+        <fptr FILEID="tiff_00230_0"/>
+        <fptr FILEID="jpg_00230_0"/>
+        <fptr FILEID="alto_00230_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_459.3" BETYPE="IDREF" FILEID="alto_00230_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="460" ORDERLABEL="448" TYPE="page">
+        <fptr FILEID="tiff_00230_1"/>
+        <fptr FILEID="jpg_00230_1"/>
+        <fptr FILEID="alto_00230_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_460.2" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="461" ORDERLABEL="449" TYPE="page">
+        <fptr FILEID="tiff_00231_0"/>
+        <fptr FILEID="jpg_00231_0"/>
+        <fptr FILEID="alto_00231_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_461.3" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="462" ORDERLABEL="450" TYPE="page">
+        <fptr FILEID="tiff_00231_1"/>
+        <fptr FILEID="jpg_00231_1"/>
+        <fptr FILEID="alto_00231_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_462.2" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="463" ORDERLABEL="451" TYPE="page">
+        <fptr FILEID="tiff_00232_0"/>
+        <fptr FILEID="jpg_00232_0"/>
+        <fptr FILEID="alto_00232_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_463.3" BETYPE="IDREF" FILEID="alto_00232_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="464" ORDERLABEL="452" TYPE="page">
+        <fptr FILEID="tiff_00232_1"/>
+        <fptr FILEID="jpg_00232_1"/>
+        <fptr FILEID="alto_00232_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_464.2" BETYPE="IDREF" FILEID="alto_00232_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="465" ORDERLABEL="453" TYPE="page">
+        <fptr FILEID="tiff_00233_0"/>
+        <fptr FILEID="jpg_00233_0"/>
+        <fptr FILEID="alto_00233_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_465.3" BETYPE="IDREF" FILEID="alto_00233_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="466" ORDERLABEL="454" TYPE="page">
+        <fptr FILEID="tiff_00233_1"/>
+        <fptr FILEID="jpg_00233_1"/>
+        <fptr FILEID="alto_00233_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_466.2" BETYPE="IDREF" FILEID="alto_00233_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFt" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.9" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-4" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.4" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            <area BEGIN="BL_463.1" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-4" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.4" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-5" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.6" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-4" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.5" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b465-4" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.4" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b465-5" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.5" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-3" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.4" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-9" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.10" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-8" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.9" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-7" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.8" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-6" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.7" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-5" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.6" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-5" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.5" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            <area BEGIN="BL_461.1" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-4" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.4" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-4" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.4" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-5" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.5" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            <area BEGIN="BL_462.1" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-4" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.4" BETYPE="IDREF" FILEID="alto_00232_0"/>
+            <area BEGIN="BL_464.1" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-6" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.7" BETYPE="IDREF" FILEID="alto_00232_1"/>
+            <area BEGIN="BL_465.1" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b465-6" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.6" BETYPE="IDREF" FILEID="alto_00233_0"/>
+            <area BEGIN="BL_466.1" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-11" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.13" BETYPE="IDREF" FILEID="alto_00230_0"/>
+            <area BEGIN="BL_460.1" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-10" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.11" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-x" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.12" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

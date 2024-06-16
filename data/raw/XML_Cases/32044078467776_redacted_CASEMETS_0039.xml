@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0039" publicationstatus="published">
+          <court abbreviation="D. Wash." jurisdiction="United States">United States District Court for the District of Washington</court>
+          <name abbreviation="United States v. The James G. Swan">THE JAMES G. SWAN. UNITED STATES v. THE JAMES G. SWAN</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 280</citation>
+          <citation category="parallel" type="bluebook">50 F. 108</citation>
+          <decisiondate>1892-03-26</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:21:59Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00146_1" MIMETYPE="image/tiff" CHECKSUM="867829bcf7ac43b7fbf910d91479a2cb" CHECKSUMTYPE="MD5" SIZE="20398">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00146_1.tif"/>
+      </file>
+      <file ID="tiff_00147_0" MIMETYPE="image/tiff" CHECKSUM="783960b369f675d84182a52005ced655" CHECKSUMTYPE="MD5" SIZE="6128">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00147_0.tif"/>
+      </file>
+      <file ID="tiff_00147_1" MIMETYPE="image/tiff" CHECKSUM="0875ec7472061c32d0fe577f69b53bb2" CHECKSUMTYPE="MD5" SIZE="54562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00147_1.tif"/>
+      </file>
+      <file ID="tiff_00148_0" MIMETYPE="image/tiff" CHECKSUM="d2adce70041594095dc6257c70561216" CHECKSUMTYPE="MD5" SIZE="53992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00148_0.tif"/>
+      </file>
+      <file ID="tiff_00148_1" MIMETYPE="image/tiff" CHECKSUM="fb66c090ced0a4dc95f8a6ab56c5b0c1" CHECKSUMTYPE="MD5" SIZE="55716">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00148_1.tif"/>
+      </file>
+      <file ID="tiff_00149_0" MIMETYPE="image/tiff" CHECKSUM="8b6e40bda6c947e75f0456dfcab76fef" CHECKSUMTYPE="MD5" SIZE="52734">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00149_0.tif"/>
+      </file>
+      <file ID="tiff_00149_1" MIMETYPE="image/tiff" CHECKSUM="15033f039a364f7c62197dcb4fc12fc7" CHECKSUMTYPE="MD5" SIZE="19150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00149_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00146_1" MIMETYPE="image/jpg" CHECKSUM="107162f3e2eb0670fa280ef7023475f2" CHECKSUMTYPE="MD5" SIZE="115053">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00146_1.jpg"/>
+      </file>
+      <file ID="jpg_00147_0" MIMETYPE="image/jpg" CHECKSUM="33c991de0f11b41490f36347d9be356c" CHECKSUMTYPE="MD5" SIZE="59304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00147_0.jpg"/>
+      </file>
+      <file ID="jpg_00147_1" MIMETYPE="image/jpg" CHECKSUM="97b1c623ff2e67108eb498316fbd9f2a" CHECKSUMTYPE="MD5" SIZE="206508">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00147_1.jpg"/>
+      </file>
+      <file ID="jpg_00148_0" MIMETYPE="image/jpg" CHECKSUM="fadf420be1631b7ec97a1812c69f542d" CHECKSUMTYPE="MD5" SIZE="193551">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00148_0.jpg"/>
+      </file>
+      <file ID="jpg_00148_1" MIMETYPE="image/jpg" CHECKSUM="f443b59754a5d394d93f532b26047ba4" CHECKSUMTYPE="MD5" SIZE="217018">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00148_1.jpg"/>
+      </file>
+      <file ID="jpg_00149_0" MIMETYPE="image/jpg" CHECKSUM="3fe2ae8d3f5d9e7adf0131d539c7c812" CHECKSUMTYPE="MD5" SIZE="197751">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00149_0.jpg"/>
+      </file>
+      <file ID="jpg_00149_1" MIMETYPE="image/jpg" CHECKSUM="bf3aa42463ce18c55bb6a5ea672b8999" CHECKSUMTYPE="MD5" SIZE="104014">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00149_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00146_1" MIMETYPE="text/xml+gzip" CHECKSUM="3a45d3d5c5c4717f08ccc2b12db77d24" CHECKSUMTYPE="MD5" SIZE="5658">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00146_1.xml.gz"/>
+      </file>
+      <file ID="alto_00147_0" MIMETYPE="text/xml+gzip" CHECKSUM="f47e385f6b3d0a1aab8fb6edff61075a" CHECKSUMTYPE="MD5" SIZE="1741">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00147_0.xml.gz"/>
+      </file>
+      <file ID="alto_00147_1" MIMETYPE="text/xml+gzip" CHECKSUM="691cdeb3db3b24931b5e9b1ded05d779" CHECKSUMTYPE="MD5" SIZE="12169">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00147_1.xml.gz"/>
+      </file>
+      <file ID="alto_00148_0" MIMETYPE="text/xml+gzip" CHECKSUM="cf715b27d9ec2e84867349d504cfc484" CHECKSUMTYPE="MD5" SIZE="12564">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00148_0.xml.gz"/>
+      </file>
+      <file ID="alto_00148_1" MIMETYPE="text/xml+gzip" CHECKSUM="c657a1bc4e125fcd50a8d5430a6679c3" CHECKSUMTYPE="MD5" SIZE="12678">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00148_1.xml.gz"/>
+      </file>
+      <file ID="alto_00149_0" MIMETYPE="text/xml+gzip" CHECKSUM="9c594d70680531c8f2d97f5038397178" CHECKSUMTYPE="MD5" SIZE="13479">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00149_0.xml.gz"/>
+      </file>
+      <file ID="alto_00149_1" MIMETYPE="text/xml+gzip" CHECKSUM="6004ef44bb6d477a1b2df1eadced7555" CHECKSUMTYPE="MD5" SIZE="4928">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00149_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0039" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="280" lastpage="286">
+              <court pgmap="292" id="b292-12">District Court, D. Washington, N. D.</court>
+              <citation pgmap="292" id="b292-9">50 F. 108</citation>
+              <parties pgmap="292" id="b292-10">THE JAMES G. SWAN. UNITED STATES v. THE JAMES G. SWAN.</parties>
+              <decisiondate pgmap="292" id="b292-13">March 26, 1892.</decisiondate>
+              <attorneys pgmap="293" id="b293-7">P. H. Winston, U. S. Atty., and P. C. Sullivan, Asst. U. S. Atty.</attorneys>
+              <attorneys pgmap="293" id="b293-8">James G. Swan and Geo. H. Jones, for claimant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="294" id="b294-3">HANFORD, District Judge.</author>
+                <p pgmap="294(386) 295(336)" id="b294-4">Fur seals in great numbers habitually make annual visits to the Pribilof islands, in Bering sea, affording to the native inhabitants their means of living, the flesh of the animals being their principal article of food, and seal-skins being the only commodity of commercial value obtainable by their industry. Previous to the acquisition of Alaska by our government, the preservation of these animals from indis­criminate slaughter and extermination was by the Russian government deemed necessary for the subsistence of said inhabitants, and accordingly authority over all of Bering sea for the protection of fur seals therein from destruction by persons other than said inhabitants was assumed. The emperor of Russia also asserted authority over Bering sea by assuming to transfer to the United States certain terri­tory and dominion within definite boundaries, including a large part thereof; and the United States, by the ratifica­tion of the treaty and consummation of the purchase of said territory, acquired a claim of right to exercise the authority and sovereignty over that portion of the sea which had been theretofore exercised by Russia. Our government asserted its authority to restrict the killing of seals in all the waters included within the boundaries described in the treaty very promptly after the formal transfer of the terri­tory. At the first session of congress thereafter a statute was passed, entitled “An act to extend the laws of the United States relating to customs, commerce, and naviga­tion over the territory ceded to' the United States by Russia, to establish a collection district therein, and for other pur­poses.” The first section of said act (now section 1954, Rev.St.) declares that “the laws of the United States re­lating to customs, commerce, and navigation are extended to and over the main-land, islands, and waters of the terri­tory ceded to the United States by the emperor of Russia by a treaty concluded at Washington on the thirtieth day of March, Anno Domini eighteen hundred and sixty-seven, so far as the same may be applicable thereto.” 15 St.U.S. p. 240. The sixth section in terms prohibits the killing of fur seals within the limits of said territory, or in the waters thereof, and further provides that all vessels found engaged in violation of the said act shall be forfeited. The first sec­tion above quoted is without change of phraseology incor­porated into the Revised Statutes, but the sixth section, which is section 1956 of the Revised Statutes (16 U.S.C. A. § 644 and note), is therein changed so as to refer to Alaska territory and the waters thereof by substitution of the name “Alaska” for the word “said” preceding the word “territory.” For about one century preceding the year 1885 the validity of the laws of Russia and of the United States, respectively, for the preservation of fur seals in Bering sea, remained unchallenged. And it is a matter of common knowledge that since the year 1885 instances of poaching by sealing vessels in Bering sea have been greatly multiplied, and that there has been on the part of officers of the United States charged with the duty of enforcing the above statutes a corresponding increase of efforts to pre­vent such depredations. A large number of arrests and seizures were made between 1885 and 1889 on the assump­tion that said laws were effective and applicable throughout the entire extent-of the territory and waters including the portion of Bering sea within the boundaries of the terri­tory and dominion ceded by the emperor of Russia. From said arrests and seizures and the consequent prosecutions, questions arose as to the proper construction or interpreta­tion of section 1956, and as to the extent of our national jurisdiction over Bering sea. Thereupon, on March 2, 1889, congress passed an act giving a legislative construc­tion to said section, declaring it to include and be applica­ble to all the dominion of the United States in the waters of Bering sea. 25 St.U.S. p 1009, § 3 (16 U.S.C.A. § 644 note). Effect must be given to these statutes accord­ing to the intention of congress, which is to be ascertained from the words used and consideration of the course of legislation on the subject, and the facts and circumstances known to have been operative in inducing such legislation.</p>
+                <p pgmap="295(67) 296(404) 297(335)" id="b295-4">Now, considering the several statutory provisions and the historical facts above recited, and keeping in mind sec­tion 1954, which must govern the interpretation of other statutes referring to the dominion of the United States in Bering sea, I am constrained to hold that the killing of fur seals anywhere within the boundaries defined by the treaty referred to in said section is unlawful; and that vessels found within said boundaries, engaged in that business, are subject to seizure and condemnation as forfeited to the United 'States. There is a question, however, as to the validity of these statutes. On the part of the defense it is contended that the criminal laws of the United States can have no force upon the sea beyond the limits of national jurisdiction, which, by the law of nations,- cannot extend beyond the range of cannon shot from the shore; and therefore the government has no power to prohibit fishing, or the taking of animals which are ferae naturae in the open sea, which is common and free to the inhabitants of all nations. National dominion and sovereignty may be ex­tended over the sea as well as over land. Should circum­stances render it necessary, a nation having the power to do so may assert its dominion over the sea beyond the limits heretofore admitted by the powers of the earth to be law­ful. “It is probably safe to say .that a slate has the right to extend its territorial waters from time to time, at its will, with the now increased range of its guns, though it would undoubtedly be more satisfactory that an arrangement on the subject should be arrived at by common consent.” 1 Whart.Int.Law Dig. p. 114, from Hall, Int.Law, 127. As our government is constituted, the president and congress are vested with all the responsibility and powers of the government for determination of questions as to the main­tenance and extension of our national dominion. It is not the province of the courts to participate in the discussion or decision of these questions, for they are of a political nature, and not judicial. Congress and the president hav­ing assumed jurisdiction and sovereignty, and having made the declarations and assertions as to the extent of our na­tional authority and dominion above indicated,- and having, by a treaty-with Russia, established an international bound­ary line including a portion of Bering sea, all the people and the courts of the country are bound by such govern­mental acts, declarations, and assertions, and by the treaty; and the responsibility of maintaining the national authority within the boundaries so fixed, and to the extent asserted by executive and legislative authority against foreign gov­ernments, rests with the executive and legislative branches of the government. In the opinion of the supreme court in the case of Jones v. U. S., 137 U.S. 202, 11 S.Ct. 80, written by Mr. Justice Gray, the law is thus stated: “Who is the sovereign, de jure or de facto, of a territory, is not a judicial, but a political, question, the determination of which by the legislative and executive departments of any government conclusively binds the judges as well as all other officers, citizens, and subjects of that government. This principle has always been upheld by this court, and has been affirmed under a great variety of circumstances. Gelston v. Hoyt, 3 Wheat. 246, 324; U. S. v. Palmer, 3 Wheat, 610; The Divina Pastora, 4 Wheat. 52; Foster v. Neil­son, 2 Pet. 233, 307, 309; Keane v. McDonaugh, 8 Pet. 308; Garcia v. Lee, 12 Pet. 511, 520; Williams v. Insur­ance Co., 13 Pet. 415; U. S. v. Yorba, 1 Wall. 412, 423; U. S. v. Lynde, 11 Wall. 632, 638. It is equally well settled in England. The Pelican, Edw.Adm.Append.D.; Taylor v. Barclay, 2 Sim. 213; Emperor of Austria v. Day, 3 De Gex, F. &amp; J. 217, 221, 233; Republic of Peru v. Peruvian Guano Co., 36 Ch.Div. 489, 497; Republic of Peru v. Dreyfus, 38 Ch.Div. 356, 359. * * * All courts of justice are bound to take judicial notice of the territorial extent of the jurisdiction exercised by the government whose laws they administer, or of its recognition or denial of the sovereignty of a foreign power, as appearing from the public acts of the legislature and executive, although those acts are not formally put in evidence, nor in accord with the pleadings. U. S. v. Reynes, 9 How. 127; Kennett v. Chambers, 14 How. 38; Hoyt v. Russell, 117 U.S. 401, 404, 6 S.Ct. 881; Coffee v. Groover, 123 U. S. 1, 8 S.Ct. 1; State v. Dunwell, 3 R.I. 127; State v. Wagner, 61 Me. 178; Taylor v. Barclay, and Emperor of Austria v. Day, above cited; 1 Greenl.Ev. § 6.”</p>
+                <p pgmap="297(96) 298(110)" id="b297-3">It has been further contended on the part of the defense that this vessel was especially privileged to engage in the sealing business in Bering sea by reason of the fact that her owner and crew were Indians of the Makah tribe, and by virtue of the treaty made with said tribe of Indians, where­by “the rights of taking fish, and of whaling and sealing at usual and accustomed grounds and stations, is further se­cured to said Indians in common with all citizens of the United States, and of erecting temporary houses for the purpose of curing, together with the privilege of hunting and gathering, roots and berries on open and unclaimed land.” 12 St.U.S. p. 940. It is obvious, however, from the language above quoted, that the treaty secures to the In­dians only an equality of rights and privileges in the mat­ter of fishing, whaling, and sealing. The guaranty is of rights in common with all citizens of the United States, and certainly süch treaty stipulations give no-support to a claim for peculiar or superior rights or privileges denied to citizens of the country in general. A decree of forfeiture as prayed for in the libel of information will be entered.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="292" ORDERLABEL="280" TYPE="page">
+        <fptr FILEID="tiff_00146_1"/>
+        <fptr FILEID="jpg_00146_1"/>
+        <fptr FILEID="alto_00146_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_292.2" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="293" ORDERLABEL="281" TYPE="page">
+        <fptr FILEID="tiff_00147_0"/>
+        <fptr FILEID="jpg_00147_0"/>
+        <fptr FILEID="alto_00147_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_293.2" BETYPE="IDREF" FILEID="alto_00147_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="294" ORDERLABEL="282" TYPE="page">
+        <fptr FILEID="tiff_00147_1"/>
+        <fptr FILEID="jpg_00147_1"/>
+        <fptr FILEID="alto_00147_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_294.1" BETYPE="IDREF" FILEID="alto_00147_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="295" ORDERLABEL="283" TYPE="page">
+        <fptr FILEID="tiff_00148_0"/>
+        <fptr FILEID="jpg_00148_0"/>
+        <fptr FILEID="alto_00148_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_295.3" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="296" ORDERLABEL="284" TYPE="page">
+        <fptr FILEID="tiff_00148_1"/>
+        <fptr FILEID="jpg_00148_1"/>
+        <fptr FILEID="alto_00148_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_296.2" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="297" ORDERLABEL="285" TYPE="page">
+        <fptr FILEID="tiff_00149_0"/>
+        <fptr FILEID="jpg_00149_0"/>
+        <fptr FILEID="alto_00149_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_297.2" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="298" ORDERLABEL="286" TYPE="page">
+        <fptr FILEID="tiff_00149_1"/>
+        <fptr FILEID="jpg_00149_1"/>
+        <fptr FILEID="alto_00149_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_298.2" BETYPE="IDREF" FILEID="alto_00149_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-4" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.4" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            <area BEGIN="BL_296.1" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            <area BEGIN="BL_297.1" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b294-4" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.4" BETYPE="IDREF" FILEID="alto_00147_1"/>
+            <area BEGIN="BL_295.1" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-10" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.9" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            <area BEGIN="BL_292.10" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-12" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.11" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-13" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.12" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-9" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.8" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-3" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.4" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            <area BEGIN="BL_298.1" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-8" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.11" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b294-3" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.3" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-7" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.10" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

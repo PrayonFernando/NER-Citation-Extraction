@@ -1,0 +1,472 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0042" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Mason v. Bennett">MASON v. BENNETT</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 295</citation>
+          <citation category="parallel" type="bluebook">52 F. 343</citation>
+          <decisiondate>1892-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:04Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00154_0" MIMETYPE="image/tiff" CHECKSUM="58c4ff930b4227332b3ecbf8b8c833d0" CHECKSUMTYPE="MD5" SIZE="20538">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00154_0.tif"/>
+      </file>
+      <file ID="tiff_00154_1" MIMETYPE="image/tiff" CHECKSUM="ffc0d4cc51d9178fe5c5474565beeeb9" CHECKSUMTYPE="MD5" SIZE="51796">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00154_1.tif"/>
+      </file>
+      <file ID="tiff_00155_0" MIMETYPE="image/tiff" CHECKSUM="14b77985f1cefacdcc6bcd5c43fc9d17" CHECKSUMTYPE="MD5" SIZE="53498">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00155_0.tif"/>
+      </file>
+      <file ID="tiff_00155_1" MIMETYPE="image/tiff" CHECKSUM="1724d0090fff188fdd97a671de73f6b3" CHECKSUMTYPE="MD5" SIZE="52586">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00155_1.tif"/>
+      </file>
+      <file ID="tiff_00156_0" MIMETYPE="image/tiff" CHECKSUM="a6fd42728a5f171b285ae0b1310aac15" CHECKSUMTYPE="MD5" SIZE="52478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00156_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00154_0" MIMETYPE="image/jpg" CHECKSUM="d6f09b0918c4805c7ed3dfeee7d9d057" CHECKSUMTYPE="MD5" SIZE="106388">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00154_0.jpg"/>
+      </file>
+      <file ID="jpg_00154_1" MIMETYPE="image/jpg" CHECKSUM="f35e9df8de73e87667d47cbd39a69912" CHECKSUMTYPE="MD5" SIZE="208620">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00154_1.jpg"/>
+      </file>
+      <file ID="jpg_00155_0" MIMETYPE="image/jpg" CHECKSUM="36f01b1886dd32ec0e23af191f1fe898" CHECKSUMTYPE="MD5" SIZE="198133">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00155_0.jpg"/>
+      </file>
+      <file ID="jpg_00155_1" MIMETYPE="image/jpg" CHECKSUM="10e4affdbd4d21058959ce0bc4d5cd86" CHECKSUMTYPE="MD5" SIZE="201893">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00155_1.jpg"/>
+      </file>
+      <file ID="jpg_00156_0" MIMETYPE="image/jpg" CHECKSUM="6de7d619b8bfa3aafee524e468ad240d" CHECKSUMTYPE="MD5" SIZE="190955">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00156_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00154_0" MIMETYPE="text/xml+gzip" CHECKSUM="50ef58938fc6af4b7dc743f57634b472" CHECKSUMTYPE="MD5" SIZE="5386">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00154_0.xml.gz"/>
+      </file>
+      <file ID="alto_00154_1" MIMETYPE="text/xml+gzip" CHECKSUM="214df777bb5c8c224e36f6f7a42f9902" CHECKSUMTYPE="MD5" SIZE="13111">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00154_1.xml.gz"/>
+      </file>
+      <file ID="alto_00155_0" MIMETYPE="text/xml+gzip" CHECKSUM="04c05963952ca8a0b6f62327dde0cc01" CHECKSUMTYPE="MD5" SIZE="13319">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00155_0.xml.gz"/>
+      </file>
+      <file ID="alto_00155_1" MIMETYPE="text/xml+gzip" CHECKSUM="791d1ee7f76ead9ba9ef71e456a11c40" CHECKSUMTYPE="MD5" SIZE="13109">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00155_1.xml.gz"/>
+      </file>
+      <file ID="alto_00156_0" MIMETYPE="text/xml+gzip" CHECKSUM="559440cc5ad6f791cbf62ca8336c1655" CHECKSUMTYPE="MD5" SIZE="12972">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00156_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0042" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="295" lastpage="299">
+              <court pgmap="307" id="b307-5">District Court, D. Alaska.</court>
+              <citation pgmap="307" id="b307-3">52 F. 343</citation>
+              <parties pgmap="307" id="b307-4">MASON v. BENNETT.</parties>
+              <decisiondate pgmap="307" id="b307-6">July, 1892.</decisiondate>
+              <attorneys pgmap="307" id="b307-14">Delaney &amp; Gamel and J. F. Malony, for plaintiff.</attorneys>
+              <attorneys pgmap="307" id="b307-15">John G. Heid and C. S. Johnson, for defendant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="307" id="b307-16">TRUITT, District Judge.</author>
+                <p pgmap="307(106) 308(98)" id="b307-17">The record in this case shows that the plaintiff, on the 8th day of March, 1892, in this court, recovered judgment against defendant for the sum of $2,170.48, with a decree of foreclosure of the mortgage given to secure the note sued upon herein, and for the sale of the mortgaged prem­ises, which includes the real property, for the sale of which an order of confirmation is asked by this motion. Within the time allowed by law, the defendant appeared and filed objections to the confirmation for the reasons — “First, that the sale is void, it having been made on the 91st day after the receipt of the execution, when said execution, at the time of sale, was dead in the hands of the marshal, and should have been returned within ninety days to the clerk’s office from whence it issued; and, second, that no bidders were present at said sale, that the bid of the plaintiff, the execution creditor, herein,- was the one and only bid offered at such sale, and that the sum bid is so grossly inadequate to the value of the property sold, as to amount to an ab­solute and unnecessary sacrifice of the defendant’s prop­erty.”</p>
+                <p pgmap="308" id="b308-3">Section 7 of the organic act, providing a civil govern­ment for - Alaska, approved May 17, 1884, declares the general laws of the state of Oregon at that time in force to be the law in this district, so far as applicable and not in conflict with the act or the laws of the United States. By virtue of this statute, the execution in this case was issued in accordance with the provisions of title 1, c. 3, Code Or., and the proceedings conducted thereunder, and their regu­larity must be tested by them.</p>
+                <p pgmap="308" id="b308-4">In, considering this motion and the objections offered by the execution debtor to its allowance, I will take up the ob­jections in regular order. The first is that the sale was made after return day, and is therefore void. This objec­tion may be considered under two heads, viz.,, was this sale made after return day? and, if so, is it for that reason void? There seems to be some misunderstanding on the part of counsel as to how the return day is to be ascer­tained or fixed in this case. Section 278, Code Or., is as follows: “The sheriff shall indorse upon a writ of execu­tion the time when he receives the same, and such execu­tion shall be returnable within sixty days after its receipt by the sheriff to the clerk’s office from whence it issued.”</p>
+                <p pgmap="308(99) 309(127)" id="b308-5">Then, in section 293, in regard to the postponement of sales, it is provided that a sale may, for' causes therein stat­ed, be adjourned from time to time, not to exceed 30 days beyond the return day. The execution in this case was is-, sued on March 14, 1892, but the marshal’s return shows that it did not come into his hands until the 25th day of March, 1892. This, then, is the date .from which the 60 days mentioned in said section 278 should be computed, and not the date of the execution. Excluding this day, and counting 60, the return day would be May 24, 1892. The marshal, however, set the 13th day of May, 1892, as the day of sale, but on that day the respective attorneys for plaintiff and defendant appeared, and served upon him a written stipulation, duly signed by them as such attorneys. This stipulation is made a part of the return on the execu­tion, and it is agreed therein that — “The sale is hereby postponed for the term of thirty days, from said 13th day of May, 1892, to the 13th day of June, 1892, and the said U. S. marshal for the district of Alaska is hereby author­ized to postpone the said sale until the said 13th day of June, 1892, as above stipulated.”</p>
+                <p pgmap="309" id="b309-4">This stipulation was no doubt made, and the sale ad­journed, for the benefit of the defendant, and it is not claimed that he was in any manner injured by the adjourn­ment. But without the stipulation the marshal could not have made an adjournment for a longer period than one week at a time, not exceeding 30 days altogether, beyond the day at which the writ is made returnable. The return shows that the sale was adjourned until the 13th day of June, 1892, according to said stipulation, and that the real property described herein was then sold to the plaintiff for $2,300. However, this was not more than 30 days beyond the return day, which, as already shown, was May 24, 1892. But, if my views are correct on the second question raised by this first objection, it makes no difference wheth­er the sale was in fact made after the return day or not; it is only necessary that the levy be made before that time.</p>
+                <p pgmap="309(142) 310(80)" id="b309-5">The Oregon statute says that the court shall confirm a sale of this kind unless it shall satisfactorily appear that there were substantial irregularities in the sale, to the proba­ble loss or injury of the party objecting. ' Section 296, p. 363. It is not claimed that the defendant sustained loss or injury by this adjournment, but it was certainly deemed ad­vantageous, or his attorney would not have made the stipu­lation which he did for it. I do not, under my views of the case, think it necessary to pass upon what effect that stipu­lation might have in sustaining the regularity or validity of this sale, were it irregular or void without it. Counsel for defendant refer to Faull v. Cooke, 19 Or. 455, 26 P. 662, to sustain their first objection, but the case is not in point. In that case the sale was made more than eight years after the date of the execution, and in the opinion Strahan, J., says: “It does not appear that the officer had made a levy under the execution while it was still in force. The sole question, therefore, is whether or not a sheriff may hold an execution until long after the return day, and until his term of office has expired, and then make a levy and sale.”</p>
+                <p pgmap="310" id="b310-4">The court very correctly held that such a writ is functus officio, and confers no authority. But if the levy be made before the return day of the writ, the officer may sell after-­wards on the same writ without a renewal of process. “It is immaterial to the purchaser, as to the validity of the sale, whether it be made before or after return day.” Ror.Jud. Sales, p. 248, and numerous authorities there cited. This was passed upon and settled in the United States supreme court, at an early date, in Wheaton v. Sexton’s Lessee, 4 Wheat. 503. In this case Johnson, J., delivered the opin­ion of the court, in which it is stated: “At the trial two bills of exception were taken; the first of which brings up the question whether a sale by the marshal after the return day of the writ was legal. The court charged that it was, provided the levy was made before the return day, and on this point the court can only express its surprise that any doubt could be entertained. The court below was unques­tionably right in this instruction.”</p>
+                <p pgmap="310" id="b310-6">In Remington v. Linthicum, 14 Pet, 84, the following is asserted as a settled proposition of law: “But if property, real or personal, is seized under a fieri facias before return day of the writ, the marshal may proceed to sell at any time afterwards without new process.” Accepting the law as laid down by these authorities disposes of this objection.</p>
+                <p pgmap="310(95) 311(319)" id="b310-7">I will now briefly notice the second objection to the con­firmation. The property sold is an undivided • two-thirds interest in a lode claim in the Harris mining district in this territory, and known as the “Aurora Lode.” There are three affidavits offered in support of the objection of inade­quacy of price. The execution debtor makes one, in which he says he was offered $40,000 for this lode in the summer of 1891 by a bona fide purchaser. In one of the affidavits the value is estimated at $50,000, while the other affiant says that, according to his best judgment, the lode is worth at least $35,000 or $40,000. It was admitted in the argu­ment that this lode is undeveloped. It is a well-known fact that an undeveloped mining claim is property upon which it is very difficult to place even an approximate value. An undeveloped lode is hidden from the eye, buried perhaps deep in the earth, or extending into the rocky side of a mountain. Its real value is a matter of conjecture for even mining experts. One might say a claim was worth $50,-­000, and another of as good judgment, with equal honesty, might say it was not worth the cost of developing it. It is not claimed that there was any fraud, collusion, or ir­regularity in the proceedings of the sale, and the law pre­sumes that the officer acted fairly and for the best interests of the parties concerned in conducting the same. Section 296, Code Or., supra, seems to give the court no discretion in cases of this kind unless there were substantial ir­regularities in the proceedings concerning the sale, to the probable loss or injury of the party who makes the objec­tions to the confirmation. I have been unable to find a case where the supreme court of Oregon ever set aside a sale simply for inadequacy of price. Counsel for defend­ant cite Flint v. Phipps, 20 Or. 340, 25 P. 725, in support of their second objection, but in that case the defects in the writ, which the lower court allowed to be amended, were the primary reason for reversing the decree. The general policy of the law is to uphold and maintain execution sales. Rorer, in treating on this subject, says:' “Ordinarily, in­adequacy of price is not alone sufficient cause for setting aside an execution sale which is in other respects unexcep­tionable.” Ror.Jud.Sales, § 854.</p>
+                <p pgmap="311" id="b311-3">And Herman, in his very excellent work on Executions, states the rule to be that — “Courts will not in general set aside sales made under its process for mere inadequacy of price, in the absence of fraud and collusion. Inadequacy of price, within itself, cannot be a ground for setting aside a contract, or affording relief against it.” Herm.Ex’ns, 412.</p>
+                <p pgmap="311" id="b311-4">In support of this rule the author cites a list of 70 differ­ent decisions, and in the case at bar I feel bound to adhere to it. Having thus disposed of the objections, the motion for confirmation is allowed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="307" ORDERLABEL="295" TYPE="page">
+        <fptr FILEID="tiff_00154_0"/>
+        <fptr FILEID="jpg_00154_0"/>
+        <fptr FILEID="alto_00154_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_307.2" BETYPE="IDREF" FILEID="alto_00154_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="308" ORDERLABEL="296" TYPE="page">
+        <fptr FILEID="tiff_00154_1"/>
+        <fptr FILEID="jpg_00154_1"/>
+        <fptr FILEID="alto_00154_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_308.2" BETYPE="IDREF" FILEID="alto_00154_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="309" ORDERLABEL="297" TYPE="page">
+        <fptr FILEID="tiff_00155_0"/>
+        <fptr FILEID="jpg_00155_0"/>
+        <fptr FILEID="alto_00155_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_309.3" BETYPE="IDREF" FILEID="alto_00155_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="310" ORDERLABEL="298" TYPE="page">
+        <fptr FILEID="tiff_00155_1"/>
+        <fptr FILEID="jpg_00155_1"/>
+        <fptr FILEID="alto_00155_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_310.2" BETYPE="IDREF" FILEID="alto_00155_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="311" ORDERLABEL="299" TYPE="page">
+        <fptr FILEID="tiff_00156_0"/>
+        <fptr FILEID="jpg_00156_0"/>
+        <fptr FILEID="alto_00156_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_311.2" BETYPE="IDREF" FILEID="alto_00156_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.5" BETYPE="IDREF" FILEID="alto_00155_0"/>
+            <area BEGIN="BL_310.1" BETYPE="IDREF" FILEID="alto_00155_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.4" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b307-3" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_307.3" BETYPE="IDREF" FILEID="alto_00154_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b308-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_308.6" BETYPE="IDREF" FILEID="alto_00154_1"/>
+            <area BEGIN="BL_309.1" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b307-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_307.6" BETYPE="IDREF" FILEID="alto_00154_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b307-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_307.5" BETYPE="IDREF" FILEID="alto_00154_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b308-3" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_308.4" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b307-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_307.4" BETYPE="IDREF" FILEID="alto_00154_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b311-3" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_311.4" BETYPE="IDREF" FILEID="alto_00156_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b310-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_310.6" BETYPE="IDREF" FILEID="alto_00155_1"/>
+            <area BEGIN="BL_311.1" BETYPE="IDREF" FILEID="alto_00156_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b310-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_310.5" BETYPE="IDREF" FILEID="alto_00155_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b310-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_310.4" BETYPE="IDREF" FILEID="alto_00155_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b308-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_308.5" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b311-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_311.5" BETYPE="IDREF" FILEID="alto_00156_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b307-15" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_307.16" BETYPE="IDREF" FILEID="alto_00154_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b307-14" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_307.15" BETYPE="IDREF" FILEID="alto_00154_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b307-17" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_307.18" BETYPE="IDREF" FILEID="alto_00154_0"/>
+            <area BEGIN="BL_308.1" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b307-16" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_307.17" BETYPE="IDREF" FILEID="alto_00154_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

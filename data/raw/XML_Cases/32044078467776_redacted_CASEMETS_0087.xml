@@ -1,0 +1,840 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0087" publicationstatus="published">
+          <court abbreviation="U.S." jurisdiction="United States">Supreme Court of the United States</court>
+          <name abbreviation="Malony v. Adsit">JOHN F. MALONY v. O. H. ADSIT</name>
+          <docketnumber>No. 67</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 574</citation>
+          <citation category="parallel" type="bluebook">175 U.S. 281, 20 S.Ct. 115</citation>
+          <decisiondate>1899-12-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:06Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00293_1" MIMETYPE="image/tiff" CHECKSUM="b83602c39a2a65be8551f09539bdbfc5" CHECKSUMTYPE="MD5" SIZE="32360">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00293_1.tif"/>
+      </file>
+      <file ID="tiff_00294_0" MIMETYPE="image/tiff" CHECKSUM="664de3ec9d2b2ab01c03216a5eb726a4" CHECKSUMTYPE="MD5" SIZE="3716">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00294_0.tif"/>
+      </file>
+      <file ID="tiff_00294_1" MIMETYPE="image/tiff" CHECKSUM="0fe2ba71173cc3088db5ee085393f9ca" CHECKSUMTYPE="MD5" SIZE="3870">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00294_1.tif"/>
+      </file>
+      <file ID="tiff_00295_0" MIMETYPE="image/tiff" CHECKSUM="992c53a3c581994f6ae5399c7f121f57" CHECKSUMTYPE="MD5" SIZE="3834">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00295_0.tif"/>
+      </file>
+      <file ID="tiff_00295_1" MIMETYPE="image/tiff" CHECKSUM="c9d520fa8f6b1d90cacd52a8dba868fe" CHECKSUMTYPE="MD5" SIZE="35702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00295_1.tif"/>
+      </file>
+      <file ID="tiff_00296_0" MIMETYPE="image/tiff" CHECKSUM="c358f0444bb0409f79dd3aefcf9a42c4" CHECKSUMTYPE="MD5" SIZE="52742">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00296_0.tif"/>
+      </file>
+      <file ID="tiff_00296_1" MIMETYPE="image/tiff" CHECKSUM="c261a7a2d9f58643b4ce91fc848334d2" CHECKSUMTYPE="MD5" SIZE="51412">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00296_1.tif"/>
+      </file>
+      <file ID="tiff_00297_0" MIMETYPE="image/tiff" CHECKSUM="ae0a6ec24e04425022cac32942cd1c94" CHECKSUMTYPE="MD5" SIZE="48036">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00297_0.tif"/>
+      </file>
+      <file ID="tiff_00297_1" MIMETYPE="image/tiff" CHECKSUM="0447cea16e95ccb333d2ec239d588523" CHECKSUMTYPE="MD5" SIZE="53874">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00297_1.tif"/>
+      </file>
+      <file ID="tiff_00298_0" MIMETYPE="image/tiff" CHECKSUM="33e09564676994539501fc7e1966be30" CHECKSUMTYPE="MD5" SIZE="51274">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00298_0.tif"/>
+      </file>
+      <file ID="tiff_00298_1" MIMETYPE="image/tiff" CHECKSUM="7aa38433118bd585db96542d1830f0b5" CHECKSUMTYPE="MD5" SIZE="50244">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00298_1.tif"/>
+      </file>
+      <file ID="tiff_00299_0" MIMETYPE="image/tiff" CHECKSUM="0156e82b64bdc4b8e01e3ca751e8800c" CHECKSUMTYPE="MD5" SIZE="12812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00299_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00293_1" MIMETYPE="image/jpg" CHECKSUM="186a0a69b29bd0a3e8c9475623a72c74" CHECKSUMTYPE="MD5" SIZE="142053">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00293_1.jpg"/>
+      </file>
+      <file ID="jpg_00294_0" MIMETYPE="image/jpg" CHECKSUM="e36ba226eb5e6419cda630bf15508bef" CHECKSUMTYPE="MD5" SIZE="49082">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00294_0.jpg"/>
+      </file>
+      <file ID="jpg_00294_1" MIMETYPE="image/jpg" CHECKSUM="f0ad50f4dc675a90f0ea10cef82f236f" CHECKSUMTYPE="MD5" SIZE="51733">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00294_1.jpg"/>
+      </file>
+      <file ID="jpg_00295_0" MIMETYPE="image/jpg" CHECKSUM="c6776e6e091ec5f567c2949485291340" CHECKSUMTYPE="MD5" SIZE="53147">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00295_0.jpg"/>
+      </file>
+      <file ID="jpg_00295_1" MIMETYPE="image/jpg" CHECKSUM="c7285e386a48d3e23c636b7be50d5145" CHECKSUMTYPE="MD5" SIZE="151357">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00295_1.jpg"/>
+      </file>
+      <file ID="jpg_00296_0" MIMETYPE="image/jpg" CHECKSUM="2fdc889581bb63b3f0c7f96c293d214f" CHECKSUMTYPE="MD5" SIZE="191838">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00296_0.jpg"/>
+      </file>
+      <file ID="jpg_00296_1" MIMETYPE="image/jpg" CHECKSUM="94525e56cb5c1a02cb5203187d16a769" CHECKSUMTYPE="MD5" SIZE="204802">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00296_1.jpg"/>
+      </file>
+      <file ID="jpg_00297_0" MIMETYPE="image/jpg" CHECKSUM="cee8a7fa1e543c6774e23350ae0b51bb" CHECKSUMTYPE="MD5" SIZE="183768">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00297_0.jpg"/>
+      </file>
+      <file ID="jpg_00297_1" MIMETYPE="image/jpg" CHECKSUM="8aec9727fbd89313d165bad9de823d21" CHECKSUMTYPE="MD5" SIZE="200720">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00297_1.jpg"/>
+      </file>
+      <file ID="jpg_00298_0" MIMETYPE="image/jpg" CHECKSUM="0503a7a065735405d9761f6d91f3792f" CHECKSUMTYPE="MD5" SIZE="186046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00298_0.jpg"/>
+      </file>
+      <file ID="jpg_00298_1" MIMETYPE="image/jpg" CHECKSUM="9652350c772ea64a6b91a4bd019d708d" CHECKSUMTYPE="MD5" SIZE="199102">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00298_1.jpg"/>
+      </file>
+      <file ID="jpg_00299_0" MIMETYPE="image/jpg" CHECKSUM="a6e90c9e6435414b10c3b7120f7f89df" CHECKSUMTYPE="MD5" SIZE="87619">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00299_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00293_1" MIMETYPE="text/xml+gzip" CHECKSUM="8bec1d1541c5c56e8d69cfee683f579d" CHECKSUMTYPE="MD5" SIZE="8465">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00293_1.xml.gz"/>
+      </file>
+      <file ID="alto_00294_0" MIMETYPE="text/xml+gzip" CHECKSUM="b4faf34a4041b36bf530ba4ba754d447" CHECKSUMTYPE="MD5" SIZE="920">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00294_0.xml.gz"/>
+      </file>
+      <file ID="alto_00294_1" MIMETYPE="text/xml+gzip" CHECKSUM="8ccfdf5c460620c6c14e076c29b15e1f" CHECKSUMTYPE="MD5" SIZE="928">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00294_1.xml.gz"/>
+      </file>
+      <file ID="alto_00295_0" MIMETYPE="text/xml+gzip" CHECKSUM="a40474901b96890327105b9af269c7ce" CHECKSUMTYPE="MD5" SIZE="884">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00295_0.xml.gz"/>
+      </file>
+      <file ID="alto_00295_1" MIMETYPE="text/xml+gzip" CHECKSUM="3fedace234e40c562555f77145e44e28" CHECKSUMTYPE="MD5" SIZE="8989">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00295_1.xml.gz"/>
+      </file>
+      <file ID="alto_00296_0" MIMETYPE="text/xml+gzip" CHECKSUM="05e911403715ed8deed3aeb769bce785" CHECKSUMTYPE="MD5" SIZE="12998">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00296_0.xml.gz"/>
+      </file>
+      <file ID="alto_00296_1" MIMETYPE="text/xml+gzip" CHECKSUM="dab28612b14cc32042f76fd96f33fe1f" CHECKSUMTYPE="MD5" SIZE="13245">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00296_1.xml.gz"/>
+      </file>
+      <file ID="alto_00297_0" MIMETYPE="text/xml+gzip" CHECKSUM="cc6cf1f97a8064c6811aacf90608c039" CHECKSUMTYPE="MD5" SIZE="12494">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00297_0.xml.gz"/>
+      </file>
+      <file ID="alto_00297_1" MIMETYPE="text/xml+gzip" CHECKSUM="3ca13a3f4fc79e7a969289c2fa5a3b8e" CHECKSUMTYPE="MD5" SIZE="13348">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00297_1.xml.gz"/>
+      </file>
+      <file ID="alto_00298_0" MIMETYPE="text/xml+gzip" CHECKSUM="a4c7cf6f82c6fb5eee31046bf8f3d89e" CHECKSUMTYPE="MD5" SIZE="12505">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00298_0.xml.gz"/>
+      </file>
+      <file ID="alto_00298_1" MIMETYPE="text/xml+gzip" CHECKSUM="cf0a946770d5aa2c914edeacedf7095f" CHECKSUMTYPE="MD5" SIZE="12497">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00298_1.xml.gz"/>
+      </file>
+      <file ID="alto_00299_0" MIMETYPE="text/xml+gzip" CHECKSUM="3b3a270f942d94d095c48b5fd9fe02ef" CHECKSUMTYPE="MD5" SIZE="3560">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00299_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0087" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="574" lastpage="585">
+              <court pgmap="586" id="b586-9">Supreme Court of the United States.</court>
+              <docketnumber pgmap="586" id="b586-8">No. 67.</docketnumber>
+              <citation pgmap="586" id="b586-6">175 U.S. 281, 20 S.Ct. 115</citation>
+              <parties pgmap="586" id="b586-7">JOHN F. MALONY v. O. H. ADSIT.</parties>
+              <decisiondate pgmap="586" id="AKs">Decided Dec. 4, 1899.</decisiondate>
+              <otherdate pgmap="586" id="b586-10">Argued Oct. 25, 26, 1899.</otherdate>
+              <attorneys pgmap="590" id="b590-5">Messrs. L. T. Michener, W. W. Dudley, and Oscar Foote, for appellant.</attorneys>
+              <attorneys pgmap="590" id="b590-6">Messrs. S. M. Stockslager and George C. Heard, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="590" id="b590-7">Mr. Justice SHIRAS</author>
+                <p pgmap="590" id="A_7">delivered the opinion of the court:</p>
+                <p pgmap="590" id="b590-8">An inspection of this record discloses that the bill of exceptions was not settled, allowed, and signed by the judge who tried the case, but by his successor in office, several months after the trial. It is settled that allow­ing and signing a bill of exceptions is a judicial act, which can only be performed by the judge who sat at the trial. What took place at the trial, and is a proper subject of exception, can only be judicially known by the judge who has acted in that capacity. Such knowledge cannot be brought to a judge who did not participate in the trial or to a judge who has succeeded to a judge who did, by what purports to be a bill of exceptions, but which has not been signed and allowed by the trial judge.</p>
+                <p pgmap="590" id="b590-9">Section 9S3 of the Revised Statutes (28 U.S.C.A. § 776 note), is as follows: “A bill of exceptions allowed in any cause shall .be deemed sufficiently authenticated if signed by the judge of the court in which the cáuse was tried, or by the presiding judge thereof, if more than one judge sat at the trial of the cause, without any seal of court or judge being annexed thereto.”</p>
+                <p pgmap="590" id="b590-10">We understand this enactment to mean that no bill of exceptions can be deemed sufficiently authenticated unless signed by the judge who sat at the trial, or by the pre­siding judge if more than one sat.</p>
+                <p pgmap="591" id="b591-3">In Mussina v. Cavazos, 6 Wall. 363, 18 L.Ed. 813, after the case had been elaborately argued on the merits, it was discovered by the court that the bill of exceptions had not been either signed or sealed by the judge below. Thereupon the court delivered the following opinion: “Whatever might be our opinion of the exceptions which appear in the record, if they were presented in such a way that we could consider them, we find them beyond our reach. The bill of exceptions, or what purports to be a bill of exceptions, covering more than three hundred and fifty pages of the printed record, is neither signed nor sealed by the judge who tried the cause; and there is nothing which shows that it was submitted to him or in any way received his sanction. We are therefore con­strained to affirm the judgment.”</p>
+                <p pgmap="591(281) 592(43)" id="b591-4">Borrowscale v. Bosworth, a case reported in 98 Mass. 34, presented a somewhat similar question. There a judge of the trial court took a bill of exceptions that had been substantially agreed on by the parties and duly filed, to examine whether the statement of his rulings was correct, with the understanding that if correct he should allow the bill. However, the judge retained the bill without al­lowing it for more than a year, and resigned his office without having done so. Afterwards, in such circum­stances, a motion was made for a new trial in the trial court, and allowed. To the ruling which allowed a new trial the plaintiffs took an exception and carried the case to the supreme judicial court. That court refused to dis­turb the order of the court below awarding a new trial, and held that where it appears to the court that a party has been deprived, without his fault, of a right or remedy which the law gives him, it would generally be held a le­gal reason for granting a new trial. The court cited the English cases of Nind v. Arthur, 7 Dowl. &amp; L. 252, where upon the death of Mr. Justice Coliman, before al­lowing a bill of exceptions which had been presented to him, a new trial was granted; also Benett v. Peninsular &amp; O. S. B. Co., 16 C.B. 29, where the settling of a bill of exceptions having been ■ delayed by the appointment of Chief Justice Wilde as Lord Chancellor, and afterwards by reason of his infirm health all hope of.it having been lost, a new trial was granted by the trial court. Also the case of Newton v. Boodle, 3 C.B. 796, where the death of Chief Justice Tindal prevented the sealing of a bill of exceptions, without laches of the excepting party, which was regarded as good ground for a motion for a new trial.</p>
+                <p pgmap="592" id="b592-4">The rationale of these cases evidently was that the court of errors could not consider a bill of exceptions that had not been signed by the judge who tried the case, and that such failure or Omission’ could not be supplied by agree­ment of the parties, but that the only remedy was to be found in a motion for a new trial. .</p>
+                <p pgmap="592" id="b592-5">Those cases were cited with approval by this court in Hume v. Bowie, 148 U.S. 245, 13 S.Ct. 582, 37 L.Ed. 438, where it was held that where the judge presiding at the trial of a cause in the supreme court of the District of Columbia at circuit dies without having settled a bill of exceptions, it is in order for a motion to be made to set aside the verdict and order a new trial, and that, where such an order is made by the court in general term, it is not a final judgment from which an appeal may be taken to this court. It is true that there is a rule of the supreme court of the District of Columbia which provides that in case the judge is unable to settle the bill of exceptions, and counsel cannot settle it by agreement, a new trial shall be granted, and that this court regarded that rule as applying -to the case in hand, and that hence a new trial was a matter of course.</p>
+                <p pgmap="592" id="b592-6">In Young v. Martin, 8 Wall. 357, 19 L.Ed. 419, where the exceptions were noted by the clerk of the trial court and so appeared in the record, it was held that “to be of any avail, exceptions must not only be drawn up so as to present distinctly the ruling of the court upon the points raised, but they must be signed and'sealed by the presid­ing judge. Unless so signed and sealed, they do not con­stitute any part of the record which can be considered by an appellate court.”</p>
+                <p pgmap="592(62) 593(90)" id="b592-7">In Origet v. United States, 125 U.S. 243, 8 S.Ct, 846, 31 L.Ed. 745, the record contained a paper headed “Bill of Exceptions.” At the foot of the paper appeared the following: “Allowed and ordered on file, Nov. 22, ’83. A. B.” And it was held: “This cannot be regarded as a proper signature by the judge to a bill of exceptions, nor can the paper be regarded for the purposes of review as a bill of exceptions. * * * Section 953 of the Re­vised Statutes * * * merely dispensed with the seal. The necessity for the signature still remains. We cannot regard the initials 'A. B.’ as the signature of the judge, or as a sufficient authentication of the bill of exceptions, or as sufficient evidence of its allowance by the judge or the court. Therefore, the questions purporting to be raised by the paper cannot be considered.”</p>
+                <p pgmap="593" id="b593-5">In State to Use of Samuel v. Weiskittle, 61 Md. 51, it was said: “In this state it is not admissible for another judge to pass upon the correctness of his predecessor’s ruling in such case. The new trial will go as a matter of course.”</p>
+                <p pgmap="593" id="b593-6">It certainly cannot be contended that if the trial judge is able officially to sign the bill of exceptions, it would be competent for the counsel to dispense with his action, and rely upon an agreed statement of the facts and law of the case as tried. Nor can they agree that another than the trial judge may perform his functions in that regard. In Lynch v. Craney, 95 Mich. 199, 54 N.W. 879, it was said that the practice of stipulating a bill of excep­tions without the sanction of the judge cannot be com­mended; and if such fact be brought to the attention of the court before the argument of the case, the appeal will be dismissed.</p>
+                <p pgmap="593" id="b593-7">In Coburn v. Murray, 2 Me. 336, it was held that a bill unauthenticated by the trial judge cannot be given va­lidity by consent of counsel.</p>
+                <p pgmap="593" id="b593-8">We are referred to no decision of this court on the pre­cise question whether counsel can stipulate the correct-, ness of a bill of exceptions not signed by the trial judge. But we think that on principle this cannot be done, and we regard the cases just cited as sound statements of the law.</p>
+                <p pgmap="593" id="b593-9">Accordingly, our conclusion is that the errors of the trial court alleged in the bill of exceptions, unauthenti­cated by the signature of the judge who sat at the trial, cannot be considered by us.</p>
+                <p pgmap="593(18) 594(83)" id="b593-10">The defendant’s demurrer to the complaint, on the ground that it did not state facts sufficient to constitute a cause of action, having been overruled, and the defend­ant not having elected to stand on his demurrer, but hav­ing availed himself of the leave of the court to file an answer, and his several objections to the admission of evidence at the trial not having been brought before us by a proper bill of exceptions, all that is left for us to con­sider is whether, on the facts found by the court below, the plaintiff was entitled to judgment.</p>
+                <p pgmap="594" id="b594-4">Those facts, briefly stated, were that the plaintiff and his grantors on April 19, 1881, entered in actual posses­sion of the land in dispute; put substantial improvements thereon; and continued in possession, under claim of right, and adversely against the defendant and all others, till on April 29, 1891, the defendant, without right or title so to do, entered upon the said land, and ejected the plain­tiff therefrom; that the plaintiff was the owner of an un­divided one-half part or interest of, in, and to said land in the complaint described, and that the defendant wrong­fully withheld the same from him.</p>
+                <p pgmap="594" id="b594-5">From their findings the court drew the conclusions of law that the plaintiff was entitled to recover possession of the said land in dispute, being the undivided one-half part or interest of, in, and to said lot No. 4, in said block No. 4, in said town of Juneau, against said defendant and all persons claiming under him, and to recover a judgment for said possession and for costs.</p>
+                <p pgmap="594" id="b594-6">The appellant now contends that, under § 318 of Hill’s Oregon Code (which by the act of May 17, 1884 — 23 Stat. at L. 24 — was made applicable to Alaska, and which is in the following terms: “The plaintiff in his complaint shall set forth the nature of- his estate in the property, whether it be in fee, for life, or for a term of years, and for whose life, or the duration of such term, and that he is entitled to the possession thereof, and that the de­fendant wrongfully withholds the same from him to his damage such sum as may be therein claimed”), the plain­tiff failed to plead the nature of his estate in the property, whether it be in fee, for life, or for a term of years. '</p>
+                <p pgmap="594(39) 595(38)" id="b594-7">Without stopping to consider whether the defendant could be heard to again raise a question that had been decided against him on his demurrer to the complaint, we think that the objection is not a sound one. The plaintiff alleged, and the court has found, that for more than nine years prior to April 29, 1891, he and his grantors were the owners by right of prior occupancy and actual pos­session of the land in dispute.</p>
+                <p pgmap="595" id="b595-4">In the condition of things in Alaska under the act of May, 1884, providing a civil government for Alaska, and under the 12th section of the act of March 3, 1891 (26 Stat. at L. 1100), the only titles that could be held were those arising by reason of possession and continued pos­session, which might ultimately ripen into a fee-simple title under letters patent issued to such prior claimant when Congress might so provide by extending the gen­eral land laws or otherwise. Davenport v. Lamb, 13 Wall. 418, 20 L.Ed. 655.</p>
+                <p pgmap="595" id="b595-5">In Bennett v. Harkrader, 158 U.S. 447, 15 S.Ct. 863, 39 L.Ed. 1048, brought to this court by a writ of error to the district court of the United States for the district of Alaska, it was said by Mr. Justice Brewer, in dispos­ing of a somewhat similar objection: “Where the com­plaint alleges that the plaintiff is entitled to the possession of certain described property, which is unlawfully detained by the defendant and the possession of which the plaintiff prays to recover, a general verdict for the plaintiff is a finding that he is entitled to the possession of all the prop­erty described in the complaint. Again, in this action, brought under a special statute of the United States in support of an adverse claim, but one estate is involved in the controversy. No title in fee is or can be estab­lished. That remains in the United States, and the only question presented is the priority of right to purchase the fee. Hence the inapplicability of a statute regulating generally actions for the recovery of real estate, in which actions different kinds of title may be sufficient to sustain the right of recovery. It would be purely surplusage to find in terms a priority of the right to purchase when that is the only question which can be litigated in such statutory action.”</p>
+                <p pgmap="595" id="b595-6">This principle applies more strongly to the present case, in which the real nature of the plaintiff’s estate in the prop­erty is truly alleged as ownership by right of prior occu­pancy and actual possession, and was so found to be by the trial court.</p>
+                <p pgmap="596" id="b596-2">The same view of the nature of a title to a lot in a townsite in Alaska, under these acts of Congress, was expressed by the district court of the United States for the district of Alaska, in the case of Carroll v. Price, 81 F. 137. As, then, the only kind of estate that could be held was that of possession, it was sufficient for the plain­tiff to allege that his was of that nature.</p>
+                <p pgmap="596" id="b596-3">It is next contended on behalf of the plaintiff in error that, even if the complaint should be held otherwise suf­ficient, yet the action must fail because coming within § 3524, Hill’s (Oregon) Code, which is as follows: “In an action to recover the possession of any land, tenement, or other real property, where the entry is forcible, or where the possession thereof is unlawfully held by force, the merits of the title shall not be inquired into; and three years’ quiet possession of the premises immediately pre­ceding the commencement of such action by the party in possession, or those under whom he holds, may be plead­ed in bar thereof, unless the estate of such party in the premises is ended.”</p>
+                <p pgmap="596" id="b596-4">It is argued that, as the complaint was filed in the court below May 25, 1896, more than five years from the day of entry alleged in the complaint, and as th.e defend­ant pleaded in bar of the action the three years’ quiet pos­session of the premises immediately preceding its com­mencement, the defendant is entitled to a judgment of re­versal.</p>
+                <p pgmap="596" id="b596-5">If this were indeed an action in forcible entry and de­tainer, and as the complaint shows on its face that the de­fendant’s possession was longer than three years prior to the commencement of the action, then the defendant was entitled to have had his demurrer sustained. But he did not stand on his demurrer, but availed himself of the court’s leave to answer; and hence it might well be questioned whether it was competent for him to again raise in his answer a question already ruled against him under his demurrer.</p>
+                <p pgmap="596(43) 597(16)" id="b596-6">But this it is unnecessary to consider because it is al­together clear that, on the complaint and the facts found, this was not an action for a forcible entry and detainer, under the section of the Oregon Code pleaded by the de­fendant, but was an action of ejectment to which the stat­ute pleaded did not apply.</p>
+                <p pgmap="597" id="b597-3">The judgment of the District Court of the United States for the District of Alaska is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="586" ORDERLABEL="574" TYPE="page">
+        <fptr FILEID="tiff_00293_1"/>
+        <fptr FILEID="jpg_00293_1"/>
+        <fptr FILEID="alto_00293_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_586.2" BETYPE="IDREF" FILEID="alto_00293_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="587" ORDERLABEL="575" TYPE="page">
+        <fptr FILEID="tiff_00294_0"/>
+        <fptr FILEID="jpg_00294_0"/>
+        <fptr FILEID="alto_00294_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_587.2" BETYPE="IDREF" FILEID="alto_00294_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="588" ORDERLABEL="576" TYPE="page">
+        <fptr FILEID="tiff_00294_1"/>
+        <fptr FILEID="jpg_00294_1"/>
+        <fptr FILEID="alto_00294_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_588.1" BETYPE="IDREF" FILEID="alto_00294_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="589" ORDERLABEL="577" TYPE="page">
+        <fptr FILEID="tiff_00295_0"/>
+        <fptr FILEID="jpg_00295_0"/>
+        <fptr FILEID="alto_00295_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_589.2" BETYPE="IDREF" FILEID="alto_00295_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="590" ORDERLABEL="578" TYPE="page">
+        <fptr FILEID="tiff_00295_1"/>
+        <fptr FILEID="jpg_00295_1"/>
+        <fptr FILEID="alto_00295_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_590.2" BETYPE="IDREF" FILEID="alto_00295_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="591" ORDERLABEL="579" TYPE="page">
+        <fptr FILEID="tiff_00296_0"/>
+        <fptr FILEID="jpg_00296_0"/>
+        <fptr FILEID="alto_00296_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_591.2" BETYPE="IDREF" FILEID="alto_00296_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="592" ORDERLABEL="580" TYPE="page">
+        <fptr FILEID="tiff_00296_1"/>
+        <fptr FILEID="jpg_00296_1"/>
+        <fptr FILEID="alto_00296_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_592.2" BETYPE="IDREF" FILEID="alto_00296_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="593" ORDERLABEL="581" TYPE="page">
+        <fptr FILEID="tiff_00297_0"/>
+        <fptr FILEID="jpg_00297_0"/>
+        <fptr FILEID="alto_00297_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_593.3" BETYPE="IDREF" FILEID="alto_00297_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="594" ORDERLABEL="582" TYPE="page">
+        <fptr FILEID="tiff_00297_1"/>
+        <fptr FILEID="jpg_00297_1"/>
+        <fptr FILEID="alto_00297_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_594.2" BETYPE="IDREF" FILEID="alto_00297_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="595" ORDERLABEL="583" TYPE="page">
+        <fptr FILEID="tiff_00298_0"/>
+        <fptr FILEID="jpg_00298_0"/>
+        <fptr FILEID="alto_00298_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_595.3" BETYPE="IDREF" FILEID="alto_00298_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="596" ORDERLABEL="584" TYPE="page">
+        <fptr FILEID="tiff_00298_1"/>
+        <fptr FILEID="jpg_00298_1"/>
+        <fptr FILEID="alto_00298_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_596.1" BETYPE="IDREF" FILEID="alto_00298_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="597" ORDERLABEL="585" TYPE="page">
+        <fptr FILEID="tiff_00299_0"/>
+        <fptr FILEID="jpg_00299_0"/>
+        <fptr FILEID="alto_00299_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_597.2" BETYPE="IDREF" FILEID="alto_00299_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-8" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.8" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-9" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.9" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-6" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.6" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-7" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.7" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b590-9" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_590.10" BETYPE="IDREF" FILEID="alto_00295_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b590-8" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_590.9" BETYPE="IDREF" FILEID="alto_00295_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b594-4" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.4" BETYPE="IDREF" FILEID="alto_00297_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_7" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_590.8" BETYPE="IDREF" FILEID="alto_00295_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b590-5" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_590.5" BETYPE="IDREF" FILEID="alto_00295_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b590-7" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_590.7" BETYPE="IDREF" FILEID="alto_00295_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b590-6" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_590.6" BETYPE="IDREF" FILEID="alto_00295_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b591-4" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_591.4" BETYPE="IDREF" FILEID="alto_00296_0"/>
+            <area BEGIN="BL_592.1" BETYPE="IDREF" FILEID="alto_00296_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b593-6" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.5" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b593-7" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.6" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b591-3" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_591.3" BETYPE="IDREF" FILEID="alto_00296_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b595-6" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_595.6" BETYPE="IDREF" FILEID="alto_00298_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-3" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.4" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-2" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.3" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b593-5" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.4" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-6" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.7" BETYPE="IDREF" FILEID="alto_00298_1"/>
+            <area BEGIN="BL_597.1" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-5" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.6" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-4" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.5" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKs" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.11" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b590-10" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_590.11" BETYPE="IDREF" FILEID="alto_00295_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b593-8" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.7" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b593-9" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.8" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-10" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.10" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b592-5" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_592.5" BETYPE="IDREF" FILEID="alto_00296_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b592-4" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_592.4" BETYPE="IDREF" FILEID="alto_00296_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b593-10" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.9" BETYPE="IDREF" FILEID="alto_00297_0"/>
+            <area BEGIN="BL_594.1" BETYPE="IDREF" FILEID="alto_00297_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-3" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.4" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b594-5" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.5" BETYPE="IDREF" FILEID="alto_00297_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b592-7" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_592.7" BETYPE="IDREF" FILEID="alto_00296_1"/>
+            <area BEGIN="BL_593.1" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b594-7" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.7" BETYPE="IDREF" FILEID="alto_00297_1"/>
+            <area BEGIN="BL_595.1" BETYPE="IDREF" FILEID="alto_00298_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b594-6" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.6" BETYPE="IDREF" FILEID="alto_00297_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b595-4" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_595.4" BETYPE="IDREF" FILEID="alto_00298_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b595-5" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_595.5" BETYPE="IDREF" FILEID="alto_00298_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b592-6" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_592.6" BETYPE="IDREF" FILEID="alto_00296_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,1952 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0049" publicationstatus="published">
+          <court abbreviation="U.S." jurisdiction="United States">Supreme Court of the United States</court>
+          <name abbreviation="Kinkead v. United States">KINKEAD et al. v. UNITED STATES</name>
+          <docketnumber>No. 83</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 340</citation>
+          <citation category="parallel" type="bluebook">150 U.S. 483, 14 S.Ct. 172</citation>
+          <decisiondate>1893-12-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:02Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00176_1" MIMETYPE="image/tiff" CHECKSUM="4e7f2edfe8503d281fb8b719b8ab1276" CHECKSUMTYPE="MD5" SIZE="12420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00176_1.tif"/>
+      </file>
+      <file ID="tiff_00177_0" MIMETYPE="image/tiff" CHECKSUM="d33f3dfd7d225812c87b1c6ae941cf7b" CHECKSUMTYPE="MD5" SIZE="3778">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00177_0.tif"/>
+      </file>
+      <file ID="tiff_00177_1" MIMETYPE="image/tiff" CHECKSUM="67e897635843470e123190866a6d39b5" CHECKSUMTYPE="MD5" SIZE="45286">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00177_1.tif"/>
+      </file>
+      <file ID="tiff_00178_0" MIMETYPE="image/tiff" CHECKSUM="0da3f0aa64ac963f15c274527175bb69" CHECKSUMTYPE="MD5" SIZE="51946">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00178_0.tif"/>
+      </file>
+      <file ID="tiff_00178_1" MIMETYPE="image/tiff" CHECKSUM="42e3d903f80d5e201187780dacd31ee6" CHECKSUMTYPE="MD5" SIZE="49818">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00178_1.tif"/>
+      </file>
+      <file ID="tiff_00179_0" MIMETYPE="image/tiff" CHECKSUM="ae4bdf8f70bb6bb20406083552293e45" CHECKSUMTYPE="MD5" SIZE="52236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00179_0.tif"/>
+      </file>
+      <file ID="tiff_00179_1" MIMETYPE="image/tiff" CHECKSUM="1b198e091c8b965a2f28dbe1b1881bdb" CHECKSUMTYPE="MD5" SIZE="50600">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00179_1.tif"/>
+      </file>
+      <file ID="tiff_00180_0" MIMETYPE="image/tiff" CHECKSUM="884f3c352af2c611c2f9a942e237adbf" CHECKSUMTYPE="MD5" SIZE="50772">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00180_0.tif"/>
+      </file>
+      <file ID="tiff_00180_1" MIMETYPE="image/tiff" CHECKSUM="3523a09be28d9f26fd99a0ba01615603" CHECKSUMTYPE="MD5" SIZE="53560">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00180_1.tif"/>
+      </file>
+      <file ID="tiff_00181_0" MIMETYPE="image/tiff" CHECKSUM="6148f9b8d9e2bf0d533c2abdffd98a76" CHECKSUMTYPE="MD5" SIZE="54746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00181_0.tif"/>
+      </file>
+      <file ID="tiff_00181_1" MIMETYPE="image/tiff" CHECKSUM="7c89f9a1b1c8031f661683f25e01ec03" CHECKSUMTYPE="MD5" SIZE="53560">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00181_1.tif"/>
+      </file>
+      <file ID="tiff_00182_0" MIMETYPE="image/tiff" CHECKSUM="2e92b2ce706126e09273e2c40307bef0" CHECKSUMTYPE="MD5" SIZE="54092">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00182_0.tif"/>
+      </file>
+      <file ID="tiff_00182_1" MIMETYPE="image/tiff" CHECKSUM="1a77cd2c071fe031ad057d193bfd46f4" CHECKSUMTYPE="MD5" SIZE="54542">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00182_1.tif"/>
+      </file>
+      <file ID="tiff_00183_0" MIMETYPE="image/tiff" CHECKSUM="4f5aa4e015ee90de9391ec606a3ed021" CHECKSUMTYPE="MD5" SIZE="50870">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00183_0.tif"/>
+      </file>
+      <file ID="tiff_00183_1" MIMETYPE="image/tiff" CHECKSUM="c32af3c633be51f8518b49a1bd7d9039" CHECKSUMTYPE="MD5" SIZE="53598">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00183_1.tif"/>
+      </file>
+      <file ID="tiff_00184_0" MIMETYPE="image/tiff" CHECKSUM="b219308f9e09ddf5429d2ec0ec6970ae" CHECKSUMTYPE="MD5" SIZE="52010">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00184_0.tif"/>
+      </file>
+      <file ID="tiff_00184_1" MIMETYPE="image/tiff" CHECKSUM="fcb4d1ed9986d714902b0cde1d5ea28e" CHECKSUMTYPE="MD5" SIZE="51398">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00184_1.tif"/>
+      </file>
+      <file ID="tiff_00185_0" MIMETYPE="image/tiff" CHECKSUM="df2a2327f662f3b1bc5f8d1c647811cc" CHECKSUMTYPE="MD5" SIZE="52406">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00185_0.tif"/>
+      </file>
+      <file ID="tiff_00185_1" MIMETYPE="image/tiff" CHECKSUM="40abb6b5ea079dcf8b0f8840b324eb55" CHECKSUMTYPE="MD5" SIZE="52318">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00185_1.tif"/>
+      </file>
+      <file ID="tiff_00186_0" MIMETYPE="image/tiff" CHECKSUM="d4f99b7da6259b88ff409bc71661a99f" CHECKSUMTYPE="MD5" SIZE="50374">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00186_0.tif"/>
+      </file>
+      <file ID="tiff_00186_1" MIMETYPE="image/tiff" CHECKSUM="e5619e247e00e9b08506f0f9cb3f34e3" CHECKSUMTYPE="MD5" SIZE="47756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00186_1.tif"/>
+      </file>
+      <file ID="tiff_00187_0" MIMETYPE="image/tiff" CHECKSUM="3cb019202283e574b8f5b5911446de1a" CHECKSUMTYPE="MD5" SIZE="50136">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00187_0.tif"/>
+      </file>
+      <file ID="tiff_00187_1" MIMETYPE="image/tiff" CHECKSUM="cdebb27a9f1a90528ec898ffb710f6ad" CHECKSUMTYPE="MD5" SIZE="50316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00187_1.tif"/>
+      </file>
+      <file ID="tiff_00188_0" MIMETYPE="image/tiff" CHECKSUM="2a52938f1473b7ff8a1d710743e638b9" CHECKSUMTYPE="MD5" SIZE="52486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00188_0.tif"/>
+      </file>
+      <file ID="tiff_00188_1" MIMETYPE="image/tiff" CHECKSUM="ffa986ca1421becd1801281c9f790e00" CHECKSUMTYPE="MD5" SIZE="55486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00188_1.tif"/>
+      </file>
+      <file ID="tiff_00189_0" MIMETYPE="image/tiff" CHECKSUM="80fe130df3212ab87a052fdb36494b22" CHECKSUMTYPE="MD5" SIZE="51888">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00189_0.tif"/>
+      </file>
+      <file ID="tiff_00189_1" MIMETYPE="image/tiff" CHECKSUM="5b70ac5268e56319bd109f1b65ffb33e" CHECKSUMTYPE="MD5" SIZE="53334">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00189_1.tif"/>
+      </file>
+      <file ID="tiff_00190_0" MIMETYPE="image/tiff" CHECKSUM="1bc12697d122e79a735ceeae7f215258" CHECKSUMTYPE="MD5" SIZE="50812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00190_0.tif"/>
+      </file>
+      <file ID="tiff_00190_1" MIMETYPE="image/tiff" CHECKSUM="6277a5063f0a192977157adb243b39db" CHECKSUMTYPE="MD5" SIZE="11594">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00190_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00176_1" MIMETYPE="image/jpg" CHECKSUM="f709e26693f1c0f7fa811ed76087fd40" CHECKSUMTYPE="MD5" SIZE="93393">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00176_1.jpg"/>
+      </file>
+      <file ID="jpg_00177_0" MIMETYPE="image/jpg" CHECKSUM="a820e4b9640cae6b6e499ceb54f7fd2c" CHECKSUMTYPE="MD5" SIZE="53697">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00177_0.jpg"/>
+      </file>
+      <file ID="jpg_00177_1" MIMETYPE="image/jpg" CHECKSUM="9d2046830cede1f42b946ea330601fc2" CHECKSUMTYPE="MD5" SIZE="179911">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00177_1.jpg"/>
+      </file>
+      <file ID="jpg_00178_0" MIMETYPE="image/jpg" CHECKSUM="7d2f7fc172a06924ca39879fc3a2ccec" CHECKSUMTYPE="MD5" SIZE="190609">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00178_0.jpg"/>
+      </file>
+      <file ID="jpg_00178_1" MIMETYPE="image/jpg" CHECKSUM="044da4e43bdc4d21fd731b8e9b460b0e" CHECKSUMTYPE="MD5" SIZE="200669">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00178_1.jpg"/>
+      </file>
+      <file ID="jpg_00179_0" MIMETYPE="image/jpg" CHECKSUM="62896b6e365ece378893aef69dce9fd3" CHECKSUMTYPE="MD5" SIZE="194247">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00179_0.jpg"/>
+      </file>
+      <file ID="jpg_00179_1" MIMETYPE="image/jpg" CHECKSUM="3f658d64940a15df1e8971774bc56789" CHECKSUMTYPE="MD5" SIZE="195307">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00179_1.jpg"/>
+      </file>
+      <file ID="jpg_00180_0" MIMETYPE="image/jpg" CHECKSUM="d6bd781b065cf00a09a89b53ddf45d5a" CHECKSUMTYPE="MD5" SIZE="185082">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00180_0.jpg"/>
+      </file>
+      <file ID="jpg_00180_1" MIMETYPE="image/jpg" CHECKSUM="8f724fc925581728788f04c86920de38" CHECKSUMTYPE="MD5" SIZE="207983">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00180_1.jpg"/>
+      </file>
+      <file ID="jpg_00181_0" MIMETYPE="image/jpg" CHECKSUM="4677154b6396bb173e1250a0cd957ead" CHECKSUMTYPE="MD5" SIZE="200810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00181_0.jpg"/>
+      </file>
+      <file ID="jpg_00181_1" MIMETYPE="image/jpg" CHECKSUM="4ac6578ae54b6e3c41fecd2265392263" CHECKSUMTYPE="MD5" SIZE="202250">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00181_1.jpg"/>
+      </file>
+      <file ID="jpg_00182_0" MIMETYPE="image/jpg" CHECKSUM="e113ec3f30c5143c390885e40089f058" CHECKSUMTYPE="MD5" SIZE="193708">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00182_0.jpg"/>
+      </file>
+      <file ID="jpg_00182_1" MIMETYPE="image/jpg" CHECKSUM="332874550ea28e9d07a5262de03faa5f" CHECKSUMTYPE="MD5" SIZE="212871">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00182_1.jpg"/>
+      </file>
+      <file ID="jpg_00183_0" MIMETYPE="image/jpg" CHECKSUM="31c74b21252264b99bd50c6a72a2e162" CHECKSUMTYPE="MD5" SIZE="192619">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00183_0.jpg"/>
+      </file>
+      <file ID="jpg_00183_1" MIMETYPE="image/jpg" CHECKSUM="bc4a5f44dc7b09508020efa09a875bda" CHECKSUMTYPE="MD5" SIZE="207004">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00183_1.jpg"/>
+      </file>
+      <file ID="jpg_00184_0" MIMETYPE="image/jpg" CHECKSUM="12ddd6080a5979c9fd770c8299a03667" CHECKSUMTYPE="MD5" SIZE="194692">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00184_0.jpg"/>
+      </file>
+      <file ID="jpg_00184_1" MIMETYPE="image/jpg" CHECKSUM="cefce9486f02e529404bd8447d6da980" CHECKSUMTYPE="MD5" SIZE="207007">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00184_1.jpg"/>
+      </file>
+      <file ID="jpg_00185_0" MIMETYPE="image/jpg" CHECKSUM="1909b5cc34da552ef60159462b7767fd" CHECKSUMTYPE="MD5" SIZE="194432">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00185_0.jpg"/>
+      </file>
+      <file ID="jpg_00185_1" MIMETYPE="image/jpg" CHECKSUM="1ce09a262ff25a6287b949522ddb710c" CHECKSUMTYPE="MD5" SIZE="202895">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00185_1.jpg"/>
+      </file>
+      <file ID="jpg_00186_0" MIMETYPE="image/jpg" CHECKSUM="6afc2a9149704bff983276cac1a880ad" CHECKSUMTYPE="MD5" SIZE="189692">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00186_0.jpg"/>
+      </file>
+      <file ID="jpg_00186_1" MIMETYPE="image/jpg" CHECKSUM="7c7c8da25188f4bbce647a6173791687" CHECKSUMTYPE="MD5" SIZE="197628">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00186_1.jpg"/>
+      </file>
+      <file ID="jpg_00187_0" MIMETYPE="image/jpg" CHECKSUM="492ae70ccaab231a934fefb7d5611023" CHECKSUMTYPE="MD5" SIZE="192093">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00187_0.jpg"/>
+      </file>
+      <file ID="jpg_00187_1" MIMETYPE="image/jpg" CHECKSUM="e3071d4fd01a8a8e1e4d8aeaaaa2ae66" CHECKSUMTYPE="MD5" SIZE="198307">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00187_1.jpg"/>
+      </file>
+      <file ID="jpg_00188_0" MIMETYPE="image/jpg" CHECKSUM="9f943a32defc5a03fdab1e24ca2e58a8" CHECKSUMTYPE="MD5" SIZE="195345">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00188_0.jpg"/>
+      </file>
+      <file ID="jpg_00188_1" MIMETYPE="image/jpg" CHECKSUM="320c83721dfad63b03c745967d4a919a" CHECKSUMTYPE="MD5" SIZE="214324">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00188_1.jpg"/>
+      </file>
+      <file ID="jpg_00189_0" MIMETYPE="image/jpg" CHECKSUM="1da726f69d1e7a5c43a2408220c49984" CHECKSUMTYPE="MD5" SIZE="194170">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00189_0.jpg"/>
+      </file>
+      <file ID="jpg_00189_1" MIMETYPE="image/jpg" CHECKSUM="a4d600c455e8329b786b020434d52da6" CHECKSUMTYPE="MD5" SIZE="204189">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00189_1.jpg"/>
+      </file>
+      <file ID="jpg_00190_0" MIMETYPE="image/jpg" CHECKSUM="98838e315cacde1379547971d71d0871" CHECKSUMTYPE="MD5" SIZE="189909">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00190_0.jpg"/>
+      </file>
+      <file ID="jpg_00190_1" MIMETYPE="image/jpg" CHECKSUM="4173bb28da25b3210d07828feb172700" CHECKSUMTYPE="MD5" SIZE="87605">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00190_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00176_1" MIMETYPE="text/xml+gzip" CHECKSUM="cf5d5bc381cf57b8d269db72b5ee5715" CHECKSUMTYPE="MD5" SIZE="3657">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00176_1.xml.gz"/>
+      </file>
+      <file ID="alto_00177_0" MIMETYPE="text/xml+gzip" CHECKSUM="8d94a234f8b0486f9499a3fd18e3000f" CHECKSUMTYPE="MD5" SIZE="924">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00177_0.xml.gz"/>
+      </file>
+      <file ID="alto_00177_1" MIMETYPE="text/xml+gzip" CHECKSUM="079055da67f1a33d408591892d8adbbf" CHECKSUMTYPE="MD5" SIZE="10789">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00177_1.xml.gz"/>
+      </file>
+      <file ID="alto_00178_0" MIMETYPE="text/xml+gzip" CHECKSUM="1d761975056764847d551bbfdfc848b2" CHECKSUMTYPE="MD5" SIZE="11383">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00178_0.xml.gz"/>
+      </file>
+      <file ID="alto_00178_1" MIMETYPE="text/xml+gzip" CHECKSUM="ffc1f7a150d87dd784d564a8a3d12ac8" CHECKSUMTYPE="MD5" SIZE="11543">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00178_1.xml.gz"/>
+      </file>
+      <file ID="alto_00179_0" MIMETYPE="text/xml+gzip" CHECKSUM="f621cb0655616b2fa8829603542e2037" CHECKSUMTYPE="MD5" SIZE="12474">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00179_0.xml.gz"/>
+      </file>
+      <file ID="alto_00179_1" MIMETYPE="text/xml+gzip" CHECKSUM="47a56afb3a96430b7bcf299f2ef8d872" CHECKSUMTYPE="MD5" SIZE="11693">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00179_1.xml.gz"/>
+      </file>
+      <file ID="alto_00180_0" MIMETYPE="text/xml+gzip" CHECKSUM="7386ba1cc7f6956f696a049f1857c0a1" CHECKSUMTYPE="MD5" SIZE="11697">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00180_0.xml.gz"/>
+      </file>
+      <file ID="alto_00180_1" MIMETYPE="text/xml+gzip" CHECKSUM="078b85f9a5151af9b1deabf5b069fc45" CHECKSUMTYPE="MD5" SIZE="12349">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00180_1.xml.gz"/>
+      </file>
+      <file ID="alto_00181_0" MIMETYPE="text/xml+gzip" CHECKSUM="e6e7bddbf6ce00fa6c358496af3152fd" CHECKSUMTYPE="MD5" SIZE="12353">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00181_0.xml.gz"/>
+      </file>
+      <file ID="alto_00181_1" MIMETYPE="text/xml+gzip" CHECKSUM="32663bd9cb8221f9a3eca34bbcac5042" CHECKSUMTYPE="MD5" SIZE="12295">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00181_1.xml.gz"/>
+      </file>
+      <file ID="alto_00182_0" MIMETYPE="text/xml+gzip" CHECKSUM="bf8b3cf8aaa2c13825b980139f35324a" CHECKSUMTYPE="MD5" SIZE="12609">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00182_0.xml.gz"/>
+      </file>
+      <file ID="alto_00182_1" MIMETYPE="text/xml+gzip" CHECKSUM="ed8cd8c352e3e1587bf20fd51c4b5bb0" CHECKSUMTYPE="MD5" SIZE="12666">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00182_1.xml.gz"/>
+      </file>
+      <file ID="alto_00183_0" MIMETYPE="text/xml+gzip" CHECKSUM="eb105b5fa0f5a43600eb76a3ca7c6059" CHECKSUMTYPE="MD5" SIZE="12031">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00183_0.xml.gz"/>
+      </file>
+      <file ID="alto_00183_1" MIMETYPE="text/xml+gzip" CHECKSUM="55dae0f494443b22743dbade405272c6" CHECKSUMTYPE="MD5" SIZE="12788">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00183_1.xml.gz"/>
+      </file>
+      <file ID="alto_00184_0" MIMETYPE="text/xml+gzip" CHECKSUM="b71084a46fdfcd13916cf3875db62b48" CHECKSUMTYPE="MD5" SIZE="12697">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00184_0.xml.gz"/>
+      </file>
+      <file ID="alto_00184_1" MIMETYPE="text/xml+gzip" CHECKSUM="51591e867a882c89a2f6d8c7e9a00ae2" CHECKSUMTYPE="MD5" SIZE="11763">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00184_1.xml.gz"/>
+      </file>
+      <file ID="alto_00185_0" MIMETYPE="text/xml+gzip" CHECKSUM="9d4788ae094a4ad8b15cde5452589422" CHECKSUMTYPE="MD5" SIZE="11264">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00185_0.xml.gz"/>
+      </file>
+      <file ID="alto_00185_1" MIMETYPE="text/xml+gzip" CHECKSUM="ae9a86f6800532c19be941bba1ff081e" CHECKSUMTYPE="MD5" SIZE="11745">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00185_1.xml.gz"/>
+      </file>
+      <file ID="alto_00186_0" MIMETYPE="text/xml+gzip" CHECKSUM="21fa4cac45f31440ae8142727e8ce5db" CHECKSUMTYPE="MD5" SIZE="12129">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00186_0.xml.gz"/>
+      </file>
+      <file ID="alto_00186_1" MIMETYPE="text/xml+gzip" CHECKSUM="d5058b1019040b1dbbfc2bf43cc16b66" CHECKSUMTYPE="MD5" SIZE="11017">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00186_1.xml.gz"/>
+      </file>
+      <file ID="alto_00187_0" MIMETYPE="text/xml+gzip" CHECKSUM="6d83df13ab35317f5ab4c080f4e6f7e6" CHECKSUMTYPE="MD5" SIZE="11595">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00187_0.xml.gz"/>
+      </file>
+      <file ID="alto_00187_1" MIMETYPE="text/xml+gzip" CHECKSUM="6fac7f4343ccc786668e3ddcaa041002" CHECKSUMTYPE="MD5" SIZE="12080">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00187_1.xml.gz"/>
+      </file>
+      <file ID="alto_00188_0" MIMETYPE="text/xml+gzip" CHECKSUM="d1fdfc27fc03c5020f56f40e72f366b3" CHECKSUMTYPE="MD5" SIZE="13039">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00188_0.xml.gz"/>
+      </file>
+      <file ID="alto_00188_1" MIMETYPE="text/xml+gzip" CHECKSUM="77ecc978baf0350c7489a5ea18d8c971" CHECKSUMTYPE="MD5" SIZE="13098">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00188_1.xml.gz"/>
+      </file>
+      <file ID="alto_00189_0" MIMETYPE="text/xml+gzip" CHECKSUM="37c600645432575fccc214b5c0ba1bca" CHECKSUMTYPE="MD5" SIZE="12996">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00189_0.xml.gz"/>
+      </file>
+      <file ID="alto_00189_1" MIMETYPE="text/xml+gzip" CHECKSUM="a3a33b2ec26432b8841073af2d2fbaa8" CHECKSUMTYPE="MD5" SIZE="12803">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00189_1.xml.gz"/>
+      </file>
+      <file ID="alto_00190_0" MIMETYPE="text/xml+gzip" CHECKSUM="6386e4f3c4ea7862befc6c86140e3539" CHECKSUMTYPE="MD5" SIZE="11895">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00190_0.xml.gz"/>
+      </file>
+      <file ID="alto_00190_1" MIMETYPE="text/xml+gzip" CHECKSUM="47761da73bfbe64a0a185857c10b0afa" CHECKSUMTYPE="MD5" SIZE="3219">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00190_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0049" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="340" lastpage="368">
+              <court pgmap="352" id="b352-14">Supreme Court of the United States.</court>
+              <docketnumber pgmap="352" id="b352-13">No. 83.</docketnumber>
+              <citation pgmap="352" id="b352-11">150 U.S. 483, 14 S.Ct. 172</citation>
+              <parties pgmap="352" id="b352-12">KINKEAD et al. v. UNITED STATES.</parties>
+              <decisiondate pgmap="352" id="b352-15">Dec. 4, 1893.</decisiondate>
+              <judges pgmap="380" id="b380-4">Mr. Justice FIELD concurs in this dissent.</judges>
+              <attorneys pgmap="354" id="b354-4">John Mullan, George A. King, and Jos. K. McCammon, for appellants.</attorneys>
+              <attorneys pgmap="354" id="b354-5">Asst. Atty. Gen. Dodge, for the United States.</attorneys>
+              <opinion type="majority">
+                <author pgmap="354" id="b354-6">Mr. Justice BROWN,</author>
+                <p pgmap="354" id="AZQ">after stating the facts in the fore­going language, delivered the opinion of the court.</p>
+                <p pgmap="354" id="b354-7">Petitioners’ title to the building in question, which they claim to have bought of the Russian-American Company, a Russian corporation, soon after the cession of Alaska to the United States, depends upon the construction to be given to the treaty of March 30, 1867, between his majesty, the emperor of Russia, and the United States, (15 Stat. 539), the correspondence and protocol connected therewith,' and the act of congress of January 17, 1887, referring this claim to the court of claims for adjudication. Upon the hearing in the court of claims the court found “that at the time Alaska was ceded by Russia to the United States there was standing on a certain lot adjacent to the public wharf in the town of Sitka a building, constructed of hewn logs, 118 feet in length and 50 feet in width. The land upon which this building stood belonged to Russia, and was thus embraced in the cession to the United States.”</p>
+                <p pgmap="354" id="b354-8">This building was erected in 1845 by the Russian-Amer­ican Company, at their own expense, and from that time to the date of the treaty , had been used by said company as a warehouse for the storage of furs and other property, and for trading purposes.</p>
+                <p pgmap="354" id="b354-9">By what authority from Russia this land was built upon and occupied by said company, further than is shown in finding 2, (which relates solely to proceedings taken for the transfer of the ceded territory), “does not appear.”</p>
+                <p pgmap="354" id="b354-10">By the first article of the treaty the emperor makes ces­sion of “all the territory and dominion now possessed by his said majesty on the continent of America and in the adjacent islands, the same being contained in the geo­graphical limits herein set forth, to wit,” (boundaries).</p>
+                <p pgmap="355" id="b355-3">The second article provided that “in the cession of the territory and dominion made by the preceding article are included the right of property in all public lots and squares, vacant lands, and all public buildings, fortifications, bar­racks, and other edifices which are not private individual property.”</p>
+                <p pgmap="355" id="b355-4">Article 4 provides for the appointment of an agent for each government, for the purpose of making and receiving formal delivery of the ceded territory, and “for doing any other act which may be necessary in regard thereto.” “But the cession, with the right of immediate possession, is nevertheless to be deemed complete and absolute on the ex­change of ratifications, without waiting for such formal de­livery.”</p>
+                <p pgmap="355" id="b355-5">Article 6 provides that “the cession of territory and dominion herein made is hereby declared to be free and un­incumbered by any reservations, privileges, franchises, grants, or possessions, by any associated companies, wheth­er corporate or incorporate, Russian or any other, or by any parties, except merely private individual property holders.”</p>
+                <p pgmap="355" id="b355-6">It should be added in this connection, and as explanatory of the sixth article of the treaty, that on March 23, 1867, Mr. Seward, then secretary of state of the United States, addressed a letter to, the Russian minister, in which he stated: “I must insist upon that clause in the sixth ar­ticle of the draft.which declares the cession to be free and unincumbered by any reservations, privileges, franchises, grants, or possession by any associated companies, whether corporate or incorporate, Russian or any other, etc., and must regard it as an ultimatum. With the president’s ap­proval, however, I will add two hundred thousand dollars to the consideration money on that account.” To this let­ter the Russian minister made reply that he believed him­self “authorized to accede literally to this request on the conditions indicated” in the note of the secretary.</p>
+                <p pgmap="355(53) 356(97)" id="b355-8">In pursuance of the fourth article of the treaty, the president appointed Gen. Rousseau commissioner to receive the formal transfer of the ceded territory, with instructions to “enter into communication with Captain Pestchouroff, the Russian commissioner, now here, and arrange with him with regard to proceeding as soon as may be convenient to the territory,” etc. “Pursuant to the stipulations of the treaty, that transfer will include all forts and military posts and public buildings, such as the governor’s house, and those used for government purposes, dockyards, barracks, hospitals, and schools, all public lands, and all ungranted lots of ground at Sitka and Kodiak. Private dwellings and warehouses, blacksmiths’, joiners’, coopers’, tanners’, and other similar shops, ice houses, flour and saw mills, and any small barracks on the island are subject to the control of their owners, and are not to be included in the transfer to the United States.”</p>
+                <p pgmap="356" id="b356-3">The commissioners were further instructed to draw up and sign full inventories, distinguishing between the prop­erty to be transferred to the United States and that to be retained by individuals; and were also instructed to furnish the proprietors of individual property with a certificate of their right to hold the same upon production of docu­mentary or other proof of ownership.</p>
+                <p pgmap="356" id="b356-4">“As it is understood that the Russian-Américan. Com­pany possess in that quarter large stores of furs, provisions, and other goods now at Sitka, Kodiak, and elsewhére on the main land and on the island, it is proper that that com­pany should have a reasonable time to collect, sell, or ex­port that property. For that purpose the company may leave in the territory an agent or agents for the purpose of dosing their business.”</p>
+                <p pgmap="356" id="b356-5">In his report of his proceedings, Gen. Rousseau stated: “I found that by the charter of the Russian-American Com­pany it had authority to vest in its employes, occupants of land in the territory, the title thereto. This was on condi­tion, however, that the possessions of the Indians should not be interfered with.</p>
+                <p pgmap="356" id="b356-6">“Acting under this charter, the company from the first caused dwellings to be erected for the use of its employes on lots of ground set apart for the purpose. The title in fee to such premises was often vested in the employe in possession when he had faithfully served out his term in the company, or, having died before it ended, and having a widow1- or children in the territory, the title was frequently vested in them.</p>
+                <p pgmap="357" id="b357-3">“Finding in its charter this authority of the company to vest title to land in its employes, and that very many of the dwellings erected by the company were occupied by em­ployes or their widows and children, who claimed the prop­erty in fee, the commissioners called on the governor, Prince Maksoutoff, to define and certify to the interest of each individual thus occupying- such dwellings and lots, in order that we might distinguish between those who owned the property in fee and those who claimed a less interest, and in compliance with your instructions give certificates to the claimants accordingly.</p>
+                <p pgmap="357" id="b357-4">“The inventories, respectively marked ‘C’ and ‘D,’ (forming part of the protocol), which are forwarded with this report, will show in part the action of the governor in the premises. For the rest he gave a certificate stating the interest of each occupant in the premises occupied, on the back of which the commissioners placed their approval, and it was left to be delivered to, the occupant.</p>
+                <p pgmap="357" id="b357-5">“In order to be accurate, and prevent disputes hereafter about the title to houses and lots, we made a map of New Archangel, (forwarded with this report), on which every ■house and dwelling in the town is located and numbered, and, as between the claimant and the United States, the title defined to it, and settled in the inventories. This was thought necessary in order to give, in accordance with your instructions, to each man of property who desired to dis­pose of it a certificate of title.</p>
+                <p pgmap="357" id="b357-6">“The town of New Archangel [now Sitka] was built in the main by the Russian-American Company, and, except the dwellings transferred by them to their employes, and the public buildings transferred to the United States, is owned by that company still. Yet it has but a possessory interest in the land, as it only had permission to erect build­ings upon it; for, although it had authority to vest the title of lands in its employes, it had no power to vest such title in itself. The commissioners left the matter as they found it, and the company in possession of its buildings.</p>
+                <p pgmap="357(40) 358(35)" id="b357-7">“All the buildings in any wise used for public purposes were delivered to the United States commissioner, taken possession of, and turned over to General Davis, as were also the public archives of the territory; and in a spirit of liberality the wharf and several valuable warehouses be­longing to the Russian-American Company were included in the transfer by the Russian commissioner. Both the wharf and the warehouses were very much needed by our people.”</p>
+                <p pgmap="358" id="b358-4">In a joint report of the commissioners, termed a “pro­tocol,” it was stated that there had been delivered to Gen. Rousseau “the forts and public buildings, including the gov­ernor’s house, dockyards, blockhouses, barracks, batteries, hospitals, wharves, and schools in the town of New Arch­angel, an inventory of which, marked 'A,’ was attached. We gave certificates of ownership to the individual owners of private houses and of lots in fee simple in the town of New Archangel, as directed, a list of whose names is pre­sented in inventory marked ‘C,’ attachéd to and made part hereof. In inventory marked ‘D,’ attached to and made part hereof, are shown the house and buildings owned by private individuals in New Archangel, the owners thereof having no title in fee to the lands on which they are sit­uated.”</p>
+                <p pgmap="358" id="b358-5">The court of claims found that “the property in dispute in this suit is not included in inventory C, where are found the names of owners to whom the commissioners gave certificates of title, but in inventory D, which is a list of buildings, the owners of which have no title in fee to the land on which they are situated.” No owner of this build­ing was named.</p>
+                <p pgmap="358" id="b358-6">The court further found that after the transfer “William S. Dodge was appointed collector of customs at Sitka, and in June or July, 1868, he was in possession and occupancy of the northern part of the building described in the claim­ants’ petition, which he used as a custom warehouse. At the same time and afterwards the claimant Sussman was in the occupancy of another part of the building.” This oc­cupancy was continued by Dodge and his successors in the office of collector of customs.</p>
+                <p pgmap="358(49) 359(57)" id="b358-7">In 1869, it having been reported to the war department that a very large part of the property which belonged to the Russian Fur Company was enjoyed by persons claiming title by purchase from that company after the cession of the territory, the secretary of war directed the military commander of the department of Alaska to take possession of and retain in his charge all posts, buildings, etc., which were not in fact entitled to be considered individual prop­erty. In pursuance of this order, the commanding general took possession of the entire building in question, which has since been claimed and occupied by the government.</p>
+                <p pgmap="359" id="b359-4">Claimant Kinkead protested against this seizure, claim­ing that the building had been designated as private prop­erty; that it had been purchased of the Russian-American Company; and that the title acquired was good, valid, and legal.'</p>
+                <p pgmap="359" id="b359-5">It further appeared that in December, 1868, Mr. Ket­chum, then collector of customs, assumed to lease from Sussman, as agent for Louis Sloss, to whom the Russian Company had given a deed, part of the warehouse in ques­tion at a monthly rental of $200. This lease, however, was promptly disapproved by the secretary of the treasury, who advised him that no building could be hired by him for any purpose without the previous assent of the depart­ment.</p>
+                <p pgmap="359(196) 360(21)" id="b359-6">It appears that the territory of Alaska had, prior to its cession to the United States, been occupied by a Russian corporation known as the Russian-American Company, a corporation largely engaged in fur trading. This company had the privilege of making use of the public lands and erecting buildings thereon. It had no right, however, of becoming the owner of such lands, but did have the privi­lege of conveying parcels of it in fee simple to its employes. Pursuant to this privilege, it had made conveyance of cer­tain of these lands to its employes, upon which had been constructed the dwellings erected by the company, and oc­cupied by such employes, their widows or children. Ap­parently, however, it had no right to acquire for itself any title to the soil, and enjoyed nothing more than the use of the land upon which its buildings were situated, the do­minion or right of property therein remaining in the Rus­sian government. The company appears to have possessed not only the ordinary powers of a trading corporation, but certain governmental powers, which it exercised arbitrarily, if not despotically, over the entire territory. It had a monopoly of the trade of the territory, and appears to have been in fact a provincial government of the Russian empire.</p>
+                <p pgmap="360" id="b360-3">As no question is made but that the land upon which this building is situated belonged to the Russian government, and that the building was erected in 1845, by permission of the emperor, for the use of this company in the storage and sale of its furs, and for other trading purposes, and was so constructed of heavy, hewn logs as to be incapable of removal, no good reason is apparent for excepting it from the ordinary rule which attaches such buildings to the realty. The presumption is that buildings belong To the owner of the land on which they stand as a part of the realty. “Quicquid plantatur solo, solo cedit.” “If one erects a permanent building, like a dwelling house, upon the land of another, voluntarily, and without any contract with the owner, it becomes a part of the realty, and belongs to the owner of the soil.” Madigan v. McCarthy, 108 Mass. 376; Tayl.Landl. &amp; Ten. § 544.</p>
+                <p pgmap="360" id="b360-4">It is true there is abundant authority for holding that buildings may, by agreement of parties, be erected upon land without becoming affixed thereto, and that neither the mode of annexation nor the use thereof is conclusive as to the intention of the parties, although the presumption is that the building so erected becomes a part of the freehold. Wood v. Hewitt, 8 Q.B. 913; Crippen v. Morrison, 13 Mich. 23; Mott v. Palmer, 1 N.Y. 564; Sudbury v. Jones, 8 Cush. (Mass.) 184; Howard v. Fessenden, 14 Allen (Mass.) 124.</p>
+                <p pgmap="360(123) 361(343)" id="b360-5">The extrinsic evidence, however, in this case, so far from showing an intention on the part of the Russian gov­ernment that this building should not pass under the treaty, evinces a determination on the part of both govern­ments that it should so pass. Not only did the land belong to the Russian government, but the building was of a size and'construction such as to render it practically impossible of removal. The correspondence between the secretary of state and the Russian minister with reference to the sixth article contemplates that there were “reservations” and “possessions” owned by associated companies, Russian or other, which were to pass under the treaty, and the sum of $200,000 was added to the consideration money to cover the cession of such properties. More explicit words than those used in article 6 to distinguish between the property of associated companies, “corporate or incorporate, Russian or any other,” and merely “private individual property holders,” could scarcely be chosen to express the determina­tion of both countries that the cession should be free, and unincumbered by any reservations, privileges, franchises, grants, or possessions of incorporated companies. The private property of individual holders was evidently ex­empted from the cession for the reason that, while the Rus­sian-American Company could not acquire title to the real estate occupied by itself, it could confer such title upon those of its employes who desired to make homes for them­selves in that territory. There can be no good reason to doubt that it was intended by this designation of private individual property to include as within the cession not only all real property belonging to the government, but all build­ings erected by its permission upon such property, except such as belonged to individuals. Whether the Russian government had the right to make this disposition of the property of the Russian-American Company involves ques­tions of Russian law, which wé are not compelled to pass upon. It is enough that the emperor assumed to deal in this way with the property of his subjects. Inasmuch, how­ever, as $200,000 were added to the price originally agreed upon in consideration of the cession of the property of as­sociated companies specified under the sixth article, and as the Russian-American Company appears to have been the only corporation existing in the territory to which the terms of this cession could apply, we may safely assume that this amount was intended to compensate it for its inter­est in the buildings erected by it. Its charter had already expired in 1862, and had not been renewed at the time of the cession. Its franchises had, therefore, been extin­guished, and it can hardly be assumed that the letter of Mr. Seward was intended to be confined to such franchises.</p>
+                <p pgmap="361(50) 362(129)" id="b361-4">It may be remarked in this connection that there is a manifest inconsistency in the positions assumed by the pe­titioners. Their only right in this building is derived from a deed of the land which confessedly belonged to the Rus­sian government. Yet the whole theory of the petitioners’ case rests upon the assumption that the building was erect­ed under such circumstances that it was not intended to be­come a part of the freehold. Consistency, then, would seem to require that the deed should be of the building alone, whereas it is, in fact, a deed of the land, and can only pass the building upon the theory that the building was affixed to the land, — a theory quite inconsistent with the petition­ers’ contention. If the building were so constructed as to be removable, there would be some reason for saying that it was not contemplated that it should become a fixture; but the difficulty with petitioners’ claim is that they cannot assert title to the building without also asserting title to the land.</p>
+                <p pgmap="362(265) 363(405) 364(45)" id="b362-4">It is insisted, however, that the contemporaneous con­struction of the treaty by those who were authorized to carry it into effect was such as to indicate that the property of the Russian-American Company was not intended to pass. The instructions of the government to Gen. Rous­seau were that “the transfer will include the forts and mili­tary posts and public buildings, etc., all public lands, and all ungranted lots of land, etc., while private dwellings and warehouses are subject to the control of their owners, and are not included in the transfer. * * * In order, how­ever, that the said individual proprietors may retain their property as aforesaid,” he was authorized to give them a certificate of their right to hold the same. The words “private dwellings” and “individual proprietors,” used in these instructions, should be construed in connection with the treaty, which reserved only “private individual prop­erty.” Obviously it was beyond the power, even of the Russian government itself, without a gross violation of the treaty, to enlarge the exception of private individual property so as to include all private property, whether owned by corporations or individuals. In his report of his proceedings, Gen. Rousseau stated that the town was built mainly by the Russian-American Company, and “ex­cept the dwellings transferred by them to their employes, and the public buildings transferred to the United States, is owned by that company still;” that “although it had authority to invest the title to land in its employes, it had no authority to invest such title in itself;” that “all the buildings in any wise used for public purposes were deliv­ered to the United States commissioner, * * * and in a spirit of liberality the wharf and several valuable ware­houses, belonging to the Russian-American Company, were included in the transfer.” Whether this was one of the warehouses included in the transfer does not clearly ap­pear, though it was contained in inventory D, which showed the houses and buildings owned by private individuals, the owners having no title to the fee in the land. It is quite clear, however, that it was never intended to invest' the commissioners with judicial power to determine the title to property in Sitka, or to pass finally upon the question whether a particular building passed under the treaty or not. If, for instance, the commissioners had inventoried a certain house as the property of A., when in fact it was the property of B., no one would seriously claim that such act would transfer the property from B. to A.; or, if they had assumed to list the property of an individual landowner as the property of the government, or the Russian-American Company, that it would in any manner change the title to such property, or estop the real owner to assert his title thereto in a court of justice. So, if they assumed to list the property of the Russian-American Company as “pri­vate individual property,” within the language of the treaty, it certainly would not operate to vest a good title in any one who might see fit to purchase such property from the Russian-American Company, even if he purchased up­on the faith of such inventory, as Sloss appears to have done in this case. The truth is, the powers of the commis­sioners were simply ministerial, and the making of in­ventories simply a matter of convenience, and a method of determining prima facie what property the government should appropriate to itself for the time being, and what should be left to the individual proprietors. To treat this inventory as binding, either upon the government or in­dividuals, would be to acknowledge that the commissioners were invested with judicial powers to determine the title to property. Qearly, they had no power to depart from the plain language of the treaty, and no power to bind the government by an assumption that government prop­erty was private property, and thus settle questions of* title or ownership. The weight that has been given to con­temporaneous construction has never gone to the extent of holding that the title or ownership of property may be changed by the action of executive officers appointed to carry a statute or treaty into effect.</p>
+                <p pgmap="364" id="b364-4">The case of Comegys v. Vasse, 1 Pet. 195, relied upon by the petitioners, is readily distinguishable from the. case un­der consideration. In the treaty with Spain for the cession of Florida, the United States undertook to make satisfac­tion of certain claims of Spanish subjects; and, by article 11, to ascertain the full amount and validity of those claims, a commission, to consist of three commissioners, was to be. appointed “to receive, examine, and decide upon the amount and validity of all claims,” etc. Such commissioners were to act under oath for the faithful discharge of their duties, and were authorized to hear and examine witnesses upon oath, and to receive all suitable testimony. In other words, they were invested with judicial power to pass upon these claims; and their decision, within the scope of this author­ity, was held to be conclusive and final. Said Mr. Justice Story, (page 212) : “The parties must abide by it as the decree of a competent tribunal of exclusive jurisdiction.” But even in this case it was held that their authority did not extend to the adjustment of all conflicting rights of differ­ent citizens to the fund so awarded. The rights of the several claimants to the fund were left to the ordinary course of judicial proceedings in the established courts of justice. The powers of the commissioners in this case were evidently of a very different character from those delegated to Gen. Rousseau.</p>
+                <p pgmap="364" id="b364-6">It is further contended that the court of claims was es-­topped to consider the question of title by the recitals in the act of congress referring this claim to that court, in which the building in question is recognized as having been the property of the Russian-American Company. The act (24 Stat. 358) recites that: “Whereas John H. Kinkead, of Nevada, and Samuel Sussman, of California, did * * * purchase a certain building situated,” etc., “from the Rus­sian-American Company, the owner of said building; and</p>
+                <blockquote pgmap="364" id="b364-9">“Whereas said building had been declared by the protocol of the transfer of Russian America to the United States to be private property; and</blockquote>
+                <blockquote pgmap="365" id="b365-3">“Whereas thereafter the collector of customs of the United States did take from said Kinkead and Sussman a lease of a portion of .said building, and entered thereupon; and</blockquote>
+                <blockquote pgmap="365" id="b365-4">“Whereas afterwards General Jefferson C. Davis did seize the whole of said building, on the ground that the same was the property of the United States, notwithstand­ing the commissioner appointed to ascertain private prop­erty had certified the same to be private property: ijí 5jt íjí</blockquote>
+                <blockquote pgmap="365" id="b365-6">“Therefore be it enacted, * * * that jurisdiction be, and is hereby, conferred on the court of claims to hear the claims,” etc., “for the rent and value of certain build­ings * * * alleged by them to have been acquired by virtue of purchase from the Russian-American Company, upon the evidence already filed in said court, and such addi­tional legal evidence as may be hereafter presented on either side; and if said court shall find that said parties acquired a valid title to said buildings respectively alleged to have been purchased by them, said court shall award said parties a fair and reasonable rent,” etc.</blockquote>
+                <p pgmap="365(200) 366(216)" id="b365-9">In other words, the court of claims is required to find— First, whether the petitioners acquired a valid title; sec­ond, what shall be deemed a fair and reasonable rent; third, a suitable indemnity for the buildings themselves. Now, as the question whether the petitioners had a valid title to these buildings depended, not upon the fact of pur­chase from the Russian-American Company, which was ad­mitted in the first recital of the statute, and never denied by any one, but upon the title of the Russian-American Company, and its right to convey, which had been called in question by the refusal of the secretary of the treasury to allow the petitioners’ claim for rent, it is impossible that congress could have intended by the recital to estop the court of claims from passing upon the very question re­ferred to it for judicial determination. Petitioners assert that the whole object of the act was to permit the court of claims to pass upon the reasonableness of the rent, and the value of the building. This theory, however, is not only wholly inconsistent with the enacting words, but with the position assumed by the officers of the government prior to the enactment in question. Indeed, there had been no disputé between the parties as to the amount of the rent; but there had been a seizure of the property by a military officer of the United States, under express directions of the secretary of war, and a total repudiation by the secretary of the treasury of the act of Ketchum, collector of customs, in assuming to lease this building, and a denial of any claim for rent. In the face of these proceedings, it is wholly im­probable that congress should have admitted the ownership of the Russian-American Cómpany, which was the question upon which the liability of the government wholly depend­ed. Petitioners insist that the court of claims should have accepted the preamble as a correct recital of the fact, and should have determined — First, whether the petitioners had acquired the building in controversy by virtue of purchase from the Russian-American Company; and, second, wheth­er the petitioners had acquired a valid title to said building. The fact that Kinkead and Sussman had purchased the building was as distinctly set forth in the first recital as that the Russian-American Company was the owner; and, if it were unnecessary for it to determine one question, it was equally so to determine the other.</p>
+                <p pgmap="366" id="b366-4">It is well settled, however, that a mere recital in an act, whether of fact or of law, is not conclusive, unless it be clear that the legislature intendéd that the recital should be accepted as a fact in the case. End.Interp.St. § 375. It was stated by the court in Branson v. Wirth, 17 Wall. 32, 44, that “whilst the recital of public acts are regarded as evidence of the facts recited, it is otherwise, as we have seen, with reference to private acts. They are not evidence, except against the party who procured them.”</p>
+                <p pgmap="366(102) 367(168)" id="b366-5">We are referred, however, to the case of U. S. v. Jordan, 113 U.S. 418, 5 S.Ct. 585, as sustaining a contrary doc­trine. In this case an act of congress provided “that the secretary of the treasury be, and he is hereby, authorized and directed to remit, refund, and pay back, out of any moneys in the treasury not otherwise appropriated, to the following named citizens of Tennessee: * * * the amount of taxes assessed upon and collected from the said named persons, contrary to the provisions of the regulations issued by the secretary of the treasury,” etc. Jordan was one of the parties named in the act. The secretary of the treasury having construed the act to mean only that such sums should be refunded as were collected from the per­sons named contrary to the provisions of the regulations is­sued by the secretary of the treasury, this court held that the statute did not admit of that interpretation, nor leave open any question for the court or for the accounting offi­cers of the treasury, except the identity of the claimants with the persons named in it. “Although the act,” said Mr. Justice Blatchford, “speaks of the sums as being ‘the amount of taxes assessed upon and collected from the said named persons contrary to the provisions of the regulations' named, there, is no indication of any intention to submit to any one the determination of the question whether the tax­es in any case were collected contrary to the provisions of such regulations, or of the question how those provisions are to be construed.”</p>
+                <p pgmap="367" id="b367-4">It needs no argument to show that there is a wide dis­tinction between an act directing a particular thing to be done, and an act reciting the existence of certain facts which had long been a matter of dispute, and which the court of claims was authorized by the act to pass upon and determine.</p>
+                <p pgmap="367" id="b367-5">Counsel have also seen fit to lay before us the report of a senate committee accompanying the bill, which afterwards became the act of January 17, 1887, which report was in favor of the justice of the claim. In accordance with this report the committee submitted a bill conferring jurisdic­tion upon the court of claims to hear this claim upon the evidence already filed, and such additional legal evidence as might be presented, and directing said court to award a fair and reasonable rent, etc. The bill, however, was amended upon the floor of the senate by inserting the words, “if said court shall find that said parties acquired a valid title to said buildings, respectively, alleged to have been purchased by them,” thus evincing a clear intention on the part of the senate to require the petitioners to satisfy the court of the validity of their title to the building. We think it clear there is nothing in the recital of the act which even throws a doubt upon the intention of congress to re­quire the court to be satisfied of this fact.</p>
+                <p pgmap="368" id="b368-3">The truth is that the whole case of the claimants depends upon the question whether the government was bound by the proceedings of the commissioners in the execution of the treaty. As we have already expressed the opinion that they possessed no power to vary the language of the treaty, or to determine questions of title or ownership, it results that their action was not binding upon the government.</p>
+                <p pgmap="368" id="b368-4">The judgment of the court below is therefore affirmed.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="368" id="b368-5">Mr. Justice SHIRAS,</author>
+                <p pgmap="368" id="A9B">dissenting.</p>
+                <p pgmap="368" id="b368-6">In the case of U. S. v. Percheman, 7 Pet. 51, 86, Chief Justice Marshall said:</p>
+                <blockquote pgmap="368" id="b368-7">“It may not be unworthy of remark that it is very un­usual, even in cases of conquest, for the conqueror to do more than to displace the sovereign, and assume dominion over the country. The modern usage of nations, which has become law, would be violated; that sense of justice and of right which is acknowledged and felt by the whole civilized world would be outraged, — if private property should be generally confiscated, and private rights annulled. The people change their allegiance; their relation to their ancient sovereign is dissolved; but their relations to each other, and their rights of property, remain undisturbed. If this be the modern rule, even in cases of conquest, who can doubt its application to the case of an amicable cession of territory?”</blockquote>
+                <p pgmap="368(137) 369(95)" id="b368-8">Upon this view of the subject it might be justly expected that when, in 1867, a treaty for the.cession of the do­minions of Russia in America was concluded between the United States and the emperor of Russia, the rights of private property would remain undisturbed. Nor would that just expectation be disappointed, for, on reading the treaty, we find explicit provisions preserving and exclud­ing from the operation of the cession private property. It, however, appears that portions of the ceded territory had been occupied by an association or company known as the Russian-American Company, and which seems to have claimed and exercised an almost despotic control over the sparse population, whether native or Russian, and also to have been possessed, by grant from the Russian govern­ment, of certain franchises and privileges, the precise na­ture and extent of which are not disclosed. Aware of the existence of this company, and apparently fearful lest troublesome contentions as to such special privileges and franchises might afterwards arise, the government of the United States insisted on the insertion in the treaty of an explicit article, providing that the cession of territory and dominion should be declared to be free and unincumbered by any reservations, privileges, franchises, grants, or pos­sessions by any associated companies, whether corporate or incorporate, Russian or any other, or by any parties except merely private individual property holders.</p>
+                <p pgmap="369" id="b369-4">The fourth article of the treaty provided that the em­peror of Russia should appoint an agent or agents for the purpose of formally delivering to a similar agent or agents, appointed on behalf of the United States, the territory, dominion, property, dependencies, and appurtenances which were ceded, and for doing any other act which might be necessary in regard thereto.</p>
+                <p pgmap="369" id="b369-5">Subsequently, and in pursuance of the fourth article of the treaty, the Russian government appointed Alexis Pest­chouroff, and the United States appointed Gen. Lovell H. Rousseau, as their respective commissioners, and these com­missioners proceeded to fulfill the duties of their appoint­ment under instructions from their respective governments. The instructions from the government of the United States were as follows:</p>
+                <blockquote pgmap="369" id="b369-6">“Pursuant to the stipulations of the treaty, that transfer will include all forts and military posts and public buildings, such as the governor’s house, and those used for govern­mental purpose, dockyards, barracks, hospitals, and schools; all public lands, and all ungranted lots of land at Sitka and Kodiak. Private dwellings and warehouses, blacksmiths’, joiners’, coopers’, tanners’, and other similar shops, ice houses, flour and saw mills, and any small barracks on the islands, are subject to the control of their owners, and are not to be included in the transfer to the United States.”</blockquote>
+                <p pgmap="369" id="b369-7">The instructions to Capt. Pestchouroff from the Russian government were as follows:</p>
+                <blockquote pgmap="369" id="b369-8">“(3) All the forts and military posts will be delivered at once to the American military forces that may follow the United States commissioner. * * *</blockquote>
+                <blockquote pgmap="370" id="b370-2">“(4) The public buildings, such as the governor’s house, the buildings used for government purposes, dockyard, bar­racks, hospitals, schools, public grounds, and all free lots at Sitka and Kodiak, will be delivered by Captain Pest­chouroff to the American commissioner as soon as prac­ticable.</blockquote>
+                <blockquote pgmap="370" id="b370-3">“(5) All the houses and stores forming private property will remain, to be disposed of by their proprietors. To this same category belong smiths’, joiners’, coopers’, tanners’, and other similar shops, as well as ice houses, saw and flour mills, and any small barracks that' may exist on the islands. * * * ” H.R.Ex.Doc.No.177, 40th Cong.2d Sess. p. 19.</blockquote>
+                <p pgmap="370" id="b370-4">The commissioners proceeded to fulfill the duties im­posed upon.them, and on October 26, 1867, signed a pro­tocol or statement of their action. It thereby appears that there was delivered to Gen. Rousseau, for the United States, the government archives, papers, and documents re­lating to the territory and dominion therein named; also the forts and public buildings, including the governor’s house, dockyards, blockhouses, barracks, batteries, hospital, wharves, and schools in the town of New Archangel, an in­ventory whereof, marked “A,” was attached to the pro­tocol. It further appears that an inventory, marked “B,” was attached, describing the church buildings, etc., left in the hands of the Greco-Russian Church; and that an in­ventory, marked “C,” was attached, giving a list of cer­tain lots and houses held in fee simple by persons named; and an inventory, marked “D,” was likewise attached, showing the houses and buildings owned by private in­dividuals in New Archangel, the owners thereof having no title in fee to the land on which the buildings were situated.</p>
+                <p pgmap="370" id="b370-5">The building in question in this case was specified in in­ventory “D” as private property.</p>
+                <p pgmap="370(64) 371(78)" id="b370-6">Subsequently, on October 28, 1868, the Russian-Ameri­can Company, by Prince Maksoutoff, its chief administra­tor, (who had assisted the Russian commissioner in making the delivery and inventory of the property under the treaty), sold and conveyed the property in question to Louis Sloss, describing it as “that piece or parcel of land situate near and adjoining to the public wharf of said city, upon which is erected building No. 1, and described as a warehouse in the map and inventory ‘D,’ attached to and made a part of the protocol of the transfer of said territory to the United States by Russia, and therein declared to be private property.” The title of Louis Sloss, by deed of October 28, 1887, was declared to have been taken and held by him for and on account of John H. Kinkead and Samuel Sussman.</p>
+                <p pgmap="371" id="b371-4">After the transfer, William S. Dodge was appointed col­lector of customs at Sitka, and in June or July, 1868, he was in the possession and occupancy of the northern part of the building described in the claimants’ petition, which he used as a customs warehouse. At the same time, and after-­wards, the claimant Sussman was in the occupancy of an­other part of the building. Dodge continued so to occupy the northern part of the building until about the 1st of De­cember, 1868, when he turned it over to Hiram Ketchum, Jr., his successor in the office of collector, who continued in the same occupancy till March 4, 1869, when he resigned the office, and turned the warehouse over to Samuel Fal­coner, the deputy collector of the port.</p>
+                <p pgmap="371" id="b371-5">Before and after the last-named date, Gen. Jefferson C. Davis, United States army, was at Sitka, in command of the department of Alaska.</p>
+                <p pgmap="371" id="b371-6">On the 26th of February, 1869, there was sent to him from the war department the following order:</p>
+                <blockquote pgmap="371" id="b371-7">“It having been reported to this department that a very large portion of the property which belonged to the Rus­sian Fur Company in Alaska is now enjoyed by persons claiming title under a purchase from Prince Maksoutoff since the cession of that territory to the United States, the secretary of war directs that you take possession of and re­tain in your charge all posts, buildings, etc., which are not in fact entitled to be considered individual property.”</blockquote>
+                <p pgmap="371(58) 372(25)" id="b371-8">In pursuance of this order, Gen. Davis, on the 2d of June, 1869, authorized Falconer to take possession of and use the whole building for government purposes pertaining to the treasury department, except the three lower rooms of it, situated on the southeast side of the lower passage­way, which rooms were reserved by Gen. Davis for the storage of army stores, and were, in the month of Sep­tember, following, placed under the control of the quarter­master’s department of the army.</p>
+                <p pgmap="372" id="b372-4">From that time to the present the whole building has re­mained in the possession and use of the government, Fal­coner continuing in the occupancy of the part of it so as­signed to him until August, 1869, when he turned it over to William Kapus, who had been appointed collector of the port.</p>
+                <p pgmap="372" id="b372-5">On June 2, 1869, the claimants protested in writing to Gen. Davis against his action in taking possession of said building, alleging that the building had been designated as private property by the commissioners appointed by the governments of Russia and the United States; that it had been purchased of Prince Maksoutoff, chief factor of the Russian-American Company; and that the title acquired through that purchase was good, valid, and legal.</p>
+                <p pgmap="372" id="b372-6">Failing to get redress from the agents and officers of the United States, Kinkead and Sussman brought an action in the court of claims for use and occupation of the premises, which suit was by that court dismissed for a supposed want of jurisdiction. Kinkead v. U. S., 18 Ct.Cl. 504.</p>
+                <p pgmap="372" id="b372-7">Thereafter congress passed the following act:</p>
+                <blockquote pgmap="372" id="b372-8">“An act referring to the court of claims for adjudication the claims of John H. Kinkead, Samuel Sussman, and Charles O. Wood. '</blockquote>
+                <blockquote pgmap="372" id="b372-9">“Whereas John H. Kinkead, of Nevada, and Samuel Sussman, of California, did, on the twenty-eighth day of October, eighteen hundred and sixty-eight, purchase a cer­tain building situate on lot known as number one on the official plat of the town of Sitka, in the territory of Alaska, from the Russian-American Company, the owner of said building; and</blockquote>
+                <blockquote pgmap="372" id="b372-10">“Whereas said building had been declared by the protocol of the transfer of Russian America to the United States to be private property; and</blockquote>
+                <blockquote pgmap="372" id="b372-11">“Whereas thereafter the collector of customs of the United States did take from said Kinkead and Sussman a lease of - a portion of said building and entered thereupon; and</blockquote>
+                <blockquote pgmap="373" id="b373-3">“Whereas afterwards General Jefferson C. Davis did seize the whole of said building, on the ground that the same was the property of the United States, notwithstand­ing the commissioners appointed to ascertain private prop­erty had certified the same to be private property; and</blockquote>
+                <blockquote pgmap="373" id="b373-4">“Whereas afterwards said Kinkead and Sussman did present their petition to the United States court of claims claiming rent for the said building; and</blockquote>
+                <blockquote pgmap="373" id="b373-5">“Whereas said court did, on the eleventh day of June, eighteen hundred and eighty-three, dismiss said claim for want of jurisdiction only; and</blockquote>
+                <blockquote pgmap="373" id="b373-6">“Whereas Charles O. Wood, of Ohio, did in like manner purchase a certain other building situate on lot known as number twenty-four from said Russian-American Compa­ny, and did in like manner present his petition to the court of claims for rent of the same, the same having been in like manner seized for the use of the United States, notwith­standing the same had been certified to be private property; and</blockquote>
+                <blockquote pgmap="373" id="b373-7">“Whereas said court of claims did in like manner dis­miss the claim of said Wood for want of jurisdiction only: Therefore</blockquote>
+                <blockquote pgmap="373(186) 374(82)" id="b373-8">“Be it enacted by the senate and house of representatives of the United States of America in congress assembled, that jurisdiction be, and is hereby, conferred on the court of claims to hear the claims of John H. Kinkead and Samuel Sussman and Charles O. Wood for the rent and value of certain buildings in the town of Sitka, in the territory of Alaska, alleged by them to have been acquired by virtue of purchase from the Russian-American Company, upon the evidence already filed in said court and such additional legal evidence as may be hereafter presented on either side; and if said court shall find that said parties acquired a valid title to said buildings respectively alleged to have been pur­chased by them, said court shall award to said parties a fair and reasonable rent for the use of the said buildings for the time (if any) the same have been occupied by the United States, and also a suitable indemnity for said build­ings themselves, and the receipt of such rent and indemnity shall thereafter bar any further claim by said parties for the use of said buildings or for the value thereof, and be­fore receiving the same all of said parties shall execute a re­lease to the United States for all right, title and interest whatsoever in and to the said property, and any defense, set-off, or counter-claim may be pleaded by the United States as defendants as in cases within the general jurisdic­tion of the court, and either party shall have the same right of appeal as in such cases.</blockquote>
+                <blockquote pgmap="374" id="b374-4">“Approved January 17, 1887.”</blockquote>
+                <p pgmap="374" id="b374-5">The claimants thereupon filed in the court of claims their petition claiming, under the terms of the special act, “a fair and reasonable rent for the use of said buildings for the time, if any, the same had been occupied by the United States, and also a suitable indemnity for the buildings them­selves.”</p>
+                <p pgmap="374" id="b374-6">That court, on May 13, 1889, decreed that the claimants’ petition should be dismissed, and from that judgment the appeal before us was brought.</p>
+                <p pgmap="374" id="b374-7">It was contended in the court below, on behalf of the claimants, that under the terms of the act it was not open for the court to determine whether the claimants were pre­cluded by the treaty from maintaining their claim, but that, as the act, in its recitals, declared that the Russian-Ameri­can Company was the owner of said building, the court’s inquiry was restricted to finding whether the claimants had acquired a valid title to the buildings alleged to have been purchased by them, and to fixing a fair and reasonable rent for the time the same had been occupied by the United States, and also a suitable indemnity for the buildings them­selves; and it was also contended that, even if the act of congress allowed the court of claims to inquire into the meaning and effect of the treaty, yet that the claimants were, taking into view the treaty, the protocol, and the act of congress, entitled to recover.</p>
+                <p pgmap="374(64) 375(37)" id="b374-8">The court of claims decided both contentions against the claimants, it held that, notwithstanding the terms of the act, the court had a right to interpret the terms of the treaty, and having found, as it did, that under the terms of the treaty the building in question had become the property of the United States, it further held that there was nothing in the acts of the commissioners characterizing the building as private property, or in the act of congress, referring the matter to this court, which created or conferred any right or title in the building to the claimants.</p>
+                <p pgmap="375" id="b375-3">To sustain their contention that the act of congress, re­ferring their claim to the court of claims, did not leave any question for the court as to the meaning and effect of the treaty, the claimants cite the case of U. S. v. Jordan, 113 U.S. 418, 422, S S.Ct. 585. There an act of congress pro­vided for the refunding to persons named therein of the amount of taxes assessed upon and collected from them contrary to the provisions of the regulations therein men­tioned, and it was held that there was no discretion vested in the court of claims to determine whether the sum award­ed to the suitor was or was not the amount of a tax as­sessed contrary to the provisions of such regulations. This court said, through Mr. Justice Blatchford: “The court of claims held that the statute did not leave open any ques­tion for the court, except the identity of the claimants with the persons named in it; and that its language, taken to­gether, was too clear to admit of doubt that congress un­dertook, as it had a right to do, to determine not only what particular persons by name should have relief, but also the exact amount which should be paid to each one of them. We concur in this view. * * * Although the act speaks of the sums as being ‘the amount of taxes assessed upon and collected from the said named persons contrary to the provisions of the regulations,’ there is no indication of any intention to submit to any one the determination of the question whether the taxes in any case were collected contrary to the provisions of” such regulations, or of the question how those provisions are to be construed. On the contrary, the clear import of the statute is that congress it­self determines that the amounts named were collected con­trary to the provisions of the regulations.”</p>
+                <p pgmap="375(66) 376(28)" id="b375-5">Claimants likewise cite the case of Dahlgren v. U. S., 16 Ct.Cl. 30, where the court of claims, through Judge J. C. B. Davis, construing an act of congress which had re­ferred a claim to that court, said that, “where the govern­ment has a special defense to a claim, and the facts con­stituting the defense are well known to congress, it is un­reasonable to suppose that congress would refer the claim to this court with the intent that the special defense should be set up and the claim defeated thereby.”</p>
+                <p pgmap="376(381) 377(70)" id="b376-3">It is to be observed that in the case of the act which was the subject of construction in U. S. v. Jordan the de­cisive language was in the enacting part of the statute, whereas in the statute now before us it is in the preamble. Still it must be conceded that the language relied upon, al­though in the preamble, is in absolute, and not in condi­tional, terms. The Russian-American Company is spoken of as “the owner of said building.” The only uncertainty or contingency appears in the language of the enacting clause, ■«■'herein it is provided that, “if the court shall find that said parties acquired a valid title to said building alleged to have been purchased by them, the court shall award,” etc. It was further contended pn behalf of the complain­ants that the action of the international commissioners in distinguishing between public property which should pass to the United States and private property which should not be disturbed, is to be regarded as an act of a diplomatic and political character, and which it was not competent for congress to refer to the court of claims for review or re­examination. To sustain the proposition that the decisions of international commissions, rendered within the scope of their authority, are final and conclusive, a number of au­thorities are cited in the brief for the appellants; among others, the leading case of Comegys v. Vasse, 1 Pet. 193. That case arose out of the treaty whereby Spain ceded Florida to the United States, and wherein' commissioners were invested with power and authority to receive, examine, and decide upon the amount and validity of asserted claims upon Spain for damages and injuries. This court held, per Story, J., that the decision of the commissioners with­in the scope of their authority was final and conclusive; that the parties must abide by it as the decree of a com­petent tribunal of exclusive jurisdiction. The court held likewise that, though the finding of the amount and right to receive was final, yet the. jurisdiction of the commission­ers did not extend to determining any disputes that might arise as to the subsequent ownership of such claims. “The validity and amount of the claim being once ascertained by their award, the fund might well be permitted to pass in­to the hands of any claimant, and his own rights, as well as those of all others who asserted a title to the fund, be left to the ordinary course of judicial proceedings in the es­tablished courts, where redress could be administered accord­ing to the nature and extent of the rights or equities of all the parties.”</p>
+                <p pgmap="377" id="b377-4">Applying the reasoning of that and of kindred cases to the present, it is argued that the finding of the commission­ers of Russia and the United States was final as to the status of the properties passed upon by them as public or private, that being the purpose for which they were ap­pointed; that it was competent for congress to refer the dispute that subsequently arose between the United States and the claimants to the court of claims; but that the court, in passing upon the case, could not go back of the action of the commissioners, and retry the question under what" category, public or private, the property in question was to be regarded.</p>
+                <p pgmap="377" id="b377-5">The court below did not accept the claimants’ proposi­tions, but held that it was open to it, under the terms of the act referring the claim to it, to disregard the preamble of the act itself, to go back of the action of the international commissioners, and to decide for itself the meaning and effect of the treaty.</p>
+                <p pgmap="377(169) 378(159)" id="b377-6">These rulings of the court cannot, in my opinion, be sustained. In the first place, as it seems to me, we must get at the intention of congress in passing the act referring the claim to the court of claims, by bringing into view the history of the claim. In a general way, it certainly cannot be denied that the treaty, in its terms, preserved private property rights. Nor can it be denied that the commission­ers were appointed to distinguish public from private prop­erty, and to make a finding thereof. It is also indisputable that the commissioners excluded the building in dispute out of the class of public property, and included it in the class of private property. And it is admitted that congress, having been made aware that the claimants had been turned out of the court on an alleged want of jurisdiction, removed that obstacle, and directed the court to hear the claims of Kinkead and Sussman, and, if it should find that they had acquired a valid title to said building, alleged to have been purchased by them, then to award a fair and reasonable rent for its use, and a suitable indemnity for the build­ing itself. I do not feel constrained to hold that the mere recital in the act that the Russian-American Company were the owners of ‘the building at the time the claimants pur­chased it from them of itself concludes the court from find­ing otherwise. But I think that, reading the statute in the light of all the facts in the case, it is highly improbable that congress intended to supersede the action of the interna­tional commission, and to submit the treaty to the court for its construction; and I think that the language of the preamble is entitled to be considered, in connection with the other facts of the case, to enable us to give a fair and rea­sonable construction to this remedial statute.</p>
+                <p pgmap="378" id="b378-4">The conclusion, then, in my judgment, is that congress intended that the court of claims should inquire whether these claimants had validly derived their title from the Russian-American Company; and, if so, what was a fair rent for the use of the building, and- what a suitable in­demnity for the building itself.</p>
+                <p pgmap="378" id="b378-5">But, in the second place, if I am wrong in this view, and if the court of claims had a right to go back of the language of the statute and of the action of the inter­national commissioners, I think the court erred in their in­terpretation of the treaty.</p>
+                <p pgmap="378(146) 379(33)" id="b378-6">In the first article the treaty provided that the emperor of Russia should cede to the United States “all the terri­tory and dominion now possessed by his majesty on the continent of America.” The second article provides that “in the cession of territory and dominion made by the pre­ceding article are included the right of property in all pub­lic lots and squares, vacant lands, and all public buildings, fortifications, barracks, and other edifices which are not private individual property.” The view of the court below was that by the terms “private individual property” was meant property owned by an individual, as distinguished from a company or corporation; and the court thought that it was aided in this view by the provisions of the sixth article, which declared that “the cession of territory and dominion herein made is hereby declared to be free and unincumbered by any reservations, privileges, franchises, grants, or possessions by any associated companies, wheth­er corporate or incorporate, Russian or any other, or by any parties except merely private individual property hold­ers.”</p>
+                <p pgmap="379" id="b379-4">The origin of this sixth article was in the claims and pretenses of the Russian-American Company which had ex­ercised a despotic control over these dominions, and the evident purpose of the sixth article, as is plain from the communication of Secretary Seward to the Russian minister, was to prevent any territorial or political or cor­porate privileges from being subsequently asserted. It was clearly not intended to include or affect private property as such.</p>
+                <p pgmap="379" id="b379-5">If this were a controversy between private parties, in a court where only municipal law is administered, like a court of common pleas, it may be that the narrow view put on this treaty by the court below might properly prevail; but when we consider that we are dealing with an international instrument, conferring territorial dominion from one sov­ereign to another, a broader and more liberal construction should be put on the language used. Hauenstein v. Lyn­ham, 100 U.S. 483; Head Money Cases, 112 U.S. 583, 5 S.Ct. 247. Viewed in this light, I think that the treaty meant to distinguish public property, of the various kinds enumerated, from property held by individual persons, or by companies composed of individuals, for private uses and purposes. Such was the view taken by the commis­sioners, and, as I think, by congress; and their interpreta­tion ought to be respected and adopted by the courts.</p>
+                <p pgmap="379" id="b379-6">Even when corporations are dissolved by writs of scire facias or decrees in equity, at the suit of the sovereign, their moneys and property not essential to the exercise of their franchises are not forfeited, but are left to the owner­ship of the stockholders. In construing the treaty as a mere municipal regulation, and as an act of forfeiture, I think the court below grievously erred.</p>
+                <p pgmap="379(40) 380(40)" id="b379-7">Upon the whole, I am of opinion that the judgment of the court below was erroneous, and should be reversed, and that the record should be remanded, with directions to proceed, under the provisions of the act of January 17, 1887, to examine whether the claimants have lawfully de­rived title from the Russian-American Company, and, if so, to award them a fair rent for the use and suitable in­demnity for the loss of the building owned by them.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="352" ORDERLABEL="340" TYPE="page">
+        <fptr FILEID="tiff_00176_1"/>
+        <fptr FILEID="jpg_00176_1"/>
+        <fptr FILEID="alto_00176_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_352.1" BETYPE="IDREF" FILEID="alto_00176_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="353" ORDERLABEL="341" TYPE="page">
+        <fptr FILEID="tiff_00177_0"/>
+        <fptr FILEID="jpg_00177_0"/>
+        <fptr FILEID="alto_00177_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_353.1" BETYPE="IDREF" FILEID="alto_00177_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="354" ORDERLABEL="342" TYPE="page">
+        <fptr FILEID="tiff_00177_1"/>
+        <fptr FILEID="jpg_00177_1"/>
+        <fptr FILEID="alto_00177_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_354.3" BETYPE="IDREF" FILEID="alto_00177_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="355" ORDERLABEL="343" TYPE="page">
+        <fptr FILEID="tiff_00178_0"/>
+        <fptr FILEID="jpg_00178_0"/>
+        <fptr FILEID="alto_00178_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_355.2" BETYPE="IDREF" FILEID="alto_00178_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="356" ORDERLABEL="344" TYPE="page">
+        <fptr FILEID="tiff_00178_1"/>
+        <fptr FILEID="jpg_00178_1"/>
+        <fptr FILEID="alto_00178_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_356.2" BETYPE="IDREF" FILEID="alto_00178_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="357" ORDERLABEL="345" TYPE="page">
+        <fptr FILEID="tiff_00179_0"/>
+        <fptr FILEID="jpg_00179_0"/>
+        <fptr FILEID="alto_00179_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_357.2" BETYPE="IDREF" FILEID="alto_00179_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="358" ORDERLABEL="346" TYPE="page">
+        <fptr FILEID="tiff_00179_1"/>
+        <fptr FILEID="jpg_00179_1"/>
+        <fptr FILEID="alto_00179_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_358.2" BETYPE="IDREF" FILEID="alto_00179_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="359" ORDERLABEL="347" TYPE="page">
+        <fptr FILEID="tiff_00180_0"/>
+        <fptr FILEID="jpg_00180_0"/>
+        <fptr FILEID="alto_00180_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_359.3" BETYPE="IDREF" FILEID="alto_00180_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="360" ORDERLABEL="348" TYPE="page">
+        <fptr FILEID="tiff_00180_1"/>
+        <fptr FILEID="jpg_00180_1"/>
+        <fptr FILEID="alto_00180_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_360.2" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="361" ORDERLABEL="349" TYPE="page">
+        <fptr FILEID="tiff_00181_0"/>
+        <fptr FILEID="jpg_00181_0"/>
+        <fptr FILEID="alto_00181_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_361.3" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="362" ORDERLABEL="350" TYPE="page">
+        <fptr FILEID="tiff_00181_1"/>
+        <fptr FILEID="jpg_00181_1"/>
+        <fptr FILEID="alto_00181_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_362.2" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="363" ORDERLABEL="351" TYPE="page">
+        <fptr FILEID="tiff_00182_0"/>
+        <fptr FILEID="jpg_00182_0"/>
+        <fptr FILEID="alto_00182_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_363.2" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="364" ORDERLABEL="352" TYPE="page">
+        <fptr FILEID="tiff_00182_1"/>
+        <fptr FILEID="jpg_00182_1"/>
+        <fptr FILEID="alto_00182_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_364.2" BETYPE="IDREF" FILEID="alto_00182_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="365" ORDERLABEL="353" TYPE="page">
+        <fptr FILEID="tiff_00183_0"/>
+        <fptr FILEID="jpg_00183_0"/>
+        <fptr FILEID="alto_00183_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_365.2" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="366" ORDERLABEL="354" TYPE="page">
+        <fptr FILEID="tiff_00183_1"/>
+        <fptr FILEID="jpg_00183_1"/>
+        <fptr FILEID="alto_00183_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_366.2" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="367" ORDERLABEL="355" TYPE="page">
+        <fptr FILEID="tiff_00184_0"/>
+        <fptr FILEID="jpg_00184_0"/>
+        <fptr FILEID="alto_00184_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_367.3" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="368" ORDERLABEL="356" TYPE="page">
+        <fptr FILEID="tiff_00184_1"/>
+        <fptr FILEID="jpg_00184_1"/>
+        <fptr FILEID="alto_00184_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_368.1" BETYPE="IDREF" FILEID="alto_00184_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="369" ORDERLABEL="357" TYPE="page">
+        <fptr FILEID="tiff_00185_0"/>
+        <fptr FILEID="jpg_00185_0"/>
+        <fptr FILEID="alto_00185_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_369.3" BETYPE="IDREF" FILEID="alto_00185_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="370" ORDERLABEL="358" TYPE="page">
+        <fptr FILEID="tiff_00185_1"/>
+        <fptr FILEID="jpg_00185_1"/>
+        <fptr FILEID="alto_00185_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_370.1" BETYPE="IDREF" FILEID="alto_00185_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="371" ORDERLABEL="359" TYPE="page">
+        <fptr FILEID="tiff_00186_0"/>
+        <fptr FILEID="jpg_00186_0"/>
+        <fptr FILEID="alto_00186_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_371.3" BETYPE="IDREF" FILEID="alto_00186_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="372" ORDERLABEL="360" TYPE="page">
+        <fptr FILEID="tiff_00186_1"/>
+        <fptr FILEID="jpg_00186_1"/>
+        <fptr FILEID="alto_00186_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_372.2" BETYPE="IDREF" FILEID="alto_00186_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="373" ORDERLABEL="361" TYPE="page">
+        <fptr FILEID="tiff_00187_0"/>
+        <fptr FILEID="jpg_00187_0"/>
+        <fptr FILEID="alto_00187_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_373.2" BETYPE="IDREF" FILEID="alto_00187_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="374" ORDERLABEL="362" TYPE="page">
+        <fptr FILEID="tiff_00187_1"/>
+        <fptr FILEID="jpg_00187_1"/>
+        <fptr FILEID="alto_00187_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_374.2" BETYPE="IDREF" FILEID="alto_00187_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="375" ORDERLABEL="363" TYPE="page">
+        <fptr FILEID="tiff_00188_0"/>
+        <fptr FILEID="jpg_00188_0"/>
+        <fptr FILEID="alto_00188_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_375.2" BETYPE="IDREF" FILEID="alto_00188_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="376" ORDERLABEL="364" TYPE="page">
+        <fptr FILEID="tiff_00188_1"/>
+        <fptr FILEID="jpg_00188_1"/>
+        <fptr FILEID="alto_00188_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_376.2" BETYPE="IDREF" FILEID="alto_00188_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="377" ORDERLABEL="365" TYPE="page">
+        <fptr FILEID="tiff_00189_0"/>
+        <fptr FILEID="jpg_00189_0"/>
+        <fptr FILEID="alto_00189_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_377.3" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="378" ORDERLABEL="366" TYPE="page">
+        <fptr FILEID="tiff_00189_1"/>
+        <fptr FILEID="jpg_00189_1"/>
+        <fptr FILEID="alto_00189_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_378.2" BETYPE="IDREF" FILEID="alto_00189_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="379" ORDERLABEL="367" TYPE="page">
+        <fptr FILEID="tiff_00190_0"/>
+        <fptr FILEID="jpg_00190_0"/>
+        <fptr FILEID="alto_00190_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_379.3" BETYPE="IDREF" FILEID="alto_00190_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="380" ORDERLABEL="368" TYPE="page">
+        <fptr FILEID="tiff_00190_1"/>
+        <fptr FILEID="jpg_00190_1"/>
+        <fptr FILEID="alto_00190_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_380.2" BETYPE="IDREF" FILEID="alto_00190_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.5" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.4" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.4" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.5" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            <area BEGIN="BL_367.1" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-9" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.6" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.5" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-10" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.10" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.4" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b354-10" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_354.15" BETYPE="IDREF" FILEID="alto_00177_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-9" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.6" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            <area BEGIN="BL_366.1" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.6" BETYPE="IDREF" FILEID="alto_00189_1"/>
+            <area BEGIN="BL_379.1" BETYPE="IDREF" FILEID="alto_00190_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b357-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_357.5" BETYPE="IDREF" FILEID="alto_00179_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-3" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.3" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.5" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.4" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b354-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_354.12" BETYPE="IDREF" FILEID="alto_00177_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b354-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_354.9" BETYPE="IDREF" FILEID="alto_00177_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.7" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b354-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_354.8" BETYPE="IDREF" FILEID="alto_00177_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b354-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_354.7" BETYPE="IDREF" FILEID="alto_00177_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.5" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.4" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            <area BEGIN="BL_362.1" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b354-9" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_354.14" BETYPE="IDREF" FILEID="alto_00177_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b354-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_354.13" BETYPE="IDREF" FILEID="alto_00177_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b375-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_375.5" BETYPE="IDREF" FILEID="alto_00188_0"/>
+            <area BEGIN="BL_376.1" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.6" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            <area BEGIN="BL_378.1" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.4" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b375-3" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_375.4" BETYPE="IDREF" FILEID="alto_00188_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b359-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.6" BETYPE="IDREF" FILEID="alto_00180_0"/>
+            <area BEGIN="BL_360.1" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b359-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.4" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b359-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.5" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.8" BETYPE="IDREF" FILEID="alto_00187_0"/>
+            <area BEGIN="BL_374.1" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-9" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.9" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b358-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.7" BETYPE="IDREF" FILEID="alto_00179_1"/>
+            <area BEGIN="BL_359.1" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b358-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.6" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b358-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.5" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b358-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.4" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-3" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.3" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.8" BETYPE="IDREF" FILEID="alto_00187_1"/>
+            <area BEGIN="BL_375.1" BETYPE="IDREF" FILEID="alto_00188_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.5" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b356-3" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_356.4" BETYPE="IDREF" FILEID="alto_00178_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.7" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.6" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.4" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            <area BEGIN="BL_363.1" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            <area BEGIN="BL_364.1" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-3" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.4" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZQ" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_354.10" BETYPE="IDREF" FILEID="alto_00177_1"/>
+            <area BEGIN="BL_354.11" BETYPE="IDREF" FILEID="alto_00177_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.5" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.6" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            <area BEGIN="BL_361.1" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9B" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.6" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b357-3" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_357.3" BETYPE="IDREF" FILEID="alto_00179_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.9" BETYPE="IDREF" FILEID="alto_00184_1"/>
+            <area BEGIN="BL_369.1" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-15" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.17" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-14" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.16" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-13" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.15" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-12" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.14" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-11" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.13" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.5" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.6" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.7" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.7" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.8" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.6" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.4" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.4" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.5" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.4" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-11" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.11" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b379-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_379.4" BETYPE="IDREF" FILEID="alto_00190_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b379-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_379.5" BETYPE="IDREF" FILEID="alto_00190_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b379-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_379.6" BETYPE="IDREF" FILEID="alto_00190_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b379-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_379.7" BETYPE="IDREF" FILEID="alto_00190_0"/>
+            <area BEGIN="BL_380.1" BETYPE="IDREF" FILEID="alto_00190_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.6" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.5" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.7" BETYPE="IDREF" FILEID="alto_00185_1"/>
+            <area BEGIN="BL_371.1" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.4" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.5" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-3" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.4" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-2" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.3" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.8" BETYPE="IDREF" FILEID="alto_00186_0"/>
+            <area BEGIN="BL_372.1" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.7" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.4" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.5" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-3" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.3" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b355-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_355.7" BETYPE="IDREF" FILEID="alto_00178_0"/>
+            <area BEGIN="BL_356.1" BETYPE="IDREF" FILEID="alto_00178_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.8" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b356-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_356.6" BETYPE="IDREF" FILEID="alto_00178_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b356-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_356.5" BETYPE="IDREF" FILEID="alto_00178_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b356-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_356.7" BETYPE="IDREF" FILEID="alto_00178_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b357-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_357.4" BETYPE="IDREF" FILEID="alto_00179_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b355-3" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_355.3" BETYPE="IDREF" FILEID="alto_00178_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b357-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_357.6" BETYPE="IDREF" FILEID="alto_00179_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b357-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_357.7" BETYPE="IDREF" FILEID="alto_00179_0"/>
+            <area BEGIN="BL_358.1" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b355-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_355.6" BETYPE="IDREF" FILEID="alto_00178_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.6" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b355-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_355.4" BETYPE="IDREF" FILEID="alto_00178_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b355-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_355.5" BETYPE="IDREF" FILEID="alto_00178_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.5" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.4" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.7" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.6" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.5" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.4" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b380-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_380.4" BETYPE="IDREF" FILEID="alto_00190_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-3" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.4" BETYPE="IDREF" FILEID="alto_00188_1"/>
+            <area BEGIN="BL_377.1" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.8" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

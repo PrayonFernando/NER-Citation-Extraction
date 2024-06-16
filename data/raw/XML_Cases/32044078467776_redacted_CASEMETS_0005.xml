@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0005" publicationstatus="published">
+          <court abbreviation="C.C.D. Cal." jurisdiction="United States">United States Circuit Court for the District of California</court>
+          <name abbreviation="United States v. Waller">UNITED STATES v. WALLER</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 43</citation>
+          <citation category="parallel" type="bluebook">Fed.Cas.No.16,634</citation>
+          <decisiondate>1871-08-26</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:21:59Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00028_0" MIMETYPE="image/tiff" CHECKSUM="d621e379365d33af3f3de65cd479c787" CHECKSUMTYPE="MD5" SIZE="31280">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00028_0.tif"/>
+      </file>
+      <file ID="tiff_00028_1" MIMETYPE="image/tiff" CHECKSUM="4396d30369d528f44b9bcbcc35fb1034" CHECKSUMTYPE="MD5" SIZE="13346">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00028_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00028_0" MIMETYPE="image/jpg" CHECKSUM="50c13e5453ec9a722de50d626a757189" CHECKSUMTYPE="MD5" SIZE="133195">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00028_0.jpg"/>
+      </file>
+      <file ID="jpg_00028_1" MIMETYPE="image/jpg" CHECKSUM="822dd13e3aa99b481f52e9f861b5ca35" CHECKSUMTYPE="MD5" SIZE="93759">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00028_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00028_0" MIMETYPE="text/xml+gzip" CHECKSUM="faa4a1119d9282480bc32f9839f46b05" CHECKSUMTYPE="MD5" SIZE="8034">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00028_0.xml.gz"/>
+      </file>
+      <file ID="alto_00028_1" MIMETYPE="text/xml+gzip" CHECKSUM="a2a638472d3809e431097abfb8dc3fa5" CHECKSUMTYPE="MD5" SIZE="3657">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00028_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0005" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="43" lastpage="44">
+              <court pgmap="55" id="b55-9">Circuit Court, D. California.</court>
+              <citation pgmap="55" id="b55-7">Fed.Cas.No.16,634</citation>
+              <parties pgmap="55" id="b55-8">UNITED STATES v. WALLER.<footnotemark>1</footnotemark>
+              </parties>
+              <decisiondate pgmap="55" id="b55-10">Aug. 26, 1871.</decisiondate>
+              <attorneys pgmap="56" id="b56-4">L. D. Latimer, U. S. Dist. Atty.</attorneys>
+              <attorneys pgmap="56" id="A2">Milton Andros, for defendant.</attorneys>
+              <footnote label="1">
+                <p pgmap="55" id="b55-14">1 Reported by L. S. B. Sawyer, Esq., and here reprinted by permis­sion.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="56" id="b56-6">FIELD, Circuit Justice.</author>
+                <p pgmap="56" id="b56-7">We are of the opinion that an information may be filed by the district attorney, in behalf of the United States, in the national courts, for misdemeanors committed against the laws of the United States. The motion to quash the in­formation in this case is, therefore, denied.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="55" ORDERLABEL="43" TYPE="page">
+        <fptr FILEID="tiff_00028_0"/>
+        <fptr FILEID="jpg_00028_0"/>
+        <fptr FILEID="alto_00028_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_55.3" BETYPE="IDREF" FILEID="alto_00028_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="56" ORDERLABEL="44" TYPE="page">
+        <fptr FILEID="tiff_00028_1"/>
+        <fptr FILEID="jpg_00028_1"/>
+        <fptr FILEID="alto_00028_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_56.3" BETYPE="IDREF" FILEID="alto_00028_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-7" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.8" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-6" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.7" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-4" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.5" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-10" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.10" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-14" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.14" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-8" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.8" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-9" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.9" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.6" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-7" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.7" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

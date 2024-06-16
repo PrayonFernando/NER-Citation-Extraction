@@ -1,0 +1,747 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0004" publicationstatus="published">
+          <court abbreviation="D. Or." jurisdiction="United States">United States District Court for the District of Oregon</court>
+          <name abbreviation="In re Bird">IN RE BIRD</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 34</citation>
+          <citation category="parallel" type="bluebook">Fed.Cas.No.1,428</citation>
+          <decisiondate>1871-05-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:02Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00023_1" MIMETYPE="image/tiff" CHECKSUM="393603148e4e03feff18fcbbf459615f" CHECKSUMTYPE="MD5" SIZE="23322">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00023_1.tif"/>
+      </file>
+      <file ID="tiff_00024_0" MIMETYPE="image/tiff" CHECKSUM="f5da694d7b6695605ceeb4d9eb849682" CHECKSUMTYPE="MD5" SIZE="3602">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00024_0.tif"/>
+      </file>
+      <file ID="tiff_00024_1" MIMETYPE="image/tiff" CHECKSUM="47dd41d6becda8b1530da9871aea4421" CHECKSUMTYPE="MD5" SIZE="19302">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00024_1.tif"/>
+      </file>
+      <file ID="tiff_00025_0" MIMETYPE="image/tiff" CHECKSUM="bfea41a71141a9476995c968aeec78d8" CHECKSUMTYPE="MD5" SIZE="53760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00025_0.tif"/>
+      </file>
+      <file ID="tiff_00025_1" MIMETYPE="image/tiff" CHECKSUM="cd37d061dea1a8323cff95a3032b6092" CHECKSUMTYPE="MD5" SIZE="50690">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00025_1.tif"/>
+      </file>
+      <file ID="tiff_00026_0" MIMETYPE="image/tiff" CHECKSUM="4f27c99b2aa02e684bff0209183634df" CHECKSUMTYPE="MD5" SIZE="52912">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00026_0.tif"/>
+      </file>
+      <file ID="tiff_00026_1" MIMETYPE="image/tiff" CHECKSUM="7ecc6b7df4c6bd9692fd74bda666110c" CHECKSUMTYPE="MD5" SIZE="52262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00026_1.tif"/>
+      </file>
+      <file ID="tiff_00027_0" MIMETYPE="image/tiff" CHECKSUM="602513ebd003257921ec22fe7c7edd7a" CHECKSUMTYPE="MD5" SIZE="53140">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00027_0.tif"/>
+      </file>
+      <file ID="tiff_00027_1" MIMETYPE="image/tiff" CHECKSUM="28e7f93971118e46f1e02faad436b958" CHECKSUMTYPE="MD5" SIZE="54292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00027_1.tif"/>
+      </file>
+      <file ID="tiff_00028_0" MIMETYPE="image/tiff" CHECKSUM="d621e379365d33af3f3de65cd479c787" CHECKSUMTYPE="MD5" SIZE="31280">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00028_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00023_1" MIMETYPE="image/jpg" CHECKSUM="9f8c9c8aa3a40e7036ca6a705d84ed99" CHECKSUMTYPE="MD5" SIZE="109763">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00023_1.jpg"/>
+      </file>
+      <file ID="jpg_00024_0" MIMETYPE="image/jpg" CHECKSUM="4306e45c7a705ea91c30ff721bb87053" CHECKSUMTYPE="MD5" SIZE="43486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00024_0.jpg"/>
+      </file>
+      <file ID="jpg_00024_1" MIMETYPE="image/jpg" CHECKSUM="08872a86153c7457891ab75c970a405f" CHECKSUMTYPE="MD5" SIZE="105691">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00024_1.jpg"/>
+      </file>
+      <file ID="jpg_00025_0" MIMETYPE="image/jpg" CHECKSUM="fea4ece1fff3fe5a1f6005dd0cccdd89" CHECKSUMTYPE="MD5" SIZE="191661">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00025_0.jpg"/>
+      </file>
+      <file ID="jpg_00025_1" MIMETYPE="image/jpg" CHECKSUM="6afd69fd96bd05594196227864882fd8" CHECKSUMTYPE="MD5" SIZE="193329">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00025_1.jpg"/>
+      </file>
+      <file ID="jpg_00026_0" MIMETYPE="image/jpg" CHECKSUM="edd11846a09a6640105b83190b25acf6" CHECKSUMTYPE="MD5" SIZE="188177">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00026_0.jpg"/>
+      </file>
+      <file ID="jpg_00026_1" MIMETYPE="image/jpg" CHECKSUM="37a2dd667f05eff8260d0cd394b92ba8" CHECKSUMTYPE="MD5" SIZE="203110">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00026_1.jpg"/>
+      </file>
+      <file ID="jpg_00027_0" MIMETYPE="image/jpg" CHECKSUM="a8efc3aedb031394c32db6efaf77ce9d" CHECKSUMTYPE="MD5" SIZE="193101">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00027_0.jpg"/>
+      </file>
+      <file ID="jpg_00027_1" MIMETYPE="image/jpg" CHECKSUM="3d3f12022e855ae50bf6f3d634c89cba" CHECKSUMTYPE="MD5" SIZE="202906">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00027_1.jpg"/>
+      </file>
+      <file ID="jpg_00028_0" MIMETYPE="image/jpg" CHECKSUM="50c13e5453ec9a722de50d626a757189" CHECKSUMTYPE="MD5" SIZE="133195">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00028_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00023_1" MIMETYPE="text/xml+gzip" CHECKSUM="e73a19c8b7d73aac3faf7fa1529145a7" CHECKSUMTYPE="MD5" SIZE="6667">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00023_1.xml.gz"/>
+      </file>
+      <file ID="alto_00024_0" MIMETYPE="text/xml+gzip" CHECKSUM="dfa2c138355fd50b6bb28e94df78ec43" CHECKSUMTYPE="MD5" SIZE="916">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00024_0.xml.gz"/>
+      </file>
+      <file ID="alto_00024_1" MIMETYPE="text/xml+gzip" CHECKSUM="2e30ff6dd32c85dc51123cf300289db3" CHECKSUMTYPE="MD5" SIZE="5044">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00024_1.xml.gz"/>
+      </file>
+      <file ID="alto_00025_0" MIMETYPE="text/xml+gzip" CHECKSUM="aa87cbf23ea07a95eda135612b6181fe" CHECKSUMTYPE="MD5" SIZE="12340">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00025_0.xml.gz"/>
+      </file>
+      <file ID="alto_00025_1" MIMETYPE="text/xml+gzip" CHECKSUM="047aaedca1db851c4c9fe2af9163ab7d" CHECKSUMTYPE="MD5" SIZE="11957">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00025_1.xml.gz"/>
+      </file>
+      <file ID="alto_00026_0" MIMETYPE="text/xml+gzip" CHECKSUM="301fa1826236e4b3f90f34a69c08be69" CHECKSUMTYPE="MD5" SIZE="12642">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00026_0.xml.gz"/>
+      </file>
+      <file ID="alto_00026_1" MIMETYPE="text/xml+gzip" CHECKSUM="ceb12b37f0c72746ce735906f5c1dd4a" CHECKSUMTYPE="MD5" SIZE="13029">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00026_1.xml.gz"/>
+      </file>
+      <file ID="alto_00027_0" MIMETYPE="text/xml+gzip" CHECKSUM="5039f3af2c252e91cdb8060e9fe8039a" CHECKSUMTYPE="MD5" SIZE="12706">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00027_0.xml.gz"/>
+      </file>
+      <file ID="alto_00027_1" MIMETYPE="text/xml+gzip" CHECKSUM="30bb569f86d6e3cb8a3acc2e97d83854" CHECKSUMTYPE="MD5" SIZE="12923">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00027_1.xml.gz"/>
+      </file>
+      <file ID="alto_00028_0" MIMETYPE="text/xml+gzip" CHECKSUM="faa4a1119d9282480bc32f9839f46b05" CHECKSUMTYPE="MD5" SIZE="8034">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00028_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0004" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="34" lastpage="43">
+              <court pgmap="46" id="b46-8">District Court, D. Oregon.</court>
+              <citation pgmap="46" id="b46-6">Fed.Cas.No.1,428</citation>
+              <parties pgmap="46" id="b46-7">IN RE BIRD.<footnotemark>1</footnotemark>
+              </parties>
+              <decisiondate pgmap="46" id="b46-9">May 24, 1871.</decisiondate>
+              <attorneys pgmap="48" id="b48-7">Theodore Burmeister and Charles R. Bellinger, for pe­titioner.</attorneys>
+              <attorneys pgmap="48" id="b48-8">Louis V. Caziarc, in pro. per.</attorneys>
+              <footnote label="1">
+                <p pgmap="46" id="b46-16">1 Reported by L. S. B. Sawyer, Esq., and here reprinted by permis­sion.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="48" id="b48-9">DEADY, District Judge.</author>
+                <p pgmap="48" id="b48-10">From the pleadings and exhibits it appears:</p>
+                <p pgmap="48" id="b48-11">1. That William B. Bird, the petitioner, was duly enlist­ed as a private in the army of the United States ón June IS, 1867, to serve for the period of three years.</p>
+                <p pgmap="48" id="b48-12">2. That at the post of Sitka, Alaska, by the sentence of a court-martial, convened at said post in pursuance of special orders No. 70, dated October 14, 1869, the petitioner, then being a private in battery H, second artillery, was sentenced to three months’ hard labor and to be dishonorably dis­charged from the army; and that .about January 23, peti­tioner was so discharged at the post aforesaid.</p>
+                <p pgmap="49" id="b49-3">3. That the petitioner was tried before said court-martial upon two charges and sundry specifications thereunder, to the effect, that said petitioner, about September 25, 1869, re­fused to be sworn or testify as a witness before a board of officers convened at the post aforesaid, to investigate cer­tain accusations against sundry citizens and enlisted men, and that on October 18, 1869, he wrote a disrespectful letter to his department commander, General J. C. Davis.</p>
+                <p pgmap="49" id="b49-4">4. On the trial, at Sitka aforesaid, the petitioner made the preliminary objection that the court-martial could not law­fully take cognizance of the charges against him, because it was convened by said Davis, who was also his accuser; and on September 24, 1870, the secretary of war, upon the re­port and opinion of the judge advocate-general, sustained the objection, and set aside the sentence of the court as il­legal and void on that account, and also directed that the petitioner “be brought to trial on a charge of manslaughter to the prejudice of good order and military discipline,” com­mitted in the killing of Lieutenant L. C. Cowan, of the United States revenue service, as hereinafter stated; and afterwards, on November 10, 1870, the petitioner, by special order No. 150, of headquarters of the department of the Columbia, in pursuance of the aforesaid order of the secre­tary of war, was “reinstated in his rights, duties, and ob­ligations as a soldier, as if no such proceedings had been taken, and as of the date of the order appointing the court,” to wit: October 14, 1869.</p>
+                <p pgmap="49(129) 50(14)" id="b49-5">5. That on March 8, 1870, by the verbal order of said Davis to Captain Brady, commanding post of Sitka, the petitioner was arrested and confined at said post upon the charge of killing said Cowan, which order was, on June 14, 1870, confirmed and continued by a written order from said Davis to said Brady, instructing the latter to “retain petitioner in custody until further instructions from the proper authority;” and, as appears from the report of a board of officers convened at the post aforesaid, on March 10, 1870, the petitioner, on the night of February 25, 1870, in an unlawful attempt to take the life of his former com­pany commander, Captain Dennison, in a saloon at Sitka, shot and killed said Cowan under circumstances which “showed a perfect disregard of human life,” and constituted “an aggravated case of manslaughter.”</p>
+                <p pgmap="50" id="b50-4">6. That by a court-martial convened at Sitka aforesaid, November 30, 1870, pursuant to special order No. 149, of headquarters of the department of the Columbia, and after-­wards adjourned to Fort Vancouver, Washington Territory, the petitioner was tried and found guilty of the charge of “murder, to the prejudice of good order and military dis­cipline,” committed in the killing of Lieutenant Cowan as aforesaid, and by said court was, among other things, sen­tenced to be dishonorably discharged from the service of the United States, and to be confined at hard labor for the period of fifteen years in such penitentiary as the command­ing general may designate; and on February 24, 1871, said sentence was approved by the general commanding the de­partment of the Columbia, and ordered to be executed in Alcatraz Island, in the harbor of San Francisco, until other­wise ordered by the secretary of war.</p>
+                <p pgmap="50" id="b50-5">7. That in general court-martial order, No. 3, dated April 11, 1871, the proceedings of the court-martial last aforesaid were “set aside as null and void, for the reason that murder, being a capital crime, is not legally cognizable by a court-­martial.” Such order also stated and directed as follows: “Moreover, the facts disclosed in the evidence show that the homicide was committed in a. saloon in the town of Sitka, when the prisoner was de facto a citizen, and held no such practical relations to the military service, as to connect his acts with its good order or discipline. The prisoner will be turned over for trial to the federal judiciary;” and that, in pursuance of such order, the petitioner, at the time of the allowance and service of the writ, was being conveyed to Washington Territory by Lieutenant Dennison aforesaid, to be there turned over to the'United States courts for trial therein upon said charge of murder.</p>
+                <p pgmap="50" id="b50-6">Two principal questions arise in this case, and were argued by counsel.</p>
+                <p pgmap="50" id="b50-7">1. Was the petitioner a soldier on February 25, 1870, when he committed the homicide at Sitka? and</p>
+                <p pgmap="50(21) 51(11)" id="b50-8">2. Can a soldier be detained in custody by military au­thority, for trial or lawful disposition after his term of service expires, on account of an act committed during such service?</p>
+                <p pgmap="51" id="b51-3">Upon authority and the plainest reason both these ques­tions must be answered in the affirmative. The sentence of the court-martial dishonorably discharging the petitioner from the service was set aside as null and void, because of the want of jurisdiction in the court. The proceedings of the court having been declared by competent authority to have been void ab initio, in contemplation of law, the status of the petitioner was not changed in any particular by rea­son of it. This conclusion necessarily follows from the premises. The proposition is so axiomatic that it scarcely admits of argument, and needs only to be stated for the truth of it to be perceived. The same rule obtains in rela­tion to the proceedings of all courts, civil as well as military. A void judgment or sentence works no change in the status of the person or thing against or concerning which it is given or pronounced.</p>
+                <p pgmap="51" id="b51-4">A sentence of divorce passed in an inferior court, which is afterward set aside as null and void on appeal, would not affect the status of the parties thereto. They would still be husband and wife, the same as if the sentence of the inferior court had never been pronounced, and that, too, during all the period between such sentence and its reversal.</p>
+                <p pgmap="51(181) 52(39)" id="b51-5">A judgment convicting a party of a felony, when reversed for error, is considered as never having been given, and does not affect the rights or liabilities of such party, although he may have been imprisoned under it during the interval be­tween its rendition and reversal. It may be said that in some instances this rule works hardly, but the subject admits of no other, and in the great majority of cases it is well adapted to the ends of justice. Upon a second conviction, the punish­ment upon the first and erroneous one can and should be taken into consideration. Besides, it must be borne in mind that the reversal is procured by the party affected by the judgment or sentence, and for his benefit. If the petitioner had not procured the reversal of the sentence discharging him from the service, his subjection to military authority grow­ing out of his enlistment on June IS, 1867, would have then ceased; but, having procured that sentence to be set aside, upon the allegation not merely that it was erroneous, but null and void, it does not lie in his mouth to say that, never­theless, the discharge given in pursuance and execution of it was valid, and terminated his contract of enlistment months before the expiration of his term.</p>
+                <p pgmap="52" id="b52-4">True, it may be, as stated in general court-martial order No. 3, that the petitioner at the date of the homicide was a citizen de facto; but it is equally true, and more material, as now known, that he was at the same time a soldier de jure. Being a citizen de facto is nothing more than acting and liv­ing as a citizen for-the time being for any reason. This might be a good cause, as suggested in said order, why pro­ceedings for the military offense of manslaughter, “to the prejudice of good order and military discipline,” committed by the act of unlawful killing, should be postponed or sus­pended until the petitioner had been proceeded against in the civil courts for the greater and graver offense of murder, committed by the same act.</p>
+                <p pgmap="52" id="b52-5">I have no doubt but that the petitioner was a soldier at the date of the killing of Lieutenant Cowan, and as such liable to be arrested, tried and punished by military authority, for any military offense committed by the same act.</p>
+                <p pgmap="52" id="b52-6">As to the second question: Article of war 88 provides that “No person shall be liable- to be tried and punished by a general court-martial for any offense which shall appear to have been committed more than two years before the is­suing of the order for such trial; unless,” etc.</p>
+                <p pgmap="52" id="b52-7">Congress has full power “to make rules for the govern­ment of the land and naval forces.” U.S.Const, art. 1, § 8.</p>
+                <p pgmap="52(132) 53(276)" id="b52-8">This article of war is a statute of limitations, in case of proceedings, to punish persons for offenses “arising in the land * * * forces.” As at present advised, I do not see what provision of the-constitution, or any statute or principle of the common law, can be invoked to prevent the arrest and trial of a person by court-martial, for a military offense, committed while such person was a soldier or officer of the army of the United States, after the expiration of his term of service, so that the order for the trial is issued within the time limited by the article of war. And so, in principle, it seems to have been held in the Case of Lord George Sackville, as reported by Tytler in his treatise on Courts-Martial. In that case it appeared that, as the de­fendant had been dismissed from his majesty’s service pre­viously to the commencement of the prosecution against him, it was doubted, under the mutiny act, whether he was sub­ject to the jurisdiction of the court; upon which, that ques­tion being referred to the twelve judges, they certified that, under the circumstances of the case, they saw no reason to doubt the jurisdiction of the court-martial. In Walker v. Morris, decided by Mr. Justice Wilde, of the supreme court of Massachusetts, with the concurrence of- his brother judges, and reported in the April number, for 1830, of the American Jurist, [3 Am.Jur. 281,] it was held that a seaman who had committed a naval offense, and had been arrested therefor on the day preceding the expiration of his term of service, might be detained for trial and punishment after the expiration of such term. In the course of the opinion, the learned judge cites the Case of Sackville, supra, with ap­proval, and upon the general question says: “It is true that a seaman is not bound to do service after the term of his enlistment. But within that term he is bound to observe the rules and regulations provided for the government of the navy, and is punishable for all crimes and offenses commit­ted in violation of them during his term of service. There is no limitation of time within which he is to be prosecuted and tried for such offenses; but if there were, it would be sufficient to show that the prosecution was commenced with­in the time of the limitation.”</p>
+                <p pgmap="53" id="b53-4">It is proper to note that there was an arrest and that charges were preferred in that case during the term of serv­ice, and that the conclusion reached was, therefore, irre­spective of the question, whether the seaman was liable to arrest and prosecution after his discharge from the service, for an offense committed prior thereto; but the above cita­tion from the opinion, as also the Case of Sackville, goes to sustain the jurisdiction of the naval authorities to arrest and try the offender, as well after the discharge from service as before.</p>
+                <p pgmap="53(43) 54(182)" id="b53-5">Neither is it absolutely necessary to decide that question in this case; for the fact is, the petitioner was arrested for the commission of two distinct military offenses, before the expiration of his term of enlistment, and so far as I can per­ceive, both are still pending and undisposed of. An arrest for the purpose of trial is a commencement of a prosecution, without reference to the time when a formal accusation may be preferred. The jurisdiction to try and punish attaches upon the arrest. It is true there has been a trial on both the accusations' in this case, but the proceedings having been set aside as being null and void, at the instance of, and for the benefit of the petitioner, are to be regarded, so far as this question is concerned, as if they had never taken place. It is also true that the highest military authority has directed that the petitioner be turned over to the proper civil author­ity for trial, upon the charge of murder; but this direction, as I understand it, only suspends the prosecution for the military offense, which may still be carried on to a final de­termination, by the issuing of an order from the proper au­thority convening a court-martial for that purpose, within two years from the commission of the offenses respectively.</p>
+                <p pgmap="54" id="b54-4">During this period, for aught that has been shown or oc­curs to me, the petitioner may be lawfully detained in the custody of the military authority for trial by court-martial, or delivery to the civil authorities under article of war 33, as under all the circumstances may be deemed expedient. If there is any unnecessary delay, error of conduct, or abuse of power, on the part of the subordinates charged with the conduct of the affair, the remedy is within the military de­partment, by appeal or petition to the higher authorities, and not without it. For the good of the service, the constitution and laws have entrusted this power to the military author­ity, as being necessary to maintain the discipline and efficien­cy of the army. The delays and mistakes which appear to have occurred in the disposition of the charges.against the petitioner, are common to like proceedings in all human tribunals. The petitioner voluntarily entered the army, and must submit to the necessary consequences of that act, and the relation created thereby.</p>
+                <p pgmap="54(65) 55(129)" id="b54-5">In this view of the matter, it is unnecessary to consider whether the petitioner is held in custody merely for the pur­pose of being turned over to the civil authority, or whether it is proposed to turn him over to the proper civil authority or not. For his conduct in these particulars, the respondent is only responsible to his military superiors, according to the military law. The order to deliver the petitioner to the civil authority may be countermanded to-morrow, and it would be the duty of the respondent to. act accordingly. No ap­plication has been or can be made for the delivery of the pe­titioner by, or on behalf of, the party injured by the commis­sion of the crime, as specially provided in article of war 33. His voice is hushed in the silence of the grave upon the dis­tant and unknown shore of Alaska. The delivery of the pe­titioner to the civil authorities must ultimately depend upon the fact of an application therefor, by some public officer or body entitled to prosecute for offenses against the particular civil society injured by the act of the petitioner.</p>
+                <p pgmap="55" id="b55-4">Upon deliberate reflection and consideration, I see no rea­son to question the authority of the respondent to detain the petitioner in custody, as a person amenable to military law upon the charge preferred at Alaska, in 1869, as well as the military offense of manslaughter, “to the prejudice of good order and discipline,” committed in the killing of Lieutenant Cowan.</p>
+                <p pgmap="55" id="b55-5">Let the petition be dismissed, and the petitioner remanded to the custody of the respondent.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="46" ORDERLABEL="34" TYPE="page">
+        <fptr FILEID="tiff_00023_1"/>
+        <fptr FILEID="jpg_00023_1"/>
+        <fptr FILEID="alto_00023_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_46.2" BETYPE="IDREF" FILEID="alto_00023_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="47" ORDERLABEL="35" TYPE="page">
+        <fptr FILEID="tiff_00024_0"/>
+        <fptr FILEID="jpg_00024_0"/>
+        <fptr FILEID="alto_00024_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_47.2" BETYPE="IDREF" FILEID="alto_00024_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="48" ORDERLABEL="36" TYPE="page">
+        <fptr FILEID="tiff_00024_1"/>
+        <fptr FILEID="jpg_00024_1"/>
+        <fptr FILEID="alto_00024_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_48.1" BETYPE="IDREF" FILEID="alto_00024_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="49" ORDERLABEL="37" TYPE="page">
+        <fptr FILEID="tiff_00025_0"/>
+        <fptr FILEID="jpg_00025_0"/>
+        <fptr FILEID="alto_00025_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_49.2" BETYPE="IDREF" FILEID="alto_00025_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="50" ORDERLABEL="38" TYPE="page">
+        <fptr FILEID="tiff_00025_1"/>
+        <fptr FILEID="jpg_00025_1"/>
+        <fptr FILEID="alto_00025_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_50.2" BETYPE="IDREF" FILEID="alto_00025_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="51" ORDERLABEL="39" TYPE="page">
+        <fptr FILEID="tiff_00026_0"/>
+        <fptr FILEID="jpg_00026_0"/>
+        <fptr FILEID="alto_00026_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_51.2" BETYPE="IDREF" FILEID="alto_00026_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="52" ORDERLABEL="40" TYPE="page">
+        <fptr FILEID="tiff_00026_1"/>
+        <fptr FILEID="jpg_00026_1"/>
+        <fptr FILEID="alto_00026_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_52.2" BETYPE="IDREF" FILEID="alto_00026_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="53" ORDERLABEL="41" TYPE="page">
+        <fptr FILEID="tiff_00027_0"/>
+        <fptr FILEID="jpg_00027_0"/>
+        <fptr FILEID="alto_00027_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_53.3" BETYPE="IDREF" FILEID="alto_00027_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="54" ORDERLABEL="42" TYPE="page">
+        <fptr FILEID="tiff_00027_1"/>
+        <fptr FILEID="jpg_00027_1"/>
+        <fptr FILEID="alto_00027_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_54.2" BETYPE="IDREF" FILEID="alto_00027_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="55" ORDERLABEL="43" TYPE="page">
+        <fptr FILEID="tiff_00028_0"/>
+        <fptr FILEID="jpg_00028_0"/>
+        <fptr FILEID="alto_00028_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_55.3" BETYPE="IDREF" FILEID="alto_00028_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-16" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.17" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.4" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b48-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_48.10" BETYPE="IDREF" FILEID="alto_00024_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b48-9" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_48.11" BETYPE="IDREF" FILEID="alto_00024_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-3" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.3" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b48-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_48.9" BETYPE="IDREF" FILEID="alto_00024_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.5" BETYPE="IDREF" FILEID="alto_00025_0"/>
+            <area BEGIN="BL_50.1" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.4" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.5" BETYPE="IDREF" FILEID="alto_00027_0"/>
+            <area BEGIN="BL_54.1" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.4" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-3" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.4" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.9" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-9" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.10" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.7" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.8" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.5" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.7" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.6" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.5" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.4" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.5" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.4" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.7" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.6" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.5" BETYPE="IDREF" FILEID="alto_00027_1"/>
+            <area BEGIN="BL_55.1" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.8" BETYPE="IDREF" FILEID="alto_00025_1"/>
+            <area BEGIN="BL_51.1" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.8" BETYPE="IDREF" FILEID="alto_00026_1"/>
+            <area BEGIN="BL_53.1" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.4" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.6" BETYPE="IDREF" FILEID="alto_00026_0"/>
+            <area BEGIN="BL_52.1" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b48-12" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_48.14" BETYPE="IDREF" FILEID="alto_00024_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.5" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b48-10" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_48.12" BETYPE="IDREF" FILEID="alto_00024_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b48-11" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_48.13" BETYPE="IDREF" FILEID="alto_00024_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

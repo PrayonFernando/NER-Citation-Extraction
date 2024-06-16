@@ -1,0 +1,1657 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0037" publicationstatus="published">
+          <court abbreviation="U.S." jurisdiction="United States">Supreme Court of the United States</court>
+          <name abbreviation="Ex parte Cooper">Ex parte COOPER</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 244</citation>
+          <citation category="parallel" type="bluebook">143 U.S. 472, 12 S.Ct. 453</citation>
+          <decisiondate>1892-02-29</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:21:59Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00128_1" MIMETYPE="image/tiff" CHECKSUM="fac71e9b4c4af6f10683e11fb17c7b01" CHECKSUMTYPE="MD5" SIZE="33618">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00128_1.tif"/>
+      </file>
+      <file ID="tiff_00129_0" MIMETYPE="image/tiff" CHECKSUM="fcb32e3fe8d84f06bf7cc7530debed29" CHECKSUMTYPE="MD5" SIZE="3490">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00129_0.tif"/>
+      </file>
+      <file ID="tiff_00129_1" MIMETYPE="image/tiff" CHECKSUM="fbc5d8f23f2fa71b3f12bbb5c28efeda" CHECKSUMTYPE="MD5" SIZE="4096">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00129_1.tif"/>
+      </file>
+      <file ID="tiff_00130_0" MIMETYPE="image/tiff" CHECKSUM="2ec35f06a8b4e07b82d63de50f7fead0" CHECKSUMTYPE="MD5" SIZE="4086">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00130_0.tif"/>
+      </file>
+      <file ID="tiff_00130_1" MIMETYPE="image/tiff" CHECKSUM="d76303bfd825488b04921e58572c0da1" CHECKSUMTYPE="MD5" SIZE="3746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00130_1.tif"/>
+      </file>
+      <file ID="tiff_00131_0" MIMETYPE="image/tiff" CHECKSUM="707cd3f8af3d93c581a3a59d5f08322e" CHECKSUMTYPE="MD5" SIZE="3858">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00131_0.tif"/>
+      </file>
+      <file ID="tiff_00131_1" MIMETYPE="image/tiff" CHECKSUM="448e5a750138ac295540e3aef33dcb83" CHECKSUMTYPE="MD5" SIZE="3802">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00131_1.tif"/>
+      </file>
+      <file ID="tiff_00132_0" MIMETYPE="image/tiff" CHECKSUM="7bfba6a9e61614953c51e276cec83d44" CHECKSUMTYPE="MD5" SIZE="3338">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00132_0.tif"/>
+      </file>
+      <file ID="tiff_00132_1" MIMETYPE="image/tiff" CHECKSUM="ce607af3f71306f4d96b72889c96609d" CHECKSUMTYPE="MD5" SIZE="4112">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00132_1.tif"/>
+      </file>
+      <file ID="tiff_00133_0" MIMETYPE="image/tiff" CHECKSUM="ee6f04fd17a06dd1d43e08aaa8f9f032" CHECKSUMTYPE="MD5" SIZE="4046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00133_0.tif"/>
+      </file>
+      <file ID="tiff_00133_1" MIMETYPE="image/tiff" CHECKSUM="e861e95ea5f8e0b21ee3f2baa2b39eba" CHECKSUMTYPE="MD5" SIZE="3800">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00133_1.tif"/>
+      </file>
+      <file ID="tiff_00134_0" MIMETYPE="image/tiff" CHECKSUM="f811c8d8dd6fe87a76ced4e310bebf4d" CHECKSUMTYPE="MD5" SIZE="3224">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00134_0.tif"/>
+      </file>
+      <file ID="tiff_00134_1" MIMETYPE="image/tiff" CHECKSUM="0e5024a6a4dd9a95c839f57a9c7c303a" CHECKSUMTYPE="MD5" SIZE="4192">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00134_1.tif"/>
+      </file>
+      <file ID="tiff_00135_0" MIMETYPE="image/tiff" CHECKSUM="8922aa5637787f8dbedecc542b8c8457" CHECKSUMTYPE="MD5" SIZE="35054">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00135_0.tif"/>
+      </file>
+      <file ID="tiff_00135_1" MIMETYPE="image/tiff" CHECKSUM="e74a240736a34b5955be7f583bf5ebbf" CHECKSUMTYPE="MD5" SIZE="51672">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00135_1.tif"/>
+      </file>
+      <file ID="tiff_00136_0" MIMETYPE="image/tiff" CHECKSUM="1a6e121400eb3f18179c0af1e3a0f2a5" CHECKSUMTYPE="MD5" SIZE="52600">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00136_0.tif"/>
+      </file>
+      <file ID="tiff_00136_1" MIMETYPE="image/tiff" CHECKSUM="b932ae8abead943b2fb99000795cb6df" CHECKSUMTYPE="MD5" SIZE="52964">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00136_1.tif"/>
+      </file>
+      <file ID="tiff_00137_0" MIMETYPE="image/tiff" CHECKSUM="82676572aa2f8cbc5646a0aaeb73aa73" CHECKSUMTYPE="MD5" SIZE="50350">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00137_0.tif"/>
+      </file>
+      <file ID="tiff_00137_1" MIMETYPE="image/tiff" CHECKSUM="ff9d9f07b738815dfa440a1bb58f6a04" CHECKSUMTYPE="MD5" SIZE="53218">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00137_1.tif"/>
+      </file>
+      <file ID="tiff_00138_0" MIMETYPE="image/tiff" CHECKSUM="a0499a0c1099eaaae3646aa8f2d98a3c" CHECKSUMTYPE="MD5" SIZE="52920">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00138_0.tif"/>
+      </file>
+      <file ID="tiff_00138_1" MIMETYPE="image/tiff" CHECKSUM="8f80084eaaff2503151d37e1c217a741" CHECKSUMTYPE="MD5" SIZE="54304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00138_1.tif"/>
+      </file>
+      <file ID="tiff_00139_0" MIMETYPE="image/tiff" CHECKSUM="90b16fe6f5063f1b7f4153f4ba7a9512" CHECKSUMTYPE="MD5" SIZE="52634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00139_0.tif"/>
+      </file>
+      <file ID="tiff_00139_1" MIMETYPE="image/tiff" CHECKSUM="3dc2a19d35353ff5f5ad4c7616105a0f" CHECKSUMTYPE="MD5" SIZE="53404">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00139_1.tif"/>
+      </file>
+      <file ID="tiff_00140_0" MIMETYPE="image/tiff" CHECKSUM="328b902142b0d21c6d84ada3faf5293b" CHECKSUMTYPE="MD5" SIZE="49926">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00140_0.tif"/>
+      </file>
+      <file ID="tiff_00140_1" MIMETYPE="image/tiff" CHECKSUM="a625acebdaa9b62c741404128858d0d0" CHECKSUMTYPE="MD5" SIZE="54272">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00140_1.tif"/>
+      </file>
+      <file ID="tiff_00141_0" MIMETYPE="image/tiff" CHECKSUM="ff4a0de7dc1cc771d50427f3f47a8a12" CHECKSUMTYPE="MD5" SIZE="52948">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00141_0.tif"/>
+      </file>
+      <file ID="tiff_00141_1" MIMETYPE="image/tiff" CHECKSUM="533126f5456edeee0a0672e536be5191" CHECKSUMTYPE="MD5" SIZE="51322">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00141_1.tif"/>
+      </file>
+      <file ID="tiff_00142_0" MIMETYPE="image/tiff" CHECKSUM="2168fb0451d0077c5ad38dee9a63742f" CHECKSUMTYPE="MD5" SIZE="53940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00142_0.tif"/>
+      </file>
+      <file ID="tiff_00142_1" MIMETYPE="image/tiff" CHECKSUM="3f41085f449d690608ed8d8b25ef305d" CHECKSUMTYPE="MD5" SIZE="51652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00142_1.tif"/>
+      </file>
+      <file ID="tiff_00143_0" MIMETYPE="image/tiff" CHECKSUM="440106834429257bc00425b7777b131f" CHECKSUMTYPE="MD5" SIZE="54446">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00143_0.tif"/>
+      </file>
+      <file ID="tiff_00143_1" MIMETYPE="image/tiff" CHECKSUM="967051295f2418b0d0f8107d8be48c71" CHECKSUMTYPE="MD5" SIZE="53378">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00143_1.tif"/>
+      </file>
+      <file ID="tiff_00144_0" MIMETYPE="image/tiff" CHECKSUM="90a0f75ca1f00839e0a6329e3e161b13" CHECKSUMTYPE="MD5" SIZE="49194">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00144_0.tif"/>
+      </file>
+      <file ID="tiff_00144_1" MIMETYPE="image/tiff" CHECKSUM="c71253adb14b3b7f877de92c3fe34a59" CHECKSUMTYPE="MD5" SIZE="26496">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00144_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00128_1" MIMETYPE="image/jpg" CHECKSUM="123199a30b75980f36b4b4978945a97f" CHECKSUMTYPE="MD5" SIZE="157191">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00128_1.jpg"/>
+      </file>
+      <file ID="jpg_00129_0" MIMETYPE="image/jpg" CHECKSUM="21c3ddb6fbcda6cc80bf5228f459c19a" CHECKSUMTYPE="MD5" SIZE="53260">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00129_0.jpg"/>
+      </file>
+      <file ID="jpg_00129_1" MIMETYPE="image/jpg" CHECKSUM="91f3116907534a039744d74815b74e3e" CHECKSUMTYPE="MD5" SIZE="47995">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00129_1.jpg"/>
+      </file>
+      <file ID="jpg_00130_0" MIMETYPE="image/jpg" CHECKSUM="9159074cee3e6993eb192e5abf0e817a" CHECKSUMTYPE="MD5" SIZE="48623">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00130_0.jpg"/>
+      </file>
+      <file ID="jpg_00130_1" MIMETYPE="image/jpg" CHECKSUM="1acb71cfa07bd2e30eb2d360c9325ec2" CHECKSUMTYPE="MD5" SIZE="54937">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00130_1.jpg"/>
+      </file>
+      <file ID="jpg_00131_0" MIMETYPE="image/jpg" CHECKSUM="7fcd5514c10ec03e9d7d850336bbf02b" CHECKSUMTYPE="MD5" SIZE="52422">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00131_0.jpg"/>
+      </file>
+      <file ID="jpg_00131_1" MIMETYPE="image/jpg" CHECKSUM="1f82c4e8624ea3aa28bfe36629b27a39" CHECKSUMTYPE="MD5" SIZE="54078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00131_1.jpg"/>
+      </file>
+      <file ID="jpg_00132_0" MIMETYPE="image/jpg" CHECKSUM="da2c3ac44664c0a50f7c9c80ec0b525b" CHECKSUMTYPE="MD5" SIZE="50747">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00132_0.jpg"/>
+      </file>
+      <file ID="jpg_00132_1" MIMETYPE="image/jpg" CHECKSUM="768c34d8b731425a495fdac38cc09149" CHECKSUMTYPE="MD5" SIZE="56204">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00132_1.jpg"/>
+      </file>
+      <file ID="jpg_00133_0" MIMETYPE="image/jpg" CHECKSUM="6e56c686269dff0e2ce058c1521b637f" CHECKSUMTYPE="MD5" SIZE="45784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00133_0.jpg"/>
+      </file>
+      <file ID="jpg_00133_1" MIMETYPE="image/jpg" CHECKSUM="92b562c7da60b6d184c5e2f9a3a853e6" CHECKSUMTYPE="MD5" SIZE="51896">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00133_1.jpg"/>
+      </file>
+      <file ID="jpg_00134_0" MIMETYPE="image/jpg" CHECKSUM="ae78a2ff786dbbc1f1eca008fa3ba211" CHECKSUMTYPE="MD5" SIZE="45923">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00134_0.jpg"/>
+      </file>
+      <file ID="jpg_00134_1" MIMETYPE="image/jpg" CHECKSUM="1b7b75d4427af64be879db8800991556" CHECKSUMTYPE="MD5" SIZE="55492">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00134_1.jpg"/>
+      </file>
+      <file ID="jpg_00135_0" MIMETYPE="image/jpg" CHECKSUM="53011b2880a57dd071a77e788df34380" CHECKSUMTYPE="MD5" SIZE="145855">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00135_0.jpg"/>
+      </file>
+      <file ID="jpg_00135_1" MIMETYPE="image/jpg" CHECKSUM="0a95923150bcf9861a9d1a2799d942e5" CHECKSUMTYPE="MD5" SIZE="196273">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00135_1.jpg"/>
+      </file>
+      <file ID="jpg_00136_0" MIMETYPE="image/jpg" CHECKSUM="415873b7ccae0856b2f2757ac9f9ab5f" CHECKSUMTYPE="MD5" SIZE="188549">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00136_0.jpg"/>
+      </file>
+      <file ID="jpg_00136_1" MIMETYPE="image/jpg" CHECKSUM="0bec83d357773fa01a0ffa6d8f0dff41" CHECKSUMTYPE="MD5" SIZE="208792">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00136_1.jpg"/>
+      </file>
+      <file ID="jpg_00137_0" MIMETYPE="image/jpg" CHECKSUM="16ee79a367488fa4763933cfbaed7fc1" CHECKSUMTYPE="MD5" SIZE="190013">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00137_0.jpg"/>
+      </file>
+      <file ID="jpg_00137_1" MIMETYPE="image/jpg" CHECKSUM="6986ff61f29527df21b851f40dd8457a" CHECKSUMTYPE="MD5" SIZE="198956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00137_1.jpg"/>
+      </file>
+      <file ID="jpg_00138_0" MIMETYPE="image/jpg" CHECKSUM="d06e037aceb05f7cd4daa7a97662950c" CHECKSUMTYPE="MD5" SIZE="186107">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00138_0.jpg"/>
+      </file>
+      <file ID="jpg_00138_1" MIMETYPE="image/jpg" CHECKSUM="e8672b3bfa5452f4c2c51f69a4eb2603" CHECKSUMTYPE="MD5" SIZE="212144">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00138_1.jpg"/>
+      </file>
+      <file ID="jpg_00139_0" MIMETYPE="image/jpg" CHECKSUM="bf128d7f6e995ace0f612cd7edff4c1b" CHECKSUMTYPE="MD5" SIZE="197485">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00139_0.jpg"/>
+      </file>
+      <file ID="jpg_00139_1" MIMETYPE="image/jpg" CHECKSUM="4c280181774c9d78432331e768818ad5" CHECKSUMTYPE="MD5" SIZE="200464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00139_1.jpg"/>
+      </file>
+      <file ID="jpg_00140_0" MIMETYPE="image/jpg" CHECKSUM="66e7b84f7520c835ccf3076e761ccfdd" CHECKSUMTYPE="MD5" SIZE="179239">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00140_0.jpg"/>
+      </file>
+      <file ID="jpg_00140_1" MIMETYPE="image/jpg" CHECKSUM="6c46cacc66fea26a56638918764d7515" CHECKSUMTYPE="MD5" SIZE="211453">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00140_1.jpg"/>
+      </file>
+      <file ID="jpg_00141_0" MIMETYPE="image/jpg" CHECKSUM="da0a6486bbf8d7406f5a2f1384e868d8" CHECKSUMTYPE="MD5" SIZE="195692">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00141_0.jpg"/>
+      </file>
+      <file ID="jpg_00141_1" MIMETYPE="image/jpg" CHECKSUM="f139356b2c5e23c1a2366f8ec3a6e98b" CHECKSUMTYPE="MD5" SIZE="193051">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00141_1.jpg"/>
+      </file>
+      <file ID="jpg_00142_0" MIMETYPE="image/jpg" CHECKSUM="fad31dfe66b5ba5632848758283af397" CHECKSUMTYPE="MD5" SIZE="189756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00142_0.jpg"/>
+      </file>
+      <file ID="jpg_00142_1" MIMETYPE="image/jpg" CHECKSUM="bb030e83deb89d287943cdeeedc7994c" CHECKSUMTYPE="MD5" SIZE="205454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00142_1.jpg"/>
+      </file>
+      <file ID="jpg_00143_0" MIMETYPE="image/jpg" CHECKSUM="46d75f168c45b5808fc76d969f277da3" CHECKSUMTYPE="MD5" SIZE="199027">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00143_0.jpg"/>
+      </file>
+      <file ID="jpg_00143_1" MIMETYPE="image/jpg" CHECKSUM="e3701ff3375e66d6743a7df5a9d933a8" CHECKSUMTYPE="MD5" SIZE="203870">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00143_1.jpg"/>
+      </file>
+      <file ID="jpg_00144_0" MIMETYPE="image/jpg" CHECKSUM="d6a379daa851126f8758a8edb7430745" CHECKSUMTYPE="MD5" SIZE="182148">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00144_0.jpg"/>
+      </file>
+      <file ID="jpg_00144_1" MIMETYPE="image/jpg" CHECKSUM="4a2e0b1690babb7646e57241560d62f6" CHECKSUMTYPE="MD5" SIZE="137359">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00144_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00128_1" MIMETYPE="text/xml+gzip" CHECKSUM="7a633d62795599deb64beacf20dd673d" CHECKSUMTYPE="MD5" SIZE="8456">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00128_1.xml.gz"/>
+      </file>
+      <file ID="alto_00129_0" MIMETYPE="text/xml+gzip" CHECKSUM="829d0433c917ea66d167f21ccbbcd8cb" CHECKSUMTYPE="MD5" SIZE="921">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00129_0.xml.gz"/>
+      </file>
+      <file ID="alto_00129_1" MIMETYPE="text/xml+gzip" CHECKSUM="19a7517e173a9afb7bd649af06b5e502" CHECKSUMTYPE="MD5" SIZE="919">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00129_1.xml.gz"/>
+      </file>
+      <file ID="alto_00130_0" MIMETYPE="text/xml+gzip" CHECKSUM="da9062e4c81f91ba570fdf7d5e673e4b" CHECKSUMTYPE="MD5" SIZE="919">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00130_0.xml.gz"/>
+      </file>
+      <file ID="alto_00130_1" MIMETYPE="text/xml+gzip" CHECKSUM="9a3d16875b741ece79a6320850e7f0ec" CHECKSUMTYPE="MD5" SIZE="879">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00130_1.xml.gz"/>
+      </file>
+      <file ID="alto_00131_0" MIMETYPE="text/xml+gzip" CHECKSUM="ebc5acb45747e403840288aff6f22cb5" CHECKSUMTYPE="MD5" SIZE="922">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00131_0.xml.gz"/>
+      </file>
+      <file ID="alto_00131_1" MIMETYPE="text/xml+gzip" CHECKSUM="5cd5f7bf043cc4d91721741ddc5a67c2" CHECKSUMTYPE="MD5" SIZE="879">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00131_1.xml.gz"/>
+      </file>
+      <file ID="alto_00132_0" MIMETYPE="text/xml+gzip" CHECKSUM="24b889f4e31d71545026419b92056324" CHECKSUMTYPE="MD5" SIZE="882">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00132_0.xml.gz"/>
+      </file>
+      <file ID="alto_00132_1" MIMETYPE="text/xml+gzip" CHECKSUM="278cdfb9cfc6a1cbe4b26554d6b8725e" CHECKSUMTYPE="MD5" SIZE="922">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00132_1.xml.gz"/>
+      </file>
+      <file ID="alto_00133_0" MIMETYPE="text/xml+gzip" CHECKSUM="7df90e6fdc38e0dee4ccfbf52975a58b" CHECKSUMTYPE="MD5" SIZE="917">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00133_0.xml.gz"/>
+      </file>
+      <file ID="alto_00133_1" MIMETYPE="text/xml+gzip" CHECKSUM="951b3ec3b08ced59d7509ed90d39699f" CHECKSUMTYPE="MD5" SIZE="878">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00133_1.xml.gz"/>
+      </file>
+      <file ID="alto_00134_0" MIMETYPE="text/xml+gzip" CHECKSUM="2cb2e50ce39295de7252929db6876a6d" CHECKSUMTYPE="MD5" SIZE="885">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00134_0.xml.gz"/>
+      </file>
+      <file ID="alto_00134_1" MIMETYPE="text/xml+gzip" CHECKSUM="dca9f73e805f19ef0f55beaa453d1682" CHECKSUMTYPE="MD5" SIZE="925">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00134_1.xml.gz"/>
+      </file>
+      <file ID="alto_00135_0" MIMETYPE="text/xml+gzip" CHECKSUM="1689d79c768644640f956848338c065b" CHECKSUMTYPE="MD5" SIZE="8446">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00135_0.xml.gz"/>
+      </file>
+      <file ID="alto_00135_1" MIMETYPE="text/xml+gzip" CHECKSUM="515772e35b3a94b7e9b4e5f7e7f15c0f" CHECKSUMTYPE="MD5" SIZE="12870">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00135_1.xml.gz"/>
+      </file>
+      <file ID="alto_00136_0" MIMETYPE="text/xml+gzip" CHECKSUM="22fdfe2caf55946f88040d8f2b09fe95" CHECKSUMTYPE="MD5" SIZE="12060">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00136_0.xml.gz"/>
+      </file>
+      <file ID="alto_00136_1" MIMETYPE="text/xml+gzip" CHECKSUM="0731d7b1fce1f6f1773d962f084d28f6" CHECKSUMTYPE="MD5" SIZE="12711">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00136_1.xml.gz"/>
+      </file>
+      <file ID="alto_00137_0" MIMETYPE="text/xml+gzip" CHECKSUM="9d78fe88f6bcfe0e1018184dbb62d987" CHECKSUMTYPE="MD5" SIZE="11867">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00137_0.xml.gz"/>
+      </file>
+      <file ID="alto_00137_1" MIMETYPE="text/xml+gzip" CHECKSUM="b880343ee44046b78bddc0d5c74668cf" CHECKSUMTYPE="MD5" SIZE="12644">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00137_1.xml.gz"/>
+      </file>
+      <file ID="alto_00138_0" MIMETYPE="text/xml+gzip" CHECKSUM="dcbcf0ea324771e2a3b805e97454d715" CHECKSUMTYPE="MD5" SIZE="12992">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00138_0.xml.gz"/>
+      </file>
+      <file ID="alto_00138_1" MIMETYPE="text/xml+gzip" CHECKSUM="6c44792964109f8712f784be7c7a41fb" CHECKSUMTYPE="MD5" SIZE="12758">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00138_1.xml.gz"/>
+      </file>
+      <file ID="alto_00139_0" MIMETYPE="text/xml+gzip" CHECKSUM="46507e5865a2e6221c0cc00ffafbd52c" CHECKSUMTYPE="MD5" SIZE="12782">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00139_0.xml.gz"/>
+      </file>
+      <file ID="alto_00139_1" MIMETYPE="text/xml+gzip" CHECKSUM="17c484e2abb5e636adbdacaf2cd4b952" CHECKSUMTYPE="MD5" SIZE="13095">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00139_1.xml.gz"/>
+      </file>
+      <file ID="alto_00140_0" MIMETYPE="text/xml+gzip" CHECKSUM="069d819b3afdcfe0f1a1f826bb755b6c" CHECKSUMTYPE="MD5" SIZE="12060">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00140_0.xml.gz"/>
+      </file>
+      <file ID="alto_00140_1" MIMETYPE="text/xml+gzip" CHECKSUM="219d10f9ba3bf537266c6b982e409a99" CHECKSUMTYPE="MD5" SIZE="13250">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00140_1.xml.gz"/>
+      </file>
+      <file ID="alto_00141_0" MIMETYPE="text/xml+gzip" CHECKSUM="7ede47afda528fc97dc4440d18b178da" CHECKSUMTYPE="MD5" SIZE="12828">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00141_0.xml.gz"/>
+      </file>
+      <file ID="alto_00141_1" MIMETYPE="text/xml+gzip" CHECKSUM="d46b7192f35b387f0f51f5e105157634" CHECKSUMTYPE="MD5" SIZE="12808">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00141_1.xml.gz"/>
+      </file>
+      <file ID="alto_00142_0" MIMETYPE="text/xml+gzip" CHECKSUM="d4716f78e5919a3d4d3c8704e114c81c" CHECKSUMTYPE="MD5" SIZE="12853">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00142_0.xml.gz"/>
+      </file>
+      <file ID="alto_00142_1" MIMETYPE="text/xml+gzip" CHECKSUM="227c056c5a0051b7beb41ef429fb1030" CHECKSUMTYPE="MD5" SIZE="12690">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00142_1.xml.gz"/>
+      </file>
+      <file ID="alto_00143_0" MIMETYPE="text/xml+gzip" CHECKSUM="a0970b04abfec544f96d8a0d841d00ea" CHECKSUMTYPE="MD5" SIZE="13214">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00143_0.xml.gz"/>
+      </file>
+      <file ID="alto_00143_1" MIMETYPE="text/xml+gzip" CHECKSUM="57617065eaa7faa9def83ee4d5acbb61" CHECKSUMTYPE="MD5" SIZE="12801">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00143_1.xml.gz"/>
+      </file>
+      <file ID="alto_00144_0" MIMETYPE="text/xml+gzip" CHECKSUM="7102d6cfa5c7db2571faa03c9b1e90cb" CHECKSUMTYPE="MD5" SIZE="12116">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00144_0.xml.gz"/>
+      </file>
+      <file ID="alto_00144_1" MIMETYPE="text/xml+gzip" CHECKSUM="8e71e15a44ae01c2facce5d538469716" CHECKSUMTYPE="MD5" SIZE="6744">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00144_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0037" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="244" lastpage="276">
+              <court pgmap="256" id="b256-6">Supreme Court of the United States.</court>
+              <citation pgmap="256" id="b256-4">143 U.S. 472, 12 S.Ct. 453</citation>
+              <parties pgmap="256" id="b256-5">Ex parte COOPER.</parties>
+              <decisiondate pgmap="256" id="b256-7">Feb. 29, 1892.</decisiondate>
+              <judges pgmap="288" id="b288-5">Mr. Justice Field dissented.</judges>
+              <attorneys pgmap="269" id="b269-4">Calderon Carlisle and Joseph H. Choate, for petitioner.</attorneys>
+              <attorneys pgmap="269" id="b269-5">Atty. Gen. Miller and Sol. Gen. Taft, for respondent.</attorneys>
+              <opinion type="majority">
+                <author pgmap="269" id="b269-6">Mr. Chief Justice Fuller,</author>
+                <p pgmap="269" id="AE">after stating the facts in the foregoing language, delivered the opinion of the court.</p>
+                <p pgmap="269" id="b269-7">By section 1 of the act of congress of May 17, 1884, entitled “An act providing a civil government for Alaska,” (23 St. p. 24), it is provided “that the territory ceded to the United States by Russia by the treaty of March thir­tieth, eighteen hundred and sixty-seven, and known as ‘Alaska,’ shall constitute a civil and judicial district, the government of which shall be organized and administered as hereinafter provided. The temporary seat of govern­ment of said district is hereby established at Sitka.”</p>
+                <p pgmap="269" id="b269-8">The first part of section 3 is as follows:</p>
+                <blockquote pgmap="269" id="b269-9">“That there shall be, and hereby is, established a dis­trict court for said district, with the civil and criminal ju­risdiction of district courts of the United States, and the civil and criminal jurisdiction of district courts of the United States exercising the jurisdiction of circuit courts, and such other 'jurisdiction, not inconsistent with this act, as may be established by law.”</blockquote>
+                <p pgmap="269" id="b269-10">Under this section the court thus established acquired all the admiralty jurisdiction within the district of Alaska be­longing to district courts of the United States. The City of Panama, 101 U.S. 453.</p>
+                <p pgmap="269(20) 270(168)" id="b269-11">Section 688, Rev.St. (28 U.S.C.A. § 342 and note), pro­vides : “The supreme court shall have power to issue writs of prohibition to the district courts, when proceeding as courts'of admiralty and maritime jurisdiction.” And although we were of opinion when the application for the rule was made, and subsequently held, (McAllister v. U. S., 141 U.S. 174, 11 S.Ct. 949), that the district court for Alaska was not one of the courts mentioned in article 3 of the constitution, declaring that the judicial power of the United States shall be.vested in one supreme court, and in such inferior courts as congress shall from time to time establish, we nevertheless concluded that where the dis­trict court of Alaska was acting as a district court of the United States, and, as such, proceeding in admiralty, it came within that section, and this court had power to issue the writ of prohibition to that court in a proper case; and, as the questions involved could be, in our judgment, more satisfactorily presented upon a return, we granted the rule. In re Cooper, 138 U.S. 404, 11 S.Ct. 289,</p>
+                <p pgmap="270" id="b270-5">The writ thus provided for by section 688 is the com­mon-law writ, which lies to a court of admiralty only when that court is acting in excess of, or is taking cognizance of matters not arising within, its jurisdiction. Its office is to prevent an unlawful assumption of jurisdiction, and not to correct mere errors and irregularities. Ex parte Gordon, 104 U.S. 515; Ex parte Ferry Co., 104 U.S. 519.</p>
+                <p pgmap="270" id="b270-6">Whether the granting or refusal of the writ is discre­tionary or demandable of right has been much debated.</p>
+                <p pgmap="270" id="b270-7">As remarked by Mr. Justice Gray, in Smith v. Whitney, 116 U.S. 167, 173, 6 S.Ct. 570, it may be said to be dis­cretionary “where there is another legal remedy, by appeal or otherwise, or where the question of the jurisdiction of the court whose action is sought to be prohibited is doubt­ful, or depends on facts which are not made matter of rec­ord, or where a stranger, as he may in England, applies for the writ of prohibition. But where that court has clear­ly no jurisdiction of the suit or prosecution instituted be­fore it, and the defendant therein has objected to its juris­diction at the outset, and has no other remedy, he is en­titled to a writ of prohibition as a matter of right; and a refusal to grant it, where all the proceedings appear of rec­ord, may be reviewed on error.”</p>
+                <p pgmap="271" id="b271-3">But it is clear upon reason and authority that where the case has gone to sentence, and the want of jurisdiction does not appear upon the face of the proceedings, the granting of the writ, which even if of right is not of course^ is not obligatory upon the court, and the party applying may be precluded by acquiescence from obtaining it.</p>
+                <p pgmap="271" id="b271-4">Section 14 of the act of May 17, 1884, provided: “That the provisions of chapter three, title twenty-three, of the Revised Statutes of the United States, relating to the un­organized territory of Alaska, shall remain in full force, except as herein specially otherwise provided.” Chapter 3 of title 23 of the Revised Statutes is entitled “Provisions Relating to the Unorganized Territory of Alaska,” and be­gins with section 1954, which is as follows: “The laws of the United States relating to customs, commerce, and navi­gation are extended to and over all the main-land, islands, and waters of the territory ceded to the United States by the emperor of Russia by treaty concluded at Washington on the thirtieth day of March, Anno Domini eighteen hun­dred and sixty-seven, so far as the same may be applicable thereto.”</p>
+                <p pgmap="271" id="b271-5">By the treaty of March 30, 1867, (15 St. p. 539), the emperior of Russia ceded to the United States “all the ter­ritory and dominion now possessed by his said majesty on the continent of America and in the adjacent islands, the same being contained within the geographical limits herein set forth, to-wit: The eastern limit is the line of demarka­tion between the Russian and the British possessions in North America, as established by the convention between Russia and Great Britain of February 28-16, 1825, de­scribed in articles 3 and 4 of said convention, in the fol­lowing terms: [Here follows the description of the eastern limit as given in the convention referred to].</p>
+                <blockquote pgmap="271(70) 272(115)" id="b271-6">“The western limit within which the territories and dominion conveyed are contained, passes through a point in Behring’s straits on the parallel of sixty-five degrees thirty minutes north latitude, at its intersection by the meridian which passes midway between the islands of Krusenstern, or Ignalook, and the island of Ratmanoff, or Noonarbook, and proceeds due north, without limitation, into the same Frozen Ocean. The same western limit, beginning at the same initial point, proceeds thence in a course nearly south­west through Behring’s straits and Behring’s sea, so as to pass midway between the north-west point of the island of St. Lawrence and the south-east point of Cape Choukotski, to the meridian of one hundred and seventy-two west longi­tude; thence, from the intersection of that meridian, in a south-westerly direction, so as to pass midway between the island of Attou and the Copper island of the Kormandorski couplet or group in the North Pacific ocean, to the meridian of one hundred and ninety-three degrees west longitude, so as to include in the territory conveyed the whole of the Aleutian islands east of that meridian.”</blockquote>
+                <p pgmap="272" id="b272-3">Section 1956, tit. 23, c. 3, Rev.St. (16 U.S.C.A. § 644 note), reads thus:</p>
+                <blockquote pgmap="272" id="b272-4">“No person shall kill any otter, mink, marten, sable, or fur seal, or other fur-bearing animal within the limits of Alaska territory, or in the waters thereof; - and every per­son guilty thereof shall, for each offense, be fined not less than two hundred nor more than one thousand dollars, or imprisoned not more than six months, or both; and all vessels, their tackle, apparel, furniture, and cargo, found engaged in violation of this section shall be forfeited; but the secretary of the treasury shall have power to authorize the killing of any such mink, marten, sable, or other fur-­bearing animal, except fur seals, under such regulation as he may prescribe, and it shall be the duty of the secretary to prevent the killing of any fur seal, and to provide for the execution of the provisions of this section until it is other­wise provided by law; nor shall he grant any special privi­leges under this section.”</blockquote>
+                <p pgmap="272" id="b272-5">Section 3 of the act of March 2, 1889, (25 St. p. 1009), is as follows:</p>
+                <blockquote pgmap="272(98) 273(56)" id="b272-6">“That section nineteen hundred and fifty-six of the Re­vised Statutes of the United States is hereby declared to include and to apply to all the dominion- of the United States in the waters of Behring sea; and it shall be the duty of the president, at a timely season in each year, to is­sue his proclamation, and cause the same to be published for one month in at least one newspaper, if any such there be, published at each United States port of entry on the Pacific coast, warning all persons against entering said waters for the purpose of violating the provisions of said section; and he shall also cause one or more vessels of the United States to diligently cruise said waters and arrest all per­sons, and seize all vessels found to be, or to have been, en­gaged in any violation of the laws of the United States therein.”</blockquote>
+                <p pgmap="273" id="b273-4">Section 734, Rev.St. (28 U.S.C.A. § 106 and note), is as follows:</p>
+                <blockquote pgmap="273" id="b273-5">“Proceedings on seizures, for forfeiture under “any law of the United States, made on the high seas, may be prose­cuted in any district into which the property so seized is brought and proceedings instituted. Proceedings on such seizures made within any district shall be prosecuted in the district where the seizure is made,' except in cases where it is otherwise provided.”</blockquote>
+                <p pgmap="273" id="b273-6">Under section 563 (see 28 U.S.C.A. § 41) the district courts have exclusive jurisdiction over forfeitures and seizures on navigable waters, and on land and on waters not within admiralty and maritime jurisdiction. The district court of Alaska had jurisdiction in admiralty, therefore, to forfeit vessels for violation of section 1956 (16 U.S.C.A. § 644 note) on any of the navigable waters within the dominion of the United States acquired by the treaty of March 30, 1867.</p>
+                <p pgmap="273(175) 274(59)" id="b273-7">The contention on behalf of the petitioner is that it ap­pears from the record that the schooner Sayward was forcibly arrested by the United States on the high seas 59 miles from shore, and forcibly taken within the limits of the district of Alaska, and subjected to condemnation and forfeiture in the Alaska district court for the violation of section 1956 of the Revised Statutes of the United States, by its master and seamen and seal hunters under him, in killing fur seal at the place of seizure; and that the court was absolutely destitute of jurisdiction, because by the rec­ognized principles of international law the territorial wa­ters of each nation and its municipal jurisdiction on the high seas are limited to three miles or a marine, league from shore. And it is insisted that when congress, in section 1956, speaks of “Alaska Territory” and “the waters there­of,” it could only mean, so far as. the sea was concerned, three miles or a marine league from the shore of the con­tinent, or from the shores of one of the adjacent islands, and that the act of March 2, 1889, does not in any way en­large the effect of section 1956, because “the dominion of the United States in the waters of Behring sea” is limited by the law of nations to the distance from the shore above mentioned.</p>
+                <p pgmap="274" id="b274-4">If we assume that the record shows the locality of the al­leged offense and seizure as stated, it also shows that offi­cers of the United States, acting under the orders of their government, seized this vessel engaged in catching seal and took her into the nearest port; and that the law officers of the government libeled her and proceeded against her for the violation of the laws of the United States in the district court, resulting in her condemnation.</p>
+                <p pgmap="274" id="b274-5">How did it happen that the officers received such orders ? It must be admitted that they were given in the assertion on the part of this government of territorial jurisdiction over Behring sea to an extent exceeding 59 miles from the shores of Alaska; that this territorial jurisdiction, in the enforcement of the laws protecting seal fisheries, was asserted by actual seizures during the seasons of 1886, 1887, and 1889 of a number of British vessels; that the government persistently maintains that such jurisdiction be­longs to it, based not only on the peculiar nature of the seal fisheries and the property of the government in them, but also upon the position that this jurisdiction was assert­ed by Russia for more than 90 years, and by that govern­ment transferred to the United States; and that negotia­tions are pending upon the subject.</p>
+                <p pgmap="274(122) 275(59)" id="b274-6">While it is conceded that in matters committed by the constitution and laws of the United States either to con­gress or to the executive, or to both, courts are clearly bound by the action of congress or the executive, or both, within the limits of the authority conferred by the con­stitution and laws, yet it is insisted that congress and the executive, constituting the political departments of the gov­ernment, having before them the question “of the extent of the dominion of the United States in the Behring sea,” which they could doubtless by conjoint action determine so as to bind the courts, have chosen neither to determine that extent nor to make any provision of law by which it devolved on the executive to determine it, and that, there­fore, it is the duty of this court in the case at bar, involving legality of the seizure and condemnation of a foreign vessel, alleged to be in violation of the law of nations and without warrant of any law of the United States, to de­termine the question.</p>
+                <p pgmap="275" id="b275-4">Assuming that the executive alone can speak so as to bind our courts in respect of the sovereignty of foreign ter­ritory, the changes in foreign governments, the existence civil war in foreign countries, and the character of a foreign minister, counsel nevertheless confidently assert “that, without the clear authority of the law of congress, the executive can never, by determining a so-called political question, or by construing an act of congress or a treaty, conclude the rights of persons or property under the protec­tion of the constitution and laws of the United States, or conclude the courts of the United States in a determina­tion of these rights;” and Little v. Barreme, 2 Cranch, 170, 177, and U. S. v. Rauscher, 119 U.S. 407, 418, 7 S. Ct. 234, are cited.</p>
+                <p pgmap="275" id="b275-5">In Little v. Barreme, the legality of the seizure of a French vessel, coming from a French port, on the high seas, by the orders of the president, purporting to be is­sued under an act of congress authorizing the seizure of vessels bound to a French port, but not those coming from a French port, was involved; and Mr.' Chief Justice Mar­shall, delivering the opinion of the court, said:</p>
+                <blockquote pgmap="275(144) 276(113)" id="b275-6">“It is by no means clear that the president of the United States, whose high duty it is to ‘take care that the laws be faithfully executed,’ and who is commander in chief of the armies and navies of the United States, might not, without any special authority for that purpose, in the then existing state of things, have empowered the officers commanding the armed vessels of the United States to seize and send into port for adjudication American vessels which were forfeited by being engaged in this illicit commerce. But when it is observed that the general clause of this first sec­tion of the ‘act, which declares that such vessels may be seized, and may be prosecuted in any district or circuit court which shall be holden within or for the district where the seizure shall be made,’ obviously contemplates a seizure within the United States, and that the fifth section gives a special authority to seize on the high seas, and limits that authority to the seizure of vessels bound or sailing to a French port,-the legislature seem to have prescribed that the manner in which this law shall be carried into execution was to exclude a seizure of any vessel not bound to a French port. Of consequence, however strong the circum­stances might be which induced Captain Little to suspect the Flying-Fish to be an American vessel, they could not- ex­cuse the detention of her, since he would not have been au­thorized to detain her had she been really American.”</blockquote>
+                <p pgmap="276" id="b276-4">And he states the conclusion of the court to be “that the instructions cannot change the nature of the transaction, or legalize an act which, without those instructions, would have been a plain trespass.”</p>
+                <p pgmap="276(263) 277(176)" id="b276-5">In U. S. v. Rauscher, it appeared that the United States asserted the right under the law of nations to try persons extradited from Great Britain for offenses other than those for which they were extradited, while Great Britain in­sisted that no such right existed under the law of nations or was conceded by treaty. The question was whether, under the treaty with Great Britain, a man extradited from England to this country on the charge of murder could be tried here for another offense, and it was held that he could not be. And Mr. Justice Miller, delivering the opinion of the court; quoted from the Head Money Cases, 112 U.S. 580, 5 S.Ct. 247, the following language as determinative of the principle upon which the court proceeded: “A treaty is primarily a compact between independent nations. It depends for the enforcement of its provisions on the inter­est and the honor of the governments which are parties to it. If these fail, its infraction becomes the subject of in­ternational negotiations and reclamations, so far as the injured party chooses to seek redress, which may in the end be enforced by actual war. It is obvious that with all this the judicial courts have nothing to do and can give no redress. But a treaty may also contain provisions which confer certain rights upon the citizens or. subjects of one of the nations residing in the territorial limits of the other, which partake of the nature of municipal law, and which are capable of enforcement as between private parties in the courts of the country. An illustration of this character is found in treaties which regulate the mutual rights of citizens and subjects of the contracting nations in regard to rights of property by descent or inheritance, when the in­dividuals concerned are aliens. The constitution of the United States places such provisions as these in the same category as other laws of congress, by its declaration that ‘this constitution and the laws made in pursuance thereof, and all treaties made or which shall be made under author­ity of the United States, shall be the supreme law of the land.’ A treaty, then, is a law of the land, as an act of con­gress is, whenever its provisions prescribe a rule by which the rights of the private citizen or subject may be deter­mined; and, when such rights are of a nature to be en­forced in a court of justice, that court resorts to the treaty for a rule of decision for the case before it as it would to a statute.”</p>
+                <p pgmap="277(243) 278(99)" id="b277-4">As to the third section of the act of March 2, 1889, it is argued that congress intentionally declined to determine the extent of the dominion of the United States in the Behring sea, as shown by its action during the steps at­tending the passage of the bill. That section, as the bill passed the house, contained the words: “All the waters of Behring sea in Alaska embraced within the boundary lines mentioned and described in the treaty with Russia, dated March 30, A. D. 1867, by which the territory of Alaska was ceded to the United States.” But as finally enacted these words were omitted, and the expression “all the dominion of the United States in the waters of Behring sea” substituted. Section 2 of the bill, as originally intro­duced in the senate, contained the words in question, but they were omitted in a substitute adopted by the senate, and added by the house, by way of amendment, as section 3. To this amendment the senate disagreed, and the section, as it now stands, was the result of a conference between the two houses. If reference could be properly made to such matters, (for the act, as finally approved,' must speak for itself), still we do not concur in the view that it follows that congress thereby expressly invited the ju­dicial branch of the government to determine what are “the limits' of Alaska territory and the waters thereof,” and what is “the dominion of the United States in the waters of Behring sea,” and think, on the contrary, that there is much force in the position that, whatever the reason for the conservative course pursued by the senate, the enact­ment of this section, with full knowledge of the executive action already had and of the diplomatic situation, justified the president in the conclusion that it was his duty, under section 3, to adhere to the construction already insisted up­on as to the extent of the dominion of the United States, and to continue to act accordingly.</p>
+                <p pgmap="278" id="b278-3">If this be so, the application calls upon the court, while negotiations are pending, to decide whether the government is right or wrong, and to review the action of the political departments upon the question, contrary to the settled law in that regard. Foster v. Neilson, 2 Pet. 253; Williams v. Insurance Co., 3 Sum. 270, 13 Pet. 415; Luther v. Borden, 7 How. 1; Georgia v. Stanton, 6 Wall. 50; Jones v. U. S., 137 U.S. 202, 11 S.Ct. 80; Nabob of Carnatic v. East India Co., 1 Ves.Jr. 371, 2 Ves.Jr. 56; Barclay v. Russell, 3 Ves.Jr. 424; Penn v. Baltimore, 1 Ves.Sr. 444.</p>
+                <p pgmap="278" id="b278-4">In this case, her Britannic majesty’s attorney general of Canada has presented, with the knowledge and approval of the imperial government of Great Britain, a suggestion on behalf of the claimant. He represents no property interest in the vessel, as is sometimes done by consuls, but only a public political interest. We are not insensible to the courtesy implied in the willingness thus manifested that this court should proceed to a decision on the main question argued for the petitioner; nor do we permit ourselves to doubt that under such circumstances the decision would receive all the consideration that the utmost good faith would re­quire ; but it is very clear that, presented as a political ques­tion merely, it would not fall within our province to de­termine it. We allude to this in passing, but not at all with the intention of indicating that the suggestion itself di­minishes the private rights of the claimant in any degree.</p>
+                <p pgmap="278(54) 279(49)" id="b278-5">We are not to be understood, however, as underrating the weight of the argument that, in a case involving private rights, the court may be obliged, if those rights are depend­ent upon the construction of acts of congress or of a treaty, and the case turns upon a question, public in its nature, which has not been determined by the political departments in the form of a law specifically settling it, or authorizing the executive to do so, to render judgment, “since we have no more right to decline the jurisdiction which is given than to usurp that which is not given.”</p>
+                <p pgmap="279" id="b279-4">But we need not go further in this direction, as our de­cision rests upon narrower grounds, and we have been led into these observations' because, where an application is made to stay the enforcement of a decree three years after its rendition, and after the pendency of an appeal there­from for the same length of time, (an appeal being allow­able, as we shall presently see), we do not regard the court as constrained to intervene in this way unless, perhaps, up­on an irresistible case, and adequate reason shown for the delay; and particularly not where such intervention in­volves the definition of the line of demarkation between co­ordinate departments of the government and the deter­mination of public questions, action in reference to which is appropriately confided to other departments than the ju­dicial.</p>
+                <p pgmap="279" id="b279-5">In what has been said we have assumed that it appears from the record, properly examinable by us, that the alleged offense was committed more than a marine league from shore; and we now come to consider whether this is the fact. And in doing this, with the view of ascertaining whether the claimant is entitled to be relieved of the pay­ment of $7,289.50, which is' the amount of the stipulation, the record must be treated as in any other case of private' rights.</p>
+                <p pgmap="279(112) 280(14)" id="b279-6">As already seen, prohibition will not go after sentence unless want of jurisdiction appears on the face of the pro­ceedings. But it is contended that the face of the proceed­ings, in a case like the present one, embraces the evidence. AVe think, however, that there is a distinction on principle, and sustained by authority, between what is open on pro­hibition applied for before sentence and what afterwards. Prohibition stays what is about to be done, but which ought not to be done without it. Before judgment, if the court below persist in going on when it should not, the court above can examine, not simpfy the process and pleadings technically of record, but the facts in evidence upon which action is being taken.</p>
+                <p pgmap="280" id="b280-4">In Ex parte Christy, 3 How. 292, 308, which was an ap­plication for a writ of prohibition against the district court of Louisiana .sitting as a court in bankruptcy, Mr. Justice Story said: “So far as respects these allegations of facts, not so found in the proceedings of the district court, we are not upon the present occasion at liberty to entertain any consideration thereof for the purpose of examination or decision, as it would be an exercise of original jurisdic­tion on the part of this court not confided to us by law. The application for the prohibition is made upon the ground that the district court has transcended its jurisdiction in entertaining those proceedings; and whether it has or not must depend, not upon the facts stated dehors the record, but upon those stated in the record upon which the district court was called to act, and by which alone it could regulate its judgment.” And this language was repeated and ap­proved in Ex parte Easton, 95 U.S. 68, where prohibition was asked against a district court in admiralty. These were cases where the application was before sentence, and they show that the court may consider the evidence as well as the other proceedings in the court' sought to be restrained. But after final judgment and the lapse of the term, for the superior court to enter upon an examination of the evi­dence upon a suggested defect in the jurisdiction, that is, a defect not apparent upon the face of the record proper, would be for it to rehear the case, and direct the court be­low not to carry its own judgment into effect, for defect of power to try the particular issue rather than of jurisdic­tion over the cause. What the court below could not then do or omit to do, the court above ought not ordinarily to undertake to compel it to do or to omit.</p>
+                <p pgmap="280(81) 281(78)" id="b280-5">In U. S. v. Peters, 3 Dall. 121, the Cassius, the vessel seized, was under commission by the French government, and was libeled in the district court of Pennsylvania on ac­count of the seizure of a schooner belonging to libelants upon the high seas, and the libel showed that the schooner had been taken into Port de Paix, (in the dominions of the French republic), which justified the presumption that she was carried there for legal adjudication; and it appeared from the suggestion for the prohibition that such was the fact, and that therefore the jurisdiction for the adjudica­tion of the libel was in a French and not in an American admiralty court. That was an application before sentence, and the court could look into the evidence before the dis­trict court if necessary, though it appears to us that the want of jurisdiction was evident on the face of the libel; and prohibition was accordingly issued.</p>
+                <p pgmap="281" id="b281-4">In Ex parte Phœnix Ins. Co., 118 U.S. 610, 626, 7 S.Ct. 25, it was held that the district court of the United States in admiralty has no jurisdiction of a petition by the own­er of a steam-vessel for the trial of the question of his liability for damages caused to buildings on land by fire al­leged to have been negligently communicated to them by the vessel through sparks proceeding from her smoke-stack, and for the limitation of such liability, if existing, under sections 4283 and 4284, Rev.St. (46 U.S.C.A. §§ 183, 184 and note). And Mr. Justice Blatchford, delivering the opinion of the court, said, after citing Ex parte Easton, 95 U.S. 68, and Ex parte Gordon, 104 U.S. 515: “But in the present case the district court is called upon by the petition of the owner of the vessel to first determine the question of any liability, when it has no jurisdiction of the cause of action, and then to determine whether the statute covers the case. The case is clearly one for a writ of prohibition, as the want of jurisdiction appears on the face of the pro­ceedings. U. S. v. Peters, 3 Dall. 121.”</p>
+                <p pgmap="281" id="b281-5">The cases cited in the text-books (High, Extr.Rem. 606; Shortt, Inf. 442, 448) sustain the general view that the evidence is not to be resorted to after sentence. The prin­ciple has no application to courts where the proceedings do not show the matter in any formal way, and such are the decisions in England in reference to county and mayor’s courts.</p>
+                <p pgmap="281(67) 282(30)" id="b281-6">United States district courts sitting in admiralty are courts' of superior jurisdiction, and every intendment is made in favor of their decrees, so that where it appears that the court has jurisdiction of the subject-matter, and that the defendant was duly served with process or volun­tarily appeared and made defense, the decree is not open to attack collaterally. Miller v. U. S., 11 Wall. 268; Mc­Cormick v. Sullivant, 10 Wheat. 192; Des Moines Nav. &amp; R. Co. v. Iowa Homestead Co., 123 U.S. 552, 8 S.Ct. 217; Cuddy, Petitioner, 131 U.S. 280, 9 S.Ct. 703.</p>
+                <p pgmap="282" id="b282-4">By section 750, Rev.St. (28 U.S.C.A. § 790), it is pro­vided: “In equity and admiralty causes only the process, pleadings, and decree, and such orders and memorandums as may be necessary to show the jurisdiction of the court and regularity of the proceedings, shall be entered upon the final record.”</p>
+                <p pgmap="282" id="b282-5">Section 698 (28 U.S.C.A. § 863) is as follows:</p>
+                <blockquote pgmap="282" id="b282-6">“Upon the appeal of any cause in equity, or of admiralty and maritime jurisdiction, or of prize or no prize, a tran­script of the record, as directed by law to be made, and copies of the proofs, and of such entries and papers on file as may be necessary on the hearing of the appeal, shall be transmitted to the supreme court: provided, that either thp court below or the supreme court may order any original document or other evidence to be sent up, in addition to the copy of the record, or in lieu of a copy of a part thereof.”</blockquote>
+                <p pgmap="282" id="b282-7">In this section the distinction is recognized between that which constitutes the final record and that which may be made part of the record for the purposes of appeal. On appeal all questions properly preserved are open to deter­mination, while on prohibition the inquiry is confined to the matter of jurisdiction; so that it seems to follow that, unless under very extraordinary circumstances, the record proper should only be looked into in the latter class of cases.</p>
+                <p pgmap="282" id="b282-8">If the record thus made constitutes the face of the pro­ceedings here, the alleged want of jurisdiction does not ap­pear therefrom.</p>
+                <p pgmap="282(102) 283(236)" id="b282-9">The libel alleges that the seizure was made “within the limits of Alaska territory and in the waters thereof, and within the civil and judicial district of Alaska, to-wit, with­in the waters of that portion of Behring sea belonging to the United States and said district, on waters navigable from the sea by vessels of ten or more tons burden.” As it is admitted that the United States lawfully exercises ju­risdiction to the extent of three miles from shore over the waters of Behring sea, the allegation of seizure within the jurisdiction is sufficient. The libel further avers that the vessel and her captain, officers, and crew “were then and there found engaged in killing fur seals within the limits of Alaska territory, and in the said waters thereof, in vio­lation of section 1956 of the Revised Statutes of the United States.” Of course, these are the waters over which the United States lawfully exercises jurisdiction, and upon the face of the libel the court had jurisdiction of the forfeiture and of the offense. The master raised no question of ju­risdiction in filing his claim, and, the demurrer having been overruled, the answer denied that the seizure was made within the waters described, or that the vessel, captain, officers, or crew were found engaged in killing fur seal within the limits of Alaska territory or in the waters there­of, or that they were then and there violating any law of the United States. Trial having been had, the court found that “on the 9th day of July, 1887, and theretofore, the master and crew of the defendant vessel were engaged in killing and did kill fur seals in that portion of Behring sea ceded by Russia to the United States by the treaty of March, 1867, and within the waters of Alaska, in violation of section 1956 of the Revised Statutes of the United States.” This was a finding of the commission of the of­fense within the jurisdiction stated in the libel.</p>
+                <p pgmap="283(178) 284(37)" id="b283-4">As already seen, the first section of the act of May 17, 1884, provided “that the territory ceded to the United States by Russia by the treaty of March thirtieth, eighteen hundred and sixty-seven, and known as ‘Alaska,’ ” should constitute a civil and judicial district. And by section 1954 of the Revised Statutes the laws of the United States re­lating to customs, commerce, and navigation were extend­ed “to and over all the main-land, islands, and water of the territory ceded to the United States by the emperor of Russia by treaty concluded at Washington on the thirtieth day of March, Anno Domini eighteen hundred and sixty-­seven.” The finding refers similarily to that portion of Behring sea ceded by Russia, and states that the killing was “within the waters of Alaska.” The second and third findings were that the vessel, her furniture, apparel, tackle, cargo, and 477 fur-seal skins were seized in said waters, that is to say, in the waters of Alaska, by the commanding officer of the United States revenue-cutter Rush, then and there engaged in the revenue marine service of the United States, who was duly commissioned by the president of the United States, and made such seizure under the direction and by, the authority of the treasury department.</p>
+                <p pgmap="284" id="b284-4">Upon the face of the libel and findings, if the jurisdic­tion did not extend beyond three miles from the shore, the legal inference is that the offense and seizure were within that limit. Hudson v. Guestier, 6 Cranch, 281; The Rio Grande, 23 Wall. 458. The court had power to inquire into the fact upon which jurisdiction depended, and its maintenance of jurisdiction involved the conclusion neces­sary to sustain it.</p>
+                <p pgmap="284" id="b284-5">If, therefore, the findings of fact are properly part of the face of the proceedings, the want of jurisdiction not only does not appear, but the contrary. The petitioner asked no finding of fact by the court as to the exact locality, but, after the findings and conclusion were made and filed, moved in arrest, assigning, among other grounds, “that from the evidence produced on the part of the United States it appears that this court has no jurisdiction over the sub­ject-matter of this cause.” But this motion was not equiva­lent to a plea in abatement, nor to a declinatory allegation in the nature of a plea to the jurisdiction, nor to a motion for a rehearing. By the demurrer and answer the defend­ant had submitted to the jurisdiction, and, whatever might be his rights upon appeal, the interposition of this motion did not make that a part of the face of the proceedings which would not have been so without it.</p>
+                <p pgmap="284" id="b284-6">Passing from this, however, what is the attitude of the case as to the findings? Is this court bound by them or not? If so, no reference to the evidence would be admis­sible.'</p>
+                <p pgmap="284(97) 285(72)" id="b284-7">The latter part of section 7 of the act of May 17, 1884, (23 St. pp. 24, 26), is as follows: “Writs of error in crim­inal cases shall issue to the said district court from the United States circuit court for the district of Oregon in the cases provided in chapter one hundred and seventy-six of the Laws of eighteen hundred and seventy-nine, and the jurisdiction thereby conferred upon circuit courts is here­by given to the circuit court of Oregon, and the final judg­ments or decrees of said circuit and district courts may be reviewed by the supreme court of the United States as in other cases.” We are of opinion that the word “circuit,” as here used, refers to the circuit court of Oregon, and, for the purposes of the matter in hand, the clause may be read: “And the final judgments or decrees of said district court of Alaska may be reviewed by the supreme court of the United States as in other cases.”</p>
+                <p pgmap="285" id="b285-4">Under sections 690-692, 695, and 699 of the Revised Statutes this court has appellate jurisdiction to re-examine the final judgments of any circuit court, or of any district court acting as a circuit court, in civil actions, where the matter in dispute, exclusive of costs., exceeds the sum or value of $5,000; all final decrees of any circuit court, or of any district court acting as a circuit court, in cases of equity and of admiralty and maritime jurisdiction, within the same limit of amount involved; all final decrees of any district court in prize causes; all final judgments at law and final decrees in equity of any circuit court, or of any dis­trict court acting as a circuit court, in any case touching patent-rights or copyrights; in any civil action brought by the United States for the enforcement of any revenue law thereof; in actions against revenue officers; in cases brought on account of deprivation of rights of citizens or of rights under the constitution; and in suits for injuries by conspirators against civil rights. Under section 701 (28 U.S.C.A. § 876) this court may affirm, modify, or re­verse any judgment, decree, or order of a circuit court, or district court acting as a circuit court, or of a district court in prize causes, lawfully brought before it for review, or may direct such judgment, decree, or order to be rendered or such further proceedings to be had by the inferior court as the justice of the case may require. And it is argued that the words “as in other cases,” in section 7 of the act of 1884, can mean nothing else than other cases of appeals from district courts, and district courts acting as circuit courts; and that the right of appeal from the decrees of district courts is confined to prize causes under section 695.</p>
+                <p pgmap="285(47) 286(158)" id="b285-5">It is said that if there could be -such a thing as an appeal from the district court of Alaska in an ordinary admiralty case direct to this court, this court would be obliged to try the case de novo; that the district court of Alaska, sitting as an admiralty court, would supply and take the place of a circuit court in admiralty sitting in appeal, although all the statutes authorizing district courts to exercise the functions of circuit courts expressly exclude the power of appeal; that the only foundation of a right o‘f appeal from the Alaska court, based upon this right to exercise the jurisdiction of a circuit court, is section 692 of the Revised Statutes, and that only extends to the final decrees of such district court when exercising the jurisdiction of a circuit court, while the ex­ercise of admiralty and maritime jurisdiction by the district court for Alaska was, by the act creating it and the Re­vised Statutes, the exercise of purely district court jurisdic­tion as such; nor could the Alaska court be supposed to have acted in the exercise of both jurisdictions, as the only admiralty and maritime jurisdiction which belongs to the circuit courts is appellate.</p>
+                <p pgmap="286" id="b286-4">But the district court of Alaska is not alone a district court of the United States, and a district court exercising circuit court powers; it is also a court of general law and equity jurisdiction. If the contention, of petitioner were correct, any power of review in this court over judgments and decrees of the Alaska court in law and equity, except when entered as a circuit court, would be excluded. We do not think it was. the intention of congress to give such finality to its judgments and decrees.</p>
+                <p pgmap="286" id="b286-5">It seems to us that the words “as in other cases” mean, as in similar cases from other courts; and we concur in the construction contended for on the part of the respondent, that the meaning of the provision is that this court may re­view the final judgments or decrees of the district court of Alaska as in cases of the same kind from other courts.</p>
+                <p pgmap="286(107) 287(21)" id="b286-6">The act of February 16, 1875, (18 St. 315 [28 U.S.C.A. §771 and note]) provides that circuit courts of the United States, in deciding causes of admiralty or maritime jurisdic­tion on the instance side of the court, shall find the facts and the conclusions of law upon which it renders its judg­ments or decrees, and shah state the facts and conclusions of law separately; and the review of the judgments or de­crees entered upon such findings, by this court, upon appeal, is “limited to a determination of the questions of law aris­ing upon the record, and to such rulings of the circuit court, excepted to at the time, as may be presented by a bill of ex­ceptions prepared as in actions at law.”</p>
+                <p pgmap="287" id="b287-3">In Durousseau v. U. S., 6 Cranch, 307, 315, the effect of; section 10 of the judiciary act of 1789 (1 St. pp. 73, 77) was under consideration. The section provided “that the district court in Kentucky district” should, in addition to; the ordinary jurisdiction of a district court, “have jurisdic­tion of all other causes, except of appeals and writs of error! hereinafter made cognizable in a circuit court, and shall, proceed therein in the same manner as a circuit court,. and writs of error and appeals shall lie from decisions! therein to the supreme court in the same causes as from a circuit court to the supreme court, and under the same reg­ulations.”</p>
+                <p pgmap="287" id="b287-4">It was argued that under this provision the writs of error and appeals provided were intended to lie only from cases in which the district court acted as a circuit court. MrJ Chief Justice Marshall, delivering the opinion of the court, said:</p>
+                <blockquote pgmap="287" id="b287-5">“It would be difficult to conceive an intention in the leg­islature to discriminate between judgments rendered by the district court of Kentucky, while exercising the powers of a district court, and those rendered by the same court while exercising circuit powers, when it is demonstrated that the legislature makes no distinction in the cases from their nature and character. Causes of which the district courts have exclusive original jurisdiction are carried into the cir­cuit courts, and then become the objects of the appellate jurisdiction of this court. It would be strange if, in a case where the powers of the two courts are united in one court, from whose judgments an appeal lies, causes of which the district courts have exclusive original jurisdiction should be excepted from the operation of the appellate power. It would require plain words to establish this construction. * * *</blockquote>
+                <blockquote pgmap="287" id="b287-7">“The plain meaning of these words is that wherever the district court decides a cause which, if decided in a circuit court, either in an original suit, or on an appeal, would be subject to a writ of error from the supreme court, the judgment of the district court shall, in like manner, be sub­ject to a writ of error.”</blockquote>
+                <p pgmap="288" id="b288-3">In our view, that decision is in point and is decisive. We hold that an appeal lay to this court from the decree in question, and, further, that the act of 1875 applies; and that, the district court having found the facts, we should be limited, on appeal, in the consideration of the case, to the questions of law presented on the record.</p>
+                <p pgmap="288" id="b288-4">Upon the face of the libel, the facts found, and the final decree, the district court clearly had jurisdiction. This pe­titioner had a remedy by appeal from that decree, which was inefficacious because of his neglect to have included in those findings the fact of the exact locality of the offense and seizure. Such being the case, the writ of prohibition prayed for should not issue, even if, under any circum­stances, the court could consider the evidence taken below in determining whether a prohibition should issue after sen­tence. Rule discharged, and prohibition denied. '</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="256" ORDERLABEL="244" TYPE="page">
+        <fptr FILEID="tiff_00128_1"/>
+        <fptr FILEID="jpg_00128_1"/>
+        <fptr FILEID="alto_00128_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_256.2" BETYPE="IDREF" FILEID="alto_00128_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="257" ORDERLABEL="245" TYPE="page">
+        <fptr FILEID="tiff_00129_0"/>
+        <fptr FILEID="jpg_00129_0"/>
+        <fptr FILEID="alto_00129_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_257.3" BETYPE="IDREF" FILEID="alto_00129_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="258" ORDERLABEL="246" TYPE="page">
+        <fptr FILEID="tiff_00129_1"/>
+        <fptr FILEID="jpg_00129_1"/>
+        <fptr FILEID="alto_00129_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_258.1" BETYPE="IDREF" FILEID="alto_00129_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="259" ORDERLABEL="247" TYPE="page">
+        <fptr FILEID="tiff_00130_0"/>
+        <fptr FILEID="jpg_00130_0"/>
+        <fptr FILEID="alto_00130_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_259.2" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="260" ORDERLABEL="248" TYPE="page">
+        <fptr FILEID="tiff_00130_1"/>
+        <fptr FILEID="jpg_00130_1"/>
+        <fptr FILEID="alto_00130_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_260.2" BETYPE="IDREF" FILEID="alto_00130_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="261" ORDERLABEL="249" TYPE="page">
+        <fptr FILEID="tiff_00131_0"/>
+        <fptr FILEID="jpg_00131_0"/>
+        <fptr FILEID="alto_00131_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_261.3" BETYPE="IDREF" FILEID="alto_00131_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="262" ORDERLABEL="250" TYPE="page">
+        <fptr FILEID="tiff_00131_1"/>
+        <fptr FILEID="jpg_00131_1"/>
+        <fptr FILEID="alto_00131_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_262.2" BETYPE="IDREF" FILEID="alto_00131_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="263" ORDERLABEL="251" TYPE="page">
+        <fptr FILEID="tiff_00132_0"/>
+        <fptr FILEID="jpg_00132_0"/>
+        <fptr FILEID="alto_00132_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_263.3" BETYPE="IDREF" FILEID="alto_00132_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="264" ORDERLABEL="252" TYPE="page">
+        <fptr FILEID="tiff_00132_1"/>
+        <fptr FILEID="jpg_00132_1"/>
+        <fptr FILEID="alto_00132_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_264.1" BETYPE="IDREF" FILEID="alto_00132_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="265" ORDERLABEL="253" TYPE="page">
+        <fptr FILEID="tiff_00133_0"/>
+        <fptr FILEID="jpg_00133_0"/>
+        <fptr FILEID="alto_00133_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_265.3" BETYPE="IDREF" FILEID="alto_00133_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="266" ORDERLABEL="254" TYPE="page">
+        <fptr FILEID="tiff_00133_1"/>
+        <fptr FILEID="jpg_00133_1"/>
+        <fptr FILEID="alto_00133_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_266.2" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="267" ORDERLABEL="255" TYPE="page">
+        <fptr FILEID="tiff_00134_0"/>
+        <fptr FILEID="jpg_00134_0"/>
+        <fptr FILEID="alto_00134_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_267.3" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="268" ORDERLABEL="256" TYPE="page">
+        <fptr FILEID="tiff_00134_1"/>
+        <fptr FILEID="jpg_00134_1"/>
+        <fptr FILEID="alto_00134_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_268.1" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="269" ORDERLABEL="257" TYPE="page">
+        <fptr FILEID="tiff_00135_0"/>
+        <fptr FILEID="jpg_00135_0"/>
+        <fptr FILEID="alto_00135_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_269.3" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="270" ORDERLABEL="258" TYPE="page">
+        <fptr FILEID="tiff_00135_1"/>
+        <fptr FILEID="jpg_00135_1"/>
+        <fptr FILEID="alto_00135_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_270.2" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="271" ORDERLABEL="259" TYPE="page">
+        <fptr FILEID="tiff_00136_0"/>
+        <fptr FILEID="jpg_00136_0"/>
+        <fptr FILEID="alto_00136_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_271.2" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="272" ORDERLABEL="260" TYPE="page">
+        <fptr FILEID="tiff_00136_1"/>
+        <fptr FILEID="jpg_00136_1"/>
+        <fptr FILEID="alto_00136_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_272.2" BETYPE="IDREF" FILEID="alto_00136_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="273" ORDERLABEL="261" TYPE="page">
+        <fptr FILEID="tiff_00137_0"/>
+        <fptr FILEID="jpg_00137_0"/>
+        <fptr FILEID="alto_00137_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_273.3" BETYPE="IDREF" FILEID="alto_00137_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="274" ORDERLABEL="262" TYPE="page">
+        <fptr FILEID="tiff_00137_1"/>
+        <fptr FILEID="jpg_00137_1"/>
+        <fptr FILEID="alto_00137_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_274.2" BETYPE="IDREF" FILEID="alto_00137_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="275" ORDERLABEL="263" TYPE="page">
+        <fptr FILEID="tiff_00138_0"/>
+        <fptr FILEID="jpg_00138_0"/>
+        <fptr FILEID="alto_00138_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_275.3" BETYPE="IDREF" FILEID="alto_00138_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="276" ORDERLABEL="264" TYPE="page">
+        <fptr FILEID="tiff_00138_1"/>
+        <fptr FILEID="jpg_00138_1"/>
+        <fptr FILEID="alto_00138_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_276.2" BETYPE="IDREF" FILEID="alto_00138_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="277" ORDERLABEL="265" TYPE="page">
+        <fptr FILEID="tiff_00139_0"/>
+        <fptr FILEID="jpg_00139_0"/>
+        <fptr FILEID="alto_00139_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_277.3" BETYPE="IDREF" FILEID="alto_00139_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="278" ORDERLABEL="266" TYPE="page">
+        <fptr FILEID="tiff_00139_1"/>
+        <fptr FILEID="jpg_00139_1"/>
+        <fptr FILEID="alto_00139_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_278.2" BETYPE="IDREF" FILEID="alto_00139_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="279" ORDERLABEL="267" TYPE="page">
+        <fptr FILEID="tiff_00140_0"/>
+        <fptr FILEID="jpg_00140_0"/>
+        <fptr FILEID="alto_00140_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_279.3" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="280" ORDERLABEL="268" TYPE="page">
+        <fptr FILEID="tiff_00140_1"/>
+        <fptr FILEID="jpg_00140_1"/>
+        <fptr FILEID="alto_00140_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_280.2" BETYPE="IDREF" FILEID="alto_00140_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="281" ORDERLABEL="269" TYPE="page">
+        <fptr FILEID="tiff_00141_0"/>
+        <fptr FILEID="jpg_00141_0"/>
+        <fptr FILEID="alto_00141_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_281.3" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="282" ORDERLABEL="270" TYPE="page">
+        <fptr FILEID="tiff_00141_1"/>
+        <fptr FILEID="jpg_00141_1"/>
+        <fptr FILEID="alto_00141_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_282.2" BETYPE="IDREF" FILEID="alto_00141_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="283" ORDERLABEL="271" TYPE="page">
+        <fptr FILEID="tiff_00142_0"/>
+        <fptr FILEID="jpg_00142_0"/>
+        <fptr FILEID="alto_00142_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_283.3" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="284" ORDERLABEL="272" TYPE="page">
+        <fptr FILEID="tiff_00142_1"/>
+        <fptr FILEID="jpg_00142_1"/>
+        <fptr FILEID="alto_00142_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_284.2" BETYPE="IDREF" FILEID="alto_00142_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="285" ORDERLABEL="273" TYPE="page">
+        <fptr FILEID="tiff_00143_0"/>
+        <fptr FILEID="jpg_00143_0"/>
+        <fptr FILEID="alto_00143_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_285.3" BETYPE="IDREF" FILEID="alto_00143_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="286" ORDERLABEL="274" TYPE="page">
+        <fptr FILEID="tiff_00143_1"/>
+        <fptr FILEID="jpg_00143_1"/>
+        <fptr FILEID="alto_00143_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_286.2" BETYPE="IDREF" FILEID="alto_00143_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="287" ORDERLABEL="275" TYPE="page">
+        <fptr FILEID="tiff_00144_0"/>
+        <fptr FILEID="jpg_00144_0"/>
+        <fptr FILEID="alto_00144_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_287.2" BETYPE="IDREF" FILEID="alto_00144_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="288" ORDERLABEL="276" TYPE="page">
+        <fptr FILEID="tiff_00144_1"/>
+        <fptr FILEID="jpg_00144_1"/>
+        <fptr FILEID="alto_00144_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_288.1" BETYPE="IDREF" FILEID="alto_00144_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.4" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b284-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_284.4" BETYPE="IDREF" FILEID="alto_00142_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.6" BETYPE="IDREF" FILEID="alto_00138_0"/>
+            <area BEGIN="BL_276.1" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b284-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_284.7" BETYPE="IDREF" FILEID="alto_00142_1"/>
+            <area BEGIN="BL_285.1" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.5" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.4" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.5" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-3" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.3" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.5" BETYPE="IDREF" FILEID="alto_00138_1"/>
+            <area BEGIN="BL_277.1" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.5" BETYPE="IDREF" FILEID="alto_00143_0"/>
+            <area BEGIN="BL_286.1" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.5" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.6" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.7" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.8" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.4" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b284-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_284.6" BETYPE="IDREF" FILEID="alto_00142_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.5" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.4" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.6" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.4" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.5" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.6" BETYPE="IDREF" FILEID="alto_00137_1"/>
+            <area BEGIN="BL_275.1" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.7" BETYPE="IDREF" FILEID="alto_00136_1"/>
+            <area BEGIN="BL_273.1" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.5" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.5" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.6" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.4" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-3" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.4" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.4" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            <area BEGIN="BL_284.1" BETYPE="IDREF" FILEID="alto_00142_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.7" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.5" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.6" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.5" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.4" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.4" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-8" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.10" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-9" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.11" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.6" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.9" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.4" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.5" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-9" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.9" BETYPE="IDREF" FILEID="alto_00141_1"/>
+            <area BEGIN="BL_283.1" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-3" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.4" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-8" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.8" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.7" BETYPE="IDREF" FILEID="alto_00137_0"/>
+            <area BEGIN="BL_274.1" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.6" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            <area BEGIN="BL_280.1" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.6" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.4" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.5" BETYPE="IDREF" FILEID="alto_00140_1"/>
+            <area BEGIN="BL_281.1" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-3" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.3" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.7" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.6" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.4" BETYPE="IDREF" FILEID="alto_00139_0"/>
+            <area BEGIN="BL_278.1" BETYPE="IDREF" FILEID="alto_00139_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.4" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.5" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.5" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.6" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            <area BEGIN="BL_272.1" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.4" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.5" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.5" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.4" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b278-3" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_278.4" BETYPE="IDREF" FILEID="alto_00139_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b278-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_278.5" BETYPE="IDREF" FILEID="alto_00139_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b278-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_278.6" BETYPE="IDREF" FILEID="alto_00139_1"/>
+            <area BEGIN="BL_279.1" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b284-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_284.5" BETYPE="IDREF" FILEID="alto_00142_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AE" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.7" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            <area BEGIN="BL_269.8" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.6" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            <area BEGIN="BL_282.1" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.6" BETYPE="IDREF" FILEID="alto_00143_1"/>
+            <area BEGIN="BL_287.1" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.4" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-10" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.12" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-11" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.13" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            <area BEGIN="BL_270.1" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

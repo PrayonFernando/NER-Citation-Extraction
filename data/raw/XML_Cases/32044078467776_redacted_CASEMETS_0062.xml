@@ -1,0 +1,536 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0062" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Callsen v. Hope">CALLSEN et al. v. HOPE et al.</name>
+          <docketnumber>No. 433</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 432</citation>
+          <citation category="parallel" type="bluebook">75 F. 758</citation>
+          <decisiondate>1896-04-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:06Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00222_1" MIMETYPE="image/tiff" CHECKSUM="36c99a6cabb781f6b56c0629d61b4d4e" CHECKSUMTYPE="MD5" SIZE="35402">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00222_1.tif"/>
+      </file>
+      <file ID="tiff_00223_0" MIMETYPE="image/tiff" CHECKSUM="1c3ec537a1bdb3a01ae504c268429245" CHECKSUMTYPE="MD5" SIZE="3316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00223_0.tif"/>
+      </file>
+      <file ID="tiff_00223_1" MIMETYPE="image/tiff" CHECKSUM="7df47b4faef3709e1c9cc6fba901dff1" CHECKSUMTYPE="MD5" SIZE="51038">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00223_1.tif"/>
+      </file>
+      <file ID="tiff_00224_0" MIMETYPE="image/tiff" CHECKSUM="d8c28b1cbf966c31f1f069b8af8039ca" CHECKSUMTYPE="MD5" SIZE="53762">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00224_0.tif"/>
+      </file>
+      <file ID="tiff_00224_1" MIMETYPE="image/tiff" CHECKSUM="235173ca5969b8ce14f4731e0f769711" CHECKSUMTYPE="MD5" SIZE="54108">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00224_1.tif"/>
+      </file>
+      <file ID="tiff_00225_0" MIMETYPE="image/tiff" CHECKSUM="ee027ddb15c7bc67639fa9c15d230516" CHECKSUMTYPE="MD5" SIZE="55774">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00225_0.tif"/>
+      </file>
+      <file ID="tiff_00225_1" MIMETYPE="image/tiff" CHECKSUM="28a35978769ea1229db89ce4c8781232" CHECKSUMTYPE="MD5" SIZE="54564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00225_1.tif"/>
+      </file>
+      <file ID="tiff_00226_0" MIMETYPE="image/tiff" CHECKSUM="54bc3e864968cc91e375f469be20f2e2" CHECKSUMTYPE="MD5" SIZE="54502">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00226_0.tif"/>
+      </file>
+      <file ID="tiff_00226_1" MIMETYPE="image/tiff" CHECKSUM="395a794a714c106af8e639207e314e7b" CHECKSUMTYPE="MD5" SIZE="26252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00226_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00222_1" MIMETYPE="image/jpg" CHECKSUM="9efc05dbe7f258be719f636124ec9c47" CHECKSUMTYPE="MD5" SIZE="161473">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00222_1.jpg"/>
+      </file>
+      <file ID="jpg_00223_0" MIMETYPE="image/jpg" CHECKSUM="3b950396ad39190534862404c355cc67" CHECKSUMTYPE="MD5" SIZE="61011">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00223_0.jpg"/>
+      </file>
+      <file ID="jpg_00223_1" MIMETYPE="image/jpg" CHECKSUM="a416f42ea8db40ddd01266f71be91772" CHECKSUMTYPE="MD5" SIZE="198038">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00223_1.jpg"/>
+      </file>
+      <file ID="jpg_00224_0" MIMETYPE="image/jpg" CHECKSUM="12bf53dd6c91037fd2e6e323e8d78b52" CHECKSUMTYPE="MD5" SIZE="192430">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00224_0.jpg"/>
+      </file>
+      <file ID="jpg_00224_1" MIMETYPE="image/jpg" CHECKSUM="7e2dfbc964753f91faa9a9bf3688d2e4" CHECKSUMTYPE="MD5" SIZE="206811">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00224_1.jpg"/>
+      </file>
+      <file ID="jpg_00225_0" MIMETYPE="image/jpg" CHECKSUM="5536276b12827ab55e679ed5d85002ec" CHECKSUMTYPE="MD5" SIZE="199081">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00225_0.jpg"/>
+      </file>
+      <file ID="jpg_00225_1" MIMETYPE="image/jpg" CHECKSUM="bd003e34b031886cd0068fe17dd870e6" CHECKSUMTYPE="MD5" SIZE="205754">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00225_1.jpg"/>
+      </file>
+      <file ID="jpg_00226_0" MIMETYPE="image/jpg" CHECKSUM="e3045fa38946232382a8b6f51e73e806" CHECKSUMTYPE="MD5" SIZE="195400">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00226_0.jpg"/>
+      </file>
+      <file ID="jpg_00226_1" MIMETYPE="image/jpg" CHECKSUM="dff2ade5d36cca99aba014dc3aed3a69" CHECKSUMTYPE="MD5" SIZE="131775">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00226_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00222_1" MIMETYPE="text/xml+gzip" CHECKSUM="23929d890d736ed8f7356701c46f2b7a" CHECKSUMTYPE="MD5" SIZE="9168">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00222_1.xml.gz"/>
+      </file>
+      <file ID="alto_00223_0" MIMETYPE="text/xml+gzip" CHECKSUM="683a6b7916e4c22ec5dae538aeb0e472" CHECKSUMTYPE="MD5" SIZE="888">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00223_0.xml.gz"/>
+      </file>
+      <file ID="alto_00223_1" MIMETYPE="text/xml+gzip" CHECKSUM="e04ed9e14301637cedc0a6382a7d2699" CHECKSUMTYPE="MD5" SIZE="12138">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00223_1.xml.gz"/>
+      </file>
+      <file ID="alto_00224_0" MIMETYPE="text/xml+gzip" CHECKSUM="c9d1767c49a32121d866dc171715b8ce" CHECKSUMTYPE="MD5" SIZE="13208">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00224_0.xml.gz"/>
+      </file>
+      <file ID="alto_00224_1" MIMETYPE="text/xml+gzip" CHECKSUM="0238d3fb80221a0080db0991ed1e4402" CHECKSUMTYPE="MD5" SIZE="12984">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00224_1.xml.gz"/>
+      </file>
+      <file ID="alto_00225_0" MIMETYPE="text/xml+gzip" CHECKSUM="108f15d3b6e3b7dcf4018c2ecf6d299f" CHECKSUMTYPE="MD5" SIZE="12083">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00225_0.xml.gz"/>
+      </file>
+      <file ID="alto_00225_1" MIMETYPE="text/xml+gzip" CHECKSUM="885512182a2523e50c69826a0966e84d" CHECKSUMTYPE="MD5" SIZE="12263">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00225_1.xml.gz"/>
+      </file>
+      <file ID="alto_00226_0" MIMETYPE="text/xml+gzip" CHECKSUM="342ad099f5af067918407e55668275a4" CHECKSUMTYPE="MD5" SIZE="12649">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00226_0.xml.gz"/>
+      </file>
+      <file ID="alto_00226_1" MIMETYPE="text/xml+gzip" CHECKSUM="2e5de4d4823eb989ff530fcbc7432965" CHECKSUMTYPE="MD5" SIZE="6396">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00226_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0062" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="432" lastpage="440">
+              <court pgmap="444" id="b444-8">District Court, D. Alaska.</court>
+              <docketnumber pgmap="444" id="b444-7">No. 433.</docketnumber>
+              <citation pgmap="444" id="b444-5">75 F. 758</citation>
+              <parties pgmap="444" id="b444-6">CALLSEN et al. v. HOPE et al</parties>
+              <decisiondate pgmap="444" id="b444-9">April 3, 1896.</decisiondate>
+              <attorneys pgmap="446" id="b446-3">J. F. Maloney (substituted for Lytton Taylor), for plaintiffs.</attorneys>
+              <attorneys pgmap="446" id="b446-4">Burton E. Bennett, for defendants.</attorneys>
+              <opinion type="majority">
+                <author pgmap="446" id="b446-5">DELANEY, District Judge.</author>
+                <p pgmap="446" id="b446-6">The grounds of this demurrer are (1) that the plaintiffs have not legal capacity to sue; (2) that several causes of suit have been improperly united; (3) that the bill does not state facts sufficient to constitute a cause of suit.</p>
+                <p pgmap="446(332) 447(269)" id="b446-7">Upon the first cause of demurrer it is contended that, inasmuch as the Congregation of the Lutheran Church is nonincorporated, as disclosed by the bill, it can obtain no standing as a party in court, and that its trustees have not capacity to bring this suit. I do not think this contention can be sustained. Stripped of its surplusage, it appears by the bill that there is a voluntary religious association at Sitka known as the Congregation of the Lutheran Church; that such congregation has been in existence for a long term of years, before and since the transfer of Alaska from Russia to the United States; that the parties bringing this suit are members and trustees of said congregation; that prior to the treaty of cession and the transfer of the terri­tory the said congregation became the owner in fee by grant from Russia of lot No. 33 of the town of Sitka, as marked in the inventories and designated on the map attached to and made a part of the protocol of transfer; that upon the transfer of the territory from Russia to the United States the commissioners of the two governments appointed to ef­fect the transfer issued to the said congregation a certificate of title in fee simple to said lot, a copy of which certificate is set out in the bill; that the church building located on said lot, and for a long term of years occupied by said congregation as a place of worship, has fallen into decay, and some years since was removed from said lot; that no new structure has been erected in its place; that there is at present no pastor of said congregation; that there are members thereof still residing in Sitka, and that the con­gregation has never disbanded; that the defendants have entered upon said lot, and commenced the erection of a structure thereon, adversely to said congregation. The bill prays relief by way of perpetual injunction. The question of legal capacity of the plaintiffs to sue has been settled by the supreme court of the United States in Beatty v. Kurtz, 2 Pet. 566, wherein the facts presented are very similar to those of the case at bar. Indeed, with the single exception that in the case cited the lot in controversy had been set apart for the benefit of the Lutheran Church of the city of Georgetown, Md., by the original owner of the fee, who had platted an addition to said city, and had marked on the plat the lot of ground in controversy “For the Lutheran Church,” but had made no conveyance, the facts in the case now here and in the one above cited are substantially the same. Mr. Justice Story, delivering the opinion of the court in the case cited, said that, while it was not necessary to decide the point as to whether trustees of a voluntary religious association have legal capacity to sue as such, as persons belonging to such a society, and having a common interest, they may sue in behalf of themselves and others having the like interest, as part of the same society, for purposes common to all and beneficial to all. The doctrine here laid down has been adopted by the supreme court of the state of Oregon in the case of Trustees v. Adams, 4 Or. 77. These cases sufficiently determine the law, and our equity jurisprudence would be faulty, indeed, if its doors were closed against parties seeking to reach the forum of the court with a case like that presented by this bill.</p>
+                <p pgmap="447" id="b447-4">Upon the second proposition — that two causes of action have been improperly united — counsel for defendants makes no serious contention, and there is nothing in the bill to warrant it.</p>
+                <p pgmap="447(127) 448(217)" id="b447-5">Upon the third cause of demurrer defendants’ contention is that equity cannot be invoked, for the reason that the plaintiffs have a plain, adequate, and complete remedy at law; and it is further urged that the lot of ground in ques­tion passed to the United States under the treaty, and that, if it did not, inasmuch as it is no longer occupied for church purposes, or as a place of worship, any title thereto derived from Russia is forfeited, and the lot has become part of the public lands of the United States, and subject to occupation and possession by citizens of the United States as such. I do not think these positions can be main­tained. Granted that ejectment will lie upon the facts as stated in the bill, would that action afford the plaintiffs a plain, adequate, and complete remedy? I think not. Equi­ty will not sit by and permit an intruder upon lands belong­ing to another to use, occupy, and enjoy the same, and pos­sibly divert them from the purposes of the real owner, or perhaps impair and destroy them for the uses designed by him, while he is seeking to establish and enforce his rights in a court of law. Defendants, at the time this bill was filed, and the temporary restraining order issued, were erecting a structure on this lot adversely to the plaintiffs. Unless restrained by equity, they could proceed with the completion of this structure, use it, rent it, occupy it, or put it to such purposes as they might see fit, while the action at law was being carried forward to judgment and execution; and, before the rights of the plaintiffs herein could be ad­judicated in ejectment, a saloon or a dance house might be in operation upon a lot of ground belonging to an Evangel­ical church. It is most certainly one of the functions of equity to afford parties litigant of the character of the real plaintiffs in interest in this suit a remedy against such things as these.</p>
+                <p pgmap="448(208) 449(97)" id="b448-4">The contention that the lot passed to the United States under the treaty, or has since become public lands by rea­son of nonuser for church purposes, leads to an investiga­tion of the terms of the treaty and the contents of the pro­tocol of transfer; and, as the conclusions the court has reached in relation thereto affect quite a number of land titles in this district, and may prove decisive of this case, the court has deemed proper to state somewhat fully the determination reached upon these questions. Under the constitution of the United States (article 6, par. 2), all treaties made or which shall be made under the authority of the United States are the supreme law of the land; and courts take judicial notice of them. This court will there­fore take judicial notice of the treaty of March 30, 1867, between Russia and the United States, ceding the territory of Alaska from the former government to the latter; and will also take judicial notice of the protocol of transfer of October 18, 1867, and the inventories of property, the map of New Archangel, or Sitka, attached to and made a part of such protocol, — all of which were executed by the com­missioners appointed by the high contracting powers to the treaty to effect such transfer. Article 6 of the treaty, among other things, provides that: “The cession of ter­ritory and dominion herein made is hereby declared to be free and unincumbered by any reservations, privileges, franchises, grants, or possessions by any associated com­panies, whether corporate or incorporate, Russian or other, or by any parties, except merely private individual property owners; and the cession hereby made conveys all the rights, franchises, and privileges now belonging to Russia in the said territory and dominion and the appurtenances thereto.”</p>
+                <p pgmap="449(282) 450(357)" id="b449-5">It would be utterly inconsistent with well-authenticated historical events, as well as with the time-honored policy of the Russian government upon religious matters, to assert that the term “associated companies,” used in the section of the treaty just quoted, has reference to any religious as­sociation. Not long after the discovery of the Aleutian chain of islands and the main continent of North America, by Bering, in 1741, the large profits derived from the fur trade became generally known throughout the empire, and numerous expeditions, fitted out by single individuals as well as associated companies, were organized for the pur­pose of carrying on this traffic in the newly-discovered country; and after the discovery of the seal islands in Ber­ing Sea by Prebylof, in 1786, such companies grew quite formidable in their rivalry for the possession of the north­west coast of North America, now comprising the territory of Alaska. The more important of these were consolidated in 1799, and a charter was granted by the crown to the Russian-American Company, under which said company asserted and maintained occupancy of the Russian posses­sions in America until the time of the treaty and transfer. In the light of these historical facts it is perfectly clear that the intention of the high contracting powers, as expressed in the portion of the treaty above quoted, was to extinguish all the reservations, privileges, franchises, grants, and pos­sessions of said corporation, or other companies or parties, carrying on business within the limits of the territory ceded, and not to affect private individual property rights thereto­fore granted. It is also manifest from the concluding words of the section quoted that Russia ceded only that which belonged to the empire at the time of the treaty; and it is by no means certain that under the doctrine of vested rights, which, since the decision of the supreme court of the United States in the Dartmouth College Case, 4 Wheat. 518, presented with such great intellectual power by Mr. Webster, has found a secure lodgment in our law, fee-­simple titles antedating the treaty would not be sustained, without the exception referred to. Further than this, and notwithstanding the existence of an established church— the Greco-Russian — in Russia, the settled policy of that government for a long period of years has been to foster and protect among its people religious associations and or­ganizations of every known shade of belief or doctrine; and within the limits of the empire, from the Arctic Ocean to the Chinese border, and from the North Pacific to the Baltic Sea, may be found congregations whose members are believers of every known religious doctrine and form of worship, from the faith of Islam and Mohamet to the Catholic creeds and high-sounding liturgies of the Greek and Roman Churches; all enjoying the protection, if not the patronage, of the crown. Among these the member­ship of the Lutheran denomination ranks next in numbers to that of the established church, and the population of the Baltic provinces and Finland are almost entirely Lutheran. The reasons for this policy are not far to seek, as it is one which must inevitably bind to the autocrat adherents of all the different denominations thus fostered and protected by the sovereign head of the empire. It would not only be unjust, but utterly contradictory to this long-continued policy of the czar, to hold that in granting the territory of Alaska to the United States, Russia intended to transfer, with the territory ceded, the title to church property thereto­fore granted by that government. It follows, therefore, that in construing the portion of the treaty cited, church property must be held to be “private individual property,” falling within the exceptions of the treaty; and this view is sustained by the protocol, inventories, and map.</p>
+                <p pgmap="450(37) 451(389)" id="b450-4">Article 4 of the treaty provides that each of the parties thereto shall appoint “an agent or agents for the purpose of formally delivering * * * the territory, dominion, property, dependencies, and appurtenances ceded,” and in pursuance of this stipulation Russia appointed Capt. Alexis Pestchouroff, of the imperial navy, and the United States appointed Gen. Lovell H. Rousseau, of the United States army, as such agents or commissioners to effect the formal transfer of the territory, who repaired to Sitka and on the 18th day of October, 1867, completed the transfer and ex­ecuted the protocol thereof. For the purpose of settling the title as to private individual property, excepted by the treaty from the territory and dominion ceded, they, with the as­sistance of Prince Dmitry Maksoutoff, governor of the Russian colonies in America, made or caused to be made in­ventories and a map of New Archangel, or Sitka, showing by numbers all property holdings, public and private, in that town. These inventories consist of (a) public property passing to the United States under the treaty; (b) prop­erty of the Greco-Russian Church; (c) fee-simple titles, with the names of persons holding the same, who were fur­nished with certificates thereof; (d) dwelling houses, es­tablishments, and lots of ground held by possessory rights only. These inventories and the map were attached to and made a part of the protocol of transfer. By them lot No. 33 is designated as the property of the Congregation of the Lutheran Church, and appears in the inventory of fee­s.imple titles, as is alleged in the bill in this case, and as appears by the certificate of such title executed by said com­missioners and authenticated by said governor, a copy of which is set out in the bill. From these facts, derived from a public document of the very highest order, of which this court is bound to take judicial notice, the conclusions are irresistible that this lot falls within the exceptions provided for by the treaty; that the title thereto never became vested in the United States; and that the Congregation of the Lutheran Church holds the absolute and indefeasible title in fee simple of said lot of ground, as granted to it by Rus­sia. No title thereto can be obtained except through said congregation, and a failure to use and occupy the lot for church purposes will not divest the congregation of its title. The lot, therefore, is not open to possession and occupancy as public lánds of the United States. '</p>
+                <p pgmap="451(19) 452(156)" id="b451-4">Among the considerations moving between the high con­tracting powers to the treaty are the exceptions to the ces­sion of territory and dominion granted. Following its long-established policy on religious matters, Russia desired to protect the Congregation of the Lutheran Church, with others to whom title to lands in Alaska had been given, in the enjoyment of the property so granted, and the United States acceded to that desire. Treaty, art. 3. Our govern­ment therefore is bound upon its national honor to main­tain in good faith these stipulations of the treaty by sus­taining the fee-simple titles set forth in the protocol, includ­ing that of the Congregation of the Lutheran Church, and by protecting the holders of such titles in the enjoyment of the property so granted. This court will certainly not assume the responsibility of placing the government of the United States in the position of having violated these treaty obligations. The demurrer, therefore, is overruled, with 20 days to answer, and the temporary restraining order is continued pendente lite.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="444" ORDERLABEL="432" TYPE="page">
+        <fptr FILEID="tiff_00222_1"/>
+        <fptr FILEID="jpg_00222_1"/>
+        <fptr FILEID="alto_00222_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_444.2" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="445" ORDERLABEL="433" TYPE="page">
+        <fptr FILEID="tiff_00223_0"/>
+        <fptr FILEID="jpg_00223_0"/>
+        <fptr FILEID="alto_00223_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_445.2" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="446" ORDERLABEL="434" TYPE="page">
+        <fptr FILEID="tiff_00223_1"/>
+        <fptr FILEID="jpg_00223_1"/>
+        <fptr FILEID="alto_00223_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_446.1" BETYPE="IDREF" FILEID="alto_00223_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="447" ORDERLABEL="435" TYPE="page">
+        <fptr FILEID="tiff_00224_0"/>
+        <fptr FILEID="jpg_00224_0"/>
+        <fptr FILEID="alto_00224_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_447.3" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="448" ORDERLABEL="436" TYPE="page">
+        <fptr FILEID="tiff_00224_1"/>
+        <fptr FILEID="jpg_00224_1"/>
+        <fptr FILEID="alto_00224_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_448.2" BETYPE="IDREF" FILEID="alto_00224_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="449" ORDERLABEL="437" TYPE="page">
+        <fptr FILEID="tiff_00225_0"/>
+        <fptr FILEID="jpg_00225_0"/>
+        <fptr FILEID="alto_00225_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_449.3" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="450" ORDERLABEL="438" TYPE="page">
+        <fptr FILEID="tiff_00225_1"/>
+        <fptr FILEID="jpg_00225_1"/>
+        <fptr FILEID="alto_00225_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_450.2" BETYPE="IDREF" FILEID="alto_00225_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="451" ORDERLABEL="439" TYPE="page">
+        <fptr FILEID="tiff_00226_0"/>
+        <fptr FILEID="jpg_00226_0"/>
+        <fptr FILEID="alto_00226_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_451.3" BETYPE="IDREF" FILEID="alto_00226_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="452" ORDERLABEL="440" TYPE="page">
+        <fptr FILEID="tiff_00226_1"/>
+        <fptr FILEID="jpg_00226_1"/>
+        <fptr FILEID="alto_00226_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_452.2" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.5" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.4" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-7" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.7" BETYPE="IDREF" FILEID="alto_00223_1"/>
+            <area BEGIN="BL_447.1" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-6" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.6" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.5" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            <area BEGIN="BL_448.1" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-9" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.9" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-8" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.8" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.4" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-7" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.7" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-6" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.6" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.5" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.4" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            <area BEGIN="BL_450.1" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-3" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.3" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.4" BETYPE="IDREF" FILEID="alto_00225_1"/>
+            <area BEGIN="BL_451.1" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.4" BETYPE="IDREF" FILEID="alto_00224_1"/>
+            <area BEGIN="BL_449.1" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.4" BETYPE="IDREF" FILEID="alto_00226_0"/>
+            <area BEGIN="BL_452.1" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

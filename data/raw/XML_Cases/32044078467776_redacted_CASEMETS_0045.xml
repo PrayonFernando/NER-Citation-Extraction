@@ -1,0 +1,603 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0045" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Knapp v. Knapp">KNAPP v. KNAPP</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 310</citation>
+          <citation category="parallel" type="bluebook">59 F. 641</citation>
+          <decisiondate>1893-06-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:02Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00161_1" MIMETYPE="image/tiff" CHECKSUM="cebeac8b16772ec15daddec22b936011" CHECKSUMTYPE="MD5" SIZE="15636">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00161_1.tif"/>
+      </file>
+      <file ID="tiff_00162_0" MIMETYPE="image/tiff" CHECKSUM="08b759dee039f425b675ef0c7eca1768" CHECKSUMTYPE="MD5" SIZE="50932">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00162_0.tif"/>
+      </file>
+      <file ID="tiff_00162_1" MIMETYPE="image/tiff" CHECKSUM="db3aaa971482e80fdc98d99b0a551a9f" CHECKSUMTYPE="MD5" SIZE="53442">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00162_1.tif"/>
+      </file>
+      <file ID="tiff_00163_0" MIMETYPE="image/tiff" CHECKSUM="9684dde4d3bc575770a00eece6dc8411" CHECKSUMTYPE="MD5" SIZE="53730">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00163_0.tif"/>
+      </file>
+      <file ID="tiff_00163_1" MIMETYPE="image/tiff" CHECKSUM="eff1cc986210402d523493a41b6a86a2" CHECKSUMTYPE="MD5" SIZE="52570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00163_1.tif"/>
+      </file>
+      <file ID="tiff_00164_0" MIMETYPE="image/tiff" CHECKSUM="0d8f077a5f47a3570da866860d72899e" CHECKSUMTYPE="MD5" SIZE="52292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00164_0.tif"/>
+      </file>
+      <file ID="tiff_00164_1" MIMETYPE="image/tiff" CHECKSUM="6e20db0170d14283b36baef94bb45c76" CHECKSUMTYPE="MD5" SIZE="53078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00164_1.tif"/>
+      </file>
+      <file ID="tiff_00165_0" MIMETYPE="image/tiff" CHECKSUM="b10f02e7a5056d4074bfbf1693380bf5" CHECKSUMTYPE="MD5" SIZE="12254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00165_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00161_1" MIMETYPE="image/jpg" CHECKSUM="3a703ad6e7fd7c9aa529cc51418f8f4e" CHECKSUMTYPE="MD5" SIZE="96114">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00161_1.jpg"/>
+      </file>
+      <file ID="jpg_00162_0" MIMETYPE="image/jpg" CHECKSUM="75613fe9b8d18f9e369f75eba264cb3e" CHECKSUMTYPE="MD5" SIZE="189041">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00162_0.jpg"/>
+      </file>
+      <file ID="jpg_00162_1" MIMETYPE="image/jpg" CHECKSUM="c832560c4af3a21dedb97950037194e0" CHECKSUMTYPE="MD5" SIZE="209662">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00162_1.jpg"/>
+      </file>
+      <file ID="jpg_00163_0" MIMETYPE="image/jpg" CHECKSUM="3780b7f1bafbfdd41ad62aadac30e151" CHECKSUMTYPE="MD5" SIZE="197576">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00163_0.jpg"/>
+      </file>
+      <file ID="jpg_00163_1" MIMETYPE="image/jpg" CHECKSUM="e86288f49b42aefbce754ee13710321b" CHECKSUMTYPE="MD5" SIZE="199708">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00163_1.jpg"/>
+      </file>
+      <file ID="jpg_00164_0" MIMETYPE="image/jpg" CHECKSUM="a75ee16f29fccd038802795c80b8826a" CHECKSUMTYPE="MD5" SIZE="190828">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00164_0.jpg"/>
+      </file>
+      <file ID="jpg_00164_1" MIMETYPE="image/jpg" CHECKSUM="c2fed04d48a59438ae56aad9ddf29c72" CHECKSUMTYPE="MD5" SIZE="209549">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00164_1.jpg"/>
+      </file>
+      <file ID="jpg_00165_0" MIMETYPE="image/jpg" CHECKSUM="998e9467a4f44b7d47f3e2189efa1093" CHECKSUMTYPE="MD5" SIZE="83834">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00165_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00161_1" MIMETYPE="text/xml+gzip" CHECKSUM="5175d82d14975ef888c30c0f6dac49a5" CHECKSUMTYPE="MD5" SIZE="4532">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00161_1.xml.gz"/>
+      </file>
+      <file ID="alto_00162_0" MIMETYPE="text/xml+gzip" CHECKSUM="858a213d958a5489799e016cce00df4a" CHECKSUMTYPE="MD5" SIZE="12055">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00162_0.xml.gz"/>
+      </file>
+      <file ID="alto_00162_1" MIMETYPE="text/xml+gzip" CHECKSUM="8b2ebd2e17f8dbf27766d7066b18d766" CHECKSUMTYPE="MD5" SIZE="12894">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00162_1.xml.gz"/>
+      </file>
+      <file ID="alto_00163_0" MIMETYPE="text/xml+gzip" CHECKSUM="9251eba6d66c608caa246a3dcf130dba" CHECKSUMTYPE="MD5" SIZE="13372">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00163_0.xml.gz"/>
+      </file>
+      <file ID="alto_00163_1" MIMETYPE="text/xml+gzip" CHECKSUM="30c93f21ac32097400a0c2b1e3def911" CHECKSUMTYPE="MD5" SIZE="12970">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00163_1.xml.gz"/>
+      </file>
+      <file ID="alto_00164_0" MIMETYPE="text/xml+gzip" CHECKSUM="f022df8e4c55c467fa728191df4819df" CHECKSUMTYPE="MD5" SIZE="12999">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00164_0.xml.gz"/>
+      </file>
+      <file ID="alto_00164_1" MIMETYPE="text/xml+gzip" CHECKSUM="85aa9f42c7107066f63a44688596163c" CHECKSUMTYPE="MD5" SIZE="13195">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00164_1.xml.gz"/>
+      </file>
+      <file ID="alto_00165_0" MIMETYPE="text/xml+gzip" CHECKSUM="ffb5711f72b587b1292f95a3f8e05620" CHECKSUMTYPE="MD5" SIZE="3300">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00165_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0045" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="310" lastpage="317">
+              <court pgmap="322" id="b322-13">District Court, D. Alaska.</court>
+              <citation pgmap="322" id="b322-11">59 F. 641</citation>
+              <parties pgmap="322" id="b322-12">KNAPP v. KNAPP.</parties>
+              <decisiondate pgmap="322" id="b322-14">June 5, 1893.</decisiondate>
+              <attorneys pgmap="322" id="b322-18">C. S. Johnson, for plaintiff.</attorneys>
+              <attorneys pgmap="322" id="b322-19">Lyman E. Knapp, for defendant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="322" id="b322-20">TRUITT, District Judge.</author>
+                <p pgmap="322" id="b322-21">This is an action at law for debt, and is based on a de­cree of said superior court, which is set out in haec verba in the complaint, as follows:</p>
+                <blockquote pgmap="323" id="b323-3">“In the Superior Court of the State of Washington for the County of Skagit.</blockquote>
+                <blockquote pgmap="323" id="b323-4">“George E. Knapp, Plaintiff, vs. Gertrude Knapp, De­fendant. (No. 1,538).</blockquote>
+                <blockquote pgmap="323" id="b323-5">“Decree.</blockquote>
+                <blockquote pgmap="323(365) 324(14)" id="b323-6">“On this 1st day of February, 1893, this cause having been tried upon the issues raised by the pleadings, and after such trial the court having made and filed its findings of facts and conclusions of law, whereby it appears: First. That both parties to this cause are entitled to a decree of divorce. Second. That the defendant is entitled to the custody of the child, Matilda, until it should arrive at the age of five (5) years, and thereafter until the further order of the court. Third. That plaintiff assigned to the defend­ant a certain mortgage on land in Lincoln county, Wash., and coupon note collateral thereto, guarantied by the Ver­mont Loan &amp; Trust Company, of the face value of five hundred dollars, and that the defendant also have decree for an additional sum of three hundred ($300) dollars, and that the plaintiff pay the sum of ten ($10) dollars per month for the support of said child: Now, therefore, it is hereby adjudged and decreed that a divorce from the bonds of matrimony be, and the same hereby is, granted to both parties; and that the marriage contract existing between them be, and the same hereby is, dissolved, as to both par­ties. (2) That the defendant have the care and custody of the child, Matilda, until it shall arrive at the age of five (5) years, and thereafter until the further order of the court. (3) It is further decreed that the plaintiff assign to the defendant the coupon note, and collateral mortgage thereto on lands in Lincoln county, Wash., and guarantied by the Vermont Loan &amp; Trust Company, of the face value of five hundred dollars. (4) It is further decreed that the defendant have and recover from the plaintiff an additional sum of three hundred ($300) dollars, and that defendant have execution therefor. (5) It is further decreed that the plaintiff pay the defendant, in monthly installments, and payable on the first of each and every month, the sum of ten ($10.00) dollars, for the support and maintenance of said child, commencing on the 1st day of March next, and that defendant have execution therefor. (6) It is further decreed that each party pay his or her own costs of this suit.</blockquote>
+                <blockquote pgmap="324" id="b324-4">“Henry McBride, Judge.”</blockquote>
+                <p pgmap="324" id="b324-5">The complaint, after setting out this decree, then states that the plaintiff has duly complied with the directions thereof as to assigning to defendant the note and mortgage therein mentioned, but has wholly failed and neglected to pay said $300, or any part thereof, to plaintiff, and has failed to pay, or make provision for payment of, said sum of $10 per'month, as provided in said decree; that said sum of $300 is- now due and owing, together with interest thereon from the 1st day of February, 1893. The com­plaint further alleges “that before the hearing on this com­plaint can be had, to wit, on the 1st day of March, 1893, the first of said monthly payments of $10 will be due, and that on the 1st day of each succeeding month a payment of $10 will be due from defendant to plaintiff.” It also alleges that said superior court had the jurisdiction and power to make said decree, and that the same is in full force and effect, and has never -been reversed, satisfied, or otherwise vacated. The prayer is for judgment for the sum of $300, with legal interest since February 1, 1893, and for the further sum of $10 per month, to be paid on the 1st day of each and every month, beginning on the 1st day of March, 1893, so long as said decree of said superior court shall remain in force, and for the costs and disbursements of the action. This complaint was filed on the 21st day of February, 1893, and the defendant has filed a demurrer thereto, in which the following grounds therefor are specified: (1) That the court has no jurisdiction of the person or subject-mat­ter of the action; and (2) that the complaint does not state facts sufficient to constitute a cause of action.</p>
+                <p pgmap="324" id="b324-7">The question'of jurisdiction of the court that rendered the decree upon which this action is based is not raised by this demurrer, for that can only be done by a plea in the way of an answer. This court has jurisdiction of the per­son of the defendant, because he has not only been regu­larly served with process, but has also appeared in the case.</p>
+                <p pgmap="324(33) 325(436) 326(45)" id="b324-8">The only question, then, which could be raised by this demurrer, and the only question presented in arguing it, is as to whether or not a complaint in an action at law for debt, based upon a decree of a court of chancery in a state court of general jurisdiction for a specific amount of money, states a cause of action in a federal court in another state or territory. Upon first approaching this question, I was somewhat surprised to find that Mr. Bishop, in his very learned work on Marriage and Divorce, in treating of it, says, “The doctrine is believed to be general, that an ac­tion at law will not lie for money decreed in a court of equity.” 2 Bish.Mar. &amp; Div. § 499. But the case of Hugh v. Higgs, 8 Wheat, 697, to which he refers as au­thority, has been overruled in Pennington v. Gibson, 16 How. 65, where it is expressly held that in all cases where an action of debt can be maintained upon a judgment at law, to recover a sum of money awarded by such judgment, the like action may be maintained upon a decree in equity, provided it is for a specific amount, and the records of the court are of equal dignity and binding obligation. The other cases cited are from the courts of Massachusetts, and I have not been able to examine them; but under the clear statement of the law on the subject in Pennington v. Gib­son, supra, which is reaffirmed in Nations v. Johnson, 24 How. 203, I consider the question settled in the federal courts. I do not, therefore, feel called upon to investigate a line of decisions'made by a state court, which, if not modi­fied or overruled by the court that made them, are certainly at variance with most of the other state courts, as well as the federal courts; for Black, in his very exhaustive treatise on the Law of Judgments, (volume 2, § 962), gives the following statement and rule of law: “The English law has always sanctioned the maintenance of actions at law upon decrees in chancery rendered in foreign countries, or in the colonies, when such decrees were merely for the pay­ment of a specific sum. But, in regard to the decrees of their own court of chancery, the rule in that country is fixed to the contrary. The law courts refuse to take cognizance of actions on such decrees, for the reason that the court which made the decree can, within its own juris­diction, enforce it, and for this reason the action would be unnecessary. In the United States, some of the earlier cases manifested a disposition to follow the English rule in this respect. But those decisions have been overruled, and it is now well settled that an action of debt will lie in a court of law upon the decree of a domestic court of chan­cery, in all cases where such decree directs the payment of a fixed, liquidated, and absolute debt in money.”</p>
+                <p pgmap="326" id="b326-4">Freeman also gives the rule in equally emphatic lan­guage. (Freem.Judgm. § 434).</p>
+                <p pgmap="326" id="b326-5">The constitution of the United States declares that: “Full faith and credit shall be given in each state to the public acts, records, and judicial proceedings of every other state; and the congress may, by general laws prescribe the manner in which such acts, records, and proceedings shall be proved, and the effect thereof.”</p>
+                <p pgmap="326" id="b326-6">And section 90S of the Revised Statutes provides the mode of authenticating the records and judicial proceed­ings of any state, territory, or county, and then declares that: “The records and judicial proceedings, so au­thenticated, shall have such faith and credit given to them in every court within the United States as they have by law or usage in the courts of the state from which they are taken.”</p>
+                <p pgmap="326(236) 327(74)" id="b326-8">In 1813 the celebrated case of Mills v. Duryee, 7 Cranch, 481, was decided by the supreme court, and in the decision the act of May 26, 1790, is construed, and it is held that a judgment of a sister state is conclusive on the merits; that, for the purposes of pleading and evidence, it is entitled to the full dignity of a record; and that the defendant can­not, when sued on the judgment, deny the indebtedness which it recites, or the obligation it establishes, or impeach its justice. Following the rule given in Pennington v. Gib­son, supra, I hold that an action of debt can be maintained on the decree set out in the complaint in this case, and that under the authority of Mills v. Duryee, supra, this decree is conclusive on the merits of the suit in which it was ob­tained, when admitted by demurrer or failure to answer, or established by proof on the trial of the issues raised by a plea of nul tiel record, or such other plea as may be made. Black, in the Law of Judgments, (volume 2, § 958), says: “At the common law, an action of debt will lie' on a judg­ment as soon as it is recovered, and without any regard to the plaintiff’s right to take out execution; for the remedy by execution is cumulative, merely, and the statute which gives this remedy does not impair the common-law right of action on the judgment as a debt of record. Accordingly, in a majority of the states, the owner of a judgment may bring suit thereon in the same or any other court of compe­tent jurisdiction, and prosecute it to final judgment, not­withstanding the collection of the original judgment might still have been enforced by execution, and.even although an execution is then outstanding.”</p>
+                <p pgmap="327" id="b327-4">Freeman, in his Law of Judgments, (section 432), shows the weight of authorities to be in support of the common-­law rule. Both of these authors refer to the case of Pitzer v. Russel, 4 Or. 124, where it is determined — “That the plaintiff cannot claim a strict right to sue his judgment as often as he may choose, without showing any necessity for such course.”</p>
+                <p pgmap="327(281) 328(124)" id="b327-5">But this case was entirely different from the one at bar. It was an action brought in the county court of Benton county, Or., upon a judgment in a justice’s court of Grant county, in that state; and the laws of Oregon have a pro­vision by which a judgment given by a justice of the peace may be docketed in the circuit court, and thereafter, it must be enforced as a judgment of such circuit court. The judg­ment of a circuit court of said state can be enforced in any county thereof by execution issued and sent to the sheriff of such county; and the law expressly provides that “ex­ecutions may be issued at the same time to different coun­ties.” Code Or. § 274. There is also a provision for mak­ing the lien of a judgment in one county of the state ef­fective in any other. Therefore, it would seem to be en­tirely unnecessary to annoy a judgment debtor, and put him to heavy costs, by multiplying domestic judgments within the state of Oregon, unless some valid cause there­for can be shown. But the same reasoning would not ap­ply there against maintaining an action on a judgment or decree of a sister state. The complaint in this action al­leges that the decree sued on is in full force and effect, and has never been revised, satisfied, or otherwise vacated, and I think it presents a cause of action which this court has jurisdiction to try. The demurrer must therefore be overruled. But, in holding that the complaint alleges a cause of action, I do not decide that the plaintiff is entitled to all she demands. It seems to me that, when sued on, the same general rules of law should apply to this decree that would apply to an instrument of writing for the payment of money to become due in installments, except that it has greater dignity, and must be given more faith and credit, than a written obligation to pay could have. No action at law can be maintained upon such an instrument for any greater sum than the amount of the installments due at the time of commencing the action, and the statute of limitations begins to run from the expiration of the period fixed for the payment of each installment,as it becomes due. De Uprey v. De Uprey, 23 Cal. 352.</p>
+                <p pgmap="328" id="b328-4">The case of McCracken v. Swartz, 5 Or. 63, was a pro­ceeding in the nature of scire facias. The verified motion, which, under the Code of Oregon, takes the place and an­swers the purpose of a declaration, set forth that on March 18, 1867, a decree was rendered by-the circuit court for Marion county, in favor of the plaintiff and against the de­fendant, for the sum of $100 per annum from the date of said decree, to be paid said plaintiff as alimony for the sup­port of herself and family. The first payment or install­ment of $100 fell due March 18, 1868, and each succeeding year a like sum had become due, but no payment had , ever been made upon the decree. The motion alleged that, at the date of filing it, the amount due upon said decree was $500 and interest. This was all that was due then, and ft was not claimed that an order for an execution in any greater sum could be made. In Oregon, when such an or­der is made, it is entered in the journal of the court, and docketed as a judgment, and, to all intents and purposes, becomes a judgment.</p>
+                <p pgmap="328(107) 329(52)" id="b328-5">The elementary principles of the laws, and such au­thorities as I have found touching the question, all negative the claim that the plaintiff in this action should have any greater relief than a judgment for the amount shown to be due upon the decree sued upon at the date of filing the complaint. The amount of interest allowed upon a judg­ment or decree of a sister state, when it is the basis of ac­tion in another forum, is determined by the laws of the state where the judgment or decree was obtained. In this case, judgment will therefore be entered in favor of the plaintiff and against the defendant for the amount due up­on the decree set out in her complaint at the date of filing, together with interest thereon according to the laws of Washington, and for costs and disbursements, unless an answer be filed within such reasonable time as may be granted therefor.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="322" ORDERLABEL="310" TYPE="page">
+        <fptr FILEID="tiff_00161_1"/>
+        <fptr FILEID="jpg_00161_1"/>
+        <fptr FILEID="alto_00161_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_322.1" BETYPE="IDREF" FILEID="alto_00161_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="323" ORDERLABEL="311" TYPE="page">
+        <fptr FILEID="tiff_00162_0"/>
+        <fptr FILEID="jpg_00162_0"/>
+        <fptr FILEID="alto_00162_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_323.2" BETYPE="IDREF" FILEID="alto_00162_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="324" ORDERLABEL="312" TYPE="page">
+        <fptr FILEID="tiff_00162_1"/>
+        <fptr FILEID="jpg_00162_1"/>
+        <fptr FILEID="alto_00162_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_324.2" BETYPE="IDREF" FILEID="alto_00162_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="325" ORDERLABEL="313" TYPE="page">
+        <fptr FILEID="tiff_00163_0"/>
+        <fptr FILEID="jpg_00163_0"/>
+        <fptr FILEID="alto_00163_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_325.3" BETYPE="IDREF" FILEID="alto_00163_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="326" ORDERLABEL="314" TYPE="page">
+        <fptr FILEID="tiff_00163_1"/>
+        <fptr FILEID="jpg_00163_1"/>
+        <fptr FILEID="alto_00163_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_326.2" BETYPE="IDREF" FILEID="alto_00163_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="327" ORDERLABEL="315" TYPE="page">
+        <fptr FILEID="tiff_00164_0"/>
+        <fptr FILEID="jpg_00164_0"/>
+        <fptr FILEID="alto_00164_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_327.3" BETYPE="IDREF" FILEID="alto_00164_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="328" ORDERLABEL="316" TYPE="page">
+        <fptr FILEID="tiff_00164_1"/>
+        <fptr FILEID="jpg_00164_1"/>
+        <fptr FILEID="alto_00164_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_328.2" BETYPE="IDREF" FILEID="alto_00164_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="329" ORDERLABEL="317" TYPE="page">
+        <fptr FILEID="tiff_00165_0"/>
+        <fptr FILEID="jpg_00165_0"/>
+        <fptr FILEID="alto_00165_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_329.3" BETYPE="IDREF" FILEID="alto_00165_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b324-4" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_324.4" BETYPE="IDREF" FILEID="alto_00162_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-21" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.24" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-20" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.23" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-11" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.12" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-14" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.15" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-13" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.14" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-18" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.21" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-19" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.22" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-4" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.4" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.5" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-4" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.4" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-4" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.4" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-12" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.13" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.5" BETYPE="IDREF" FILEID="alto_00164_0"/>
+            <area BEGIN="BL_328.1" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-4" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.4" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.5" BETYPE="IDREF" FILEID="alto_00164_1"/>
+            <area BEGIN="BL_329.1" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.5" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-6" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.6" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-6" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.6" BETYPE="IDREF" FILEID="alto_00162_0"/>
+            <area BEGIN="BL_324.1" BETYPE="IDREF" FILEID="alto_00162_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b324-7" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_324.6" BETYPE="IDREF" FILEID="alto_00162_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-3" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.3" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b324-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_324.5" BETYPE="IDREF" FILEID="alto_00162_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b324-8" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_324.7" BETYPE="IDREF" FILEID="alto_00162_1"/>
+            <area BEGIN="BL_325.1" BETYPE="IDREF" FILEID="alto_00163_0"/>
+            <area BEGIN="BL_326.1" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-8" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.7" BETYPE="IDREF" FILEID="alto_00163_1"/>
+            <area BEGIN="BL_327.1" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

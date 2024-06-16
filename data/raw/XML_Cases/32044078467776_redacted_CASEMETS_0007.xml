@@ -1,0 +1,1216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0007" publicationstatus="published">
+          <court abbreviation="D. Or." jurisdiction="United States">United States District Court for the District of Oregon</court>
+          <name abbreviation="The Louisa Simpson">THE LOUISA SIMPSON</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 50</citation>
+          <citation category="parallel" type="bluebook">Fed.Cas.No.8,533</citation>
+          <decisiondate>1871-10-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:21:58Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00031_1" MIMETYPE="image/tiff" CHECKSUM="9f88e0d59bc90a0b2f71e29302605b37" CHECKSUMTYPE="MD5" SIZE="25612">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00031_1.tif"/>
+      </file>
+      <file ID="tiff_00032_0" MIMETYPE="image/tiff" CHECKSUM="0b379c74f537f26d4c3e5a8b06850f4b" CHECKSUMTYPE="MD5" SIZE="44558">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00032_0.tif"/>
+      </file>
+      <file ID="tiff_00032_1" MIMETYPE="image/tiff" CHECKSUM="84d39b3c4b38ad6a2cb563d8d8e97175" CHECKSUMTYPE="MD5" SIZE="53088">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00032_1.tif"/>
+      </file>
+      <file ID="tiff_00033_0" MIMETYPE="image/tiff" CHECKSUM="43dc0a9a44a68cf4658522853a6972c2" CHECKSUMTYPE="MD5" SIZE="53830">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00033_0.tif"/>
+      </file>
+      <file ID="tiff_00033_1" MIMETYPE="image/tiff" CHECKSUM="212c118eb0c4641865678adfd0382c76" CHECKSUMTYPE="MD5" SIZE="55846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00033_1.tif"/>
+      </file>
+      <file ID="tiff_00034_0" MIMETYPE="image/tiff" CHECKSUM="08b39da8389b7124e24d561853325e71" CHECKSUMTYPE="MD5" SIZE="53168">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00034_0.tif"/>
+      </file>
+      <file ID="tiff_00034_1" MIMETYPE="image/tiff" CHECKSUM="69201f149efe5319e8188c2b7470b40a" CHECKSUMTYPE="MD5" SIZE="54254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00034_1.tif"/>
+      </file>
+      <file ID="tiff_00035_0" MIMETYPE="image/tiff" CHECKSUM="9ac65b3dfc91562529c31617b3fe15ea" CHECKSUMTYPE="MD5" SIZE="42782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00035_0.tif"/>
+      </file>
+      <file ID="tiff_00035_1" MIMETYPE="image/tiff" CHECKSUM="5e6026d1fec5a575319597ebd4d76c1c" CHECKSUMTYPE="MD5" SIZE="54112">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00035_1.tif"/>
+      </file>
+      <file ID="tiff_00036_0" MIMETYPE="image/tiff" CHECKSUM="94adbb13ca455726560adc225135eb2b" CHECKSUMTYPE="MD5" SIZE="52882">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00036_0.tif"/>
+      </file>
+      <file ID="tiff_00036_1" MIMETYPE="image/tiff" CHECKSUM="a3e426e9848c914566f31c2c5ae602d7" CHECKSUMTYPE="MD5" SIZE="53956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00036_1.tif"/>
+      </file>
+      <file ID="tiff_00037_0" MIMETYPE="image/tiff" CHECKSUM="48d8f3d3a3d9157a173be31573151e63" CHECKSUMTYPE="MD5" SIZE="54226">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00037_0.tif"/>
+      </file>
+      <file ID="tiff_00037_1" MIMETYPE="image/tiff" CHECKSUM="fb5211dd2780324ff580e4c841add1ff" CHECKSUMTYPE="MD5" SIZE="51126">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00037_1.tif"/>
+      </file>
+      <file ID="tiff_00038_0" MIMETYPE="image/tiff" CHECKSUM="78117a1bc8d4298fdc1a0a5a85706752" CHECKSUMTYPE="MD5" SIZE="41860">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00038_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00031_1" MIMETYPE="image/jpg" CHECKSUM="725ee817e4b6f12a189fc00e22857fcb" CHECKSUMTYPE="MD5" SIZE="124727">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00031_1.jpg"/>
+      </file>
+      <file ID="jpg_00032_0" MIMETYPE="image/jpg" CHECKSUM="c360f6d9464358791001c47b51bdf7a7" CHECKSUMTYPE="MD5" SIZE="165969">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00032_0.jpg"/>
+      </file>
+      <file ID="jpg_00032_1" MIMETYPE="image/jpg" CHECKSUM="c6a065ff18e5ec104c8bb07e609ae385" CHECKSUMTYPE="MD5" SIZE="206932">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00032_1.jpg"/>
+      </file>
+      <file ID="jpg_00033_0" MIMETYPE="image/jpg" CHECKSUM="ce1c554651f14a481f107e1d27a15a29" CHECKSUMTYPE="MD5" SIZE="196015">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00033_0.jpg"/>
+      </file>
+      <file ID="jpg_00033_1" MIMETYPE="image/jpg" CHECKSUM="c1ce8525403974f9b8d5de01c832f794" CHECKSUMTYPE="MD5" SIZE="207284">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00033_1.jpg"/>
+      </file>
+      <file ID="jpg_00034_0" MIMETYPE="image/jpg" CHECKSUM="ec225d2e2d73b510dec9330445fea2c0" CHECKSUMTYPE="MD5" SIZE="189310">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00034_0.jpg"/>
+      </file>
+      <file ID="jpg_00034_1" MIMETYPE="image/jpg" CHECKSUM="af29b8ab9eb1fd56aee00db4e44f0f34" CHECKSUMTYPE="MD5" SIZE="207790">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00034_1.jpg"/>
+      </file>
+      <file ID="jpg_00035_0" MIMETYPE="image/jpg" CHECKSUM="6ce35e24d3a86b74ec44960ea1be1222" CHECKSUMTYPE="MD5" SIZE="169511">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00035_0.jpg"/>
+      </file>
+      <file ID="jpg_00035_1" MIMETYPE="image/jpg" CHECKSUM="2ee24d56f369043b92ee979b29f3ffed" CHECKSUMTYPE="MD5" SIZE="201651">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00035_1.jpg"/>
+      </file>
+      <file ID="jpg_00036_0" MIMETYPE="image/jpg" CHECKSUM="e1d029482cbefaa1b43dcf7d8715aa1a" CHECKSUMTYPE="MD5" SIZE="187645">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00036_0.jpg"/>
+      </file>
+      <file ID="jpg_00036_1" MIMETYPE="image/jpg" CHECKSUM="4a3c7f2ed39c33d08d69c63f114d9cc7" CHECKSUMTYPE="MD5" SIZE="208355">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00036_1.jpg"/>
+      </file>
+      <file ID="jpg_00037_0" MIMETYPE="image/jpg" CHECKSUM="d84fe1502a928be53e6b2d16a4cc79a9" CHECKSUMTYPE="MD5" SIZE="196123">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00037_0.jpg"/>
+      </file>
+      <file ID="jpg_00037_1" MIMETYPE="image/jpg" CHECKSUM="3d1fd19a3d2353cb8f8c7f92eb4551f3" CHECKSUMTYPE="MD5" SIZE="194169">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00037_1.jpg"/>
+      </file>
+      <file ID="jpg_00038_0" MIMETYPE="image/jpg" CHECKSUM="c0579ef8b85f24a1daf86b6d888c3b60" CHECKSUMTYPE="MD5" SIZE="157869">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00038_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00031_1" MIMETYPE="text/xml+gzip" CHECKSUM="011bbf2677c407c7f33c7baea782cfa4" CHECKSUMTYPE="MD5" SIZE="6958">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00031_1.xml.gz"/>
+      </file>
+      <file ID="alto_00032_0" MIMETYPE="text/xml+gzip" CHECKSUM="0a1bd4d98eea09fe79a061bc7313d22f" CHECKSUMTYPE="MD5" SIZE="10620">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00032_0.xml.gz"/>
+      </file>
+      <file ID="alto_00032_1" MIMETYPE="text/xml+gzip" CHECKSUM="c6d77799cb8fd859737cfae8cc47ef06" CHECKSUMTYPE="MD5" SIZE="12043">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00032_1.xml.gz"/>
+      </file>
+      <file ID="alto_00033_0" MIMETYPE="text/xml+gzip" CHECKSUM="cb3301277f387da2503390476217376d" CHECKSUMTYPE="MD5" SIZE="13152">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00033_0.xml.gz"/>
+      </file>
+      <file ID="alto_00033_1" MIMETYPE="text/xml+gzip" CHECKSUM="3a1e73cde4499ea9012681ca49ecf690" CHECKSUMTYPE="MD5" SIZE="13124">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00033_1.xml.gz"/>
+      </file>
+      <file ID="alto_00034_0" MIMETYPE="text/xml+gzip" CHECKSUM="714ccc9933293c925e6dc0b3d9a3ad8f" CHECKSUMTYPE="MD5" SIZE="12367">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00034_0.xml.gz"/>
+      </file>
+      <file ID="alto_00034_1" MIMETYPE="text/xml+gzip" CHECKSUM="7ece08048b9d26490a84d84574296a40" CHECKSUMTYPE="MD5" SIZE="12915">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00034_1.xml.gz"/>
+      </file>
+      <file ID="alto_00035_0" MIMETYPE="text/xml+gzip" CHECKSUM="7aa4245a178731c0a8825c758f8de5b2" CHECKSUMTYPE="MD5" SIZE="10967">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00035_0.xml.gz"/>
+      </file>
+      <file ID="alto_00035_1" MIMETYPE="text/xml+gzip" CHECKSUM="cd9322c5a1e4d9a3def01feb8d896df4" CHECKSUMTYPE="MD5" SIZE="13321">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00035_1.xml.gz"/>
+      </file>
+      <file ID="alto_00036_0" MIMETYPE="text/xml+gzip" CHECKSUM="10cb64e6459c38a7aeb1719dc8719aa1" CHECKSUMTYPE="MD5" SIZE="13092">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00036_0.xml.gz"/>
+      </file>
+      <file ID="alto_00036_1" MIMETYPE="text/xml+gzip" CHECKSUM="1e3b048d013b912a12b8b840c92fe3ad" CHECKSUMTYPE="MD5" SIZE="13285">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00036_1.xml.gz"/>
+      </file>
+      <file ID="alto_00037_0" MIMETYPE="text/xml+gzip" CHECKSUM="cd62e60c1f60c81aefeabc8d0343724d" CHECKSUMTYPE="MD5" SIZE="13461">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00037_0.xml.gz"/>
+      </file>
+      <file ID="alto_00037_1" MIMETYPE="text/xml+gzip" CHECKSUM="3c2bdbd0fa80e5028952dba12b1db964" CHECKSUMTYPE="MD5" SIZE="12444">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00037_1.xml.gz"/>
+      </file>
+      <file ID="alto_00038_0" MIMETYPE="text/xml+gzip" CHECKSUM="ad5ab6608da59993235b237643280303" CHECKSUMTYPE="MD5" SIZE="10131">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00038_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0007" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="50" lastpage="63">
+              <court pgmap="62" id="b62-8">District Court, D. Oregon.</court>
+              <citation pgmap="62" id="b62-6">Fed.Cas.No.8,533</citation>
+              <parties pgmap="62" id="b62-7">THE LOUISA SIMPSON.<footnotemark>1</footnotemark>
+              </parties>
+              <decisiondate pgmap="62" id="b62-9">Oct. 7, 1871.</decisiondate>
+              <attorneys pgmap="63" id="b63-4">Joseph N. Dolph, for libellant.</attorneys>
+              <attorneys pgmap="63" id="b63-5">William Strong, for claimants.</attorneys>
+              <footnote label="1">
+                <p pgmap="62" id="b62-15">1 Reported by L. S. B. Sawyer, Esq., and here reprinted by per­mission.</p>
+                <p pgmap="62" id="b62-16">Affirmed by the circuit court; case unreported.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="63" id="b63-6">DEADY, District Judge.</author>
+                <p pgmap="63" id="b63-7">The libel in this case was filed September 19, 1870. On October 10, thereafter, an amended libel was filed, wherein it is alleged that on July 17, 1870, at the port of Kotzebue Sound, in the district of Alaska, in waters navigable from the sea by vessels of ten or more tons burden, J. M. Selden, captain of the U. S. revenue cutter Reliance, did seize the schooner Louisa Simpson and cargo, consisting of liquors, tobacco, powder, guns, caps, knives, lead, cotton cloth, ivory, whale-bone, peltries, etc., and report the same to William Capus, collector of customs for said district, at Alaska, who now holds said schooner and cargo, at the port of Portland, in the district pf Oregon, as forfeited to the United States for the causes following:</p>
+                <p pgmap="63" id="b63-8">1. That on or about April 19, 1870, said schooner, being then owned in whole or in part by American citizens, sailed from the port of San Francisco, California, and that at said date, and upon said voyage, one Henry Ravens, the master of said schooner, exported from said port of San Francisco, within the United States, upon said schooner, and as part of her cargo, a large quantity of distilled spirits, of the value of over four hundred dollars, destined, and intended to be taken and imported into the territory of Alaska, in violation of section 4 of the act of congress entitled, “An act to ex­tend the laws of the United States relating to customs, com­merce, and navigation over the territory ceded to the United States by Russia, to establish a collection district therein, and for other purposes;” approved July 27, 1868 (15 Stat. 241); and in violation of the restrictions and prohibitions of the president of the United States, made in pursuance of said act by executive order, February 4, 1870, prohibiting the importation of distilled spirits into or within the terri­tory of Alaska.</p>
+                <p pgmap="64" id="b64-3">2. For that the said distilled spirits of the value and ex­ported and destined as aforesaid, were, about July 17, 1870, found on board said schooner, at Kotzebue Sound afore­said, the cargo aforesaid, being also then and there on board said schooner.</p>
+                <p pgmap="64" id="b64-4">3. That on or about July 17, 1870, said distilled spirits of the value, and exported as aforesaid, “were imported in­to said district of Alaska, were used and attempted to be used and landed from said schooner, at Kotzebue Sound and elsewhere in said territory, and were there found upon said schooner; said schooner, at the same time, having on board the cargo aforesaid, in violation of said section 4 of the act of congress, and the restrictions and prohibitions of the president aforesaid.”</p>
+                <p pgmap="64" id="b64-5">4. That said schooner being of twenty tons or more bur­den, and owned as aforesaid, was, about July 17, 1870, “found with the cargo or lading aforesaid on board, trading between district and district in the United.States, and be­tween the ports of San Francisco, in the collection district of San Francisco, and in the fourth coasting district and Kotzebue Sound, and other places in the collection district of Alaska and fifth coasting district, in the United States, having on board distilled spirits, other than ship’s stores, without being enrolled and licensed, and without applying for or being furnished by the collector of the port of the United States, at which she took in her said cargo, with a certified manifest containing the marks and numbers of packages, the names of shippers, consignees, and port of de­livery, and without receiving a permit, as required and in the manner provided by statute; she, the said schooner, hav­ing, upon her said voyage, cleared from the port of San Francisco for the foreign port of Plover Bay, and not for any port or place within the United States.”</p>
+                <p pgmap="64" id="b64-6">5. That part of the cargo aforesaid, consisting of 395 gallons of distilled spirits was, between April 21 and July 17, 1870, drawn from casks duly stamped and gauged, and put into other casks and packages containing not less than ten gallons, and intended for sale, without such last men­tioned casks or packages being stamped or marked, as by law provided, and was so found in the district of Alaska on or about July 17, 1870.</p>
+                <p pgmap="65" id="b65-3">6. That on or about July 17, 1870, the Louisa Simpson was used by the master thereof to convey and transport from off the coast of California, in the Pacific Ocean, to Kotzebue Sound, in the district of Alaska, three empty casks or pipes from which distilled spirits had been drawn, and which were duly stamped and marked, without such stamps or marks being effaced or obliterated, as provided by law.</p>
+                <p pgmap="65" id="b65-4">On October 10, 1870, Henry Ravens, the master of the Louisa Simpson, appeared and filed two separate but similar answers to the libel; one on behalf of the owners of the schooner, and the other on behalf of the owners of the cargo.</p>
+                <p pgmap="65" id="b65-5">The answers admit the allegations of the libel, except as follows:</p>
+                <p pgmap="65" id="b65-6">They deny that the schooner sailed for the district of Alaska, or that the distilled spirits aforesaid, or any part thereof, were intended to be imported into the district of Alaska, or were landed or attempted to be landed or used therein. They allege that the schooner sailed for Plover Bay, in the Arctic Ocean, in the empire of Russia, but about June 11, 1870, while off the river Anadyr, in Asia, was caught “in the ice, and drifted about helplessly” in the Arctic Ocean, until July 1, when she came out of the ice, about twelve miles west of Cape Douglas, in the district of Alaska; that being then short of wood and water, the master at­tempted to make Port Clarence in said district, for the sole purpose of obtaining a supply of such articles, but being prevented by the ice from so doing, he made for Cape Prince of Wales for the same purpose, when he met a four knot gale and floating ice from N. N. W., to avoid the dangers of which, he put in under the cape, and anchored in two fathoms of water, about four miles from shore; that while lying here at anchor, some Indians came off shore with whom he traded for some wood, but not sufficiently for the voyage, and a sea carried away the windlass, when he pro­ceeded to Kotzebue Sound, the nearest “land-locked harbor,” from necessity, and solely for the purpose of repairing dam­ages to the vessel, and obtaining wood and water for the voyage.</p>
+                <p pgmap="65(42) 66(94)" id="b65-7">They deny that the schooner, or officers, or crew thereof, were engaged in trading, or did trade between district and district in the United States; they admit the transfer of the distilled spirits from the large to the small packages, as al­leged in article 5 of the libel, but allege that the same took place on the open sea,.and without the jurisdiction of the United States, and was made for the convenience of trad­ing in the Russian possessions; they admit the conveyance in the schooner of the three empty casks, without having the stamps or marks effaced, as alleged in article 6 of the libel, but allege the schooner brought such casks within the limits of the United States contrary to the intention of the owners and master, by stress of weather, as aforesaid.</p>
+                <p pgmap="66" id="b66-3">Section 4 of the act mentioned in article 1 of the libel, and under which this seizure was made, enacts: “That the president shall have power to restrict and regulate, or to prohibit the importation and .use of firearms, ammunition, and distilled spirits into and within the said territory. And the exportation of the same from any other port or place in the'United States, when destined to any port or place in the said territory, and all such arms, ammunition, and distilled spirits exported, or attempted to be exported from any port or place in the United States, and destined for such terri­tory, in violation of any regulations that may be .prescribed under this section, and all such arms, ammunition, and dis­tilled spirits landed, or attempted to be landed, or used in any port or place' in said territory, in violation of such regu­lations, shall be forfeited; and if the value of the same shall exceed $400, the vessel upon which the same shall be found, or from which they shall have been landed, together with her tackle, apparel and furniture, and cargo, shall be for­feited; and any person willfully violating such regulation shall, on conviction, be fined in any sum not exceeding $500, or imprisoned not more than six months.”</p>
+                <p pgmap="66" id="b66-5">The section further provides that “bonds may be required for a faithful observance of such regulations,” from “any vessel departing from any port in the United States,” hav­ing on board any such articles, and “destined to any place in said territory,” or when there shall be reasonable ground of suspicion that such articles are intended to be landed there, in violation of law. 15 Stat. 241.</p>
+                <p pgmap="66" id="b66-6">Section 5 of the same act (see 46 U.S.C.A. § 306 and note) enacts: “That the coasting trade between the said territory and any other portion of the United States, shall be regulated in accordance with the provisions of law ap­plicable to such trade, between any two great districts.”</p>
+                <p pgmap="67" id="b67-3">On February 4, 1870, the president, in pursuance of the foregoing section 4, made the following regulation: “The importation of distilled spirits into and within the district of Alaska is hereby prohibited, and the importation and use of fire-arms and ammunition into and within the islands of St. Paul and St. George, in said district, are also prohibited under the pains and penalties of law.”</p>
+                <p pgmap="67" id="b67-4">On February 8, 1870, in pursuance of this executive reg­ulation, and to “insure its faithful execution,” the secretary of the treasury instructed the collectors of customs “to re-, fuse clearances to all vessels having on board distilled spirits, for ports or islands” in the district of Alaska; and that vessels clearing for any port, and “intending to touch, trade, or pass within the waters of Alaska, with distilled spirits or. fire-arms and ammunition ou board,” should give a sufficient: bond, conditioned that such spirits should not be “landed upon or disposed of within the territory of Alaska,” andi that said arms and ammunition should not be landed, etc.,; upon either of the islands aforesaid. ¡</p>
+                <p pgmap="67" id="b67-5">Ravens, the master of the schooner, was indicted by the grand jury of the district for willfully violating the forego-; ing executive regulation concerning the importation of dis-. tilled spirits, and tried thereon on November 17, and days' following, but the jury having failed to agree, they were dis-. charged without giving a verdict. This cause came on to', be tried on November 29, and by the stipulation of the' parties, the judge’s notes of the testimony of the witnesses _ examined on the trial of the master, were read in evidence.:</p>
+                <p pgmap="67" id="b67-6">The master, Ravens, and* crew, consisting of William, Smith, first officer, Horatio Thatcher, second officer, and, Harry Beers and John Park, seamen, were examined as wiN nesses; also, Lieutenant Mason of the cutter Reliance, who brought the schooner to this port, and Henry Hirst of San Francisco, a half owner of the cargo.</p>
+                <p pgmap="67" id="b67-7">The testimony is voluminous, and comes mostly from the mouths of interested witnesses or actors in the transactions. All the witnesses belonging to the schooner, except Park, impressed upon my mind the conviction that they testified with a deliberate purpose, to clear the vessel and cargo; at least so far as they could, by suppression of the truth, or not remembering it.</p>
+                <p pgmap="68" id="b68-3">Park appears to have had the education and training of a superior seaman, but had fallen into intemperate habits. Under the influence of liquor, he had some words with the second mate, who appears to be a very ordinary seaman, after the seizure, and while the schooner was still lying at Chamisso, in Kotzebue Sound, for which the master re­ported him to Mason as mutinous, who sent him on board the Reliance in irons. This conduct on the part of the mas­ter doubtless angered Park, and, as he states, led to his in­forming Selden, on the voyage to Sitka, of the nature of the business and transactions in which the schooner had been engaged. The circumstances considered, it is not reasonable to suppose that the master had Park sent to the Reliance on account of his altercation with Thatcher, at Chamisso. There was nothing in that circumstance to justify his charg­ing Park with mutinous conduct. But this shows, that for some reason, the master, after the seizure, wished to get rid of Park. It is quite probable that he feared Park might re­member more than was desirable, and therefore, he procured him to be separated from the schooner, for the purpose of avoiding the effect of his testimony, or disclosures in any in­quiry that might be made before the collector at Sitka or elsewhere, concerning the business of the schooner in the waters of Alaska, at the time of the seizure.</p>
+                <p pgmap="68" id="b68-4">The cutter did not sail directly for Sitka when she left Kotzebue Sound, but the schooner did; and at the time it was supposed that the former would not reach Sitka for some time after the latter had left there, or been disposed of by the collector. As it turned out, the schooner was beating out of Sitka, on her way to this port, as the cutter went in. Park was thus left behind; but the steamer Wright coming into port, he worked his way down on her, bringing a let­ter from the collector to the district attorney. He states that he came on his own account, to recover his wages from the Louisa Simpson.</p>
+                <p pgmap="68" id="b68-5">Taking into consideration the character of the witnesses, their relation to the transaction complained of, and the par­ties implicated, or their interest in the subject matter, as well as the manner of giving their testimony, and its in­trinsic probability or otherwise, I find the facts of the case to be as follows:</p>
+                <p pgmap="69" id="b69-3">The schooner Louisa Simpson being of 90 56-100 tons burden, and owned by Samuel Winant; cleared from the port of San Francisco on April 20, 1870, under an American register, obtained at said port, on said date, for the “Arctic Sea.” At least so the manifest was first made out. Subse­quently, however, but when or by whom done does not ap­pear, a line was drawn across the words “Arctic Sea” with a pen, and the words “Plover Bay” written immediately after, in a different hand and ink. The oath of the master, how­ever, endorsed on the manifest, states unqualifiedly that the schooner is bound to the “Arctic Sea.” No explanation having been made or offered of the erasure and addition in the caption of the manifest, it is reasonable to conclude that it was illegal or unauthorized, and that the schooner did in fact clear, as the master states in his affidavit, simply for the “Arctic Sea.” But no particular consequence is attached to that fact, beyond this: It tends to show that the voyage was undertaken without any very definite destination, or with the intention to be governed by circumstances in that re­spect.</p>
+                <p pgmap="69" id="b69-4">As appears from the manifest, the cargo consisted of the following articles:</p>
+                <blockquote pgmap="69" id="b69-5">5 cases tobacco — weight not given — value $ 500</blockquote>
+                <blockquote pgmap="69" id="ARk">10 “ powder— “ 500</blockquote>
+                <blockquote pgmap="69" id="AnA">1 bale blue demings, 977 yds........ “ ' 120</blockquote>
+                <blockquote pgmap="69" id="AM">1 “ prints......1,150 yds........ “ 120</blockquote>
+                <blockquote pgmap="69" id="Aa">1 “ drills.......999 yds........“ 140</blockquote>
+                <blockquote pgmap="69" id="A5">48 guns.......................... “ 320</blockquote>
+                <blockquote pgmap="69" id="A7">2 pipes alcohol......400 gal........ “ 400</blockquote>
+                <blockquote pgmap="69" id="AN">Total................................... $2,000</blockquote>
+                <p pgmap="69" id="b69-13">In addition, it appears from the evidence that the follow­ing articles not on the manifest, were found on the schooner at the time of seizure:</p>
+                <blockquote pgmap="69" id="b69-14">274,800 percussion caps, valued at.............$274 80</blockquote>
+                <blockquote pgmap="69" id="AV">150 lbs. lead, valued at................... 10 50</blockquote>
+                <blockquote pgmap="69" id="AjQ">365 empty bottles....................... 3 68</blockquote>
+                <blockquote pgmap="69" id="Ak">600 bottle corks......................... 2 00</blockquote>
+                <blockquote pgmap="69" id="AZs">25 papers glove needles................. 1 00</blockquote>
+                <blockquote pgmap="69" id="AVm">4 pairs scissors....................... 2 00</blockquote>
+                <blockquote pgmap="69" id="Akb">Total $293 98</blockquote>
+                <p pgmap="70" id="b70-3">The ship’s stores were not on the manifest, .and were some dozens of porter, two cases of cognac brandy, and among them a barrel of whisky containing 25 or 30 gallons.</p>
+                <p pgmap="70" id="b70-4">Although the manifest states that there were 400 gallons of alcohol in two pipes, Hirst, the half owner of the cargo testifies, that from the bills rendered him by the distillers, of whom it was purchased, they only contained 129 and 130 gallons respectively; and that the same was 42 above proof, or contained 92 per centum of pure alcohol. This statement as to the gross contents of the pipes corresponds very nearly with the estimate made by both Smith and Park, and I con­clude that such is the fact. This would give 259 gallons of spirits in the two pipes, which was equal to 476 gallons of proof spirits, or liquor only containing 50 per centum in bulk of pure alcohol.</p>
+                <p pgmap="70" id="b70-5">About June 1, and just before going through a passage in the Aleutian Islands, called the Seventy-Two Pass, the mas­ter, assisted by Park, drew the alcohol out of the pipes, and mixed it with about an equal quantity of water, put it into packages or kegs containing from 5 to 15 gallons each, for the purpose of trading with the Indians to the northward. In his testimony, the master attempts to make it appear that he changed the liquor from the pipes into the kegs because the former were leaking. But all the circumstances of the case go to show that this is an after thought and a falsehood. The contemporaneous entry in the log-book speaks of the master’s being engaged in arranging the trading goods, and stowing casks, etc., and nothing is said of the pipe’s leaking. He says that he thinks the pipes leaked 25 or 30 gallons, but could not tell how, when, or where. He could not reach the spirits through the bung hole with his finger, but could with a stick four or five inches long. It is not probable that the pipes were even full in the first place, and there may have been some loss from evaporation, or through the pores of the wood, enough to have scented the hold of the ship or im­mediate vicinity of the pipes, but if it was only four inches from the bung to the liquor, the outage would not exceed eight gallons to the pipe.</p>
+                <p pgmap="70(30) 71(175)" id="b70-6">From the Seventy-Two Pass, the schooner saled north­ward, towards the gulf of Anadyr. About June 13, and in latitude 61, she encountered ice — got into it, and drifted about with it, until about July 1, when she came out south by west of King’s Island, and distant between 30 and 50 miles. During this time, it appears that the schooner was near enough Emma Harbor or Plover Bay, on the Arctic coast, to sight land. The master here, then, tells another incredulous story, to the effect, that while fast in the ice, a native chief of his acquaintance came off from Emma Harbor, and was on board for an hour or two, and got a large assortment of goods, except liq­uor, to sell for the master, on shore, on commission. No memorandum was made of the transaction. The master is unable to specify, with any certainty, what kind or what amount of goods were furnished. No other person, so far as appears, witnessed or ever heard of the arrival or de­parture of this Asiatic apparition, and I have no doubt that Ravens invented the whole story, to account for the goods not found in the vessel at the time of seizure.</p>
+                <p pgmap="71(252) 72(29)" id="b71-3">On getting free from the ice, the schooner sailed for Port Clarence, as the master states, to obtain wood and water, but failed to make it on account of the shore ice. Thencefor­ward she was beating about between the Diomede Islands and Chamisso Isle, near where she anchored on July 16, and was seized on the day following. The schooner first came to anchor on the north side of Cape Prince of Wales, about 25 miles from the point near a place called the Grave-Yard. Here the master traded with the Indians, receiving from them furs, ivory, bone, etc., in exchange for goods, includ­ing whisky. He also traded with them for similar articles at Port Blossom and Chamisso Isle. Park is the only witness who testifies positively to the traffic in liquor, but he does so unqualifiedly and with reasonable certainty as to the cir­cumstances of time, place, quantity, etc. I have no doubt that his testimony on this point is substantially true. True, the master contradicts him, but I think he has shown him­self to be unworthy of credit. The other members of the crew testify that they did not see any traffic in liquor, or don’t know that it took place. But they would not swear that it did not take place, while the reluctant and exasive manner in which they answered the questions put to them on this point was well calculated to make the impression that, notwithstanding their real or pretended ignorance of the matter, they were morally certain, at least, that the Alaska Indians obtained considerable quantities of ardent spirits from the deck of the Louisa Simpson, between July 1 and 17.</p>
+                <p pgmap="72" id="b72-3">Thatcher, the second mate, does admit that once, when the Indians were on deck, he passed up a five-gallon keg of liquor, by command of the master, but says he passed it down again, and that he don’t know whether any liquor was taken out of it or not, but volunteers an opinion in the nega­tive. No particular reason is given for passing the keg up from the hold to the deck and back again, without making any use of its contents. The master admits that he received quite a quantity of fur, ivory, and bone from an Indian chief, while at the Grave-Yard, but says that he took these articles on freight to San Francisco, where he was to dis-. pose of them for money, which he was at some time and in some way to return to this confiding Indian. This is a very silly story, and void of all probability — particularly when it is understood that the master had no definite idea of ever returning to that country, and that the Indian had no reason to believe that he would ever see or hear of him again.</p>
+                <p pgmap="72" id="b72-4">The report of the appraisers of the cargo, which was read ' in evidence, and the correctness of which was not questioned,' shows that there were only 319 gallons of proof spirits on, board the schooner when’ brought to this port, and there is ■ no reason to believe or suppose from the evidence that there was any more at the time of the seizure at Chamisso Isle.: Deduct this from the quantity of spirits in the two pipes— when reduced to proof, 476 gallons — and the difference is. 155 gallons. This 155 gallons was disposed of during the, voyage, and.before the seizure. The claimant does not at-' tempt to account for -it, except by the improbable supposi­tion that it had leaked out of the pipes, before the reduction of the spirits at Seventy-Two Pass.</p>
+                <p pgmap="72(72) 73(38)" id="b72-5">Notwithstanding the positive statements of the master, and the disingenuous denials and equivocations of the crew, to the effect that no liquor was disposed of to the Indians, this indisputable fact remains, that 155 gallons of proof spirits were taken out of the cargo of the schooner while she was in the waters of Alaska; and I have no doubt that it was traded to the Indians at the Grave-Yard, Cape Blossom, and Chamisso Isle. No other human beings were met with on the voyage, except the alleged Asiatic chief, when the schooner was in the ice, and the master states positively that he did not furnish him any spirits.</p>
+                <p pgmap="73" id="b73-3">The report of the appraisers also shows that the tobacco, cotton goods, etc., together with the spirits on the manifest, had been disposed of, in the aggregate, to the value of $698.-­70 — more than one half of the whole amount, and that there was found on board the schooner, ivory, bone, furs, and oil of the value of, I think, at a low estimate, $787. The ab­sence of the one, accounts for the presence of the other. The spirits and other goods were traded to the Alaska In­dians, in and about Kotzebue Sound, for the latter.</p>
+                <p pgmap="73" id="b73-4">Again, the principal reason given for going out of the ves­sel’s way into Kotzebue Sound, turns out to be substantially untrue. As has been stated, in his answer, the master al­leges that, while lying at anchor under the lee of Cape Prince of Wales, a sea carried away his windlass, which so disabled the vessel as to compel him to put into the sound — the “near­est land-locked harbor” — to repair damages. On the trial, it was admitted on all hands that the windlass was not car­ried away, but that only the port windlass bitt was started, and from the evidence as well as the nature of the case, I am satisfied that this accident occurred while letting go the anchor without sufficient chain, and not by the shipping of a sea, as stated in the answer. Nor did the accident render the vessel unseaworthy, or make it necessary to take her in­to the sound to repair damages. When a vessel is riding at anchor, the strain or draft is upon the bulkheads of the windlass, and not the bitts.</p>
+                <p pgmap="73(119) 74(41)" id="b73-5">Lieutenant Mason of the Reliance,- who brought the schooner to this port, testified positively that the starting of this bitt did not render the vessel unseaworthy, or make it necessary to take her into port. Nor does the master appear to have thought so at the time, for no effort was made to re­pair the accident, until after the seizure, when at his re­quest, the carpenter of the Reliance drove a bolt through the lower end of the bitt, into the bulkhead. More than this, when the Reliance was discovered coming into Chamisso Bay, the master of the schooner had the Indians sent off her deck, and the fur which had been traded for, taken below and stowed in the casks, from which the spirits had been drawn, with a view, and for the purpose, as the circumstances satis­fy my mind, of concealing the evidence of his traffic with the natives, from the officers of the cutter.</p>
+                <p pgmap="74" id="b74-4">Taking these circumstances all together; the failure to account for the spirits disposed of between the time of leav­ing San Francisco and the seizure, and the fur and other Indian goods acquired in Kotzebue Sound; the falsity of the reason given for going into the sound at all, and partic­ularly to Chamisso Isle, and the concealing of the fur, etc., on the approach of “the revenue officers, and there can be little, if any doubt, but that the master had disposed of his missing liquor to the Alaska Indians, in Kotzebue Sound, for the furs, etc., found on the schooner, contrary to law, as he well knew. In addition, there is the positive and direct testimony of Park, to the same effect.</p>
+                <p pgmap="74" id="b74-5">This constitutes a violation of the executive order, and the act of congress. Indeed, the simple act of taking these spirits within Kotzebue Sound, was such a violation, because it was aft “importation of distilled spirits into and within the district of Alaska.”</p>
+                <p pgmap="74" id="b74-6">The phrase “district of Alaska,” as used in this act and executive order, in my judgment, includes that portion of the sea along its coasts, which lies inside of a line drawn from the promontory of Point Hope, to the Cape Prince of Wales. But wherever the schooner appears to have come to anchor east of this line, as at the Grave-Yard, Cape Blossom, and Chamisso Isle, she was not to exceed four miles from the shore, and at these points at least, she must be held to have come within the district.</p>
+                <p pgmap="74" id="b74-7">Admitting that the schooner had been within the district, the master alleges in his answer, as an excuse therefor, that he was driven thither by the stress of weather. The proof does not support this allegation, but the contrary.</p>
+                <p pgmap="74(59) 75(41)" id="b74-8">Admitting its truth, however, for the purpose of the argument, it does not follow that the introduction of the spirits into the district was not unlawful, although it might be a good reason for the remission of the forfeiture incurred thereby; and certainly it does not justify or excuse the sub­sequent voluntary sale, disposition, and unlading of the spirits while in the district. Such use or disposition of spirits, not only casts suspicion upon the truth of the alleged excuse, but is itself an importation within the district, within the meaning of the act and order, and therefore illegal.</p>
+                <p pgmap="75" id="b75-4">Counsel for claimant insists that the executive order of February 4th, 1869, is void, because congress cannot con­fer power on the president to make such a regulation. No authority was cited in support of this extraordinary proposi­tion, and the argument in support of it was little else than the assertion of counsel to that effect. I see no reason to doubt the power of congress to authorize the president to make this regulation prohibiting the importation of pure spirits into the district of Alaska, under such penalties as congress may have prescribed. In fact, it is simply au­thorizing the president to determine and declare when and how far section 4 of the act of July 27, 1868, should go into effect. _ It is believed that an examination of the legislation of congress will disclose many instances of like authority and duty imposed on the president, and that the power to do so has never been seriously questioned.</p>
+                <p pgmap="75" id="b75-5">There must be a decree for the libellant condemning the vessel and cargo as forfeited to the United States, for the cause stated in the third article of the libel. As to the other causes of forfeiture stated in the libel, it is not necessary to express an opinion upon them.</p>
+                <p pgmap="75" id="b75-6">The vessel and cargo having been delivered to the respec­tive claimants on bond, a decree will also he entered that the libellant recover off the obligors in said bonds respectively, the sums of $4,300 and $3,064, the appraised values re­spectively of said vessel and cargo, and that, unless the same is paid into court within ten days therefrom, that libellant have execution therefor.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="62" ORDERLABEL="50" TYPE="page">
+        <fptr FILEID="tiff_00031_1"/>
+        <fptr FILEID="jpg_00031_1"/>
+        <fptr FILEID="alto_00031_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_62.2" BETYPE="IDREF" FILEID="alto_00031_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="63" ORDERLABEL="51" TYPE="page">
+        <fptr FILEID="tiff_00032_0"/>
+        <fptr FILEID="jpg_00032_0"/>
+        <fptr FILEID="alto_00032_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_63.3" BETYPE="IDREF" FILEID="alto_00032_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="64" ORDERLABEL="52" TYPE="page">
+        <fptr FILEID="tiff_00032_1"/>
+        <fptr FILEID="jpg_00032_1"/>
+        <fptr FILEID="alto_00032_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_64.1" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="65" ORDERLABEL="53" TYPE="page">
+        <fptr FILEID="tiff_00033_0"/>
+        <fptr FILEID="jpg_00033_0"/>
+        <fptr FILEID="alto_00033_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_65.2" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="66" ORDERLABEL="54" TYPE="page">
+        <fptr FILEID="tiff_00033_1"/>
+        <fptr FILEID="jpg_00033_1"/>
+        <fptr FILEID="alto_00033_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_66.2" BETYPE="IDREF" FILEID="alto_00033_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="67" ORDERLABEL="55" TYPE="page">
+        <fptr FILEID="tiff_00034_0"/>
+        <fptr FILEID="jpg_00034_0"/>
+        <fptr FILEID="alto_00034_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_67.2" BETYPE="IDREF" FILEID="alto_00034_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="68" ORDERLABEL="56" TYPE="page">
+        <fptr FILEID="tiff_00034_1"/>
+        <fptr FILEID="jpg_00034_1"/>
+        <fptr FILEID="alto_00034_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_68.1" BETYPE="IDREF" FILEID="alto_00034_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="69" ORDERLABEL="57" TYPE="page">
+        <fptr FILEID="tiff_00035_0"/>
+        <fptr FILEID="jpg_00035_0"/>
+        <fptr FILEID="alto_00035_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_69.2" BETYPE="IDREF" FILEID="alto_00035_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="70" ORDERLABEL="58" TYPE="page">
+        <fptr FILEID="tiff_00035_1"/>
+        <fptr FILEID="jpg_00035_1"/>
+        <fptr FILEID="alto_00035_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_70.1" BETYPE="IDREF" FILEID="alto_00035_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="71" ORDERLABEL="59" TYPE="page">
+        <fptr FILEID="tiff_00036_0"/>
+        <fptr FILEID="jpg_00036_0"/>
+        <fptr FILEID="alto_00036_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_71.2" BETYPE="IDREF" FILEID="alto_00036_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="72" ORDERLABEL="60" TYPE="page">
+        <fptr FILEID="tiff_00036_1"/>
+        <fptr FILEID="jpg_00036_1"/>
+        <fptr FILEID="alto_00036_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_72.2" BETYPE="IDREF" FILEID="alto_00036_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="73" ORDERLABEL="61" TYPE="page">
+        <fptr FILEID="tiff_00037_0"/>
+        <fptr FILEID="jpg_00037_0"/>
+        <fptr FILEID="alto_00037_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_73.2" BETYPE="IDREF" FILEID="alto_00037_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="74" ORDERLABEL="62" TYPE="page">
+        <fptr FILEID="tiff_00037_1"/>
+        <fptr FILEID="jpg_00037_1"/>
+        <fptr FILEID="alto_00037_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_74.2" BETYPE="IDREF" FILEID="alto_00037_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="75" ORDERLABEL="63" TYPE="page">
+        <fptr FILEID="tiff_00038_0"/>
+        <fptr FILEID="jpg_00038_0"/>
+        <fptr FILEID="alto_00038_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_75.3" BETYPE="IDREF" FILEID="alto_00038_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.6" BETYPE="IDREF" FILEID="alto_00036_1"/>
+            <area BEGIN="BL_73.1" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.5" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b75-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_75.5" BETYPE="IDREF" FILEID="alto_00038_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.11" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-3" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.4" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b74-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_74.4" BETYPE="IDREF" FILEID="alto_00037_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b74-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_74.7" BETYPE="IDREF" FILEID="alto_00037_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-3" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.3" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.5" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.4" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.5" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.6" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.8" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.10" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.6" BETYPE="IDREF" FILEID="alto_00037_0"/>
+            <area BEGIN="BL_74.1" BETYPE="IDREF" FILEID="alto_00037_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.8" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-9" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.9" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.6" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.7" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AN" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.12" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.7" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.6" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.5" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.4" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZs" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.18" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Akb" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.20" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.5" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.4" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-3" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.3" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.6" BETYPE="IDREF" FILEID="alto_00035_1"/>
+            <area BEGIN="BL_71.1" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-3" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.4" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.6" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.5" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.7" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.6" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.5" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.4" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.4" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.5" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.7" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            <area BEGIN="BL_66.1" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.6" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aa" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.9" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVm" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.19" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b74-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_74.5" BETYPE="IDREF" FILEID="alto_00037_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ak" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.17" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AV" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.15" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnA" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.7" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARk" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.6" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjQ" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.16" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b74-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_74.6" BETYPE="IDREF" FILEID="alto_00037_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-3" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.3" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-3" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.3" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.5" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.4" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-3" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.3" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b75-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_75.4" BETYPE="IDREF" FILEID="alto_00038_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-3" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.3" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b74-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_74.8" BETYPE="IDREF" FILEID="alto_00037_1"/>
+            <area BEGIN="BL_75.1" BETYPE="IDREF" FILEID="alto_00038_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AM" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.8" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.4" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-3" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.4" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-14" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.14" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b75-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_75.6" BETYPE="IDREF" FILEID="alto_00038_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-3" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.4" BETYPE="IDREF" FILEID="alto_00036_0"/>
+            <area BEGIN="BL_72.1" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.5" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-16" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.16" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-13" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.13" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-15" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.15" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

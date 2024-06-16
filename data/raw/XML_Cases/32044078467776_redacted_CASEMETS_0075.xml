@@ -1,0 +1,841 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0075" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Shelp v. United States">SHELP et al. v. UNITED STATES</name>
+          <docketnumber>No. 346</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 514</citation>
+          <citation category="parallel" type="bluebook">81 F. 694</citation>
+          <decisiondate>1897-06-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:04Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00263_1" MIMETYPE="image/tiff" CHECKSUM="e99176fe93cb268c92fd8c57dc4367cc" CHECKSUMTYPE="MD5" SIZE="32556">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00263_1.tif"/>
+      </file>
+      <file ID="tiff_00264_0" MIMETYPE="image/tiff" CHECKSUM="d055d08b51659458a07c7bc8556e973b" CHECKSUMTYPE="MD5" SIZE="3606">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00264_0.tif"/>
+      </file>
+      <file ID="tiff_00264_1" MIMETYPE="image/tiff" CHECKSUM="2debe17a6204eca9f66d595e52a6102d" CHECKSUMTYPE="MD5" SIZE="22290">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00264_1.tif"/>
+      </file>
+      <file ID="tiff_00265_0" MIMETYPE="image/tiff" CHECKSUM="ca0ea349c3f52c0a50e3fe22281944b2" CHECKSUMTYPE="MD5" SIZE="51544">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00265_0.tif"/>
+      </file>
+      <file ID="tiff_00265_1" MIMETYPE="image/tiff" CHECKSUM="413593e0ff7576347746ec58ec25857a" CHECKSUMTYPE="MD5" SIZE="50702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00265_1.tif"/>
+      </file>
+      <file ID="tiff_00266_0" MIMETYPE="image/tiff" CHECKSUM="959320a71e33675daf0319bd0f447aa5" CHECKSUMTYPE="MD5" SIZE="49294">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00266_0.tif"/>
+      </file>
+      <file ID="tiff_00266_1" MIMETYPE="image/tiff" CHECKSUM="9d283c0ee82e90a55e0067e116be778e" CHECKSUMTYPE="MD5" SIZE="49648">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00266_1.tif"/>
+      </file>
+      <file ID="tiff_00267_0" MIMETYPE="image/tiff" CHECKSUM="69b79da079a975de59eda301c0a11824" CHECKSUMTYPE="MD5" SIZE="53224">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00267_0.tif"/>
+      </file>
+      <file ID="tiff_00267_1" MIMETYPE="image/tiff" CHECKSUM="16170dd58a1330592809bcd8834d191c" CHECKSUMTYPE="MD5" SIZE="55112">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00267_1.tif"/>
+      </file>
+      <file ID="tiff_00268_0" MIMETYPE="image/tiff" CHECKSUM="163217d92e00dc038d9c7f8791fb598d" CHECKSUMTYPE="MD5" SIZE="52516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00268_0.tif"/>
+      </file>
+      <file ID="tiff_00268_1" MIMETYPE="image/tiff" CHECKSUM="36cd63d87491ee0deddcedd0c1ef0cf4" CHECKSUMTYPE="MD5" SIZE="52904">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00268_1.tif"/>
+      </file>
+      <file ID="tiff_00269_0" MIMETYPE="image/tiff" CHECKSUM="d469ac59669fc60684fefbb506f5c122" CHECKSUMTYPE="MD5" SIZE="51362">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00269_0.tif"/>
+      </file>
+      <file ID="tiff_00269_1" MIMETYPE="image/tiff" CHECKSUM="7641cc606ad3ab52e0f4e101c05c6628" CHECKSUMTYPE="MD5" SIZE="17694">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00269_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00263_1" MIMETYPE="image/jpg" CHECKSUM="66d8f2faae172a239f15e794cb0cf930" CHECKSUMTYPE="MD5" SIZE="143513">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00263_1.jpg"/>
+      </file>
+      <file ID="jpg_00264_0" MIMETYPE="image/jpg" CHECKSUM="8df472ca9431e9459898b7a862857c51" CHECKSUMTYPE="MD5" SIZE="53531">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00264_0.jpg"/>
+      </file>
+      <file ID="jpg_00264_1" MIMETYPE="image/jpg" CHECKSUM="2ed51017e95b1c0c6639d079b5d1727f" CHECKSUMTYPE="MD5" SIZE="122714">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00264_1.jpg"/>
+      </file>
+      <file ID="jpg_00265_0" MIMETYPE="image/jpg" CHECKSUM="32ac6baf9b911314c927ff8c60fea47b" CHECKSUMTYPE="MD5" SIZE="193238">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00265_0.jpg"/>
+      </file>
+      <file ID="jpg_00265_1" MIMETYPE="image/jpg" CHECKSUM="70ec143a438266559ded2eea57f9abc7" CHECKSUMTYPE="MD5" SIZE="196207">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00265_1.jpg"/>
+      </file>
+      <file ID="jpg_00266_0" MIMETYPE="image/jpg" CHECKSUM="c1b8237ae3af1d0886bbfde1b5262ca3" CHECKSUMTYPE="MD5" SIZE="183518">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00266_0.jpg"/>
+      </file>
+      <file ID="jpg_00266_1" MIMETYPE="image/jpg" CHECKSUM="1322a4df6b23bc4ce5b2f0cfe11dff03" CHECKSUMTYPE="MD5" SIZE="199563">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00266_1.jpg"/>
+      </file>
+      <file ID="jpg_00267_0" MIMETYPE="image/jpg" CHECKSUM="684b1eef26b33851dd243b96b7fee256" CHECKSUMTYPE="MD5" SIZE="194766">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00267_0.jpg"/>
+      </file>
+      <file ID="jpg_00267_1" MIMETYPE="image/jpg" CHECKSUM="dd89c6de172d9cbe6de081e2adcc0961" CHECKSUMTYPE="MD5" SIZE="207774">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00267_1.jpg"/>
+      </file>
+      <file ID="jpg_00268_0" MIMETYPE="image/jpg" CHECKSUM="9047b60230a731fdba447515aa8ce1c8" CHECKSUMTYPE="MD5" SIZE="190544">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00268_0.jpg"/>
+      </file>
+      <file ID="jpg_00268_1" MIMETYPE="image/jpg" CHECKSUM="403f4426dbddf9f0f686e71f7e9db810" CHECKSUMTYPE="MD5" SIZE="207593">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00268_1.jpg"/>
+      </file>
+      <file ID="jpg_00269_0" MIMETYPE="image/jpg" CHECKSUM="f2ee4b43de4da92bb2cf7391720ab73f" CHECKSUMTYPE="MD5" SIZE="191388">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00269_0.jpg"/>
+      </file>
+      <file ID="jpg_00269_1" MIMETYPE="image/jpg" CHECKSUM="1076eadd258b34518baee7d573462637" CHECKSUMTYPE="MD5" SIZE="99740">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00269_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00263_1" MIMETYPE="text/xml+gzip" CHECKSUM="e2d6fe584422bb628c81c4981d38de78" CHECKSUMTYPE="MD5" SIZE="8533">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00263_1.xml.gz"/>
+      </file>
+      <file ID="alto_00264_0" MIMETYPE="text/xml+gzip" CHECKSUM="c7034a2a0eeecddce782fd7897f8ba5d" CHECKSUMTYPE="MD5" SIZE="883">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00264_0.xml.gz"/>
+      </file>
+      <file ID="alto_00264_1" MIMETYPE="text/xml+gzip" CHECKSUM="5bdf8b3bb79c6c6c225177cd02e53829" CHECKSUMTYPE="MD5" SIZE="5401">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00264_1.xml.gz"/>
+      </file>
+      <file ID="alto_00265_0" MIMETYPE="text/xml+gzip" CHECKSUM="94638b10d9bac0fe986f82cef7403a64" CHECKSUMTYPE="MD5" SIZE="12108">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00265_0.xml.gz"/>
+      </file>
+      <file ID="alto_00265_1" MIMETYPE="text/xml+gzip" CHECKSUM="ba78a946586a503f68a2dd981e54b93c" CHECKSUMTYPE="MD5" SIZE="12789">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00265_1.xml.gz"/>
+      </file>
+      <file ID="alto_00266_0" MIMETYPE="text/xml+gzip" CHECKSUM="cd89481aadb813fb4246ee8a4124eea3" CHECKSUMTYPE="MD5" SIZE="12418">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00266_0.xml.gz"/>
+      </file>
+      <file ID="alto_00266_1" MIMETYPE="text/xml+gzip" CHECKSUM="78ab810f3d2cc55fa35e3ee27d1b91aa" CHECKSUMTYPE="MD5" SIZE="12397">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00266_1.xml.gz"/>
+      </file>
+      <file ID="alto_00267_0" MIMETYPE="text/xml+gzip" CHECKSUM="24b58b04911ef5eafeb51005ee458691" CHECKSUMTYPE="MD5" SIZE="12882">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00267_0.xml.gz"/>
+      </file>
+      <file ID="alto_00267_1" MIMETYPE="text/xml+gzip" CHECKSUM="c7d283ed3e1739b7c79241120424b96e" CHECKSUMTYPE="MD5" SIZE="13796">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00267_1.xml.gz"/>
+      </file>
+      <file ID="alto_00268_0" MIMETYPE="text/xml+gzip" CHECKSUM="2e826314cf1527f56c33c1444ccf3367" CHECKSUMTYPE="MD5" SIZE="13339">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00268_0.xml.gz"/>
+      </file>
+      <file ID="alto_00268_1" MIMETYPE="text/xml+gzip" CHECKSUM="7bfb02f8a36924e809dcb85d1933a43f" CHECKSUMTYPE="MD5" SIZE="13634">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00268_1.xml.gz"/>
+      </file>
+      <file ID="alto_00269_0" MIMETYPE="text/xml+gzip" CHECKSUM="19a11add20c1ae8b1ced1b1a3541c6d4" CHECKSUMTYPE="MD5" SIZE="12867">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00269_0.xml.gz"/>
+      </file>
+      <file ID="alto_00269_1" MIMETYPE="text/xml+gzip" CHECKSUM="51221813823f0ab69659961d955cf425" CHECKSUMTYPE="MD5" SIZE="4817">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00269_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0075" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="514" lastpage="526">
+              <court pgmap="526" id="b526-13">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="526" id="b526-12">No. 346.</docketnumber>
+              <citation pgmap="526" id="b526-10">81 F. 694</citation>
+              <parties pgmap="526" id="b526-11">SHELP et al. v. UNITED STATES.</parties>
+              <decisiondate pgmap="526" id="b526-14">June 7, 1897.</decisiondate>
+              <judges pgmap="528" id="b528-11">Before GILBERT and ROSS, Circuit Judges, and HAWLEY, District Judge.</judges>
+              <attorneys pgmap="528" id="b528-9">Lorenzo S. B. Sawyer, for plaintiffs in error.</attorneys>
+              <attorneys pgmap="528" id="b528-10">Burton E. Bennett, U. S. Atty., and Samuel Knight, Asst. U. S. Atty.</attorneys>
+              <opinion type="majority">
+                <author pgmap="528" id="b528-12">HAWLEY, District Judge.</author>
+                <p pgmap="528" id="b528-13">This appeal is taken from a judgment of the district court of Alaska upon the conviction of the plaintiffs in error (hereafter designated as “defendants”) of the crime of unlawfully selling intoxicating liquor. There are sev­eral assignments of error urged by counsel as being suf­ficient to justify a reversal of the judgment.</p>
+                <p pgmap="528(50) 529(32)" id="b528-14">1. It is claimed by the defendants that the indictment is fatally defective because it does not negative the ex­ceptions contained in the statute. The language of the indictment, in so far as it relates to this objection, is that the defendants “did unlawfully and willfully sell to Alas­ka Indians * * * an intoxicating liquor called 'whis­ky/ * * * without having first complied with the law concerning the sale of intoxicating liquors in the district of Alaska.”</p>
+                <p pgmap="529" id="b529-5">Section 14 of “An act providing a civil government for Alaska,” under the provisions of which the defend­ants were indicted and convicted, reads as follows: “That the provisions of chapter three, title twenty-three, of the Revised Statutes of the United States, relating to the un­organized territory of Alaska, shall remain in full force, except as herein specially otherwise provided; and the im­portation, manufacture, and sale of intoxicating liquors in said district except for medicinal, mechanical and scien­tific purposes is hereby prohibited, under the penalties which are provided in section nineteen hundred and fifty-­five of the Revised Statutes for the wrongful importation of distilled spirits. And the president of the United States shall make such regulations as are necessary to carry out the provisions of this section.” 23 Stat. 28; Rev. St. § 1955.</p>
+                <p pgmap="529" id="b529-6">In U.S. v. Nelson, 29 F. 202, 209,. and in the same case on writ of error to the circuit court of Oregon, 30 F. 112, 115, a similar indictment, which did not negative the exceptions in the statute, was held to be sufficient.</p>
+                <p pgmap="529(171) 530(41)" id="b529-7">The exception stated in the statute does not either de­fine or qualify the offense created by the statute. The offense designated in the statute is the sale of intoxicating liquors in Alaska. This can be properly stated without any reference to the exception. There is nothing in the exception that enters into the offense condemned by the statute. The exception is purely a matter of defense, which, if relied upon, could readily have been proven by the defendants. A careful examination of the authori­ties will show that it is only necessary in an indictment for a statutory offense to negative an exception to the statute when that exception is such as to render the nega­tive of it an essential part of the definition or description of the offense charged. It is the nature of the exception, and not its locality, that determines the question whether it should be stated in the indictment or not. State v. Ah Chew, 16 Nev. 50, 54, and authorities there cited; U. S. v. Cook, 36 F. 896; U. S. v. Cook, 17 Wall. 168, 173; State v. Van Vliet (Iowa) 61 N.W. 241; Bell v. State (Ala.) 15 So. 557. The court did not err in refusing the motion in arrest of judgment.</p>
+                <p pgmap="530" id="b530-4">2. It is contended that the court erred in allowing certain witnesses to testify on behalf of the government whose names were not indorsed upon the indictment, for the reason that no list containing the names of such wit­nesses was furnished to the defendants or their counsel. The statute of Oregon, the provisions of which are appli­cable to cases tried in the district court of Alaska, only requires that “the names of the witnesses examined before the grand jury must be inserted at the foot of the indict­ment or endorsed thereon.” Gen.Laws Or. 1843-1872, p. 348, § 61. This statute was fully complied with. The statute of the United States provides that, when a party is indicted for treason, a copy of the indictment and a list of the jury and of the witnesses to be procured at the trial, stating the place of abode of each juror and wit­ness, shall be furnished to such person three days before the trial. In other capital cases the list must be furnished two days before the trial. Rev.St. § 1033 (18 U.S.C.A. § 562). This statute has no application to this case. There is no statute which requires a list of the witnesses to be furnished to a person indicted for a misdemeanor. If the indictment is not for a capital offense, the defend­ant is not entitled, as a matter of right, to a list of wit­nesses or jurors. U. S. v. Wood, 3 Wash.C.C. 440, Fed. Cas.No.16,756; U. S. v. Williams, 1 Cranch, C.C. 178, Fed.Cas.No.16,709; U. S. v. Van Duzee, 140 U.S. 169, 173, 11 S.Ct. 758, and authorities there cited.</p>
+                <p pgmap="530" id="b530-5">3. It is claimed that there was such misconduct on the part of the United States attorney as to entitle defend­ants to have the judgment reversed. In his argument to the jury he said:</p>
+                <blockquote pgmap="530(57) 531(44)" id="b530-6">“That ‘the result of the acts with which the defendants were charged was that a murder had been committed, and that the Indian who had committed the murder was in the penitentiary at San Quentin for such crime,’ although no evidence whatever had been introduced of any murder having been committed; and further stated to the jury that ‘the defendants went to the Indian village of Hoona, and sold whisky there,’ although the defendants were not charged in said indictment with selling liquor at Hoona, and although there was no evidence that defendants had stopped at Hoona or sold liquor there.”</blockquote>
+                <p pgmap="531" id="b531-4">And, further, he said:</p>
+                <blockquote pgmap="531" id="b531-5">“ ‘If these defendants were the good and innocent men that they try to make themselves out, why did they not bring witnesses to testify to their good character?’ al­though their character had not been put in issue.”</blockquote>
+                <p pgmap="531" id="b531-6">It is a sufficient answer to this claim to state that no ob­jection was made to the remarks of counsel at the trial, and no exception taken thereto. If the statement of counsel was improper, exception thereto ought to have been promptly taken. The question whether the remarks of counsel were improper cannot be considered by this court in a case where the' point was not raised or excep­tion taken until after the trial. It is undoubtedly within the power of the trial court, with or without objection, to promptly interfere when counsel attempt to influence the jury by a reference to facts not in evidence, or makes any appeal to prejudice the jury dehors the record, or com­ments upon the character of the defendant when his char­acter has not been put in issue. But the rule is well set­tled that improper remarks of counsel not made the sub­ject of an exception will not be considered on appeal. State v. Regan, 8 Wash. 506, 511, 36 P. 472; State v. Foster, 115 Mo. 451, 22 S.W. 468; State v. Howard, 118 Mo. 127, 146, 24 S.W. 41; Hill v. State, 42 Neb. 505, 528, 60 N.W. 916; State v. Sorter, 52 Kan. 531, 34 P. 1036; Com. v. Weber, 167 Pa. 153, 162, 31 A. 481; State v. Hilsabeck (Mo.Sup.) 34 S.W. 39; Harvey v. State (Tex.Cr.App.) 34 S.W. 623, 625; Campbell v. People, 109 Ill. 566, 577.</p>
+                <p pgmap="531" id="b531-7">4.- It is assigned as error that the evidence was insuf­ficient to justify the verdict of the jury. This point was not urged by any argument, and is utterly devoid of merit. There was positive testimony as to the commission of the crime by defendants, which, if believed by the jury to be. true, certainly justified the verdict, as will more fully ap­pear hereafter.</p>
+                <p pgmap="532" id="b532-3">5. The next error assigned is that the court erred in its charge to the jury. In order to fully understand the parts of the charge objected to, it is essential to state briefly the general character of the testimony at the trial.</p>
+                <p pgmap="532" id="b532-4">One Indian witness, on behalf of the government, testified as follows: “My name is Dennis. I live at Chilkoot. * * * I know these defendants, * * * Their boat was anchored off the shore. The younger man (meaning the defendant Cleveland) waved his hat to me; picked up a keg; then drank out of a tin cup. When I came to their boat, they gave me whisky to drink, and told me to tell the other people at the village that they had plenty of whisky. I went and told at the village, and 12 of us came down in a canoe, and got whisky from the white men. I got two bottles and paid four ($4) for it.”</p>
+                <p pgmap="532" id="b532-5">Several other Indians testified substantially to the same effect. '</p>
+                <p pgmap="532" id="b532-6">The defendants testified that they resided at Douglas; that on the 12th of August, 1894, they started on a pros­pecting expedition in a sloop; that they went to Bear Creek, on Douglas Island; that they left there, and arrived at Funter Bay, on Admiralty Island, August 16th, and left on the 17th, and arrived at Bartlett Bay on the 18th; left there on the 19th, and arrived at Hoona Sound on the 20th; and stayed there, prospecting around the sound, for 8 or 10 days.</p>
+                <p pgmap="532" id="b532-7">The defendant Shelp, in the course of his testimony, said: “I was never at Chilkoot in my life. I never saw, to my knowledge, any of the Indians who testified in this case. We had no whisky on board of our sloop; neither sold nor gave away any whisky to Indians.”</p>
+                <p pgmap="532(92) 533(77)" id="b532-8">It is also necessary to consider what was said by de­fendants’ counsel in the argument to the jury, for it is evident that some of the sentences objected to in the charge were given by the court in reply thereto. In discussing the weight to be given to the evidence by the jury, one of the defendants’ attorneys said: “That the evidence of ig­norant, half-civilized barbarians, whose moral and religious sense was not developed, and who did not understand and appreciate the binding force of an oath as understood by Christian people, and who had little or no appreciation of our religious ideas, from which the oath gets its bind­ing force and efficacy, and who had no appreciation of the enormity of perjury, — that the evidence of such witnesses was not entitled to as much credit as the evidence of a witness whose moral ideas were more fully developed, and who understood the binding nature of an oath, and the pains and penalties of perjury.”</p>
+                <p pgmap="533" id="b533-4">The court, after referring to the remarks of counsel, charged the jury as follows: (1) “It is a fact that In­dians lie, and it is also a fact that white men lie, and some of the most civilized and cultured men are among the greatest liars. The evidence of Indian witnesses is enti­tled to as much credit and weight as the evidence of white men, and such credibility and weight are determined by the same rules of law. (2) In weighing the evidence of witnesses, you have the right to consider their intelligence, their appearance upon the witness stand, their apparent candor and fairness in giving their testimony, or the want of such candor or fairness, their interest, if any, in the re­sult of this trial, their opportunities of seeing and know­ing the matters concerning which they testify, the probable or improbable nature of the story they tell; and from these things, together with all the facts and circumstances sur­rounding the case, as disclosed by the testimony, determine where the truth of this matter lies. (3) You have the right to use your own knowledge of this country, the habits and disposition of the Indians, and your knowledge and observation of the fact that whisky peddlers cruise about this coast, going from one Indian village to another, selling vile whisky to the natives. (4) There is no evidence that these defendants located a claim or drove a stake, and it is for you to determine from the evidence whether they were out prospecting with pick and pan and shovel, as honest miners, with a view of locating claims, or wheth­er they were out with, a keg of whisky and a tin cup, pros­pecting for the aboriginal native.”</p>
+                <p pgmap="533" id="b533-5">—To which charge of the court “the defendant then and there excepted, on the ground that the same is not the law, is misleading, tending to confuse the jury, and dis­tract their attention from the evidence.”</p>
+                <p pgmap="534(444) 535(285)" id="b534-3">The portion marked “(1)” cannot be said to have mis­led the jurors. It was evident from the testimony that either the defendants or the Indians had lied, and it was not error for the court to call the attention of the jury to that fact, and point out what the jurors were entitled to consider in determining the truth. The statement that “the evidence of Indian witnesses is entitled to as much credit and weight as white men’s” must be construed with reference to the other portions of the charge. No witness is to be discredited simply on account of his race or color. Every witness, whether white, dark, black, or yellow, unless otherwise disqualified by statute, is competent to testify. It may be that an Indian whose religious ideas have not been as fully developed as some white men’s may have as keen a perception of the facts which tran­spired in his presence, and be as able to satisfy a jury of the truth of his statement, as any white man could be; and this may be true notwithstanding the fact that the white man might be able to express his ideas or knowledge of the principles of the Christian religion, or the nature of an oath, better than the Indian. Suppose an objection should be made to the competency of a witness who is a religious enthusiast that he thinks too much of God and too little of human nature, or to an Indian that he thinks too much of human nature and too little of God, to be considered worthy of belief; should either be considered as well founded? Certainly not. The truth is that, in law, both classes stand upon the same plane. The weight and cred­ibility of every witness is to be determined in the manner set forth in the clause marked “(2),” which contains a clear and correct statement as to the duty of jurors in weighing the testimony of the witnesses, whether they be white men or Indians. In the light of the testimony in this case, it cannot be said that there was any error in the portion of the instruction marked “(4).” There is no evidence in the record to the effect that either of the de­fendants ever “located a claim or drove a .stake.” A judge has the right, and it sometimes becomes his duty, to state the facts. Is the judgment in any case to be reversed be­cause, in that connection, he states the truth? The only debatable question as to the correctness of the entire charge is with reference to the language used in the part marked “(3).” The court had previously, in part “(2)/’ correct­ly charged the jury to consider certain things, “together with all the facts and circumstances, as disclosed by the testimony.” The issue as to the guilt or innocence of the defendants was to be determined from the evidence given at the trial, without any reference to outside matters. Whatever the defendants did in their trip along the coast the jury had the right to consider. It mattered not what others may have done in cruising around the coast; the question, and the sole question, involved in this case, was whether the defendants had sold liquor to an Indian. The fact that other people were in the habit of selling liquor to the Indians would be immaterial and wholly ir­relevant. But, if defendants’ counsel were of the opinion that the language used in clause “(3)” was susceptible of such a construction as to make it the duty of the jury to consider such outside matters (irrespective of the evi­dence given at the trial), it was their duty to have specific­ally called the attention of the court to that fact, so that the meaning of the language used could have been amend­ed or explained so as to deprive it of such meaning, or a proper instruction might have been prepared by counsel, with the request that it be given to the jury. It is the duty of counsel to call the attention of the court specifical­ly to the precise point, phrase, or sentence which is claimed to be erroneous, so as to give the court an opportunity, before the jury retires, to correct it. A general exception to a whole charge is insufficient.</p>
+                <p pgmap="535(141) 536(214)" id="b535-4">The rule is well settled that an exception to an entire charge of a court, or to a series of propositions contained therein, cannot be sustained if any portion thus excepted to is sound. This rule is established in nearly every state of the Union, and in all of the national courts, and ap­plies to both civil and criminal cases. Harvey v. Tyler, 2 Wall. 338; Lincoln v. Claflin, 7 Wall. 132, 139; Beaver v. Taylor, 93 U.S. 46, 54; Cooper v. Schlesinger, 111 U.S. 148, 151, 4 S.Ct. 360; Railway Co. v. Jurey, 111 U.S. 585, 596, 4 S.Ct. 566; Insurance Co. v. Union Trust Co., 112 U.S. 250, 261, 5 S.Ct. 119; Burton v. Ferry Co., 114 U.S. 474, 5 S.Ct. 960; Block v. Darling, 140 U. S. 235, 238, 11 S.Ct. 832; Bogk v. Gassert, 149 U.S. 17, 26, 13 S.Ct. 738; Allis v. U. S., 155 U.S. 117, 122, 15 S.Ct. 36; Jones v. Railroad Co., 157 U.S. 682, 15 S. Ct. 719; Newport News &amp; M. V. Co. v. Pace, 158 U.S. 36, 15 S.Ct. 743; Thiede v. Utah Ter., 159 U.S. 511, 521, 16 S.Ct. 62; Bonner v. State (Ala.) 18 So. 227; People v. Hart (Utah) 37 P. 330; Woods v. Berry, 7 Mont. 196, 204, 14 P. 758; State v. Mason (Mont.) 45 P. 557; Cur­ry v. Porter, 125 Mass. 94; Yates v. Bachley, 33 Wis. 185; Hopkins Manuf’g Co. v. Aurora F. &amp; M. Ins. Co., 48 Mich. 148, 11 N.W. 846; Walsh v. Kelly, 40 N.Y. 556. In Harvey v. Tyler the court said that justice itself and fairness to the trial court “require that the attention of that court shall be specifically called to the precise point to which exception is taken, that it may have an op­portunity to reconsider the matter, and remove the ground of exception.” In Beaver v. Taylor the court said: “If the entire charge of the court is excepted to, or a series of propositions contained in it is excepted to in gross, and any portion thus excepted to is soúnd, the exception cannot be sustained.”</p>
+                <p pgmap="536(218) 537(172)" id="b536-11">6. The record shows that George Cleveland, one of the defendants, waived arraignment, and entered his plea of “not guilty” to the indictment. It does not affirmatively show that Archie Shelp, the other defendant, was ever formally arraigned, or that any plea was ever entered by him to the indictment. The record is silent upon that question. No objection was ever made in the court below, either during the trial, or upon the motion in arrest of judgment, or upon the motion for a new trial, or in the bill of exceptions, nor is it assigned as error upon the appeal to this court that defendant Shelp was put upon his trial without any plea being entered to the indictment. It is therefore claimed by the United States that the ques­tion ought to be considered as having been waived by the defendant. It is, however, admitted that this court can, in a proper case, “notice a plain error not assigned”; that a writ of error addresses itself to the record; and that, if the record itself discloses the ground upon which a re­versal is sought, there is no necessity for a bill of excep­tions. If the failure to plead is a mere matter of .form, and not of substance, the judgment should not be reversed. Rev.St.U.S. § 1025 (18 U.S.C.A. § 556). The authori­ties, however, are to the effect that, while the arraignment may be waived, the plea is absolutely essential. In capital or other infamous crimes, an arraignment and plea has always been regarded as matter of substance, and must be affirmatively shown by the record. Crain v. U. S., 162 U.S. 625, 16 S.Ct. 952. Until the defendant has pleaded to the indictment, there is no issue to be submitted to the jury, and the omission to plead is fatal to the judgment, even after verdict. This rule applies as well to cases of misdemeanor as to cases of felony. Douglass v. State, 3 Wis. 820; Aylesworth v. People, 65 Ill. 301; State v. Williams, 117 Mo. 379, 22 S.W. 1104; State v. Hubbell, 55 Mo.App. 262; McFarland v. State, 18 Tex.App. 313; Roe v. State, 19 Tex.App. 90; Bowen v. State, 108 Ind. 411, 9 N.E. 378; State v. Cunningham, 94 N.C. 824; 1 Bish.New Cr.Proc. §§ 733, 1354, and authorities there cited.</p>
+                <p pgmap="537" id="b537-4">The bill of exceptions shows “that the issue joined in the above-stated case between the said parties came on to be tried before the said judge and the jury which was duly impaneled and sworn to try the issues between the said parties.” From this statement in the bill of excep­tions it is argued by the government that this court should infer that a plea of not guilty was in fact entered, and that the clerk failed to note that fact in the record. We can­not, in the light of the authorities, draw any such infer­ence. In Crain v. U. S., the court, upon this question, said: “Until the accused pleads to the indictment, and thereby indicates the issue submitted by him for trial, there is nothing for the jury to try, and the fact that the defend­ant did so plead should not be left to be inferred from a general recital in some order that the jury was sworn ‘to try the issues joined.’ ”</p>
+                <p pgmap="537" id="b537-5">In Bowen v. State, the court said: “Under the decisions of ■ this court, it can no longer be regarded as a subject of controversy that, where the record in a criminal cause fails to disclose affirmatively that a plea to the indictment was entered, either by or for the defendant, such record on its face shows a mistrial, and that the proceeding was consequently erroneous.”</p>
+                <p pgmap="538" id="b538-3">If the defendant stands mute, and refuses to plead, the court is authorized to enter his plea of not guilty. Rev.St.U.S. § 1032 (18 U.S.C.A. § 564). But a trial without the entry of any plea by or on behalf of the de­fendant is invalid.</p>
+                <p pgmap="538" id="b538-4">It follows from the views above expressed that the judg­ment of the district court as to the defendant Cleveland must be, and is hereby, affirmed, and that the judgment against the defendant Shelp must be, and is hereby, re­versed, and the cause remanded for a new trial.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="526" ORDERLABEL="514" TYPE="page">
+        <fptr FILEID="tiff_00263_1"/>
+        <fptr FILEID="jpg_00263_1"/>
+        <fptr FILEID="alto_00263_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_526.2" BETYPE="IDREF" FILEID="alto_00263_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="527" ORDERLABEL="515" TYPE="page">
+        <fptr FILEID="tiff_00264_0"/>
+        <fptr FILEID="jpg_00264_0"/>
+        <fptr FILEID="alto_00264_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_527.2" BETYPE="IDREF" FILEID="alto_00264_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="528" ORDERLABEL="516" TYPE="page">
+        <fptr FILEID="tiff_00264_1"/>
+        <fptr FILEID="jpg_00264_1"/>
+        <fptr FILEID="alto_00264_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_528.1" BETYPE="IDREF" FILEID="alto_00264_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="529" ORDERLABEL="517" TYPE="page">
+        <fptr FILEID="tiff_00265_0"/>
+        <fptr FILEID="jpg_00265_0"/>
+        <fptr FILEID="alto_00265_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_529.3" BETYPE="IDREF" FILEID="alto_00265_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="530" ORDERLABEL="518" TYPE="page">
+        <fptr FILEID="tiff_00265_1"/>
+        <fptr FILEID="jpg_00265_1"/>
+        <fptr FILEID="alto_00265_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_530.2" BETYPE="IDREF" FILEID="alto_00265_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="531" ORDERLABEL="519" TYPE="page">
+        <fptr FILEID="tiff_00266_0"/>
+        <fptr FILEID="jpg_00266_0"/>
+        <fptr FILEID="alto_00266_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_531.3" BETYPE="IDREF" FILEID="alto_00266_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="532" ORDERLABEL="520" TYPE="page">
+        <fptr FILEID="tiff_00266_1"/>
+        <fptr FILEID="jpg_00266_1"/>
+        <fptr FILEID="alto_00266_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_532.1" BETYPE="IDREF" FILEID="alto_00266_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="533" ORDERLABEL="521" TYPE="page">
+        <fptr FILEID="tiff_00267_0"/>
+        <fptr FILEID="jpg_00267_0"/>
+        <fptr FILEID="alto_00267_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_533.3" BETYPE="IDREF" FILEID="alto_00267_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="534" ORDERLABEL="522" TYPE="page">
+        <fptr FILEID="tiff_00267_1"/>
+        <fptr FILEID="jpg_00267_1"/>
+        <fptr FILEID="alto_00267_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_534.1" BETYPE="IDREF" FILEID="alto_00267_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="535" ORDERLABEL="523" TYPE="page">
+        <fptr FILEID="tiff_00268_0"/>
+        <fptr FILEID="jpg_00268_0"/>
+        <fptr FILEID="alto_00268_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_535.3" BETYPE="IDREF" FILEID="alto_00268_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="536" ORDERLABEL="524" TYPE="page">
+        <fptr FILEID="tiff_00268_1"/>
+        <fptr FILEID="jpg_00268_1"/>
+        <fptr FILEID="alto_00268_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_536.2" BETYPE="IDREF" FILEID="alto_00268_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="537" ORDERLABEL="525" TYPE="page">
+        <fptr FILEID="tiff_00269_0"/>
+        <fptr FILEID="jpg_00269_0"/>
+        <fptr FILEID="alto_00269_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_537.3" BETYPE="IDREF" FILEID="alto_00269_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="538" ORDERLABEL="526" TYPE="page">
+        <fptr FILEID="tiff_00269_1"/>
+        <fptr FILEID="jpg_00269_1"/>
+        <fptr FILEID="alto_00269_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_538.1" BETYPE="IDREF" FILEID="alto_00269_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b533-4" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.4" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b533-5" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.5" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b531-6" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_531.6" BETYPE="IDREF" FILEID="alto_00266_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b531-7" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_531.7" BETYPE="IDREF" FILEID="alto_00266_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b531-4" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_531.4" BETYPE="IDREF" FILEID="alto_00266_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b531-5" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_531.5" BETYPE="IDREF" FILEID="alto_00266_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-4" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.4" BETYPE="IDREF" FILEID="alto_00268_0"/>
+            <area BEGIN="BL_536.1" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b532-6" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_532.6" BETYPE="IDREF" FILEID="alto_00266_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-11" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.14" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-3" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.3" BETYPE="IDREF" FILEID="alto_00267_1"/>
+            <area BEGIN="BL_535.1" BETYPE="IDREF" FILEID="alto_00268_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-4" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.4" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-5" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.5" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-11" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.4" BETYPE="IDREF" FILEID="alto_00268_1"/>
+            <area BEGIN="BL_537.1" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b532-8" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_532.8" BETYPE="IDREF" FILEID="alto_00266_1"/>
+            <area BEGIN="BL_533.1" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-14" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.14" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-12" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.12" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-10" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.10" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-11" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.11" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b530-6" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_530.6" BETYPE="IDREF" FILEID="alto_00265_1"/>
+            <area BEGIN="BL_531.1" BETYPE="IDREF" FILEID="alto_00266_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b530-5" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_530.5" BETYPE="IDREF" FILEID="alto_00265_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b530-4" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_530.4" BETYPE="IDREF" FILEID="alto_00265_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b532-5" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_532.5" BETYPE="IDREF" FILEID="alto_00266_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b532-4" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_532.4" BETYPE="IDREF" FILEID="alto_00266_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b532-7" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_532.7" BETYPE="IDREF" FILEID="alto_00266_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-13" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.13" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-9" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.12" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b529-7" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_529.6" BETYPE="IDREF" FILEID="alto_00265_0"/>
+            <area BEGIN="BL_530.1" BETYPE="IDREF" FILEID="alto_00265_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b529-6" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_529.5" BETYPE="IDREF" FILEID="alto_00265_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b538-4" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_538.4" BETYPE="IDREF" FILEID="alto_00269_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b538-3" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_538.3" BETYPE="IDREF" FILEID="alto_00269_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b532-3" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_532.3" BETYPE="IDREF" FILEID="alto_00266_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-10" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.13" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b529-5" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_529.4" BETYPE="IDREF" FILEID="alto_00265_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-12" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.15" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-13" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.16" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-14" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.17" BETYPE="IDREF" FILEID="alto_00264_1"/>
+            <area BEGIN="BL_529.1" BETYPE="IDREF" FILEID="alto_00265_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

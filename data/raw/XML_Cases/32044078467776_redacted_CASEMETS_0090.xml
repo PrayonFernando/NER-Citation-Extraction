@@ -1,0 +1,1403 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0090" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Jackson v. United States">JACKSON v. UNITED STATES</name>
+          <docketnumber>No. 570</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 599</citation>
+          <citation category="parallel" type="bluebook">102 F. 473</citation>
+          <decisiondate>1900-05-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:09Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00306_0" MIMETYPE="image/tiff" CHECKSUM="bc9f237813d8d0ae4a56667575818c3f" CHECKSUMTYPE="MD5" SIZE="5342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00306_0.tif"/>
+      </file>
+      <file ID="tiff_00306_1" MIMETYPE="image/tiff" CHECKSUM="fedaf53cba5859d1b34729f4a5a58edf" CHECKSUMTYPE="MD5" SIZE="3956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00306_1.tif"/>
+      </file>
+      <file ID="tiff_00307_0" MIMETYPE="image/tiff" CHECKSUM="f14085d53c4ca6fbc7fe835e5ec27bb7" CHECKSUMTYPE="MD5" SIZE="3748">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00307_0.tif"/>
+      </file>
+      <file ID="tiff_00307_1" MIMETYPE="image/tiff" CHECKSUM="d7496db08ae0605a135244f4a250f0ce" CHECKSUMTYPE="MD5" SIZE="30422">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00307_1.tif"/>
+      </file>
+      <file ID="tiff_00308_0" MIMETYPE="image/tiff" CHECKSUM="b86ef4b0bf9201e4110395a5b9869ee5" CHECKSUMTYPE="MD5" SIZE="55158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00308_0.tif"/>
+      </file>
+      <file ID="tiff_00308_1" MIMETYPE="image/tiff" CHECKSUM="93f8037554e97ae594ac10239e425a3a" CHECKSUMTYPE="MD5" SIZE="56752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00308_1.tif"/>
+      </file>
+      <file ID="tiff_00309_0" MIMETYPE="image/tiff" CHECKSUM="6cabbf2a7d513727f217cd2fb217e335" CHECKSUMTYPE="MD5" SIZE="53208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00309_0.tif"/>
+      </file>
+      <file ID="tiff_00309_1" MIMETYPE="image/tiff" CHECKSUM="dd2c99ef5ce50408d3b6acc85df6c4df" CHECKSUMTYPE="MD5" SIZE="53168">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00309_1.tif"/>
+      </file>
+      <file ID="tiff_00310_0" MIMETYPE="image/tiff" CHECKSUM="fbfec0c3890fce6723c5898676f02480" CHECKSUMTYPE="MD5" SIZE="54106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00310_0.tif"/>
+      </file>
+      <file ID="tiff_00310_1" MIMETYPE="image/tiff" CHECKSUM="1f411bd39baffd8a61800ad0aaaef3ab" CHECKSUMTYPE="MD5" SIZE="52082">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00310_1.tif"/>
+      </file>
+      <file ID="tiff_00311_0" MIMETYPE="image/tiff" CHECKSUM="697c40050ba1efbbfd7edcf05db06fc7" CHECKSUMTYPE="MD5" SIZE="52500">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00311_0.tif"/>
+      </file>
+      <file ID="tiff_00311_1" MIMETYPE="image/tiff" CHECKSUM="71b7b9de68a3549d9de270583ba39f2f" CHECKSUMTYPE="MD5" SIZE="51164">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00311_1.tif"/>
+      </file>
+      <file ID="tiff_00312_0" MIMETYPE="image/tiff" CHECKSUM="7e8f725882fcda5f2da6dc327fa98624" CHECKSUMTYPE="MD5" SIZE="53454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00312_0.tif"/>
+      </file>
+      <file ID="tiff_00312_1" MIMETYPE="image/tiff" CHECKSUM="8665fa1154de5aa7ed8ac7a01336cd1d" CHECKSUMTYPE="MD5" SIZE="50378">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00312_1.tif"/>
+      </file>
+      <file ID="tiff_00313_0" MIMETYPE="image/tiff" CHECKSUM="5abb665b4fc3c53758be80ed193cfa9e" CHECKSUMTYPE="MD5" SIZE="52014">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00313_0.tif"/>
+      </file>
+      <file ID="tiff_00313_1" MIMETYPE="image/tiff" CHECKSUM="b4bc3e8ad5ce80202477d492b6edc48e" CHECKSUMTYPE="MD5" SIZE="54438">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00313_1.tif"/>
+      </file>
+      <file ID="tiff_00314_0" MIMETYPE="image/tiff" CHECKSUM="f12ae4766d6a0baef538df0c949eed45" CHECKSUMTYPE="MD5" SIZE="53946">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00314_0.tif"/>
+      </file>
+      <file ID="tiff_00314_1" MIMETYPE="image/tiff" CHECKSUM="cbe5850d9604fd3984b2ea5b12334c8e" CHECKSUMTYPE="MD5" SIZE="54326">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00314_1.tif"/>
+      </file>
+      <file ID="tiff_00315_0" MIMETYPE="image/tiff" CHECKSUM="68035b51a72f14e8fa074c9433f52e08" CHECKSUMTYPE="MD5" SIZE="53672">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00315_0.tif"/>
+      </file>
+      <file ID="tiff_00315_1" MIMETYPE="image/tiff" CHECKSUM="c2c7fd2aa7b1999382dce9729e84d66b" CHECKSUMTYPE="MD5" SIZE="54542">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00315_1.tif"/>
+      </file>
+      <file ID="tiff_00316_0" MIMETYPE="image/tiff" CHECKSUM="42e1c777e3cb3cf1ca6313721c003587" CHECKSUMTYPE="MD5" SIZE="53172">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00316_0.tif"/>
+      </file>
+      <file ID="tiff_00316_1" MIMETYPE="image/tiff" CHECKSUM="b2886f2e2d329a1da0f575bc89b94fb6" CHECKSUMTYPE="MD5" SIZE="55498">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00316_1.tif"/>
+      </file>
+      <file ID="tiff_00317_0" MIMETYPE="image/tiff" CHECKSUM="4bb67b13a760b83753ec1f77a58b9dd8" CHECKSUMTYPE="MD5" SIZE="54840">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00317_0.tif"/>
+      </file>
+      <file ID="tiff_00317_1" MIMETYPE="image/tiff" CHECKSUM="18604013ad1fdc451ba2936a5a200949" CHECKSUMTYPE="MD5" SIZE="53952">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00317_1.tif"/>
+      </file>
+      <file ID="tiff_00318_0" MIMETYPE="image/tiff" CHECKSUM="ca9346e56517bd541ae5f1be9ebeca9e" CHECKSUMTYPE="MD5" SIZE="54484">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00318_0.tif"/>
+      </file>
+      <file ID="tiff_00318_1" MIMETYPE="image/tiff" CHECKSUM="e194ea1c73e5454ba99844b9182a044a" CHECKSUMTYPE="MD5" SIZE="54220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00318_1.tif"/>
+      </file>
+      <file ID="tiff_00319_0" MIMETYPE="image/tiff" CHECKSUM="3d4eb998b61171085ea98464d4031e95" CHECKSUMTYPE="MD5" SIZE="15250">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00319_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00306_0" MIMETYPE="image/jpg" CHECKSUM="78f06b77de08d36b8db5c338717298bf" CHECKSUMTYPE="MD5" SIZE="61483">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00306_0.jpg"/>
+      </file>
+      <file ID="jpg_00306_1" MIMETYPE="image/jpg" CHECKSUM="9c003cd22d004a060d9916a193ccfa1f" CHECKSUMTYPE="MD5" SIZE="60220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00306_1.jpg"/>
+      </file>
+      <file ID="jpg_00307_0" MIMETYPE="image/jpg" CHECKSUM="9b9c0cfb46fee4525673bb71d0355611" CHECKSUMTYPE="MD5" SIZE="54735">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00307_0.jpg"/>
+      </file>
+      <file ID="jpg_00307_1" MIMETYPE="image/jpg" CHECKSUM="32c522559647859e0864e391c0a5ebf1" CHECKSUMTYPE="MD5" SIZE="138443">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00307_1.jpg"/>
+      </file>
+      <file ID="jpg_00308_0" MIMETYPE="image/jpg" CHECKSUM="25b66f85da9f86489478f375ebcfec7b" CHECKSUMTYPE="MD5" SIZE="201250">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00308_0.jpg"/>
+      </file>
+      <file ID="jpg_00308_1" MIMETYPE="image/jpg" CHECKSUM="292bef2c035440e414b0baaa425c94ee" CHECKSUMTYPE="MD5" SIZE="215706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00308_1.jpg"/>
+      </file>
+      <file ID="jpg_00309_0" MIMETYPE="image/jpg" CHECKSUM="b11acfe667b54bd9f3123f5dd3efbfa1" CHECKSUMTYPE="MD5" SIZE="194558">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00309_0.jpg"/>
+      </file>
+      <file ID="jpg_00309_1" MIMETYPE="image/jpg" CHECKSUM="5ff764386e57d020c28a4621809b3453" CHECKSUMTYPE="MD5" SIZE="203183">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00309_1.jpg"/>
+      </file>
+      <file ID="jpg_00310_0" MIMETYPE="image/jpg" CHECKSUM="ae5463602c29f82e8a2ae9e2f7b5dd71" CHECKSUMTYPE="MD5" SIZE="199117">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00310_0.jpg"/>
+      </file>
+      <file ID="jpg_00310_1" MIMETYPE="image/jpg" CHECKSUM="b9441bd812a2a9e565b1f1f6dc65b200" CHECKSUMTYPE="MD5" SIZE="207597">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00310_1.jpg"/>
+      </file>
+      <file ID="jpg_00311_0" MIMETYPE="image/jpg" CHECKSUM="b0cf61f8ed71ad41cf199152efe2300e" CHECKSUMTYPE="MD5" SIZE="198204">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00311_0.jpg"/>
+      </file>
+      <file ID="jpg_00311_1" MIMETYPE="image/jpg" CHECKSUM="12a91748f0c2de8fb7557eda19e93ec6" CHECKSUMTYPE="MD5" SIZE="200099">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00311_1.jpg"/>
+      </file>
+      <file ID="jpg_00312_0" MIMETYPE="image/jpg" CHECKSUM="5f0b813e41db9ab29c9a0b3dab1e0f84" CHECKSUMTYPE="MD5" SIZE="194643">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00312_0.jpg"/>
+      </file>
+      <file ID="jpg_00312_1" MIMETYPE="image/jpg" CHECKSUM="d3ab327daa527d73e0df946ee4406090" CHECKSUMTYPE="MD5" SIZE="201634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00312_1.jpg"/>
+      </file>
+      <file ID="jpg_00313_0" MIMETYPE="image/jpg" CHECKSUM="434b1e665b0a251ea6c18f08dd1e8a4b" CHECKSUMTYPE="MD5" SIZE="194106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00313_0.jpg"/>
+      </file>
+      <file ID="jpg_00313_1" MIMETYPE="image/jpg" CHECKSUM="d17a6f2e9f62c7f86b1091404a1798a5" CHECKSUMTYPE="MD5" SIZE="204942">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00313_1.jpg"/>
+      </file>
+      <file ID="jpg_00314_0" MIMETYPE="image/jpg" CHECKSUM="9f55da3af4aa08a4ac9587b5988315b6" CHECKSUMTYPE="MD5" SIZE="195759">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00314_0.jpg"/>
+      </file>
+      <file ID="jpg_00314_1" MIMETYPE="image/jpg" CHECKSUM="59e7c01bb0af93304486728314635a1c" CHECKSUMTYPE="MD5" SIZE="210916">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00314_1.jpg"/>
+      </file>
+      <file ID="jpg_00315_0" MIMETYPE="image/jpg" CHECKSUM="ca35048818bb8391d579cf01c053758d" CHECKSUMTYPE="MD5" SIZE="196019">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00315_0.jpg"/>
+      </file>
+      <file ID="jpg_00315_1" MIMETYPE="image/jpg" CHECKSUM="c9c106afc7819973ce5b6c049934dd00" CHECKSUMTYPE="MD5" SIZE="207946">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00315_1.jpg"/>
+      </file>
+      <file ID="jpg_00316_0" MIMETYPE="image/jpg" CHECKSUM="10dba83fb017a1d8986949d8c9a5b99c" CHECKSUMTYPE="MD5" SIZE="194583">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00316_0.jpg"/>
+      </file>
+      <file ID="jpg_00316_1" MIMETYPE="image/jpg" CHECKSUM="9968c271f47f8ce4edb6933e61aa9e25" CHECKSUMTYPE="MD5" SIZE="212227">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00316_1.jpg"/>
+      </file>
+      <file ID="jpg_00317_0" MIMETYPE="image/jpg" CHECKSUM="7f624a58dd85eab7232e520b6bb26b4a" CHECKSUMTYPE="MD5" SIZE="199083">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00317_0.jpg"/>
+      </file>
+      <file ID="jpg_00317_1" MIMETYPE="image/jpg" CHECKSUM="80d27d2ff83f8d96366dfcc8228449f9" CHECKSUMTYPE="MD5" SIZE="207376">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00317_1.jpg"/>
+      </file>
+      <file ID="jpg_00318_0" MIMETYPE="image/jpg" CHECKSUM="d911a964569d77e7a854ff25d90b3862" CHECKSUMTYPE="MD5" SIZE="196202">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00318_0.jpg"/>
+      </file>
+      <file ID="jpg_00318_1" MIMETYPE="image/jpg" CHECKSUM="57d5bbb99e32cb3de2da2a2294c1d8d0" CHECKSUMTYPE="MD5" SIZE="211499">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00318_1.jpg"/>
+      </file>
+      <file ID="jpg_00319_0" MIMETYPE="image/jpg" CHECKSUM="123bfb882c78985e1c1d064874745f0a" CHECKSUMTYPE="MD5" SIZE="93719">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00319_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00306_0" MIMETYPE="text/xml+gzip" CHECKSUM="eb273b8b0b726c44b7668195d12daaff" CHECKSUMTYPE="MD5" SIZE="1722">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00306_0.xml.gz"/>
+      </file>
+      <file ID="alto_00306_1" MIMETYPE="text/xml+gzip" CHECKSUM="68474cb9c031a9db3bf7118ab9c55a55" CHECKSUMTYPE="MD5" SIZE="919">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00306_1.xml.gz"/>
+      </file>
+      <file ID="alto_00307_0" MIMETYPE="text/xml+gzip" CHECKSUM="c9f3e093994cda33685c0becccbef4ac" CHECKSUMTYPE="MD5" SIZE="928">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00307_0.xml.gz"/>
+      </file>
+      <file ID="alto_00307_1" MIMETYPE="text/xml+gzip" CHECKSUM="4971bcb7c605fda0f565924835c8e192" CHECKSUMTYPE="MD5" SIZE="7374">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00307_1.xml.gz"/>
+      </file>
+      <file ID="alto_00308_0" MIMETYPE="text/xml+gzip" CHECKSUM="94f77f9361421ac241809959e58be4fb" CHECKSUMTYPE="MD5" SIZE="13096">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00308_0.xml.gz"/>
+      </file>
+      <file ID="alto_00308_1" MIMETYPE="text/xml+gzip" CHECKSUM="cf2c1d995af28f93c9b5064d0cd0a390" CHECKSUMTYPE="MD5" SIZE="13647">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00308_1.xml.gz"/>
+      </file>
+      <file ID="alto_00309_0" MIMETYPE="text/xml+gzip" CHECKSUM="99b59d69cb117915a8f2c8e95e8dcd6d" CHECKSUMTYPE="MD5" SIZE="12616">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00309_0.xml.gz"/>
+      </file>
+      <file ID="alto_00309_1" MIMETYPE="text/xml+gzip" CHECKSUM="bead94f0863f5e51d5a36e33b4be33b1" CHECKSUMTYPE="MD5" SIZE="13024">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00309_1.xml.gz"/>
+      </file>
+      <file ID="alto_00310_0" MIMETYPE="text/xml+gzip" CHECKSUM="f31c86d0f21668d02b3543a282b8c17e" CHECKSUMTYPE="MD5" SIZE="13814">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00310_0.xml.gz"/>
+      </file>
+      <file ID="alto_00310_1" MIMETYPE="text/xml+gzip" CHECKSUM="1d046b864472c9f96c90dbe1aad3d457" CHECKSUMTYPE="MD5" SIZE="13604">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00310_1.xml.gz"/>
+      </file>
+      <file ID="alto_00311_0" MIMETYPE="text/xml+gzip" CHECKSUM="380233e37aa146d612bae67c83de44e3" CHECKSUMTYPE="MD5" SIZE="13136">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00311_0.xml.gz"/>
+      </file>
+      <file ID="alto_00311_1" MIMETYPE="text/xml+gzip" CHECKSUM="c0abcfd852b86ac87645375664c76dee" CHECKSUMTYPE="MD5" SIZE="12393">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00311_1.xml.gz"/>
+      </file>
+      <file ID="alto_00312_0" MIMETYPE="text/xml+gzip" CHECKSUM="0c95c5fe8d4b68da7ab473fcf899d022" CHECKSUMTYPE="MD5" SIZE="13178">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00312_0.xml.gz"/>
+      </file>
+      <file ID="alto_00312_1" MIMETYPE="text/xml+gzip" CHECKSUM="2792a193d7e2d8c071a024aa144bfd2e" CHECKSUMTYPE="MD5" SIZE="13266">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00312_1.xml.gz"/>
+      </file>
+      <file ID="alto_00313_0" MIMETYPE="text/xml+gzip" CHECKSUM="1107ec1b0e224a9e3f97641b85f26609" CHECKSUMTYPE="MD5" SIZE="13282">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00313_0.xml.gz"/>
+      </file>
+      <file ID="alto_00313_1" MIMETYPE="text/xml+gzip" CHECKSUM="8e5722bdd93413776e6ae21a6748824e" CHECKSUMTYPE="MD5" SIZE="13348">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00313_1.xml.gz"/>
+      </file>
+      <file ID="alto_00314_0" MIMETYPE="text/xml+gzip" CHECKSUM="9d15a94a5e7a9caef6ca1977f47884dc" CHECKSUMTYPE="MD5" SIZE="12959">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00314_0.xml.gz"/>
+      </file>
+      <file ID="alto_00314_1" MIMETYPE="text/xml+gzip" CHECKSUM="d45aa354092123f7865749c916c13130" CHECKSUMTYPE="MD5" SIZE="13345">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00314_1.xml.gz"/>
+      </file>
+      <file ID="alto_00315_0" MIMETYPE="text/xml+gzip" CHECKSUM="c4809315756d33978fa0d6081f420da7" CHECKSUMTYPE="MD5" SIZE="12942">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00315_0.xml.gz"/>
+      </file>
+      <file ID="alto_00315_1" MIMETYPE="text/xml+gzip" CHECKSUM="c8ff783cefa6fcd627dd473d2f1742d2" CHECKSUMTYPE="MD5" SIZE="12962">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00315_1.xml.gz"/>
+      </file>
+      <file ID="alto_00316_0" MIMETYPE="text/xml+gzip" CHECKSUM="632f35c7eeae65d5ee63d7b7e06a2b5f" CHECKSUMTYPE="MD5" SIZE="12899">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00316_0.xml.gz"/>
+      </file>
+      <file ID="alto_00316_1" MIMETYPE="text/xml+gzip" CHECKSUM="a2e305ed4b4bc33adca7b0579fd53c2b" CHECKSUMTYPE="MD5" SIZE="13191">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00316_1.xml.gz"/>
+      </file>
+      <file ID="alto_00317_0" MIMETYPE="text/xml+gzip" CHECKSUM="ad3dbd1bf1030981b15ed2c6fa8716b9" CHECKSUMTYPE="MD5" SIZE="13476">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00317_0.xml.gz"/>
+      </file>
+      <file ID="alto_00317_1" MIMETYPE="text/xml+gzip" CHECKSUM="a9f809f39a8f2cfd803f8fe18c65c215" CHECKSUMTYPE="MD5" SIZE="13151">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00317_1.xml.gz"/>
+      </file>
+      <file ID="alto_00318_0" MIMETYPE="text/xml+gzip" CHECKSUM="615bd214ca91a64fe624d70bb2074e80" CHECKSUMTYPE="MD5" SIZE="13587">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00318_0.xml.gz"/>
+      </file>
+      <file ID="alto_00318_1" MIMETYPE="text/xml+gzip" CHECKSUM="59d7a987e19d77a9b03a115a6b46beb4" CHECKSUMTYPE="MD5" SIZE="13467">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00318_1.xml.gz"/>
+      </file>
+      <file ID="alto_00319_0" MIMETYPE="text/xml+gzip" CHECKSUM="88fdf6404bad857bebf55712dec69621" CHECKSUMTYPE="MD5" SIZE="4448">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00319_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0090" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="599" lastpage="625">
+              <court pgmap="611" id="b611-6">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="611" id="b611-5">No. 570.</docketnumber>
+              <citation pgmap="611" id="b611-3">102 F. 473</citation>
+              <parties pgmap="611" id="b611-4">JACKSON v. UNITED STATES.</parties>
+              <decisiondate pgmap="611" id="b611-7">May 14, 1900.</decisiondate>
+              <judges pgmap="614" id="b614-7">Before GILBERT and ROSS, Circuit Judges, and HAWLEY, District Judge.</judges>
+              <attorneys pgmap="614" id="b614-5">W. T. Hume, for plaintiff in error.</attorneys>
+              <attorneys pgmap="614" id="b614-6">Robert A. Friedrich and Frank L. Coombs, U. S. Dist. Attys.</attorneys>
+              <opinion type="majority">
+                <author pgmap="614" id="b614-8">HAWLEY, District Judge.</author>
+                <p pgmap="614(182) 615(419) 616(441) 617(154)" id="b614-9">The plaintiff in error was indicted, tried, and convicted in the district court of the district of Alaska for the crime of an assault with' a dangerous weapon, and sentenced to 10 years at hard labor in the penitentiary at McNeil’s Island, in the state of Washington. The entire proceedings, from the impaneling of the grand jury to the passing of the sentence by the court, are claimed to be either absolutely null and void or erroneous. The jurisdiction of the court is attacked, and the punishment prescribed claimed to be cruel and inhuman. The case is interesting and important. Prior to the discussion of any points raised by the assign­ments of error, a brief statement of some of the facts will be made, in order that some of the points will be better understood. From the argument of counsel it appears that in the spring of 1898 one Jeff Smith, who was commonly known, and is designated in the testimony, as “Soapy Smith," a man of alleged desperate character, located, in Skaguay, Alaska, and there conducted a saloon and gambling house, and had gathered around him a half-dozen or more men of like character, as his associates, who are referred to in the testimony as belonging to “Smith’s gang,” and by his general conduct had made himself obnoxious to the law-abiding citizens of the town. Smith and some of his associates (not including Jackson) were, among other things, accused of having enticed a miner into Smith’s saloon, and of robbing him of a large amount of money. This, added to other events which had occurred, created great excitement in the community. Almost a reign of ter­ror existed. Matters finally reached a climax, which re­sulted in the commission of the offense charged against Jackson. On July 8, 1898, about half past 9 o’clock p. m., the citizens of the town assembled at Sylvester’s wharf, and detailed four .men, namely, J. M. Tanner, J. M. Murphy, Frank Reed, and J. H. Landis, to guard the approaches to the wharf. The record shows that soon thereafter Smith and his associates, including the plaintiff in error, Jackson, arrived at the approach to the wharf, where they came to a halt, and then started forward, — Smith being in the lead, with a Winchester rifle in his hand, cursing and swearing, using violent and obscene language, — and ordered the as­sembled citizens to get off the wharf, and, with oaths, threatened to drive every one off. Smith continued right along through the center of the wharf (which was about 16 feet wide) for about 60 feet, going by Tanner and Murphy, and when he got opposite Reed he wheeled around and struck at Reed with his gun. Shooting immediately occurred between Reed and Smith, resulting in the im­mediate death of Smith, and mortally wounding Reed, who subsequently died. At the time of this shooting the plain­tiff in error, an associate of Smith, drew his revolver and pointed it at Tanner, which is the assault for which Jack­son was tried and convicted, further particulars of which will be hereafter given. When Smith was killed, Jackson withdrew his revolver, and he and the other associates of Smith hastily retired from the wharf. The citizens then met for the purpose, as is contended by the plaintiff in er­ror, of organizing a vigilance committee to hang the as­sociates of Smith, and, as claimed by the defendants in error, for the purpose of checking the acts of the outlaws, and, if possible, to arrest and bring them to trial. The court seems to have confined the acts of Soapy Smith and his as­sociates within proper limits, in the admissibility of evi­dence in regard to the offense committed by Jackson. It was impossible to exclude the main facts as to what oc­curred at the time of the assault. It was proper that the circumstances leading up to the assault should be ad­mitted. There ought not to be any question but what the defendant, if he had claimed to have drawn his revolver as a matter of defense or protection, or that it was drawn purely in jest or under circumstances tending to show it was not serious, should have been allowed to do so. The gov­ernment, equally with the defendant, should be allowed the same rights and the same privileges. Either party had the undoubted right to introduce evidence tending to show the nature, character, and extent of the assault.- If the facts wrere such as to show that the defendant was associated with men of low, depraved, vicious, or criminal tastes or habits, and was acting with them in such a manner as tended to prejudice his case before the jury, that was his misfortune, and not any fault or error on the part of the court. The presentation of such facts cannot be said to have been done for the purpose of “railroading” the defendant to prison, and convicting him, on “general principles,” fos the wrong­ful and illegal acts of others. He must, however, be held responsible for his own conduct. It was, of course, the special duty of the court, which it seems to have faithfully observed throughout the whole trial, to see that the defend­ant, however low and degraded he or his associates might have been, was not to be prejudiced by the admission of any improper evidence. Every person, whether of low or high degree, is entitled to a fair and impartial trial, which is the most inestimable privilege and right that belongs to any individual accused of crime. The rights of the defendant in this respect were sedulously guarded by the court, and, if the defendant was prejudiced before the jury, it was owing to the facts and circumstances which immediately led to the assault, and the manner in which it was made. Such a prejudice it is impossible to avoid. If the offense was of an aggravated character, resulting from the acts and conduct of the accused, he has no one to blame but him­self. At the outset it is deemed proper to state, as is clearly shown by the record, that, in some of the points made by the plaintiff in error, we are called upon to assume that error might have occurred, without any attempt to show, as a matter of fact, that any did occur. Error will not be assumed by this court unless there was a prejudicial de­parture from the established rules in the formation of the jury, in the admission of evidence, or other rulings of the court. If error occurred during the tjial, it must af­firmatively be shown by the record, instead of by appealing to the imagination, and claiming that error might have oc­curred. In Jones v. Territory, 4 Okl. 45, 52, 43 P. 1075, the court said, “There is no excuse for claiming the valuable time and attention of this court in the investigation of ob­jections which have nothing in the record for a basis.” With these general observations, we proceed to notice the 18 errors assigned, under appropriate heads.</p>
+                <p pgmap="617" id="AsA">1. It is claimed that the court erred in overruling the challenge to one Frank'Burns as a grand juror, on the ground of actual bias. The facts are that, before the grand jurors were sworn, George W. Wilder, Van B. Triplett, W. E. Foster, John Bowers, and Turner Jackson, the as­sociates of Smith, challenged Frank Burns, who was sum­moned as one of the persons to act as a grand juror, and objected to said Burns being sworn for the following rea­sons, viz.: “That said Wilder, Triplett, Foster, Bowers, and Jackson are in custody, having been held to answer to said grand jury upon charges of felony, which charges it will become the duty of said grand jury to investigate. That said Burns was one of a committee who investigated testimony against these defendants and caused their arrest, and said Burns had signed a written report, which had been published in the Daily Alaskan, in which report said Burns had expressed his opinion as to the guilt of the defendants, and that’ the evidence in the possession of said committee was sufficient to convict.”</p>
+                <p pgmap="617" id="b617-5">Whereupon the court overruled said challenge, and de­clined to excuse said Burns from service on said grand jury, but instructed Burns that he should not participate in the investigation of the charges against said defendants, nor vote upon the indictments.</p>
+                <p pgmap="617(20) 618(91)" id="b617-6">We are of opinion that this action of the court was not erroneous. The procedure relative to summoning and im­paneling grand jurors is often expressly provided for by statute. In such cases the courts substantially conform to such procedure. In Reynolds v. U. S., 98 U.S. 145, 153, 25 L.Ed. 244, the court held that section 808 of the Revised Statutes, providing for impaneling grand juries, applies only to the circuit and district courts of the United States, and that the laws of the territory govern and control the im­paneling of a grand jury. See, also, Publishing Co. v. Fisher, 166 U.S. 464, 17 S.Ct. 618, 41 L.Ed. 1079.</p>
+                <p pgmap="618" id="b618-4">In the organic act providing a civil government for Alaska it is enacted: “That the general laws of the state of Oregon now in force are hereby declared to be the law in said district, so far as the same may be applicable and not in conflict with the provisions of this act or the laws of the United States.” 23 Stat. 25, § 7.</p>
+                <p pgmap="618" id="b618-5">The statute of Oregon provides as follows: “Before ac­cepting a person drawn as a grand juror, the court must be satisfied that such person is duly qualified to act as a juror, but when drawn and found qualified he must be accepted, unless the court, on the application of the juror and before he is sworn, shall excuse him from such service for any of the reasons prescribed by chapter 12 of the Code of Civil Procedure.”</p>
+                <p pgmap="618" id="b618-6">Chapter 12 provides for the general qualifications and exemptions of jurors. Hill’s Ann.Laws Or. § 1233 (34) : “Sec. 1234 (35). No challenge shall be made or allowed to the panel from which the grand jury is drawn, nor to an individual grand juror, unless when made by the court for want of qualifications as prescribed in section 1233 (34).”</p>
+                <p pgmap="618(125) 619(450) 620(31)" id="b618-7">No question is raised as to the general qualifications of Burns to act as a grand juror. It must be remembered that there is a marked distinction between a grand juror, who merely makes an accusation of the commission of a crime, and a petit juror, who tries the question of the guilt or in­nocence of the defendant who is so accused. It is well understood that, in finding indictments, grand jurors may act, and are generally instructed to act, upon their own knowledge, or upon the knowledge of one or more of their number. Grand juries are usually impaneled for an entire term, to inquire into all offenses committed within the body of the district or county. It is, therefore, manifest that if objections to individual jurors were to be allowed, before they were sworn on the panel, which went to disqualify them in some particular case, it would be impracticable or diffi­cult to select an unexceptionable grand jury. It has ac­cordingly been held in most jurisdictions, and sustained by the great weight of authority, that, where there is no ex­press provision of the statute to the contrary, it is no ob­jection to the validity of an indictment that one or more of the grand jurors, who were otherwise qualified, had formed or expressed an opinion of the guilt of the ac­cused, and, instead of being discharged from the panel, was instructed not to participate in the particular cases in which he might be biased. U. S. v. Williams, 1 Dill. 485, Fed. Cas.No.16,716; U. S. v. Belvin (C.C.) 46 F. 381, 384; U. S. v. Clune (D.C.) 62 F. 798, 800; Tucker’s Case, 8 Mass. 286; Com. v. Woodward, 157 Mass. 516, 518, 32 N.E. 939; State v. Hamlin, 47 Conn. 95, 105; State v. Chairs, 9 Baxt.(Tenn.) 196; Musick v. People, 40 Ill. 268, 272; Brown v. Com., 76 Pa. 319, 336; Lee v. State, 69 Ga. 705; 10 Enc.Pl. &amp; Prac. 358. And it has frequent­ly been held, in the absence of any statute to the contrary, that an interest or bias in the case, not of a pecuniary na­ture, cannot be urged as an objection. State v. Easter, 30 Ohio St. 542; Koch v. State, 32 Ohio St. 353, 356; Com. v. Brown, 147 Mass. 585, 590, 18 N.E. 587, 1 L.R.A. 620; State v. Brainerd, 56 Yt. 532, 537; State v. Rickey, 10 N.J.Law, 83; State v. Maddox, 1 Lea (Tenn.) 671; State v. Sharp, 110 N.C. 604, 14 S.E. 504. In Com. v. Wood­ward, supra, it was contended that the indictment should be set’ aside because one of the grand jurors by whom it was found, being otherwise competent and qualified to serve, had, before the meeting of the grand jury, made a personal investigation into the guilt of the accused, and had secreted himself in a room, with an officer, for the purpose of listen­ing to declarations and admissions made by the accused con­cerning the crime, and had heard such declarations and ad­missions, and had listened to statements of officers to the effect that the accused was guilty, and had thereupon formed an opinion, and believed him to be guilty before and at the time of the investigation of the case by the grand jury. The court said: “We are of opinion that these facts constitute no legal objection to the validity of the indict­ment. This opinion is in accordance with what appears to us to be the clear weight of judicial decision elsewhere, though in some instances views to the contrary have been held.”</p>
+                <p pgmap="620" id="b620-4">In the present case the court acted in favor of the de­fendant, and instructed Burns not to participate in the in­vestigation of the charges against him, or vote on the in­dictment. That the court had the right to do this, in the interest of justice, under the circumstances, is too plain'to require further discussion.</p>
+                <p pgmap="620(359) 621(209)" id="b620-5">2. It is claimed by the plaintiff in error that the indict­ment is entitled in a court having no legal • existence, and that the court erred in overruling a demurrer thereto on the ground that “the facts stated in said indictment do not constitute a crime.” ' The indictment is entitled, “In the District Court of the United States for the District of Alaska.” We are not disposed to hold that the use of the words in italics was erroneous. The indictment would have been good if the words had been omitted, but they are used in the caption of every paper filed in the case, and in the minutes of the court kept by the clerk. In most cases the words used are, “In the United States District Court,” etc. We are clearly of opinion that the use of the words “of the United States,” at most, could only be considered a clerical or technical error. In no sense can it be held that the use of the words is such an error as would vitiate the indictment, or make all or any of the proceedings had there­under null and void. The district court for the district of Alaska is not, strictly speaking, a court of the United States, and does not come within the purview of the acts of congress which speak of “courts of the United States” only. Clinton v. Englebrecht, 13 Wall. 434, 447, 20 L.Ed. 659; Reynolds v. U. S., 98 U.S. 145, 154, 25 L.Ed. 244; McAllister v. U. S., 141 U.S. 174, 11 S.Ct. 949, 35 L.Ed. 693; Thiede v. Utah, 159 U.S. 510, 514, 515, 16 S.Ct. 62, 40 L.Ed. 247; U. S. v. McMillan, 165 U.S. 504, 510, 17 S.Ct. 395, 41 L.Ed. 805. But in a certain sense the dis­trict court for the district of Alaska is a United States court, and is often so designated. It was created by afi act of congress. It is not a state court. The organic act pro­vides that the territory of Alaska “shall constitute a civil and judicial district,” and “that there shall be, and hereby is, established a district court for said district, with the civil and criminal jurisdiction of district courts of the United States, and the civil and criminal jurisdiction of district courts of the United States exercising the jurisdiction of circuit courts, and such other jurisdiction not inconsistent writh this act, as may be established by law.” 23 Stat. 24, § 3. In McAllister v. U. S., 141 U.S. 174, 479, 11 S.Ct. 951, 35 L.Ed. 694, cited by the plaintiff in error, the court held that a person appointed by the president to be judge of the district court of the district of Alaska is not a judge of a court of the United States, within the meaning of the exception in section 1768, Rev.St.U.S., relating to the tenure of office of certain civil officers. But the court, after citing various provisions of the organic act of Alaska, said: “It is clear that the district court for Alaska was invested with the powers of. a district court and a circuit court of the United States, as well as with general jurisdiction to enforce in Alaska the laws of Oregon, so far as they were applicable, and were not inconsistent with the act and the constitution and laws of the United States.”</p>
+                <p pgmap="621" id="b621-4">See, also, In re Cooper, 143 U.S. 472, 494, 12 S.Ct. 453, 36 L.Ed. 232; The Coquitlam v. U. S., 163 U.S. 346, 350, 16 S.Ct. 1117, 41 L.Ed. 184.</p>
+                <p pgmap="621" id="b621-5">In the Coquitlam Case, cited by plaintiff in error, the court held that the circuit court of appeals for the Ninth circuit could not review the final judgment or decrees of the Alaska court by virtue of its appellate jurisdiction over the district and circuit courts of the United States mentioned in the act of March 3, 1891, but further held, in view of the fact that there was only one court in Alaska, it was in every substantial sense “the supreme court of that terri­tory,” from which the appeal would lie; and in the course of the discussion upon this point the court said, “The title of a territorial court is not so material as its character.” The Oregon Code (section 1279) provides as follows: The indictment “is sufficient if it can be understood there­from (1) that it is entitled in a court having authority to receive it, though the name of the court be not accurately stated.”</p>
+                <p pgmap="621(34) 622(78)" id="b621-6">In the light of the facts, and of the principles announced in the decisions of the supreme court, and of the provisions of the Oregon Code, it is manifest that the plaintiff in error could not have been misled or deceived by the words used in the caption of the indictment. In People v. Biggins, 65 Cal. 564, 566, 4 P. 572, the court, referring to objections urged to the title of an indictment, said: “We think the omission of the name of the county in the title is a technical error or defect which did not affect the substantial rights of the defendant. It must, therefore, be disregarded by the court.”</p>
+                <p pgmap="622" id="b622-4">It is argued that the indictment is insufficient because it concludes, “against the peace and dignity of the United States.” How should it conclude ? It would not have been proper to say, “against the peace and dignity of the state of Oregon,” nor “against the peace,” etc., of the territory of Alaska, because the territory was not granted .the power to make laws. It might have been sufficient to have con­cluded with the words, “contrary to the statute in such case made and provided.” But in view of the provision of the organic act of Alaska, which adopts the laws of Oregon, the contention of counsel is wholly untenable. The United States having acquired the territory of Alaska, and provided the laws under which it was to be governed, it is evident that no other government could impose upon its citizens any other law. In Shively v. Bowlby, 152 U.S. 148, 14 S.Ct. 566, 38 L.Ed. 349, the court said: “By the constitu­tion, as is now well settled, the United States having right­fully acquired the territories, and, being the only govern­ment which can impose laws upon them, have the entire dominion and sovereignty, national and municipal, federal and state, over, all the territories, so long as they remain in a territorial condition.”</p>
+                <p pgmap="622" id="b622-5">See, also, Endleman v. U. S., 30 C.C.A. 186, 86 F. 456, 459, and authorities there cited.</p>
+                <p pgmap="622" id="b622-6">A violation of any of the laws adopted by congress for the government of the territory of Alaska would not only be “contrary to the form of the statutes in such case made and provided,” but would also be against “the peace and dignity of the United States.”</p>
+                <p pgmap="622(40) 623(118)" id="b622-7">The next objection of counsel is that the indictment does not state the proper party plaintiff. The language is, “The grand jurors of the United States of America, selected, im­paneled, sworn, and charged within and for the district of Alaska, accuse Turner Jackson,” etc. The views we have already expressed sufficiently answer this objection. It is, however, proper to add, as applicable to all the questions discussed in relation to the sufficiency of the indictment, that the Code of Oregon expressly provides that “no in­dictment is insufficient, nor can the trial, judgment, or other proceedings thereon be affected by reason of a defect or imperfection in matter of form which does not tend to the prejudice of the substantial rights of the defendant upon the merits.” Hill’s Ann.Laws Or. § 1280. The last specific objection to the indictment, “that no crime is charged there­in,” is raised in other points, and will be elsewhere dis­cussed.</p>
+                <p pgmap="623(311) 624(125)" id="b623-4">3. It is assigned as error that “the court erred in over­ruling the objection of defendant to the questions asked of the witnesses F. F. Clark and Frank Burns with reference to statements made by the defendant after the time of the alleged assault, in the nature of admissions of guilt, for the reason that no proper foundation was laid, and the ad­missions were made through fear and under duress.” The record shows that Tanner arrested Jackson about half past 10 o’clock p. m. the day after the commission of the offense; that he found him in the Astoria Hotel, lying on a cot, with his head covered up with a blanket; that, upon striking a match and removing the blanket, he recognized Jackson, and told him he was the man he had been looking for; that Jackson replied: “You are mistaken. Q. At that time, did you tell this man why you arrested him? A. I told him at the jail. Q. What else did you do with him? A. He was in there two or three days, and then I took him down to the Burkheart Hotel, before a committee of citi­zens. Q. Did he make any statements there as to what had occurred at the wharf, — whether he was there or wheth­er he wasn’t? * * * State, Captain Tanner, whether, previous to his making different statements, if he did make any concerning his presence there on that occasion, there was any threats made to him that unless he did confess he would be hung, or any other violence would happen him, or if there was any inducements held out, or whether the statement was voluntary or involuntary? A. His state­ment was voluntary. Q. Any inducement held out to him? A. There was not. * * * Q. By the Court: Did you, as an individual, or did any member of this commit­tee that you refer to, or did any other person, to your knowl­edge, directly or indirectly give this man to understand that he would receive any kind of immunity from punish­ment if he would make a statement? A. I never did. I did not myself, and I never heard of any one else. Q. Did you or any member of this committee, or any one else, prior to the statement of the defendant, directly or indirectly threaten him to the effect that, if he did not make a statement concerning the affair, that it would go harder with him, or that he would be more liable to be punished? A. No, sir.”</p>
+                <p pgmap="624" id="b624-4">The court thereupon overruled the objections made by counsel, and the examination continued: “Q. I will ask you what, if any, statement he made on that occasion con­cerning his pulling a gun on you, if any? A. After the committee examined him in regard to the killing, I asked him (I said), ‘Didn’t you pull a gun on me at the wharf?’ and he said: T pulled a gun on somebody. I do not know if you are the man.’ I said, ‘Don’t you know I am the the man ?’ He said, ‘It was somebody that stood on the cor­ner of the wharf.’ Q. Did you refer to the time and place where the killing took place? A. I did.”</p>
+                <p pgmap="624" id="b624-5">He further testified that there had been a gathering of the citizens two or three days before, but .at the time of defendant’s making said statement the town was perfectly quiet.</p>
+                <p pgmap="624" id="b624-6">The witness Clark testified that the first time he saw Jack­son was in the committee room three or four days after the difficulty on the wharf. “Q. I will ask you first if he made any statement at that time with reference to his connection with this affair at the wharf. A. Yes; he did. Q. Previous to his making that statement, did you, or any person present, hold out any inducement that it would be better for him to confess or make a statement, or any threats that it would be worse for him if he did not, or other threats or inducement to get him.to make a state­ment? A. No, sir; we did not. Q. Nothing of that kind occurred? A. No, sir. Q. You can go on and state what, if anything, he said concerning his being present at the time Reed and Smith were killed, and what he did.”</p>
+                <p pgmap="625" id="b625-3">Before answering this question he testified that on the day after Reed was shot a large number of citizens, some of them armed, assembled, and considerable excitement ex­isted, and some threats were made, after the parties had been arrested, to hang some of the men in custody, but that at the time of the meeting of the committee with Jack­son the town was “in a perfect state of peace and quie­tude.” “Q. Did your committee advise him at that time * * * that anything he might say might be used against him? A. No, sir. Q. Did your committee advise this man that anything he might say there might be a benefit to him in any way? A. I do not remember anything of the kind. O. Did you offer him any protection, or tell him that the mob would not be allowed to hang him? A. No; that was all over. He knew it himself, — that he wasn’t in any danger; that the excitement was all over.”</p>
+                <p pgmap="625" id="b625-4">He then proceeded to answer the question. “Q.“Go on and state what he said. A. He said he was on the dock, and pulled a gun on a man there. Q. Did he say he knew who the man was? A. No; he said he did not. I think Tanner said, T am the man you pulled the gun on.’ ‘Well,’ said Jackson, T do not know whether you are or not. I do not recognize you. I pulled a gun on some man.’ Q. It was supposed this occurred at the time Smith and Reed were killed? A. Yes, sir.”</p>
+                <p pgmap="625" id="b625-5">The witness Burns testified substantially to the same ef­fect as the witness Clark.</p>
+                <p pgmap="625(145) 626(146)" id="b625-6">It is unnecessary to discuss the question, or to refer to the authorities cited by counsel to the effect that confes­sions, admissions, or statements made by a defendant charged with crime, which are induced by fear, threats, hope, or promise of reward, are not admissible in evidence. It is enough to say that the facts above recited clearly show that the confession was voluntary. Jackson did not make the statements testified to because of any threat, induce­ment, or promise on behalf of the committee, or through fear of personal danger. The confession was therefore clearly admissible. Cornell v. State (Wis.) 80 N.W. 745, 748; State v. Vaughan (Mo.Sup.) 53 S.W. 420; Com. v.­Cressinger (Pa.Sup.) 44 A. 433. In Com. v. Cressinger, supra, the court held that a confession obtained by a trick was admissible. The court said: “The fact that it was obtained by a trick is no objection to its competency, un­less the circumstances are such as to suggest an inference that, through fear or hope, a false confession may be made. There were no such circumstances in the present case, nor anything which required the judge to dwell particularly upon them in his charge. A knife was produced, and the prisoner led to believe that it was his. Under this sup­position, he told where he had hid his, and then told the story of the murder. The object of evidence is to get at the truth, and a trick which has no tendency to produce a confession, except one in accordance with the truth, is always admissible. Society and the criminal are at war, and capture by surprise or ambush or masked battery is as per­missible in one case as in the other.”</p>
+                <p pgmap="626" id="b626-4">In 6 Am. &amp; Eng.Enc.Law (2d Ed.) 536, it is said:</p>
+                <blockquote pgmap="626" id="AcQ">“The fact that a confession was made by the accused while under arrest or in confinement, and to the sheriff, constable, jailer, or other officer having him in custody at the time, will not render it involuntary, so as to exclude it from evidence, unless there is also proof that it was in­duced by hope or fear. In such case it is not necessary the confession should be preceded by an admonition placing the prisoner on his guard.” .</blockquote>
+                <p pgmap="626" id="b626-5">Numerous authorities are cited in support of this text.</p>
+                <p pgmap="626(185) 627(31)" id="b626-6">4. In the seventh assignment of error it is claimed that: “The court erred in refusing to grant defendant’s motion for a peremptory instruction to the jury to return a ver­dict of not guilty in this cause, on the ground and for the reason that the government had wholly failed to make a case against the defendant, in this: That they had total­ly failed to show by any testimony whatsoever that the defendant on the occasion was armed, or had in his pos­session a dangerous weapon; that there was no testimony v/hatsoever to show that any pistol he may have had, or was charged with having, in his possession was loaded, or that he was within a striking distance of the prosecuting witness, or had any revolver, pistol, or any other weapon charged in the indictment, or attempted to be proved upon the trial, that was dangerous. On the other hand, it af­firmatively appeared from the testimony of the government in this cause that the defendant was not in striking dis­tance of the prosecuting witness, and there is no testi­mony whatever to show that he was armed with a dangerous weapon, or that, if so armed, that he was in a position to inflict any injury upon the prosecuting witness.”</p>
+                <p pgmap="627" id="b627-4">Under this assignment we will notice the point, pre­viously urged, that the indictment does not state facts suffi­cient to constitute a crime, as well as the points suggested as to the insufficiency of the evidence. The indictment was drawn under the provisions of section S36 of the Ore­gon Code, which reads as follows: “If any person, being armed with a dangerous weapon, shall assault another with such weapon, such person, upon conviction thereof, shall be punished by imprisonment in the penitentiary not less than six months nor more than ten years, or by imprison­ment in the county jail not less than one month nor more than one year, or by fine not less than one hundred nor more than one thousand dollars.” Hill’s Ann.Laws Or. § 1744.</p>
+                <p pgmap="627" id="b627-5">The charging part of the indictment reads as follows:</p>
+                <blockquote pgmap="627" id="A5m">“The said Turner Jackson, at or near Skaguay, within the said district of Alaska, and within the jurisdiction of this court, on the 8th day of July in the year of our Lord 1898, being then and there armed with a dangerous weap­on, to wit, a revolver charged with gunpowder and leaden bullets, and with which a mortal wound could be inflicted, did unlawfully and feloniously assault one Josias M. Tan­ner with said revolver, by pointing the same towards and at him, the said Josias M. Tanner, and threatening him, the said Josias M. Tanner, therewith, with the intent then and there and thereby to assault with said dangerous weap­on the said Josias M. Tanner by so doing as aforesaid.”</blockquote>
+                <p pgmap="627(118) 628(9)" id="b627-6">The words relating to the intent with which the weapon was drawn need not have been used, and may be treated as surplusage, although as used they are not objectionable. The law is well settled that congress or the legislature of a state or territory may enact laws for the violation of which, irrespective of the criminal intent, punishment and penalty are attached. It is the act itself, the doing of which constitutes the crime. The charging part of the indictment substantially charged the crime in the language of the statute, and this is generally held to be sufficient. But the provisions of Hill’s Ann.Laws Or. §T279, in ad­dition to the provisions heretofore cited, declare that the indictment is sufficient if it can be understood therefrom:</p>
+                <blockquote pgmap="628" id="A9aQ">“(6) That the act or omission charged as the crime is clear­ly and distinctly set forth, in ordinary and concise language, ■without repetition, and in such a manner as to enable a per­son of common understanding to know what is intended. (7) That the act or omission charged as the crime is stated with such a degree of certainty as to enable the court to .pronounce judgment, upon a conviction, according to the ■right of the case.”</blockquote>
+                <p pgmap="628" id="b628-4">This, taken in connection with the statute defining the crime, makes it perfectly clear that the indictment in the present case states facts sufficient to constitute the crime ■charged. It is too clear for argument that the facts are 'stated in such a manner as to enable a person of cofnmon understanding to know what was intended, and with such a degree of certainty as to enable the court to pronounce judgment. The essential element of the crime charged was the assault made by Jackson upon Tanner with a dangerous weapon. The court charged the jury that: “The draw­ing of a .dangerous weapon upon the person is not- neces­sarily criminal, because it may be done in mere jest; but, .if it is done in a menacing and threatening manner, the as­sault is complete, notwithstanding the fact that no words were used, and notwithstanding that the defendant did not intend to shoot and kill the person at the time he presents the revolver, and it is a violation of the statute to threat­eningly present a deadly weapon at another within the range that the gun might carry, if it be a gun. A dangerous weap­on, under the meaning of this law, is one likely to produce death or great bodily harm; and I instruct you, as a matter of law, a.gun in the hands of a person capable of using it, and at a- distance within which it will carry, loaded with gunpowder and leaden bullets, is a dangerous weapon.”</p>
+                <p pgmap="628" id="b628-5">It is admitted by counsel for the plaintiff in error that this portion of the charge is correct.</p>
+                <p pgmap="628(69) 629(86)" id="b628-6">This brings us to the question whether the evidence was sufficient to authorize the court to submit the case to •the jury. The evidence in the record, independent of the admissions of Jackson, is clear, direct, positive, and un­disputed that Jackson, at the time of the shooting between -Reed and Smith, did draw and point a revolver at Tanner in a threatening manner. The witnesses varied in their testimony as to the distance between Tanner and Jack­son at the time the revolver was drawn and pointed at Tanner. One witness (Landis) said it was “about five feet”; another (Toney), that, in his best judgment, it was “ten or fifteen feet”; and Tanner testified that it was “possibly twenty or thirty feet.” The assertion of counsel that there was no evidence that Tanner was “within shoot­ing distance” of Jackson at the time the revolver was drawn vanishes before the light of the evidence.</p>
+                <p pgmap="629" id="b629-3">The remaining point, that there was no evidence that the revolver was loaded, is equally without merit. It is true that there was no positive or direct ■ evidence that it was loaded. How could there be? It was not discharged. Jackson kept possession of it, and got away as speedily as possible after Smith was shot. Whether it was loaded or not was a question of fact, to be determined by the jury. The testimony was circumstantial. The jury had to infer the fact from all the testimony and the surround­ing circumstances. What was the object or purpose of Smith and his associates in going down to the wharf? What was the natural inference to be drawn from the acts and conduct of Jackson at or about the time he drew and pointed his gun on Tanner? The jury heard this testi­mony, and were authorized to draw the inference therefrom that Jackson’s revolver was loaded.</p>
+                <p pgmap="629(177) 630(164)" id="b629-4">In this connection we will notice the objection made at the trial, and assigned as error, that the court erred in per­mitting any evidence as to the freshness of the cartridges in the revolver. The facts are that after Tanner had testified that he arrested Jackson within 26 hours after the shoot­ing on the wharf, and took the revolver from him, and that Jackson then stated that it was the revolver that he had on the wharf, and Tanner further testified that it had re­mained in the same condition as when he received it, he was, against the objection of the plaintiff in error, allowed, in the language of the court, to “describe the appearance of the cartridges, if he noticed them, and the jury would be the judge,” and testified, “I can’t always tell as to the freshness, but I examined the gun the next morning, and I considered them fresh cartridges.” The objections urged by counsel were that the evidence was insufficient to show that Tanner was an expert. This was immaterial, except as it might tend to influence the jury as to the weight to be given to the evidence. Tanner testified that he had been accustomed to handling firearms for 30 or 35 years. When the objection was made to the admissibility of one of the questions upon this point, the district attorney re­marked, “The gentleman seems to be very afraid to have the facts shown.” This remark was objected to by the plaintiff in error. The court said: “The witness has de­scribed the appearance. All the witness can say he has said, and the jury are the judges of the facts.” There was no error in the ruling of the court concerning the admission of this evidence, and no substantial objection to the re­mark of counsel, which was evidently called forth by the frequency of the objections to the admission of any evidence upon this point. The remark might with propriety have been omitted, but it constitutes no reversible error.</p>
+                <p pgmap="630" id="b630-4">5. Objections are urged, and assignments of error made, against the action of the court in refusing to give certain in­structions requested by the plaintiff in error. We do not deem it necessary to specify the grounds of objection. It is enough to say in regard thereto that the charge of the court, in-its entirety, was clear, concise, and correct, ab­solutely fair and impartial, and covered every material point in the case, and was in every respect as favorable to the de­fendant as the law would warrant.</p>
+                <p pgmap="630(169) 631(15)" id="b630-5">6. The fifteenth assignment of error reads as follows: “The court erred in overruling defendant’s objection to the receipt of the verdict of the jury on the ground that the said jury, while deliberating, had received and ac­cepted evidence other than what was introduced upon the trial, and that that evidence was material evidence, con­strued by them in determining the question as to whether or not the said weapon alleged to have been used by the defendant was loaded, and that said evidence determined the action of the jury, and brought about the verdict of the jury, in that the said jury exploded and shot off cart­ridges, which had been introduced in evidence and not iden­tified, while they were deliberating in their jury room, to which said action of the jury the defendant duly excepted, and objected to the receipt of the verdict obtained upon such evidence illegally construed by said jury, which said objec­tion of the defendant the court overruled, and the defendant then and there duly excepted, and the court received the ver­dict of said jury.”</p>
+                <p pgmap="631" id="b631-4">This assignment is objectionable in many respects. It is based upon an unverified statement of counsel. There was no evidence presented or affidavit made by any one to lay the foundation for bringing the matter properly before the court. It conveys the idea that the objection was made before receipt of the verdict, whereas the record shows that after the jury had retired they “returned a verdict into court, against the defendant, of guilty as charged in the indictment,” and that counsel then stated to the court that he was informed that the jury had “discharged one of the cartridges,” and asked the court to “inquire of the jury whether or not the pistol was fired off during their deliberation”; and, the court declining to ask any questions, he objected “on the ground that the jury considered evi­dence not introduced upon the trial of the cause.” It is evident from the facts stated in the record that there was nothing properly brought before the court to justify any such inquiry or examination. Moreover, the objection was not made until after the receipt of the verdict, and came too late. If counsel knew that the jury had received evidence out of court, he should have brought the facts before the court in a proper manner, and made his objection before the verdict was received. The plaintiff in error could not, with knowledge of the facts, remain silent, wait and specu­late upon the chances of a verdict being in his favor, and then, when it was found to be against him, raise this ob­jection. Lee v. McLeod, 15 Nev. 158, 163; Thomp. &amp; M. Jur. § 428, and authorities there cited; 8 Enc.Pl. &amp; Prac. 186, and authorities there cited.</p>
+                <p pgmap="631(111) 632(26)" id="b631-5">7. The record shows that: “The defendant put no evi­dence before the jury, and counsel proceeded with the argu­ment. (Counsel for the defendant excepted to the remarks of counsel for the prosecution, made on his closing argu­ment, to the effect, ‘Why didn’t the defendant put a sworn witness on the stand?’) By the Court: Gentlemen of the jury, the remarks of counsel with reference to the defendant not putting any witnesses on the stand must not prejudice your mind in any way. (Counsel for the de­fendant objected to the remarks of the counsel for the pros­ecution to the effect that the jury should not stultify them­selves, and that the defendant was a convicted criminal. Objection overruled by the court, to which ruling counsel for the defendant then and there duly excepted.)”</p>
+                <p pgmap="632" id="b632-4">It is argued that such remarks tended unduly to prej­udice the defendant, and constituted such an error as re­quires a reversal of the case. It is a sufficient answer to this objection to state that there is no assignment of error which presents the questions to this court, and that the facts set forth in the record do not constitute such “a plain error not assigned” as would require any notice thereof to be taken under rule 11 of this court. We desire, how­ever, to state that the remark, “Why didn’t the defendant put a sworn witness on the stand?” does not necessarily im­ply, and would not ordinarily be understood to mean, that the attorney was commenting on the fact that the defendant had not taken the witness stand. The ordinary meaning •would naturally be that counsel was referring to the fact that there were a large number of people on the wharf, and that it was a significant fact that the defendant had not called any of these witnesses to disprove the testimony of the prosecution, if it were not true; and upon this point the court charged the jury that the remarks of counsel must not prejudice their minds in any way.</p>
+                <p pgmap="632(189) 633(431) 634(14)" id="b632-5">8. Finally it is claimed and assigned as error that the court erred in rendering judgment and passing sentence that the defendant “be imprisoned at hard labor in the penitentiary at McNeil’s Island, in the state of Washington, for the period of ten (10) years, and to stand committed until this sentence be performed,” upon the ground that this judgment and sentence “was cruel, unusual, and ex­cessive.” Is this assignment well taken? That the sen­tence of 10 years was a severe one must be admitted. If not unconstitutional, it cannot form the basis of a writ of error. The fact that the court imposed the maximum pun­ishment furnishes no ground for the reversal of the case. The extent of the sentence was within the discretion of the judge who tried the case, and who was well advised as to the facts. Article 8 of the constitution of the United States provides that “excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punish­ments inflicted.” The sentence imposed in the present case cannot be considered in violation of this provision of the constitution. The general rule is well settled that the sen­tence and punishment imposed upon a defendant for any violation of the provisions of the statute, which is within the punishment provided for by the statute, cannot be re­garded as excessive, cruel, or unusual. Pervear v. Com., 5 Wall. 476, 480, 18 L.Ed. 608; Jones v. Territory, 4 Okl. 45, 50, 43 P. 1072; Ligan v. State, 3 Heisk. (Tenn.) 159, 164; State v. Becker, 3 S.D. 29, 40, 51 N.W. 1018; People v. Whitney, 105 Mich. 622, 627, 63 N.W. 765; 8 Am. &amp; Eng.Enc.Law (2d Ed.) 440, and authorities there cited. It is true that there may be exceptional cases, in re­lation to the whipping post, pillory, or other extreme, iso­lated, and exceptional cases, where the courts have inter­fered, and held the sentence to be in violation of the pro­visions of the constitution. Cooley, Const.Lim.(6th Ed.) 402. The right to punish a person who commits an offense depends upon the right of society to protect itself. Crimes should be severely punished which are most destructive to public safety and the peace and quiet of a community. The extent of the punishment, upon conviction, ought to be such as is warranted by law, and such as appears to be best calculated to answer the ends of precaution necessary to deter others from the commission of like offenses, in ad­dition to the punishment of the individual offender. When all these things are considered in connection with the par­ticular facts and circumstances surrounding the commission of the offense in the present case, it cannot be said that the punishment of 10 years in prison, though severe in ex­tent, is so out of all proportion to the offense for which the defendant was convicted as to “shock public sentiment and violate the judgment of reasonable people."” In Ligan v. State, supra, the court, in discussing the provisions of a statute of the state of Tennessee which fixed “imprison­ment in the penitentiary for a long period (ten to twenty years)” for a felony, said: “But this is neither cruel nor unusual, in the sense of the constitution. When we look at the evils intended to be checked and offenses forbidden by this act, and turn to the proof in this case, and see the character of acts shown to have been committed by some one, we feel no hesitancy in saying that whenever parties shall be regularly convicted after a fair and impartial trial, in accordance with the forms of law, of such offenses, we shall feel no hesitancy in enforcing sternly the penalties pro­vided by the statute.”</p>
+                <p pgmap="634" id="b634-4">The only legal objection to the sentence is in the inser­tion of the words “at hard labor,” which are not authorized by the statute under which the defendant was convicted. The words “at hard labor” should not have been included in the sentence, but authorities hold that the use of such words, were not authorized by the statute under which the prisoner was convicted, does not render the sentence void; that, at most, it is only voidable, and can be amended by striking out the words “at hard labor”; and that it does not constitute such an error as to justify the court to reverse the case and grant a new trial. In Ex parte Karstendick, 93 U.S. 396, 399, 23 L.Ed. 890, it was contended on be­half of the petitioner that where the punishment provided for by the statute is imprisonment, alone, a sentence to confinement at a place where hard labor is imposed as a consequence of the imprisonment is in excess of the power conferred. The court said: “We have not been able to arrive at this conclusion. In cases where the statute makes hard labor a part of the punishment, it is imperative upon the court to include that in its sentence. But where the-­statute requires imprisonment, alone, the several provi­sions which have just been referred to place it within the power of the court, at its discretion, to order execution of its sentence at a place where labor is exacted as part of the discipline and treatment of the institution, or not, as it pleases. Thus, a wider range of punishment is given, and the courts are left at liberty to graduate their sentences so as to'meet the ever-varying circumstances of the cases which come before them. If the offense is flagrant, the peniten­tiary, with its discipline, may be called into requisition; but, if slight, a corresponding punishment may be inflicted within the general range of the law.”</p>
+                <p pgmap="634(83) 635(335)" id="b634-5">In U. S. v. Pridgeon, 153 U.S. 48, 61, 14 S.Ct. 751, 38 L.Ed. 636, the court, after quoting from other cases, among other things, said: “It is doubtful whether, upon a writ of error, the prisoner would have been entitled to a modification of his sentence by striking out the ‘hard labor’ portion thereof. By section 5539, Rev. St., it is provided that ‘whenever any criminal, convicted of any offense against the United States, is imprisoned in the jail or penitentiary of any state or territory, such criminal shall in all respects be subject to the same discipline and treatment as convicts sentenced by the courts of the state and territory in which such jail or penitentiary is situated; and while so confined therein shall be exclusively under the control of the officers having charge of' the same, under the laws of such state or territory.’ Suppose the five years sentence had embodied the provision of this section, which it could lawfully have done; would it have carried with it, in point of fact, ‘hard labor,’ as a part of the discipline of the Ohio penitentiary? This being so, it is difficult to see upon what principle it can be held that the sentence of imprisonment is vitiated and rendered void for expressly including the element or feature of ‘hard labor,’ which would have been otherwise implied in the sentence of simple imprisonment. * * * The sound rule is that a sentence is legal so far as it is within the provisions of law, and the jurisdiction of the court over the person and offense, and only void as to the excess, when such excess is separable, and may be dealt with with­out disturbing the valid portion of the sentence. Many well-considered authorities, in England as well as in this country, hold that, where there is jurisdiction of the per­son and of the offense, the excess in the sentence of the court beyond the provisions of law is only voidable in pro­ceeding upon a writ of error. Ex parte Lange, 18 Wall. 163, 21 L.Ed. 872; Sennott’s Case, 146 Mass. 489, 493, 16 N.E. 448; People v. Kelly, 97 N.Y. 212; People v. Lis­comb, 60 N.Y. 559; People v. Jacobs, 66 N.Y. 8; Ex parte Shaw, 7 Ohio St. 82; Ex parte Van Hagan, 25 Ohio St. 426; In re Graham, 74 Wis. 450, 43 N.W. 148; Eisner v. Shrigley, 80 Iowa, 30, 45 N.W. 393; Ex parte Max, 44 Cal. 579.”</p>
+                <p pgmap="635(102) 636(181)" id="b635-5">The cases above referred to were decided upon application for a writ of habeas corpus. In Gardes v. U. S., 30 C.­C.A. 596, 87 F. 172, 184, the court of appeals for the Fifth circuit, in discussing the question under considera­tion, said: “It may be difficult to perceive, and more diffi­cult to accurately express, the distinction which we suggest; but we believe there is a material distinction in the public thought? between a sentence to confinement at hard labor, and a sentence to confinement in a designated state peni­tentiary, where hard labor will be required of the person sentenced, as a part of the discipline of the prison. ‘At the present day, imprisonment in a state prison or peniten­tiary, with or without hard labor, is an infamous punish­ment’ ; and, ‘by the express provisions of acts of congress, either a sentence “to imprisonment for a period longer than one year,” or a sentence “to imprisonment and confinement to hard labor,” may be ordered to be executed in a state prison or penitentiary’ (Mackin v. U. S., 117 U.S. 348, 6 S.Ct. 777, 29 L.Ed. 909), and thus in either case stamp the convict with the stigma of subjection to an infamous pun­ishment. Still we think that the embodying in the sentence the words ‘at hard labor’ gives the stigma an emphasis which the statute does not require in this case. We conclude, from a careful consideration of the subject, that the sen­tence, should not go beyond the language of the statute in describing the character of the confinement, and we modify the sentence in this case by striking out the words ‘at hard labor.’ ”</p>
+                <p pgmap="636(254) 637(13)" id="b636-4">In Re Christian (C.C.) 82 F. 199, 204, other authorities are cited and reviewed upon this subject. The court ordered the petitioner discharged from the custody of the marshal, “but without prejudice to the .right of the United States to take any lawful measures to have the petitioner sentenced, in accordance with the law, upon the verdict of guilty against him.” The courts are not entirely uniform as to the particular manner in which the correction in the sen­tence should be made, — whether by the court that imposed the sentence, or by the appellate court. The difference in this respect, however, seems to depend upon the particular way in which the question is raised, — whether by habeas corpus or by writ of error; but all the authorities agree that the defendant is not entitled to a new trial, and that the error can be corrected by striking out the illegal part of the sentence. In re Bonner, 151 U.S. 242, 260, 14 S.Ct. 323, 38 L.Ed. 149, and authorities there cited; Haynes v. U. S., 101 F. 817, 820. We are of opinion that the ac­tion taken by the circuit court of appeals in the Fifth cir­cuit in striking out the words “at hard labor” was correct. Especially should this rule be followed when applied to the facts of the present case, where the prisoner is confined in a prison remote from the place where he was sentenced. To have him taken back for a modification of the sentence would incur great expense, without any benefit whatever , to the prisoner. 1</p>
+                <p pgmap="637" id="b637-4">After a careful examination of all the points made in I the record, whether specially noticed or not, we are unable to discover any error that would justify a reversal of the \ case. It is therefore ordered that the judgment herein be modified by striking out the words “at hard labor,” and as thus modified it is in all respects affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="611" ORDERLABEL="599" TYPE="page">
+        <fptr FILEID="tiff_00306_0"/>
+        <fptr FILEID="jpg_00306_0"/>
+        <fptr FILEID="alto_00306_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_611.2" BETYPE="IDREF" FILEID="alto_00306_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="612" ORDERLABEL="600" TYPE="page">
+        <fptr FILEID="tiff_00306_1"/>
+        <fptr FILEID="jpg_00306_1"/>
+        <fptr FILEID="alto_00306_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_612.2" BETYPE="IDREF" FILEID="alto_00306_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="613" ORDERLABEL="601" TYPE="page">
+        <fptr FILEID="tiff_00307_0"/>
+        <fptr FILEID="jpg_00307_0"/>
+        <fptr FILEID="alto_00307_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_613.2" BETYPE="IDREF" FILEID="alto_00307_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="614" ORDERLABEL="602" TYPE="page">
+        <fptr FILEID="tiff_00307_1"/>
+        <fptr FILEID="jpg_00307_1"/>
+        <fptr FILEID="alto_00307_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_614.1" BETYPE="IDREF" FILEID="alto_00307_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="615" ORDERLABEL="603" TYPE="page">
+        <fptr FILEID="tiff_00308_0"/>
+        <fptr FILEID="jpg_00308_0"/>
+        <fptr FILEID="alto_00308_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_615.3" BETYPE="IDREF" FILEID="alto_00308_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="616" ORDERLABEL="604" TYPE="page">
+        <fptr FILEID="tiff_00308_1"/>
+        <fptr FILEID="jpg_00308_1"/>
+        <fptr FILEID="alto_00308_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_616.2" BETYPE="IDREF" FILEID="alto_00308_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="617" ORDERLABEL="605" TYPE="page">
+        <fptr FILEID="tiff_00309_0"/>
+        <fptr FILEID="jpg_00309_0"/>
+        <fptr FILEID="alto_00309_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_617.3" BETYPE="IDREF" FILEID="alto_00309_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="618" ORDERLABEL="606" TYPE="page">
+        <fptr FILEID="tiff_00309_1"/>
+        <fptr FILEID="jpg_00309_1"/>
+        <fptr FILEID="alto_00309_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_618.2" BETYPE="IDREF" FILEID="alto_00309_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="619" ORDERLABEL="607" TYPE="page">
+        <fptr FILEID="tiff_00310_0"/>
+        <fptr FILEID="jpg_00310_0"/>
+        <fptr FILEID="alto_00310_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_619.3" BETYPE="IDREF" FILEID="alto_00310_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="620" ORDERLABEL="608" TYPE="page">
+        <fptr FILEID="tiff_00310_1"/>
+        <fptr FILEID="jpg_00310_1"/>
+        <fptr FILEID="alto_00310_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_620.2" BETYPE="IDREF" FILEID="alto_00310_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="621" ORDERLABEL="609" TYPE="page">
+        <fptr FILEID="tiff_00311_0"/>
+        <fptr FILEID="jpg_00311_0"/>
+        <fptr FILEID="alto_00311_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_621.3" BETYPE="IDREF" FILEID="alto_00311_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="622" ORDERLABEL="610" TYPE="page">
+        <fptr FILEID="tiff_00311_1"/>
+        <fptr FILEID="jpg_00311_1"/>
+        <fptr FILEID="alto_00311_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_622.2" BETYPE="IDREF" FILEID="alto_00311_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="623" ORDERLABEL="611" TYPE="page">
+        <fptr FILEID="tiff_00312_0"/>
+        <fptr FILEID="jpg_00312_0"/>
+        <fptr FILEID="alto_00312_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_623.3" BETYPE="IDREF" FILEID="alto_00312_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="624" ORDERLABEL="612" TYPE="page">
+        <fptr FILEID="tiff_00312_1"/>
+        <fptr FILEID="jpg_00312_1"/>
+        <fptr FILEID="alto_00312_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_624.2" BETYPE="IDREF" FILEID="alto_00312_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="625" ORDERLABEL="613" TYPE="page">
+        <fptr FILEID="tiff_00313_0"/>
+        <fptr FILEID="jpg_00313_0"/>
+        <fptr FILEID="alto_00313_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_625.2" BETYPE="IDREF" FILEID="alto_00313_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="626" ORDERLABEL="614" TYPE="page">
+        <fptr FILEID="tiff_00313_1"/>
+        <fptr FILEID="jpg_00313_1"/>
+        <fptr FILEID="alto_00313_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_626.2" BETYPE="IDREF" FILEID="alto_00313_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="627" ORDERLABEL="615" TYPE="page">
+        <fptr FILEID="tiff_00314_0"/>
+        <fptr FILEID="jpg_00314_0"/>
+        <fptr FILEID="alto_00314_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_627.3" BETYPE="IDREF" FILEID="alto_00314_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="628" ORDERLABEL="616" TYPE="page">
+        <fptr FILEID="tiff_00314_1"/>
+        <fptr FILEID="jpg_00314_1"/>
+        <fptr FILEID="alto_00314_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_628.2" BETYPE="IDREF" FILEID="alto_00314_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="629" ORDERLABEL="617" TYPE="page">
+        <fptr FILEID="tiff_00315_0"/>
+        <fptr FILEID="jpg_00315_0"/>
+        <fptr FILEID="alto_00315_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_629.2" BETYPE="IDREF" FILEID="alto_00315_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="630" ORDERLABEL="618" TYPE="page">
+        <fptr FILEID="tiff_00315_1"/>
+        <fptr FILEID="jpg_00315_1"/>
+        <fptr FILEID="alto_00315_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_630.2" BETYPE="IDREF" FILEID="alto_00315_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="631" ORDERLABEL="619" TYPE="page">
+        <fptr FILEID="tiff_00316_0"/>
+        <fptr FILEID="jpg_00316_0"/>
+        <fptr FILEID="alto_00316_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_631.3" BETYPE="IDREF" FILEID="alto_00316_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="632" ORDERLABEL="620" TYPE="page">
+        <fptr FILEID="tiff_00316_1"/>
+        <fptr FILEID="jpg_00316_1"/>
+        <fptr FILEID="alto_00316_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_632.2" BETYPE="IDREF" FILEID="alto_00316_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="633" ORDERLABEL="621" TYPE="page">
+        <fptr FILEID="tiff_00317_0"/>
+        <fptr FILEID="jpg_00317_0"/>
+        <fptr FILEID="alto_00317_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_633.3" BETYPE="IDREF" FILEID="alto_00317_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="634" ORDERLABEL="622" TYPE="page">
+        <fptr FILEID="tiff_00317_1"/>
+        <fptr FILEID="jpg_00317_1"/>
+        <fptr FILEID="alto_00317_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_634.2" BETYPE="IDREF" FILEID="alto_00317_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="635" ORDERLABEL="623" TYPE="page">
+        <fptr FILEID="tiff_00318_0"/>
+        <fptr FILEID="jpg_00318_0"/>
+        <fptr FILEID="alto_00318_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_635.3" BETYPE="IDREF" FILEID="alto_00318_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="636" ORDERLABEL="624" TYPE="page">
+        <fptr FILEID="tiff_00318_1"/>
+        <fptr FILEID="jpg_00318_1"/>
+        <fptr FILEID="alto_00318_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_636.2" BETYPE="IDREF" FILEID="alto_00318_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="637" ORDERLABEL="625" TYPE="page">
+        <fptr FILEID="tiff_00319_0"/>
+        <fptr FILEID="jpg_00319_0"/>
+        <fptr FILEID="alto_00319_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_637.3" BETYPE="IDREF" FILEID="alto_00319_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b618-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_618.6" BETYPE="IDREF" FILEID="alto_00309_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b618-7" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_618.7" BETYPE="IDREF" FILEID="alto_00309_1"/>
+            <area BEGIN="BL_619.1" BETYPE="IDREF" FILEID="alto_00310_0"/>
+            <area BEGIN="BL_620.1" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b618-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_618.4" BETYPE="IDREF" FILEID="alto_00309_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b618-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_618.5" BETYPE="IDREF" FILEID="alto_00309_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b614-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.7" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b614-7" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.8" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b614-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.6" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b635-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_635.4" BETYPE="IDREF" FILEID="alto_00318_0"/>
+            <area BEGIN="BL_636.1" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-7" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.7" BETYPE="IDREF" FILEID="alto_00311_1"/>
+            <area BEGIN="BL_623.1" BETYPE="IDREF" FILEID="alto_00312_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b614-8" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.9" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b614-9" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.10" BETYPE="IDREF" FILEID="alto_00307_1"/>
+            <area BEGIN="BL_615.1" BETYPE="IDREF" FILEID="alto_00308_0"/>
+            <area BEGIN="BL_616.1" BETYPE="IDREF" FILEID="alto_00308_1"/>
+            <area BEGIN="BL_617.1" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b634-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.4" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b634-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.5" BETYPE="IDREF" FILEID="alto_00317_1"/>
+            <area BEGIN="BL_635.1" BETYPE="IDREF" FILEID="alto_00318_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.4" BETYPE="IDREF" FILEID="alto_00318_1"/>
+            <area BEGIN="BL_637.1" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b611-3" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_611.3" BETYPE="IDREF" FILEID="alto_00306_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.6" BETYPE="IDREF" FILEID="alto_00311_0"/>
+            <area BEGIN="BL_622.1" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AsA" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.4" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b611-7" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_611.7" BETYPE="IDREF" FILEID="alto_00306_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b611-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_611.6" BETYPE="IDREF" FILEID="alto_00306_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b611-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_611.5" BETYPE="IDREF" FILEID="alto_00306_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b611-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_611.4" BETYPE="IDREF" FILEID="alto_00306_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9aQ" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_628.4" BETYPE="IDREF" FILEID="alto_00314_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AcQ" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.5" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.6" BETYPE="IDREF" FILEID="alto_00309_0"/>
+            <area BEGIN="BL_618.1" BETYPE="IDREF" FILEID="alto_00309_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.5" BETYPE="IDREF" FILEID="alto_00310_1"/>
+            <area BEGIN="BL_621.1" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.4" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.5" BETYPE="IDREF" FILEID="alto_00315_0"/>
+            <area BEGIN="BL_630.1" BETYPE="IDREF" FILEID="alto_00315_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-3" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.3" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-3" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.4" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b627-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.4" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b631-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_631.4" BETYPE="IDREF" FILEID="alto_00316_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b624-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.6" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b624-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.5" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b624-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.4" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.5" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.4" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5m" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.6" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.6" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b623-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_623.4" BETYPE="IDREF" FILEID="alto_00312_0"/>
+            <area BEGIN="BL_624.1" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.4" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.5" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.5" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.6" BETYPE="IDREF" FILEID="alto_00313_0"/>
+            <area BEGIN="BL_626.1" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b628-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_628.7" BETYPE="IDREF" FILEID="alto_00314_1"/>
+            <area BEGIN="BL_629.1" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b628-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_628.6" BETYPE="IDREF" FILEID="alto_00314_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b628-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_628.5" BETYPE="IDREF" FILEID="alto_00314_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.4" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.6" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.4" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.7" BETYPE="IDREF" FILEID="alto_00313_1"/>
+            <area BEGIN="BL_627.1" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b631-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_631.5" BETYPE="IDREF" FILEID="alto_00316_0"/>
+            <area BEGIN="BL_632.1" BETYPE="IDREF" FILEID="alto_00316_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b627-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.5" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b627-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.7" BETYPE="IDREF" FILEID="alto_00314_0"/>
+            <area BEGIN="BL_628.1" BETYPE="IDREF" FILEID="alto_00314_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b630-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_630.4" BETYPE="IDREF" FILEID="alto_00315_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b630-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_630.5" BETYPE="IDREF" FILEID="alto_00315_1"/>
+            <area BEGIN="BL_631.1" BETYPE="IDREF" FILEID="alto_00316_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.4" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.5" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b632-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_632.4" BETYPE="IDREF" FILEID="alto_00316_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b632-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_632.5" BETYPE="IDREF" FILEID="alto_00316_1"/>
+            <area BEGIN="BL_633.1" BETYPE="IDREF" FILEID="alto_00317_0"/>
+            <area BEGIN="BL_634.1" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

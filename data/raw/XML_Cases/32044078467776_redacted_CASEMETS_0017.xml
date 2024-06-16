@@ -1,0 +1,592 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0017" publicationstatus="published">
+          <court abbreviation="D. Colo." jurisdiction="United States">United States District Court for the District of Colorado</court>
+          <name abbreviation="United States v. Mosely">UNITED STATES v. MOSELY et al.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 114</citation>
+          <citation category="parallel" type="bluebook">8 F. 688</citation>
+          <decisiondate>1881-07-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:21:59Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00063_1" MIMETYPE="image/tiff" CHECKSUM="57aa8d217441d1803c9120c4fae4d47f" CHECKSUMTYPE="MD5" SIZE="33020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00063_1.tif"/>
+      </file>
+      <file ID="tiff_00064_0" MIMETYPE="image/tiff" CHECKSUM="4d23ea35b94e06f7980db92e188b4bd8" CHECKSUMTYPE="MD5" SIZE="47552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00064_0.tif"/>
+      </file>
+      <file ID="tiff_00064_1" MIMETYPE="image/tiff" CHECKSUM="c6bf8ca912576ce6a395c5612e9bb344" CHECKSUMTYPE="MD5" SIZE="54698">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00064_1.tif"/>
+      </file>
+      <file ID="tiff_00065_0" MIMETYPE="image/tiff" CHECKSUM="558dc2c1b81e2ff5c868ca6f8b13acc6" CHECKSUMTYPE="MD5" SIZE="53244">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00065_0.tif"/>
+      </file>
+      <file ID="tiff_00065_1" MIMETYPE="image/tiff" CHECKSUM="9303eb6a04aba13a4b1aa71c5ae1a6a4" CHECKSUMTYPE="MD5" SIZE="33390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00065_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00063_1" MIMETYPE="image/jpg" CHECKSUM="622fc1f147351f9e62a4948faaa4cd7c" CHECKSUMTYPE="MD5" SIZE="140318">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00063_1.jpg"/>
+      </file>
+      <file ID="jpg_00064_0" MIMETYPE="image/jpg" CHECKSUM="71efab88431490a07ab8e317f1fc2ade" CHECKSUMTYPE="MD5" SIZE="176504">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00064_0.jpg"/>
+      </file>
+      <file ID="jpg_00064_1" MIMETYPE="image/jpg" CHECKSUM="4a6f63b288618b923dfab7cc1fade358" CHECKSUMTYPE="MD5" SIZE="210489">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00064_1.jpg"/>
+      </file>
+      <file ID="jpg_00065_0" MIMETYPE="image/jpg" CHECKSUM="8c81696b831ba8185a2bdf73970522b9" CHECKSUMTYPE="MD5" SIZE="193300">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00065_0.jpg"/>
+      </file>
+      <file ID="jpg_00065_1" MIMETYPE="image/jpg" CHECKSUM="f008c8ef3c55697e827aa351589e2134" CHECKSUMTYPE="MD5" SIZE="141103">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00065_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00063_1" MIMETYPE="text/xml+gzip" CHECKSUM="6a19cf03fe341c0a1527a98245fc9f2e" CHECKSUMTYPE="MD5" SIZE="8469">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00063_1.xml.gz"/>
+      </file>
+      <file ID="alto_00064_0" MIMETYPE="text/xml+gzip" CHECKSUM="b77ea8c1db1e17fc598e202afcec1a5b" CHECKSUMTYPE="MD5" SIZE="11882">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00064_0.xml.gz"/>
+      </file>
+      <file ID="alto_00064_1" MIMETYPE="text/xml+gzip" CHECKSUM="65a308eb75dcfeecabe4e334766c3943" CHECKSUMTYPE="MD5" SIZE="12931">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00064_1.xml.gz"/>
+      </file>
+      <file ID="alto_00065_0" MIMETYPE="text/xml+gzip" CHECKSUM="9c32a1f363ac3ffb98366de6a6c1eeac" CHECKSUMTYPE="MD5" SIZE="12827">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00065_0.xml.gz"/>
+      </file>
+      <file ID="alto_00065_1" MIMETYPE="text/xml+gzip" CHECKSUM="1e5473813af0e21bcafffe70748ea92e" CHECKSUMTYPE="MD5" SIZE="8402">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00065_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0017" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="114" lastpage="118">
+              <court pgmap="126" id="b126-4">District Court, D. Colorado.</court>
+              <citation pgmap="126" id="b126-2">8 F. 688</citation>
+              <parties pgmap="126" id="b126-3">UNITED STATES v. MOSELY et al.</parties>
+              <decisiondate pgmap="126" id="b126-5">July 25, 1881.</decisiondate>
+              <attorneys pgmap="126" id="b126-8">A. P. Van Duzee, Asst. U. S. Atty., for the United States.</attorneys>
+              <attorneys pgmap="126" id="b126-9">Latimer &amp; Morrow, for defendants.</attorneys>
+              <opinion type="majority">
+                <author pgmap="126" id="b126-10">HOFFMAN, District Judge.</author>
+                <p pgmap="126" id="b126-11">The ground of forfeiture set forth in the original libel in this case was, in substance, that the master and crew of the schooner San Diego had, without the consent of the Alaska Commercial Company, taken and killed seals in the waters adjacent to the islands of St. Paul and St. George, in Alaska territory, in violation of section 1967 of the Revised Statutes.</p>
+                <p pgmap="126" id="b126-12">The amended bill alleges the killing to have been done within the limits of Alaska territory, and in the waters there­of, to-wit, on and near Otter island, and in the neighbor­hood of and adjacent thereto, in violation of section 1956 of the Revised Statutes (16 U.S.C.A. § 644 note).</p>
+                <p pgmap="126" id="b126-13">The killing alleged in either case was unlawful and con­trary to the provisions of title 13, c. 3, of the Revised Stat­utes, enacted for the protection and preservation of fur-­bearing animals in Alaska territory.</p>
+                <p pgmap="126(52) 127(59)" id="b126-14">But the pleader was misinformed as to the precise locus in quo where the killing was effected. He was therefore al­lowed to amend his libel so as to conform to the facts. On this amended libel the vessel and skins were condemned. The claimants had previously given bonds for the appraised value of the vessel and cargo. The present suits are brought on these bonds, and it is contended on the part of the sureties that the effect of allowing the amendment which has been mentioned was to exonerate them from all liability under their bonds, by means of which they obtained a delivery to them of the property seized.</p>
+                <p pgmap="127" id="b127-4">The bonds are in the usual form; they may be said to con­sist of three parts:</p>
+                <p pgmap="127" id="b127-5">(1) The bond proper, by which an absolute obligation is created to pay to the United States a specified sum of money. (2) A recital setting forth that a libel of information, etc., had been filed; that the property was in the custody of the marshal, and their appraised value. (3) The condition or clause of defeasance to the effect that if, on the condemna­tion of the goods, the obligors shall pay into court their said appraised value, then the obligation to be void, etc.</p>
+                <p pgmap="127" id="b127-6">With regard to the libel of information the recital in the bond further states that it has been filed on behalf of the United States against 1,650 fur seal-skins, “for reasons and causes in said libel of information mentioned.”</p>
+                <p pgmap="127" id="b127-7">It is claimed by the defendants that the effect of this clause is' to restrict the obligations of the bondsmen to a liability for the penalty of the bond in case the goods shall be con­demned, for the reasons and causes mentioned in the orig­inal libel; and that, inasmuch as they were condemned for reasons and causes set forth in an amended libel, the bonds­men are discharged.</p>
+                <p pgmap="127" id="b127-8">But the nature and extent of the obligation assumed by the bondsmen are to be ascertained, not from a clause in the recital which is no essential part of the instrument, and which might have been entirely omitted, but from the terms of the condition or clause of defeasance which specify under what circumstances the obligation shall become void. These are:</p>
+                <blockquote pgmap="127" id="b127-9">“(1) In case the said 1,650 fur seal-skins shall, by the final sentence, decree, or judgment of the said court, be con­demned as forfeited; and (2) if the said Mosely, etc., their heirs, etc., shall thereupon pay into the said court the sum of $6,189.50.”</blockquote>
+                <p pgmap="128" id="b128-3">It is plain that the obligation to pay is conditioned upon this condemnation of the goods as forfeited in the suit then pending. But it is not conditioned upon this condemnation for the precise reasons and causes in the original libel of information mentioned. In the original form of bonds sub­mitted to the court for approval the words “for the causes in said libel set forth” were added in the condition of the bond, but they were stricken out by direction of the judge, as ap­pears by his initials in the margin. This could only have been done for the purpose of avoiding the very question which is now raised, and of exacting from the claimant to whom the goods were to be delivered an obligation to pay their appraised value in case they .should be condemned by any decree which the court might lawfully make in the suit.</p>
+                <p pgmap="128" id="b128-4">In the bond given for the vessel a printed form was used, which does not contain the words inserted in the manuscript bond, and stricken out by the judge as above stated.</p>
+                <p pgmap="128" id="b128-5">No question is or can be raised as to the right and duty of the court to allow the amendment to the libel. The decree stands, therefore, as the final decree of condemnation, law­fully made, and thus the very contingency has occurred upon which, by the terms of this obligation, the bondsmen were to become liable.</p>
+                <p pgmap="128" id="b128-6">But, independently of the foregoing consideration, I en­tertain no doubt that the settled rule of the admiralty is that when a bond has been given for property under seizure, and the property has been delivered to the claimant, the bond stands in the place of and represents the rem, and that what­ever amendments the court might lawfully allow if the prop­erty had remained in the custody of the marshall, it can equally allow without affecting the liability of the bondsmen. Any other rule would be inconvenient and pernicious.</p>
+                <p pgmap="128(94) 129(189)" id="b128-7">Libels are often necessarily drawn in haste, and with an imperfect or mistaken conception of the facts. Á bond for value may be tendered at once. If this be done and the ves­sel restored to the claimant, and if the libellant is from that moment deprived of all right to amend, except on pain of discharging the bondsmen and thus rendering the litigation fruitless, it is evident that the grossest injustice might be done in cases where the property has been removed from the jurisdiction and no reseizure can be made. The sugges­tion that the claimant and his sureties have agreed to be responsible only in case the property is condemned, “for the reasons and causes mentioned in the libel,” involves a petitio principii. It is more accurate to say that they have agreed to be responsible in case the court, in the due and ordinary course of procedure, shall condemn the property; and the allowance of proper amendments must be deemed to have been contemplated as a possible or probable incident in the cause. In the case of Newell v. Norton, 3 Wall. 257, the libel had been amended by dismissing it as to a pilot who had been improperly joined in a suit against the master and vessel. It was argued then, as now, that the sureties “bound themselves with reference to this libel; that their contract was stricti juris, and could not be extended by implication.” But the court summarily overruled this objection, observ­ing, in the language of Mr. Justice Story in The Schooner Harmony, Fed.Cas.No.6,081, 1 Gal. 123: “Every person bailing such property is considered as holding it subject to all legal dispositions of the court.”</p>
+                <p pgmap="129" id="b129-4">In the case before Mr. Justice Story the amendment moved for was the addition of a new substantive cause of action against which the statute of limitations had run, and it was disallowed for that reason. With regard to the ob­jection that the rights of the sureties might be affected, he says:</p>
+                <blockquote pgmap="129" id="b129-5">“I will only add that a third objection that it might affect the rights of the sureties on the bond given’for the proper­ty, has not been considered of weight in any cases at com­mon law. When the property has been delivered on bonds is too much to contend that the rights of the court can be increased or diminished by that circumstance. Every per­son so bailing the property is considered as holding it sub­ject to all legal dispositions by the court. A fortiori, the objection would, with great difficulty, find support in a court exercising admiralty jurisdiction.”</blockquote>
+                <p pgmap="129" id="b129-6">In The Maggie Jones, Fed.Cas.No.8,947, 5 Cent.Law J. 263, it was insisted that an amendment submitting the name one Bradley to be added as co-libellant discharged the sureties. But the court says:</p>
+                <blockquote pgmap="129(22) 130(64)" id="b129-7">“This position is untenable. I regard it as settled by the case of Newell v. Norton, 3 Wall. 257, that the undertaking of the surety is practically co-extensive with the liability of the vessel in that particular action, and subject to any amendment which the court has power to make. The addi­tion of a new party, or, indeed, any other amendment which the court has power to make in the original case, has usual­ly been held not to affect the undertaking of the surety.”</blockquote>
+                <p pgmap="130" id="b130-4">In the case of Evers v. Sager, 28 Mich. 47, the court says:</p>
+                <blockquote pgmap="130" id="b130-5">“If the court possessed the power to order or allow such an amendment, irrespective of the stipulations of the par­ties, the sureties would have been bound by its action, be­cause their obligation must be understood as contemplating a possible exercise of such power.”</blockquote>
+                <p pgmap="130" id="b130-6">Numerous other authorities might, no doubt, be found on this point under consideration. Enough have been cited to establish that where property under seizure has been de­livered to a claimant on a bond for value, conditioned he will pay the value into court if a final decree of condemna­tion be rendered against the property, his liability and that of his sureties is fixed as soon as the court has legally ren­dered such a decree in the action. And it is immaterial whether the decree has been rendered on the original libel, or on a libel that has been legally and properly amended, subsequently to the execution of the bond.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="126" ORDERLABEL="114" TYPE="page">
+        <fptr FILEID="tiff_00063_1"/>
+        <fptr FILEID="jpg_00063_1"/>
+        <fptr FILEID="alto_00063_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_126.1" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="127" ORDERLABEL="115" TYPE="page">
+        <fptr FILEID="tiff_00064_0"/>
+        <fptr FILEID="jpg_00064_0"/>
+        <fptr FILEID="alto_00064_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_127.3" BETYPE="IDREF" FILEID="alto_00064_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="128" ORDERLABEL="116" TYPE="page">
+        <fptr FILEID="tiff_00064_1"/>
+        <fptr FILEID="jpg_00064_1"/>
+        <fptr FILEID="alto_00064_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_128.1" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="129" ORDERLABEL="117" TYPE="page">
+        <fptr FILEID="tiff_00065_0"/>
+        <fptr FILEID="jpg_00065_0"/>
+        <fptr FILEID="alto_00065_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_129.3" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="130" ORDERLABEL="118" TYPE="page">
+        <fptr FILEID="tiff_00065_1"/>
+        <fptr FILEID="jpg_00065_1"/>
+        <fptr FILEID="alto_00065_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_130.2" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.5" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.4" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.7" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            <area BEGIN="BL_130.1" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-3" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.3" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.4" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.5" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.6" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.7" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            <area BEGIN="BL_129.1" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-12" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.14" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-13" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.15" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-10" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.12" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-11" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.13" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-14" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.16" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            <area BEGIN="BL_127.1" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.10" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-9" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.11" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-2" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.3" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-3" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.4" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.5" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.6" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.7" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.6" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.5" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.4" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.6" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.5" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.4" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.6" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-9" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.9" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.8" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

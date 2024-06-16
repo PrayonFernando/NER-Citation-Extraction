@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0053" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="The C. G. White v. United States">THE C. G. WHITE. THE C. G. WHITE et al. v. UNITED STATES</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 389</citation>
+          <citation category="parallel" type="bluebook">64 F. 579</citation>
+          <decisiondate>1894-11-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:03Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00201_0" MIMETYPE="image/tiff" CHECKSUM="139b50b23d0bc19d75946edbc2550071" CHECKSUMTYPE="MD5" SIZE="25584">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00201_0.tif"/>
+      </file>
+      <file ID="tiff_00201_1" MIMETYPE="image/tiff" CHECKSUM="b2753bda022642e07b33408752a75f64" CHECKSUMTYPE="MD5" SIZE="39724">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00201_1.tif"/>
+      </file>
+      <file ID="tiff_00202_0" MIMETYPE="image/tiff" CHECKSUM="05b2e9a1c6017e97f980242eb2cf193a" CHECKSUMTYPE="MD5" SIZE="52208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00202_0.tif"/>
+      </file>
+      <file ID="tiff_00202_1" MIMETYPE="image/tiff" CHECKSUM="ed859aec676b43d78cea172fb790696c" CHECKSUMTYPE="MD5" SIZE="46442">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00202_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00201_0" MIMETYPE="image/jpg" CHECKSUM="dc3666c915f9e7c0c508ad0a92079014" CHECKSUMTYPE="MD5" SIZE="125406">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00201_0.jpg"/>
+      </file>
+      <file ID="jpg_00201_1" MIMETYPE="image/jpg" CHECKSUM="8e49ad018910bb0a1993e9c251a30d53" CHECKSUMTYPE="MD5" SIZE="169502">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00201_1.jpg"/>
+      </file>
+      <file ID="jpg_00202_0" MIMETYPE="image/jpg" CHECKSUM="1a21795628f1c9c16f487a82b7b2f41f" CHECKSUMTYPE="MD5" SIZE="190262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00202_0.jpg"/>
+      </file>
+      <file ID="jpg_00202_1" MIMETYPE="image/jpg" CHECKSUM="54d405a04a6fdb016bee39b44faa1a70" CHECKSUMTYPE="MD5" SIZE="189783">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00202_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00201_0" MIMETYPE="text/xml+gzip" CHECKSUM="1206d55ea99962707cb315f5427bb144" CHECKSUMTYPE="MD5" SIZE="6666">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00201_0.xml.gz"/>
+      </file>
+      <file ID="alto_00201_1" MIMETYPE="text/xml+gzip" CHECKSUM="e97386a964fab0a019cb8e947d46fcc8" CHECKSUMTYPE="MD5" SIZE="9408">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00201_1.xml.gz"/>
+      </file>
+      <file ID="alto_00202_0" MIMETYPE="text/xml+gzip" CHECKSUM="8af78658252f918ef1c395d6377edf89" CHECKSUMTYPE="MD5" SIZE="12671">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00202_0.xml.gz"/>
+      </file>
+      <file ID="alto_00202_1" MIMETYPE="text/xml+gzip" CHECKSUM="2ecf0f148ff82b929d4276dc159e6e3a" CHECKSUMTYPE="MD5" SIZE="11334">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00202_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0053" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="389" lastpage="392">
+              <court pgmap="401" id="b401-11">Circuit Court of Appeals, Ninth Circuit.</court>
+              <citation pgmap="401" id="b401-8">64 F. 579</citation>
+              <parties pgmap="401" id="b401-9">THE C. G. WHITE. THE C. G. WHITE et al. v. UNITED STATES.</parties>
+              <decisiondate pgmap="401" id="A1g">Nov. 2, 1894.</decisiondate>
+              <attorneys pgmap="402" id="b402-6">Andros &amp; Frank, for appellants.</attorneys>
+              <attorneys pgmap="402" id="b402-7">Charles A. Garter, U. S. Atty.</attorneys>
+              <p pgmap="402" id="b402-8">Before McKENNA and GILBERT, Circuit Judges, and HAWLEY, District Judge.</p>
+              <opinion type="majority">
+                <author pgmap="402" id="b402-9">GILBERT, Circuit Judge.</author>
+                <p pgmap="402(263) 403(119)" id="AYt">The schooner C. G. White cleared from the port of San Francisco on the 31st day of January, 1893, bound for a hunting and fishing voyage. She had on board only ballast and sea stores, guns and am­munition, and hunting and fishing gear. She was obliged to put into Honolulu to leave mail and get water. She was compelled by the authorities there to make entry at the customhouse before landing her mail or procuring water. She remained there 14 hours, and took on board nothing but water. She then proceeded to sea, and on March 18th she was compelled to put into the port of Yokohama to repair her rudder head, which had become shaky and was unsafe. The repairs required five days. By the laws of the port, a vessel, after being at anchor 48 hours, was required to enter at the customhouse. The schooner therefore made entry, but nothing was unladen from her, and nothing was taken on board, except water and food for the crew. After clearing from this port, the vessel proceeded upon her voy­age, and when off the Japan coast the first seals were caught. Thereafter, proceeding to the Alaskan waters, she touched at Senak Island, where it was learned that the schooner Czarina was in Catón harbor. The White proceeded thither to get mail from the Czarina, and while there the master of the White requested the master of the Czarina to take to San Francisco the skins of the seals that had been caught off the Japan coast, and they were accordingly transferred. The vessel was seized upon a libel for information filed in the district court of the United States for the district of Alaska, alleging that the acts above set forth are a .viola­tion of section 2867 of the Revised Statutes of the United States, whereby the vessel had become forfeited to the Unit­ed States. The vessel was claimed by the master for the owners, and an answer was filed by the claimants, denying that the master, mate, or vessel had become liable for a penalty, or the vessel to forfeiture. A decree was entered adjudging that the United States have judgment against H. P. Lauritzen and J. Carlton, who were respectively the mas­ter and the mate—</p>
+                <blockquote pgmap="403" id="b403-4">“For the sum of one thousand dollars each, aggregating two thousand dollars in all, and the costs of this suit, and that, unless said judgment and costs are paid, due process be is­sued against the said schooner C. G. White, and said vessel be sold, and that out of the proceeds of such sale said judg­ment and costs and accruing costs be paid.” ¿</blockquote>
+                <p pgmap="403" id="b403-5">Section 2867 of the Revised Statutes provides as follows:</p>
+                <blockquote pgmap="403" id="ArW">“If after the arrival of any vessel laden with merchandise, and bound to the United States, within the limits of any collection district, or within four leagues of the coast, any part of the cargo of such vessel shall be unladen, for any purpose whatever, before such vessel has come to the proper place for the discharge of her cargo, or some part thereof, and has been there duly authorized by the proper officer of the customs to unlade the same, the master of such ves­sel and the mate, or other person next in command, shall respectively be liable to a penalty of one thousand dollars for each such offense/and the merchandise so unladen shall be forfeited,” etc.</blockquote>
+                <p pgmap="403" id="b403-6">Section 3088 provides: “Whenever a vessel, or the own­er or master of a vessel, has become subject to a penalty for a violation of the revenue laws of the United States, such vessel shall be holden for the payment of such penalty, and may be seized and proceeded against summarily by libel to recover such penalty.”</p>
+                <p pgmap="403(42) 404(64)" id="b403-7">The appellants contend first that the vessel was not liable for the penalty imposed upon the mate. The terms of these statutes are plain, and require no interpretation. There is no provision by which the vessel can be holden for the pen­alty which is denounced against the mate. Unless the ves­sel has herself incurred the penalty, it is only the owner or the master whose acts in violation of the revenue laws ren­der her liable to seizure. So far, therefore, as the decree attempts to hold the vessel subject to sale for the penalty of $1,000 incurred by the mate, it is erroneous.</p>
+                <p pgmap="404" id="b404-4">It is' contended further that the judgment against the master and the mate for the aggregate sum of $2,000 is void for the reason that, in a proceeding in rem against the vessel, a judgment in personam cannot be rendered against persons who were not parties to the record, nor served with process, and that a decree to enforce such judgment is void. So far as concerns the power of the court to enforce the lien upon the vessel without first obtaining judgment for the penalty, the appellants’ contention is not in accord with the reasonable and fair construction of the statute, nor with the authorities. The Missouri, 3 Ben. 508, Fed. Cas. No. 9,652; Id., 9 Blatchf. 433, Fed. Cas. No. 15,785; U. S. v. The Queen, 4 Ben. 237, Fed. Cas. No. 16,107; Id., 11 Blatchf. 416, Fed. Cas. No. 16,108. In these decisions it is held that the words, “holden for the payment of such penalty,” are intended to create an original liability upon the part of the vessel for a penalty equal to that imposed upon ■the owner or master, and that the provision for the seizure of the vessel and the summary proceeding against her pre­cludes the idea of delay, and carries the m.eaning that the seizure and proceeding may be predicated directly upon the unlawful act whereby the penalty is incurred, and without preliminary action or proceeding to establish the liability of the owner or the master. The district court undoubtedly had the power to decree the sale of the vessel on account of the penalty incurred by the master, in the sum of $1,000 and costs, and the cause will be remanded to the district court, with instructions to modify its decree in accordance with this opinion.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="401" ORDERLABEL="389" TYPE="page">
+        <fptr FILEID="tiff_00201_0"/>
+        <fptr FILEID="jpg_00201_0"/>
+        <fptr FILEID="alto_00201_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_401.2" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="402" ORDERLABEL="390" TYPE="page">
+        <fptr FILEID="tiff_00201_1"/>
+        <fptr FILEID="jpg_00201_1"/>
+        <fptr FILEID="alto_00201_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_402.2" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="403" ORDERLABEL="391" TYPE="page">
+        <fptr FILEID="tiff_00202_0"/>
+        <fptr FILEID="jpg_00202_0"/>
+        <fptr FILEID="alto_00202_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_403.3" BETYPE="IDREF" FILEID="alto_00202_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="404" ORDERLABEL="392" TYPE="page">
+        <fptr FILEID="tiff_00202_1"/>
+        <fptr FILEID="jpg_00202_1"/>
+        <fptr FILEID="alto_00202_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_404.2" BETYPE="IDREF" FILEID="alto_00202_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.8" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-9" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.11" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-8" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.10" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.5" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.4" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-7" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.8" BETYPE="IDREF" FILEID="alto_00202_0"/>
+            <area BEGIN="BL_404.1" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.4" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.7" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-11" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.10" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArW" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.6" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYt" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.12" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            <area BEGIN="BL_402.13" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            <area BEGIN="BL_403.1" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1g" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.11" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-7" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.9" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-8" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.8" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-9" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.9" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

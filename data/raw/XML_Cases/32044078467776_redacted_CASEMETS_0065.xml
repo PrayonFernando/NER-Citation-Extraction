@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0065" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Holden v. Williams">HOLDEN v. WILLIAMS, United States Marshal</name>
+          <docketnumber>No. 474</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 454</citation>
+          <citation category="parallel" type="bluebook">75 F. 798</citation>
+          <decisiondate>1896-04-29</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:04Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00233_1" MIMETYPE="image/tiff" CHECKSUM="9a3bd754e63772cac2f5497921ee7042" CHECKSUMTYPE="MD5" SIZE="24750">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00233_1.tif"/>
+      </file>
+      <file ID="tiff_00234_0" MIMETYPE="image/tiff" CHECKSUM="ddd3e139b702abc1703fcb68d001150a" CHECKSUMTYPE="MD5" SIZE="47232">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00234_0.tif"/>
+      </file>
+      <file ID="tiff_00234_1" MIMETYPE="image/tiff" CHECKSUM="edfdb5ca6e93976012892734735371d5" CHECKSUMTYPE="MD5" SIZE="54124">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00234_1.tif"/>
+      </file>
+      <file ID="tiff_00235_0" MIMETYPE="image/tiff" CHECKSUM="cca76c3b711d837cede7d824a330e0fb" CHECKSUMTYPE="MD5" SIZE="18520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00235_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00233_1" MIMETYPE="image/jpg" CHECKSUM="2afca90cb0ff1969204b18aabba0ff9b" CHECKSUMTYPE="MD5" SIZE="123161">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00233_1.jpg"/>
+      </file>
+      <file ID="jpg_00234_0" MIMETYPE="image/jpg" CHECKSUM="f84d6aaae3572edb23655502cbbc44ee" CHECKSUMTYPE="MD5" SIZE="177978">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00234_0.jpg"/>
+      </file>
+      <file ID="jpg_00234_1" MIMETYPE="image/jpg" CHECKSUM="1fce914b8d31bbfd336b52116ef36b65" CHECKSUMTYPE="MD5" SIZE="215428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00234_1.jpg"/>
+      </file>
+      <file ID="jpg_00235_0" MIMETYPE="image/jpg" CHECKSUM="f1b9b59ffc5141a122611dd00ff9d3a7" CHECKSUMTYPE="MD5" SIZE="108733">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00235_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00233_1" MIMETYPE="text/xml+gzip" CHECKSUM="6d52929851328e301f321b99d2a53a1c" CHECKSUMTYPE="MD5" SIZE="6377">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00233_1.xml.gz"/>
+      </file>
+      <file ID="alto_00234_0" MIMETYPE="text/xml+gzip" CHECKSUM="6f0afd930c37a01d57a66683748338e1" CHECKSUMTYPE="MD5" SIZE="11384">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00234_0.xml.gz"/>
+      </file>
+      <file ID="alto_00234_1" MIMETYPE="text/xml+gzip" CHECKSUM="8a235c1c205e3244126e538838d63525" CHECKSUMTYPE="MD5" SIZE="12661">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00234_1.xml.gz"/>
+      </file>
+      <file ID="alto_00235_0" MIMETYPE="text/xml+gzip" CHECKSUM="0a14ba83e13942ad49b7c914c3c6d361" CHECKSUMTYPE="MD5" SIZE="5199">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00235_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0065" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="454" lastpage="457">
+              <court pgmap="466" id="b466-8">District Court, D. Alaska.</court>
+              <docketnumber pgmap="466" id="AVB">No. 474.</docketnumber>
+              <citation pgmap="466" id="b466-6">75 F. 798</citation>
+              <parties pgmap="466" id="b466-7">HOLDEN v. WILLIAMS, United States Marshal.</parties>
+              <decisiondate pgmap="466" id="b466-9">April 29, 1896.</decisiondate>
+              <attorneys pgmap="467" id="b467-4">Bostwick &amp; Crews, for plaintiff.</attorneys>
+              <attorneys pgmap="467" id="b467-5">J. F. Maloney and John Trumbull, for defendant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="467" id="b467-6">DELANEY, District Judge.</author>
+                <p pgmap="467" id="AzL">The precise point raised on this demurrer is that under paragraph 3, § 6, Act May 17, 1884, providing a civil government for Alaska (23 Stat. 24; Supp.Rev.St. p. 430), the deputy marshals, in serving process issued by the commissioners exercising powers of justices’ courts, act as constables, and not as deputy mar­shals, and that, therefore, the marshal is not liable for the acts of such deputies in serving or executing the process of said courts. The paragraph referred to reads as follows:</p>
+                <blockquote pgmap="467" id="b467-7">“He [the marshal] shall appoint four deputies, who shall reside severally at the towns of Sitka, Wrangel, Unalaska, and Juneau city, and they shall respectively be ex officio constables and executive officers of the commissioners’ courts herein provided, and shall have the powers and dis­charge the duties of United States deputy marshals, and those of constables under the laws of the state of Oregon now in force.”</blockquote>
+                <p pgmap="467" id="b467-8">It is not necessary to determine the liability of the mar­shal for the acts of his deputies done while exercising the powers of constables, as, the record and the complaint in this case disclose that' the officer making the levy acted as a deputy marshal, and not as a constable.</p>
+                <p pgmap="467(127) 468(417)" id="b467-9">The laws of the state of Oregon in force on the 17th day of May, 1884, so far as they are applicable, and not in con­flict with federal legislation, are made the law of this dis­trict by an act of congress of that date. It is perfectly evi­dent from the general import of said act that congress thereby intended to create a local civil government and jurisprudence for Alaska;' and, except as modified by that act itself or other federal legislation, congress established by that act a civil government and jurisprudence here, simi­lar to those then in existence in the state of Oregon. A familiar rule of statutory construction is that courts will give effect to the intention of the legislature where such intention can be discerned. Sheriffs and deputy sheriffs in Oregon aré the executive officers of the courts of that state, and are clothed with power to serve and execute all process of the courts therein. Hill’s Code, §§ 993, 999. The marshal and his deputies here are the executive officers of the courts of this district, and it manifestly would defeat the intention of congress, in creating a jurisprudence here, to hold that, in addition to the powers conferred upon them by the general acts of congress, the marshal and his depu­ties did not take, by virtue of the organic act, the powers of sheriffs and their deputies under the laws of Oregon. Aside from this, the effect of the provisions of the organic act, in establishing said laws for the government of this dis­trict, is to make those laws federal legislation. It is the same, in effect, as if congress had incorporated bodily into the act of May 17, 1884, the laws then in force in the state of Oregon, and in that manner made them the laws govern­ing this district. Instead of setting them out in full in the act, congress declares them to be the law of this terri­tory, so far as they can be applied, and do not conflict with other legislation of congress. They thereby become the laws of the United States, or federal legislation. It will be noted that the paragraph of section 6 above referred to provides that the deputy marshals in this district shall have the powers and discharge the duties of United States deputy marshals, and those of constables under the laws of Ore­gon. The grant of the powers of constables is simply in addition to those of deputy marshals. Section 788, Rev.St. U.S. (28 U.S.C.A. § 504), provides that “the marshals and their deputies shall have, in each state, the same powers, in executing the laws of the United States, as sheriffs and their deputies in such state may have, by law, in executing the laws thereof.” The laws of Oregon in force May 17, 1884, having become, by virtue of the organic act, the laws of the United States, the marshal and his deputies, in exe­cuting such laws in Alaska, aré clothed .by section 788, Rev. St., with all the powers possessed by sheriffs and deputy sheriffs of Oregon. It therefore follows that the marshal and his deputies may serve and execute any process of any court in this district.</p>
+                <p pgmap="469" id="b469-2">The rule that the superior officer is liable for acts of his deputy done under color of his office is too well settled to need discussion.</p>
+                <p pgmap="469" id="b469-3">The demurrer is overruled.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="466" ORDERLABEL="454" TYPE="page">
+        <fptr FILEID="tiff_00233_1"/>
+        <fptr FILEID="jpg_00233_1"/>
+        <fptr FILEID="alto_00233_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_466.2" BETYPE="IDREF" FILEID="alto_00233_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="467" ORDERLABEL="455" TYPE="page">
+        <fptr FILEID="tiff_00234_0"/>
+        <fptr FILEID="jpg_00234_0"/>
+        <fptr FILEID="alto_00234_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_467.4" BETYPE="IDREF" FILEID="alto_00234_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="468" ORDERLABEL="456" TYPE="page">
+        <fptr FILEID="tiff_00234_1"/>
+        <fptr FILEID="jpg_00234_1"/>
+        <fptr FILEID="alto_00234_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_468.2" BETYPE="IDREF" FILEID="alto_00234_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="469" ORDERLABEL="457" TYPE="page">
+        <fptr FILEID="tiff_00235_0"/>
+        <fptr FILEID="jpg_00235_0"/>
+        <fptr FILEID="alto_00235_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_469.1" BETYPE="IDREF" FILEID="alto_00235_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-7" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.7" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-6" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.6" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-9" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.10" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-8" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.9" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b467-6" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_467.9" BETYPE="IDREF" FILEID="alto_00234_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b467-7" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_467.12" BETYPE="IDREF" FILEID="alto_00234_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b467-4" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_467.7" BETYPE="IDREF" FILEID="alto_00234_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b467-5" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_467.8" BETYPE="IDREF" FILEID="alto_00234_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b467-8" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_467.13" BETYPE="IDREF" FILEID="alto_00234_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-2" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.3" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-3" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.4" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVB" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.8" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b467-9" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_467.14" BETYPE="IDREF" FILEID="alto_00234_0"/>
+            <area BEGIN="BL_468.1" BETYPE="IDREF" FILEID="alto_00234_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzL" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_467.10" BETYPE="IDREF" FILEID="alto_00234_0"/>
+            <area BEGIN="BL_467.11" BETYPE="IDREF" FILEID="alto_00234_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

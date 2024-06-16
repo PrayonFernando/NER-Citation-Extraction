@@ -1,0 +1,526 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0041" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Finn v. Hoyt">FINN v. HOYT, Commissioner</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 289</citation>
+          <citation category="parallel" type="bluebook">52 F. 83</citation>
+          <decisiondate>1892-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:02Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00151_0" MIMETYPE="image/tiff" CHECKSUM="b551ddde7adb23ffc818f7f224242770" CHECKSUMTYPE="MD5" SIZE="32256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00151_0.tif"/>
+      </file>
+      <file ID="tiff_00151_1" MIMETYPE="image/tiff" CHECKSUM="2e7bc59b0f0931ff4083c2711b72fc84" CHECKSUMTYPE="MD5" SIZE="29808">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00151_1.tif"/>
+      </file>
+      <file ID="tiff_00152_0" MIMETYPE="image/tiff" CHECKSUM="1df1605d056e7cff89c6240a1a14fade" CHECKSUMTYPE="MD5" SIZE="51908">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00152_0.tif"/>
+      </file>
+      <file ID="tiff_00152_1" MIMETYPE="image/tiff" CHECKSUM="51f683a4cc4daee356bfa5314f6e5670" CHECKSUMTYPE="MD5" SIZE="48522">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00152_1.tif"/>
+      </file>
+      <file ID="tiff_00153_0" MIMETYPE="image/tiff" CHECKSUM="547774962c6331fb3108638b58b496a9" CHECKSUMTYPE="MD5" SIZE="52878">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00153_0.tif"/>
+      </file>
+      <file ID="tiff_00153_1" MIMETYPE="image/tiff" CHECKSUM="593be63a67661580a42fcdaf9515d9af" CHECKSUMTYPE="MD5" SIZE="46284">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00153_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00151_0" MIMETYPE="image/jpg" CHECKSUM="3efa9d109aec5ed74ba713b652b83454" CHECKSUMTYPE="MD5" SIZE="141477">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00151_0.jpg"/>
+      </file>
+      <file ID="jpg_00151_1" MIMETYPE="image/jpg" CHECKSUM="f379ffbccc3f7257c3c5a781da8534bf" CHECKSUMTYPE="MD5" SIZE="130678">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00151_1.jpg"/>
+      </file>
+      <file ID="jpg_00152_0" MIMETYPE="image/jpg" CHECKSUM="e4b31f404c66651d1e16c0e9543d7fcd" CHECKSUMTYPE="MD5" SIZE="188570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00152_0.jpg"/>
+      </file>
+      <file ID="jpg_00152_1" MIMETYPE="image/jpg" CHECKSUM="0567937764788e4c7776211a72a84326" CHECKSUMTYPE="MD5" SIZE="195309">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00152_1.jpg"/>
+      </file>
+      <file ID="jpg_00153_0" MIMETYPE="image/jpg" CHECKSUM="f93abd1016965fe5ec9902246f2345c6" CHECKSUMTYPE="MD5" SIZE="195514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00153_0.jpg"/>
+      </file>
+      <file ID="jpg_00153_1" MIMETYPE="image/jpg" CHECKSUM="24031db24feb29360c27b56fbdb220f4" CHECKSUMTYPE="MD5" SIZE="184174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00153_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00151_0" MIMETYPE="text/xml+gzip" CHECKSUM="0cebb6448132eeeea9e93690b864663e" CHECKSUMTYPE="MD5" SIZE="8347">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00151_0.xml.gz"/>
+      </file>
+      <file ID="alto_00151_1" MIMETYPE="text/xml+gzip" CHECKSUM="4da2e33ebc4f5f5e885f63f3b311e8c2" CHECKSUMTYPE="MD5" SIZE="7123">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00151_1.xml.gz"/>
+      </file>
+      <file ID="alto_00152_0" MIMETYPE="text/xml+gzip" CHECKSUM="df0fde3a2620db7d47ceb892557914b9" CHECKSUMTYPE="MD5" SIZE="12535">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00152_0.xml.gz"/>
+      </file>
+      <file ID="alto_00152_1" MIMETYPE="text/xml+gzip" CHECKSUM="b62611ad4fcc120e18365700ed36c6cf" CHECKSUMTYPE="MD5" SIZE="11728">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00152_1.xml.gz"/>
+      </file>
+      <file ID="alto_00153_0" MIMETYPE="text/xml+gzip" CHECKSUM="809594595b673bc3f89c7b2a8f2f6ac8" CHECKSUMTYPE="MD5" SIZE="12718">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00153_0.xml.gz"/>
+      </file>
+      <file ID="alto_00153_1" MIMETYPE="text/xml+gzip" CHECKSUM="4bc1656fbd54cfa12c477d10e8cf331f" CHECKSUMTYPE="MD5" SIZE="11535">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00153_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0041" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="289" lastpage="294">
+              <court pgmap="301" id="b301-8">District Court, D. Alaska.</court>
+              <citation pgmap="301" id="b301-6">52 F. 83</citation>
+              <parties pgmap="301" id="b301-7">FINN v. HOYT, Commissioner.</parties>
+              <decisiondate pgmap="301" id="b301-9">May, 1892.</decisiondate>
+              <opinion type="majority">
+                <author pgmap="302" id="b302-5">TRUITT, District Judge.</author>
+                <p pgmap="302(201) 303(257)" id="A5Tq">This is an application by the petitioner for a writ of mandamus to issue out of this court, directed to said United States commissioner, com­manding him “to proceed, adjudicate, and exercise his ju­dicial functions and discretion,” in a certain action pending in his court, by “rendering some judgment therein, and exercising his jurisdiction in said action until the same shall be legally disposed of by him.” The facts as stated by the petition are that on the 18th day of December, 1891, the petitioner, as plaintiff, commenced an action in the said United States commissioner’s court at Juneau, in this district, against the Eastern Alaska Mining &amp; Mill-, ing Company, a private corporation, as defendant, for the recovery of the sum of $241.78; that on the same day the action was commenced a summons and copy of the complaint in said action were duly served upon said de­fendant, requiring him to appear and answer said com­plaint, in the said court, on the 24th day of December, 1891. It further appears that for some reason no’ trial was had upon the day set therefor, but that thereafter the cause was continued from time to time, until January 9, 1892, “when, upon the application of defendant,” the cause was duly continued until March 4, 1892, in order to enable defendant to take the deposition of one William Ebner to be used by defendant on the trial of said action; that on said last-mentioned day this deposition had not been received by the court, and at the “request of defendant’s counsel plaintiff entered into stipulation with defendant,” whereby the action was again continued until the 7th day of April, 1892, on which day it was set for trial by the court; and that some time after this, and before the 7th day of April, 1892, the said United States commissioner, “in obedience to the process issued out of the United States commissioner’s court at Sitka, Alaska,” left Juneau to appear there, and did not return home until the 8th day of April, 1892, the day after the one set for the trial of said action. From these facts it appears that the said commissioner was necessarily absent from his office on the day when this action should have been tried, but the plain­tiff was there ready to proceed, and is certainly guilty of no laches in the matter. Upon this statement of facts the petition alleges that by reason of said absence at Sitka on the said 7th day of April, 1892, the day appointed for the trial of said action, the said United States commission­er “refuses to further act in said case, and render some judgment therein,” or otherwise legally dispose of the same.</p>
+                <p pgmap="303" id="b303-4">The organic act providing a civil government for Alas­ka, which was approved May 17, 1884, in section S there­of provides — “That there shall be appointed, by the presi­dent, four commissioners in and for said district, who shall have jurisdiction and powers of commissioners of the United States circuit courts in any part of said district, but who shall reside, one at Sitka, one at Wrangel, one at Ounalaska, and one at Juneau City. Such commissioners shall exercise all the duties and powers, civil and criminal, now conferred on justices of the peace under the general laws of the state of Oregon, so far as the same may be applicable in said district, and may not be in conflict with this act or the laws of the United' States.”</p>
+                <p pgmap="303(23) 304(150)" id="b303-5">Thus by an act of congress the general laws in force at that date in the state of Oregon were adopted as the laws of the district of Alaska, so far as applicable and not in conflict with the act itself or the laws of the United States, and as that part of said act which confers the ju­risdiction of justices of the peace of said state upon said commissioners is applicable in this district, and not in conflict with the organic act or the laws of the United States, it is the law of the district; and we must therefore look to the laws of Oregon relating to justices of the peace for the jurisdiction, powers, and duties of these commis­sioners, when acting under or by virtue of the authority conferred by this part of said act, and, wherever the su­preme court of said state has made decisions defining and prescribing them, such decisions should be received by said commissioners as the correct and binding interpretation of these laws.</p>
+                <p pgmap="304" id="b304-3">A justice’s court in Oregon is one of inferior and lim­ited jurisdiction, deriving all its powers and authority by statute, without any of the presumptions in favor of the regularity of its proceedings which are indulged in favor of a court of record, and for these reasons it is neces­sary to examine the statutes to ascertain what its powers and duties are. Section 2051, Code Or., is as follows:</p>
+                <blockquote pgmap="304" id="b304-4">“The civil jurisdiction of justices’ courts, and by whom and where and how holden, is prescribed by title 4 of chapter 11 of the Code of Civil Procedure.”</blockquote>
+                <p pgmap="304" id="b304-5">In this title it is provided as follows, in sections 906 and 907 thereof:</p>
+                <blockquote pgmap="304" id="b304-6">“There are no particular terms of such court, but the same is always open for the transaction of business, ac­cording to the mode of proceeding prescribed for it. The mode of proceeding and the rules of evidence are the same in.a justice’s court as in a like action or proceeding in a court of record, except where otherwise specially provid­ed.”</blockquote>
+                <p pgmap="304" id="b304-7">And section 2057 provides that—</p>
+                <blockquote pgmap="304" id="b304-8">“A civil action in a justice’s court is commenced and prosecuted to final determination, and judgment enforced therein, in the manner provided in the Code of Civil Pro­cedure for similar actions in courts of record, except as in this act otherwise provided.”</blockquote>
+                <p pgmap="305" id="b305-3">Now, it would hardly be claimed that a court of record in Oregon, having obtained jurisdiction of a cause, would lose the same by death, resignation, or absence of the judge of such court, and the last-named section gives a justice’s court the same power to maintain its jurisdic­tion that a court of record has, except when otherwise provided. But the same question that is raised in this case has been before the supreme court of Oregon in the case of Knapp v. King, 6 Or. 243, where it is decided that, as a justice’s court is always open for the transaction of business, when it once acquires jurisdiction of the subject-­matter of an action, there is always a court to exercise such jurisdiction until it is terminated in some legal manner. In a late case (Southern Pac. Co. v. Russell) reported in 20 Or. 459, 26 P. 304, this decision is approved. In this, case a judgment, in form, was entered in the justice’s court, but it proved to be void for want of jurisdiction of the person of the defendant, and the court vacated it, took up the original complaint, set a day for trial, and issued an­other or alias summons, and proceeded thereafter to ren­der judgment against the defendant, who took a writ of review to the circuit court, which said court dismissed, and the defendant appealed to the supreme court. But the action of the circuit court was sustained and its de­cision affirmed. In closing the decision, Lord, J., says:</p>
+                <blockquote pgmap="305" id="b305-4">“It is clear, then, both on authority and principle, that the power of the justice was not exhausted or the case terminated, but that he was authorized to issue an alias summons and acquire jurisdiction of the defendant, which when obtained continued until the case was disposed of legally.”</blockquote>
+                <p pgmap="305(105) 306(41)" id="b305-5">But in the case presented by this application the court not only has jurisdiction of the subject-matter of the ac­tion, but also of the defendant, who appears to have been in court, and took measures to secure the deposition of a certain witness on its behalf at one time, and at another time asked and secured a continuance of the cause, and for aught that appears is ready at any time, upon rea­sonable notice, to appear and proceed with the trial. I think the petitioner is entitled upon the showing made in the petition to have a writ of mandamus issued to the commissioner’s court, directing it to take some action in the case named therein, and proceed according to law to dispose of the same in some way. Code Or. § 593, and also Wood on Mandamus, page 19, where it is stated:</p>
+                <blockquote pgmap="306" id="b306-4">“This writ lies to compel the performance of ministerial acts, and is also addressed to subordinate judicial tribu­nals, requiring them to exercise their judicial functions by rendering some judgment in cases legally before them, where there would be a failure of justice from a delay or refusal to act.”</blockquote>
+                <p pgmap="306" id="b306-5">As an act of courtesy to the lower court, and to ascer­tain the facts more fully, I would have ordered the issu­ance of an alternative writ; but Judge Hoyt appeared by counsel when the petition was presented in open court, and it is admitted that the allegations therein are true, and that, as there has been a doubt in his mind as to his authority and jurisdiction in the matter, a ruling of this court upon the same is desired, and that with as little delay and expense to parties as possible. In the action now pending in the lower court, I think section 940 of the Oregon Code gives it ample power to bring the parties before it:</p>
+                <blockquote pgmap="306" id="b306-6">“When jurisdiction is by the organic power of this state, or by this Code or any other statute, conferred on a court or judicial officer, all the means to carry it into effect are given; and in the exercise of the jurisdiction, if the course of proceeding be not specifically pointed out by this Code, any suitable process or mode of proceeding may be adopted which may appear most conformable to the spirit of this Code.”</blockquote>
+                <p pgmap="306" id="b306-7">I think, under this provision, the court below might issue a notice requiring the defendant to be present at a certain hour of some day named, and not less than 6 nor more than 20 days from the date and service thereof, and stating that at said time said action would be taken up by said court and disposed of according to law. The writ of mandamus will therefore be issued as in the peti­tion prayed for.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="301" ORDERLABEL="289" TYPE="page">
+        <fptr FILEID="tiff_00151_0"/>
+        <fptr FILEID="jpg_00151_0"/>
+        <fptr FILEID="alto_00151_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_301.2" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="302" ORDERLABEL="290" TYPE="page">
+        <fptr FILEID="tiff_00151_1"/>
+        <fptr FILEID="jpg_00151_1"/>
+        <fptr FILEID="alto_00151_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_302.2" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="303" ORDERLABEL="291" TYPE="page">
+        <fptr FILEID="tiff_00152_0"/>
+        <fptr FILEID="jpg_00152_0"/>
+        <fptr FILEID="alto_00152_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_303.3" BETYPE="IDREF" FILEID="alto_00152_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="304" ORDERLABEL="292" TYPE="page">
+        <fptr FILEID="tiff_00152_1"/>
+        <fptr FILEID="jpg_00152_1"/>
+        <fptr FILEID="alto_00152_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_304.2" BETYPE="IDREF" FILEID="alto_00152_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="305" ORDERLABEL="293" TYPE="page">
+        <fptr FILEID="tiff_00153_0"/>
+        <fptr FILEID="jpg_00153_0"/>
+        <fptr FILEID="alto_00153_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_305.2" BETYPE="IDREF" FILEID="alto_00153_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="306" ORDERLABEL="294" TYPE="page">
+        <fptr FILEID="tiff_00153_1"/>
+        <fptr FILEID="jpg_00153_1"/>
+        <fptr FILEID="alto_00153_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_306.2" BETYPE="IDREF" FILEID="alto_00153_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-3" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.3" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.8" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.7" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b306-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_306.6" BETYPE="IDREF" FILEID="alto_00153_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-9" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.9" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.8" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.5" BETYPE="IDREF" FILEID="alto_00152_0"/>
+            <area BEGIN="BL_304.1" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-4" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.4" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.7" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.6" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.5" BETYPE="IDREF" FILEID="alto_00153_0"/>
+            <area BEGIN="BL_306.1" BETYPE="IDREF" FILEID="alto_00153_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-4" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.4" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-3" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.4" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-4" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.5" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.6" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.7" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5Tq" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.8" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            <area BEGIN="BL_302.9" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            <area BEGIN="BL_303.1" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.9" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b306-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_306.7" BETYPE="IDREF" FILEID="alto_00153_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b306-4" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_306.4" BETYPE="IDREF" FILEID="alto_00153_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b306-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_306.5" BETYPE="IDREF" FILEID="alto_00153_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,867 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0030" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="United States v. Clark">UNITED STATES v. CLARK</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 215</citation>
+          <citation category="parallel" type="bluebook">46 F. 633</citation>
+          <decisiondate>1891-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:02Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00114_0" MIMETYPE="image/tiff" CHECKSUM="01b2bd13f66aa466b8dcdc2d84be1174" CHECKSUMTYPE="MD5" SIZE="10414">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00114_0.tif"/>
+      </file>
+      <file ID="tiff_00114_1" MIMETYPE="image/tiff" CHECKSUM="283302dda0dd8c96c5680a64ce5267ed" CHECKSUMTYPE="MD5" SIZE="39638">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00114_1.tif"/>
+      </file>
+      <file ID="tiff_00115_0" MIMETYPE="image/tiff" CHECKSUM="1dbfc24d5b0f925ffcef6c640ecc833f" CHECKSUMTYPE="MD5" SIZE="52604">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00115_0.tif"/>
+      </file>
+      <file ID="tiff_00115_1" MIMETYPE="image/tiff" CHECKSUM="09466e866c1951f4ac133e0e02a87bf9" CHECKSUMTYPE="MD5" SIZE="47716">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00115_1.tif"/>
+      </file>
+      <file ID="tiff_00116_0" MIMETYPE="image/tiff" CHECKSUM="e249df97a8f7f90fefb936c2dfc70333" CHECKSUMTYPE="MD5" SIZE="50408">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00116_0.tif"/>
+      </file>
+      <file ID="tiff_00116_1" MIMETYPE="image/tiff" CHECKSUM="2c95825bb69b7c90907c81809d7e7281" CHECKSUMTYPE="MD5" SIZE="53022">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00116_1.tif"/>
+      </file>
+      <file ID="tiff_00117_0" MIMETYPE="image/tiff" CHECKSUM="fe3ad6387bde91f11cc2ae55214d5789" CHECKSUMTYPE="MD5" SIZE="52038">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00117_0.tif"/>
+      </file>
+      <file ID="tiff_00117_1" MIMETYPE="image/tiff" CHECKSUM="c833ffd80e9d0d828286c27b90c1feba" CHECKSUMTYPE="MD5" SIZE="52806">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00117_1.tif"/>
+      </file>
+      <file ID="tiff_00118_0" MIMETYPE="image/tiff" CHECKSUM="cd2cc6aabb13e56f1a66acecf4aa30da" CHECKSUMTYPE="MD5" SIZE="52790">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00118_0.tif"/>
+      </file>
+      <file ID="tiff_00118_1" MIMETYPE="image/tiff" CHECKSUM="287cfd7737498619cb2b16bda363e527" CHECKSUMTYPE="MD5" SIZE="52336">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00118_1.tif"/>
+      </file>
+      <file ID="tiff_00119_0" MIMETYPE="image/tiff" CHECKSUM="6563363208ba97c1f6138b112f752278" CHECKSUMTYPE="MD5" SIZE="51704">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00119_0.tif"/>
+      </file>
+      <file ID="tiff_00119_1" MIMETYPE="image/tiff" CHECKSUM="06c87d137b6079b3d990d84dda67f36c" CHECKSUMTYPE="MD5" SIZE="34144">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00119_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00114_0" MIMETYPE="image/jpg" CHECKSUM="18a4d86f4111ab639b8d801020e37b4d" CHECKSUMTYPE="MD5" SIZE="74017">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00114_0.jpg"/>
+      </file>
+      <file ID="jpg_00114_1" MIMETYPE="image/jpg" CHECKSUM="7e7be6611571fc0e76e513befe7c9312" CHECKSUMTYPE="MD5" SIZE="175091">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00114_1.jpg"/>
+      </file>
+      <file ID="jpg_00115_0" MIMETYPE="image/jpg" CHECKSUM="8a230385e1a1dd83d22599b0f561b975" CHECKSUMTYPE="MD5" SIZE="197932">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00115_0.jpg"/>
+      </file>
+      <file ID="jpg_00115_1" MIMETYPE="image/jpg" CHECKSUM="402c1d219296b1d800f89eaee65356d8" CHECKSUMTYPE="MD5" SIZE="188804">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00115_1.jpg"/>
+      </file>
+      <file ID="jpg_00116_0" MIMETYPE="image/jpg" CHECKSUM="47af9b3f6f4a4e4e52d9d392e7661349" CHECKSUMTYPE="MD5" SIZE="186414">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00116_0.jpg"/>
+      </file>
+      <file ID="jpg_00116_1" MIMETYPE="image/jpg" CHECKSUM="4c5e2478195a2777f778ee31927d3b63" CHECKSUMTYPE="MD5" SIZE="210541">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00116_1.jpg"/>
+      </file>
+      <file ID="jpg_00117_0" MIMETYPE="image/jpg" CHECKSUM="986690bc38a3398bf5451cc886a75316" CHECKSUMTYPE="MD5" SIZE="191286">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00117_0.jpg"/>
+      </file>
+      <file ID="jpg_00117_1" MIMETYPE="image/jpg" CHECKSUM="ee4ebaa510890c71194805a624730ba3" CHECKSUMTYPE="MD5" SIZE="201691">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00117_1.jpg"/>
+      </file>
+      <file ID="jpg_00118_0" MIMETYPE="image/jpg" CHECKSUM="96f8f91ff32a4e5070ae5fccb225152f" CHECKSUMTYPE="MD5" SIZE="189554">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00118_0.jpg"/>
+      </file>
+      <file ID="jpg_00118_1" MIMETYPE="image/jpg" CHECKSUM="17d05c4aedeb3469e675e85853feda0f" CHECKSUMTYPE="MD5" SIZE="206951">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00118_1.jpg"/>
+      </file>
+      <file ID="jpg_00119_0" MIMETYPE="image/jpg" CHECKSUM="de54db24ccdb61953121e11b9e57253a" CHECKSUMTYPE="MD5" SIZE="194132">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00119_0.jpg"/>
+      </file>
+      <file ID="jpg_00119_1" MIMETYPE="image/jpg" CHECKSUM="c3a11be77d64efce5053a4409377f7db" CHECKSUMTYPE="MD5" SIZE="145504">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00119_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00114_0" MIMETYPE="text/xml+gzip" CHECKSUM="acdb0bcc8f6c99c4a19ecd517a81891c" CHECKSUMTYPE="MD5" SIZE="3023">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00114_0.xml.gz"/>
+      </file>
+      <file ID="alto_00114_1" MIMETYPE="text/xml+gzip" CHECKSUM="4edafa91575faeda8183122f3d2b47b1" CHECKSUMTYPE="MD5" SIZE="9722">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00114_1.xml.gz"/>
+      </file>
+      <file ID="alto_00115_0" MIMETYPE="text/xml+gzip" CHECKSUM="043d1f66ef80f7061468036fd57529f3" CHECKSUMTYPE="MD5" SIZE="12482">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00115_0.xml.gz"/>
+      </file>
+      <file ID="alto_00115_1" MIMETYPE="text/xml+gzip" CHECKSUM="92751f09c6bccf4afba8785d1135a475" CHECKSUMTYPE="MD5" SIZE="11732">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00115_1.xml.gz"/>
+      </file>
+      <file ID="alto_00116_0" MIMETYPE="text/xml+gzip" CHECKSUM="f69cad1ddd9d6beb604a1fa08e5561c6" CHECKSUMTYPE="MD5" SIZE="11859">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00116_0.xml.gz"/>
+      </file>
+      <file ID="alto_00116_1" MIMETYPE="text/xml+gzip" CHECKSUM="3ae2c75051eb77c952975330eeae519e" CHECKSUMTYPE="MD5" SIZE="12582">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00116_1.xml.gz"/>
+      </file>
+      <file ID="alto_00117_0" MIMETYPE="text/xml+gzip" CHECKSUM="5bf0d47d10f9e6e02b0a65973b4bf987" CHECKSUMTYPE="MD5" SIZE="12931">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00117_0.xml.gz"/>
+      </file>
+      <file ID="alto_00117_1" MIMETYPE="text/xml+gzip" CHECKSUM="2d85522fb6f6ce1e274ab432ca747872" CHECKSUMTYPE="MD5" SIZE="13213">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00117_1.xml.gz"/>
+      </file>
+      <file ID="alto_00118_0" MIMETYPE="text/xml+gzip" CHECKSUM="0b86f59b40e77d92950984154acea4cb" CHECKSUMTYPE="MD5" SIZE="13287">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00118_0.xml.gz"/>
+      </file>
+      <file ID="alto_00118_1" MIMETYPE="text/xml+gzip" CHECKSUM="3674f507e32b276a7df67aa86aa43966" CHECKSUMTYPE="MD5" SIZE="12717">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00118_1.xml.gz"/>
+      </file>
+      <file ID="alto_00119_0" MIMETYPE="text/xml+gzip" CHECKSUM="d40eb44e7952d68f3723e02b0b1b977b" CHECKSUMTYPE="MD5" SIZE="12727">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00119_0.xml.gz"/>
+      </file>
+      <file ID="alto_00119_1" MIMETYPE="text/xml+gzip" CHECKSUM="0c4b3edcd4bb362d9406afe0f90e765f" CHECKSUMTYPE="MD5" SIZE="9579">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00119_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0030" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="215" lastpage="226">
+              <court pgmap="227" id="b227-7">District Court, D. Alaska.</court>
+              <citation pgmap="227" id="b227-5">46 F. 633</citation>
+              <parties pgmap="227" id="b227-6">UNITED STATES v. CLARK.</parties>
+              <decisiondate pgmap="227" id="Acj">May, 1891.</decisiondate>
+              <attorneys pgmap="228" id="b228-5">C. S. Johnson, U. S. Dist. Atty.</attorneys>
+              <attorneys pgmap="228" id="b228-6">Delaney &amp; Gamel, for defendant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="228" id="b228-7">BUGBEE, Judge.</author>
+                <p pgmap="228" id="AL0">This is a demurrer and motion to quash the indictment, which is in the words and figures following:</p>
+                <blockquote pgmap="228" id="b228-8">“In the District Court of the United States of America, District of Alaska.</blockquote>
+                <blockquote pgmap="228" id="b228-9">“The United States vs. /. E. W. Clark.</blockquote>
+                <blockquote pgmap="228" id="AgZ">U.S.Rev.St. § 5339 [see 18 U.S.C.A. §§ 452, 454, notes]; Or.Crim.Code, § 506. Of the special November term of the district court of the United States of America within and for the district of Alaska, in the year of our Lord one thousand eight hundred and ninety, begun and held at Sitka, in said district. The grand jurors of the United States of America, selected, impaneled, sworn, and charged within 'and for the district of Alaska, accuse J. E. W. Clark by this indictment of the crime of murder, commit­ted as follows: The said J. E. W. Clark, at or near Ounga, within the said district of Alaska, and within the jurisdic­tion of this court, on or about the 13th day of August,- in the year of our Lord one thousand eight hundred and nine­ty, purposely, and of deliberate and premeditated malice, killed George Hemmingway, by then and there shooting him in the body with a double-barreled shot gun; and.so the grand jurors, duly selected, impaneled, sworn, and charged, as aforesaid, upon their oaths do say that J. E. W. Clark did then and there murder George Hemmingway in the manner‘and form aforesaid, contrary to the form of the statutes of the United States of America and of the state of Oregon, made applicable thereto, in such cases made and provided, and against the peace and dignity of the United States.</blockquote>
+                <blockquote pgmap="228" id="b228-10">“C. S. Johnson, District- Attorney.”</blockquote>
+                <p pgmap="229" id="b229-3">The grounds of objection are: (1) That it appears upon the face of the indictment that it was found under the laws of the state of Oregon, and not under the laws of the United States; (2) that the indictment does not charge a crime under the laws of the United States, and that the allegations thereof are not sufficient to put the defendant upon trial; (3) that the panel of grand jurors who found said indictment is illegal and void, several of the grand jurors being disqualified by reason of service as petit jurors in this court within the past year. Where­upon defendant challenged the array of said grand jury.</p>
+                <p pgmap="229" id="b229-4">The case presents the very important question as to whether the crime of homicide committed within the ter­ritory of Alaska is punishable under the statutes of the United States or under those of the state of Oregon. By the terms of the “Act providing a civil government for Alaska,” passed May 17, 1884 (23 St. at Large, 24,) this court is vested with the criminal jurisdiction of district courts of the United States exercising the jurisdiction of circuit courts, (section 3,) and with exclusive jurisdiction in all criminal offenses which are capital, (section 7.) The general laws of the state of Oregon in force May 17, 1884, were, by the terms of the organic act, “declared to be the law in the district so far as the same may be applicable, and not in conflict with the provisions of this act or the laws of the United States,” (section 7;) and the act further declares that “the laws of the United States, not locally inapplicable to said district, and not inconsis­tent with the provisions of this act, are hereby extended thereto,” (section 9.) It is left for the court to decide, as occasion may demand, whether or not any particular law of the United States is or is not “locally inapplicable” to the district; whether any general law of Oregon is or is not in conflict with the provisions of the organic act or the laws of the United States; and whether it is or is not applicable to the territory of Alaska.</p>
+                <p pgmap="229(49) 230(157)" id="b229-5">Under this indictment the question first to be considered is as to the applicability of section 5339 of chapter 3, tit. 70, of the Revised Statutes of the United States, entitled, “Crimes arising within the maritime and territorial ju­risdiction of the United States.” The section is as fol­lows: “Every person who commits murder * * * within any fort, -arsenal, dockyard, magazine, or in any other place or district of country under the exclusive ju­risdiction of the United States, * * * shall suffer death.” The statute is silent as to what constitutes the crime of murder, and we must resort to the common law as it stood at the time of the passage of the judiciary act, in 1789, for its definition. U. S. v. Outerbridge, Fed. Cas.No.15,978, 5 Sawy. 620; U.S. v. Reid, 12 How. 365. The definition of “murder” commonly found in the books is said to be well represented by Hawkins, who defines it to be the willful killing of any subject whatever through malice aforethought. 2 Bish.Crim.Law, § 732. Murder at common law was not divided into degrees, nor do the United States laws make such a division as do the laws of Oregon. Congress has provided that—</p>
+                <blockquote pgmap="230" id="b230-6">“In all criminal causes the defendant may be found guilty of any offense, the commission of which is neces­sarily included in that with which he is charged in the in­dictment, or may be found guilty of an attempt to com­mit the offense so charged, provided that such attempt be itself a separate offense.” Rev.St.U.S. 1035 (18 U.S.C.A. § 565).</blockquote>
+                <p pgmap="230" id="b230-7">It has further provided that—</p>
+                <blockquote pgmap="230" id="Am3">“Every person who, within any of the places or upon any of the waters described in section 5339, unlawfully and willfully, but without malice, strikes, stabs, wounds, or shoots at, or otherwise injures, another, of which strik­ing, stabbing, wounding, shooting, or other injury such other person dies, either on land or sea, within or without the United States, is guilty of the crime of manslaughter.” Id. § 5341 (18 U.S.C.A. § 453 note).</blockquote>
+                <p pgmap="230" id="b230-9">It has also provided that—</p>
+                <blockquote pgmap="230" id="b230-10">“Every person who, within any of the places or upon any of the waters described in section 5339, attempts to commit the crime of murder or manslaughter by any means not constituting the offense of assault with a dangerous weapon, shall be punished by imprisonment,” etc. Id. § 5342.</blockquote>
+                <p pgmap="230" id="b230-11">By the more recent act of March 3, 1875, (Rev.St.Supp. 177,) it is provided—</p>
+                <blockquote pgmap="231" id="b231-3">“That whoever shall be convicted of the crime of man­slaughter in any court of the United States in any state or territory, including the District of Columbia, shall be imprisoned,” etc.</blockquote>
+                <p pgmap="231" id="b231-4">A further section of the United States laws is as fol­lows :</p>
+                <blockquote pgmap="231" id="b231-5">“If any offense be committed in any place which has been or may hereafter be ceded to and under the jurisdic­tion of the United States, which offense is not prohibited, or the punishment thereof is not specially provided for, by any law of the United States, such offense shall be lia­ble to and receive the same punishment as the laws of the state in which such place is situated, now in force, pro­vided for the like offense when committed within the ju­risdiction of such state; and no subsequent repeal of any such state law shall affect any prosecution for such offense in any court of the United. States.” Rev.St.U.S. § 5391 (see 18 U.S.C.A. § 468 note).</blockquote>
+                <p pgmap="231(221) 232(47)" id="b231-6">If murder were not prohibited, or the punishment there­of were not specially provided for, by any law of the United States, the crime committed within the territory of Alaska, which was a place “thereafter ceded to and un­der the jurisdiction of the United States,” might, under the section last cited and the provisions of the organic act, receive the same punishment as the laws of the state of Oregon then in force provided for the like offense when committed within the jurisdiction of that state. The general laws of the state of Oregon in force May 17, 1884, provide that “if any person shall purposely and of deliberate malice * * * kill another, such person shall be deemed guilty of murder in the first degree.” Crim. Code Or., § 506. “If he shall purposely and maliciously, but without deliberation and premeditation, * * * kill another, he shall be deemed guilty of murder in the second degree.” Id. § 507. If without malice, express or implied, and without deliberation, upon a sudden heat of passion caused by a provocation apparently sufficient to make the passion irresistable, voluntarily kill another, he shall be deemed guilty of manslaughter. And certain other acts are also enumerated which are declared to con­stitute the crimes of murder in the second degree and manslaughter. Id. §§ 507-515. The Oregon laws also provide that the punishment for murder in the first degree is death; for murder in the second degree, imprisonment for life; and for manslaughter, not less than one nor more than fifteen years, and by fine. Id. §§ 516-518.</p>
+                <p pgmap="232" id="b232-4">It therefore follows that if the laws of the United States above referred to are not locally inapplicable to the district, and not inconsistent with the provisions of the organic act, and if the territory or district of Alaska be a place or district, or country under the exclusive ju­risdiction of the United States, every person who com­mits murder therein, (that is, with malice aforethought, willfully kills another,) must suffer death; for under that law his crime is not divisible into two degrees. If he un­lawfully and willfully, but without malice, kills another, he is guilty of manslaughter; and, in accordance with the facts shown, he may be convicted of the crime of murder, or of the crime of manslaughter, or of an attempt to com­mit either.</p>
+                <p pgmap="232(225) 233(193)" id="b232-5">It is claimed by the prosecution, however, that the laws of the United States are, in this case, locally inapplicable to the district; that they are inconsistent with the organic act, and that the territory or district of Alaska is not a place or district of country under the exclusive jurisdic­tion of the United States, within the meaning of section 5339 of the Revised Statutes of the United States; that the intention of congress was to place it, in a sense, with­in the jurisdiction of the laws of Oregon; that the gen­eral laws of Oregon in force May 17, 1884, are not in conflict with the organic act, nor with the laws of the United States, and should govern here as to the definition and punishment of the crime for which the defendant is indicted. No authority has been cited by thé government to maintain its contention, probably because none exists; at least, in the extended examination I haye given, with the very limited means of research at my command, I have been unable to find any. The organic act did not give to Alaska any power of legislation, but in making the general laws of Oregon, then in force, applicable to the district, the evident intention of congress was to fur­nish it with a ready-made code of laws, which should stand in immediate stead of the codes which in other ter­ritories have been enacted by their legislatures. It re­tained, however, as superior to the laws of Oregon, all the general laws of the United States which were applic­able to all territories and other places under the exclusive jurisdiction of the United States, and which were not locally inapplicable to Alaska. However, harsh it may seem to apply to Alaska, with its large population of un­civilized natives, the law of 1790, making murder under all circumstances a capital crime; however strongly the punishments for crime, such as murder, rape, arson, piracy, and the like, contrast with the more humane punitive leg­islation of states and territories, — it is difficult to see wherein the United States law is locally inapplicable to this district, or in any degree inconsistent with the organic act; and, if this be so, it must be conceded to be one of the laws extended to the district by the provisions of sec­tion 9 of that act, and necessarily superior to and super­seding the general laws of Oregon. As has been said by Judge Field:</p>
+                <blockquote pgmap="233" id="b233-4">“The cases in which the legislation of congress will su­persede the legislation of a state or territory, without spe­cific provision to that effect, are those in which the same matter is the subject of legislation by both; for then the action of congress may well be considered as covering the entire ground.” Davis v. Beason, 133 U.S. 333, 10 S.Ct. 299.</blockquote>
+                <p pgmap="233(149) 234(91)" id="b233-5">The law punishing the crime of murder is undoubtedly general law, applicable to all places and districts of country under the exclusive jurisdiction of the United States; and that the district of Alaska is such a district of country has been decided already, in a case arising in this district, by the circuit court of the United States for the district of Oregon, which, under the organic act, has pow-­to issue to this court its writs of error in criminal cases. There it was held that, so far as the laws of the United States prescribe the jurisdiction of this court, or define a crime, or prescribe its punishment, this court is be governed by them; that it is only when these laws are silent, or make no provision on the subject, that resort can be had to the laws of Oregon, so far as they are ap­plicable; that since 1867, the time of its cession by Rus­sia to the United States, Alaska has been and is a district of country under the exclusive jurisdiction of the United States, and therefore the statutory provisions of congress concerning the commission and punishment of murder and manslaughter are in force therein, and necessarily exclude the operation or application here of any law of Oregon on those subjects. Kie v. U. S., 27 F. 351, 11 Sawy. 587. See, also, U. S. v. Williams, 2 F. 61, 6 Sawy. 244.</p>
+                <p pgmap="234" id="b234-4">Although the appellate jurisdiction of the circuit court of the United States for the district of Oregon is restrict­ed to criminal cases alone, and this court might not in civil cases feel obliged to follow its rulings, its opinions in all matters are entitled to the greatest respect, and in this instance I feel bound to adhere to the doctrines it has enunciated in the case last quoted from.</p>
+                <p pgmap="234" id="b234-5">The next question is as to the sufficiency of the indict­ment to sustain a conviction under the laws of the United States. The objection that in the caption it is intimated that the prosecution is under section 506 of the Oregon Criminal Code, and that it is stated that the offense is contrary to the form of the statutes of the state of Ore­gon, may be disposed of at once by saying that the caption forms no part of the indictment, and that the words, “of the state of Oregon,” may, in view of the allegation that the offense was contrary to the form of the statutes of the United States, be rejected as surplusage. Burchard v. State, 2 Or. 79; State v. Lee Ping Bow, 10 Or. 27; State v. Abrams, 11 Or. 169, 8 P. 327; U. S. v. Borneman, 35 F. 824, 13 Sawy. 359. Congress has provided that—</p>
+                <p pgmap="234" id="b234-6">“No indictment found and presented by a grand jury in any district or circuit or other court of the United States shall be deemed insufficient, nor shall the trial, judgment, or other proceedings thereon be affected, by reason of any defect or imperfection in matter of form only, which shall not tend to the prejudice of the defendant.” Rev.St. § 1025 (18 U.S.C.A. § 556).</p>
+                <p pgmap="234(42) 235(203)" id="b234-7">It is claimed that, inasmuch as congress has left the definition of the crime to the common law, the indictment should be good under the rules of the common law, and that what may be deemed a defect or imperfection in mat­ter of form only under the statutes might be a defect or imperfection in substance at the common law, which the defendant is entitled to take advantage of. The object of the indictment is to furnish the accused with such a description of the charges against him as will enable him to make his defense, and to avail himself of prior con­viction or acquittal, for protection against a further prose­cution for the same cause; also to inform the court of the facts alleged, so that it may decide whether they are sufficient in law to support a conviction, if one should be had. A crime is made up of acts and intent, and these must be set forth in the indictment with reasonable par­ticularity of time, place, and circumstance. It is a funda­mental rule that the accused must be apprised with rea­sonable certainty of the nature of the accusation against him. U. S. v. Cruikshank, 92 U.S. 542; U. S. v. Sim­mons, 96 U.S. 360; U. S. v. Carll, 105 U.S. 611; U. S. v. Hess, 124 U.S. 483, 8 S.Ct. 571. But, as has been said by Sanderson, J., in People v. King, 27 Cal. 507:</p>
+                <p pgmap="235" id="b235-3">“Under the pretense of informing the defendant of the nature of the charge against which he was called to defend, it was necessary at the ancient common law to .describe the means by which the homicide was committed, and the nature and extent of the wound and its precise locality; from which it necessarily followed that a trifling variance between the proof and the allegation frequently defeated a conviction, no matter how manifest the guilt of the defendant. It was a long time before legislators and judges discovered that this rule had nothing but the most flimsy pretext to support it. If the defendant is guilty, he stands in need of no information to be derived from a perusal of the indictment as to the means used by him in committing the act, or the manner in which it was done, for as to both his own knowledge is quite as reliable any statement contained in the indictment; if he is guilty, the information could not aid in the prepara­tion of the defense. A disposition to relax much of this ancient strictness in criminal proceedings has manifested itself in modern practice.”</p>
+                <p pgmap="235(20) 236(140)" id="b235-4">The indictment here omits many of the well-known fea­tures of the old indictment at common law. It does not-­state that the weapon with which the killing is alleged to have been done was loaded, nor in what part of the body the wound was inflicted, nor that the deceased died there­of ; but it distinctly alleges that at a certain time and place the defendant purposely and of deliberate and premeditated malice killed the deceased, by then and there shooting him in the body with a double-barreled shotgun; and it seems to me that there is such a description of the charge against the accused, and such reasonable certainty as to the na­ture of the accusation, time, place, and circumstances, as will enable the accused to make his defense, and inform the court of the facts, so that it may decide whether they are sufficient in law to support a conviction, if one should be had.</p>
+                <p pgmap="236" id="b236-4">There is no allegation that Alaska, wherein the killing is alleged to have been done, is a place or district of country within the exclusive jurisdiction of the United States, but it is alleged that the crime was committed within the jurisdiction of the court. No proof would be required to establish either proposition, for the court would take judicial notice of the fact. The failure to make an allegation as to the jurisdiction of the United States, if a defect, must be considered such a defect or im-, perfection in matter of form only that it will not tend to the prejudice of the defendant, nor make the indictment insufficient.</p>
+                <p pgmap="236(156) 237(123)" id="b236-5">It has been held that when congress declares an act a crime, a person charged with the commission of the same may be prosecuted therefor according to the course of the common law, unless the constitution or congress has otherwise provided. U. S. v. Block, Fed.Cas.No. 14,609, 4 Sawy. 211. Also that the national courts are unques­tionably to look to the common law, in the absence of stat­utable provisions, for rules to guide them in the exercise of their functions in criminal as well as civil cases. Conk. Tr. (3d Ed.) p. 167. However true this may be in other jurisdictions, this court, under the authority of the organic act, must follow the course of procedure in all cases, civil or criminal, laid down in the general laws of Oregon in force May 17, 1884, so far as the same may be applica­ble and not in conflict with the provisions of the organic act or the laws of the United States which have been ex­tended to the territory. The laws of Oregon do not con­flict, so far as indictment, arraignment, and pleas are con­cerned, with any law of the United States. The United States statutes are silent and make no provision upon the subject, and resort must be had to the laws of Oregon. Kie v. U. S., supra. The indictment follows the form adopted by the general laws of that state, and sanctioned by the repeated decisions of its highest court. Gen.Laws Or. 1843-72, p. 457; State v. Dodson, 4 Or. 64; State v. Spencer, 6 Or. 152; State v. Brown, 7 Or. 186; State v. Lee Yan Yan, 10 Or. 365.</p>
+                <p pgmap="237" id="b237-4">The only question remaining is upon the motion to quash the indictment on account of the alleged illegality of the panel of grand jurors. It is provided by the laws of the United States that — “Jurors to serve in the courts of the United States in each state respectively shall have the same qualifications, * * * and be entitled to the same exemptions, as jurors of the highest court in such state may have and be entitled to at the time when such jurors for service in the courts of the United States are summoned; and they shall be designated by ballot, lot, or otherwise, according to the mode of forming such juries then practiced in such state court, so far as such mode may be practicable by the courts of the United States, or the officers thereof.” Rev.St.U.S. § 800 (28 U.S.C.A. § 412 note).</p>
+                <p pgmap="237(144) 238(245)" id="b237-5">Under this statute it was held in the case of Kie v. U. S., supra, that the qualifications of jurors in Alaska, and the liabilities of persons to serve as such, must be determined by a reference to the laws of Oregon. The attention of the court was not called, perhaps, nor was it necessary to give consideration in that case, to section 812 of the Revised Statutes (28 U.S.C.A. § 423 and note) of the United States, providing that no person shall be summoned as a juror in any circuit or district court more than once in two years; nor to the act of congress of June 30, 1879, (Rev.St.Supp. p. 497 [28 U.S.C.A. § 423 and note]) regulating the mode of drawing jurors in the United States courts, which contains the provision, evidently intended to repeal and take the place of section 812 above mentioned, that no person shall serve as a petit juror more than one term in any one year. The statute is silent, however, as to incompetency to serve as a grand juror, and it is reasonable to assume that, if congress had intended to make such prior service a disqualification to serve as a grand juror, it would have been so declared in the act last cited. It was held in the case of U. S. v. Reeves, Fed.Cas.No. 16,139, 3 Woods, 199, cited in Roe, Crim.Proc. in U.S.Cts. p. 49, under section 812, Rev.St. U.S., that the fact that a grand juror has served before as such within two years is not ground for quashing the in­dictment. I have not the case at hand to refer to. But if we are to be governed by the laws of Oregon alone, I do not think the objection can be sustained. Section 918 of the Civil Code of that state, as the same was amended October 24, 1882, (St. 1882, p. 61,) says that “no person shall be summoned as a juror in any circuit court more than once in one year;” referring, of course, to the cir­cuit courts of that state. This act was undoubtedly meant to apply only to petit jurors in the circuit court, for the grand jury in Oregon is not summoned in that court, but in the county court. Civil Code Or. c. 12, tits. 2, 3.</p>
+                <p pgmap="238" id="b238-4">For these reasons, the demurrer of defendant is over­ruled, his motion to quash the indictment is denied, and he is ordered to plead forthwith.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="227" ORDERLABEL="215" TYPE="page">
+        <fptr FILEID="tiff_00114_0"/>
+        <fptr FILEID="jpg_00114_0"/>
+        <fptr FILEID="alto_00114_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_227.3" BETYPE="IDREF" FILEID="alto_00114_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="228" ORDERLABEL="216" TYPE="page">
+        <fptr FILEID="tiff_00114_1"/>
+        <fptr FILEID="jpg_00114_1"/>
+        <fptr FILEID="alto_00114_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_228.2" BETYPE="IDREF" FILEID="alto_00114_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="229" ORDERLABEL="217" TYPE="page">
+        <fptr FILEID="tiff_00115_0"/>
+        <fptr FILEID="jpg_00115_0"/>
+        <fptr FILEID="alto_00115_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_229.2" BETYPE="IDREF" FILEID="alto_00115_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="230" ORDERLABEL="218" TYPE="page">
+        <fptr FILEID="tiff_00115_1"/>
+        <fptr FILEID="jpg_00115_1"/>
+        <fptr FILEID="alto_00115_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_230.2" BETYPE="IDREF" FILEID="alto_00115_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="231" ORDERLABEL="219" TYPE="page">
+        <fptr FILEID="tiff_00116_0"/>
+        <fptr FILEID="jpg_00116_0"/>
+        <fptr FILEID="alto_00116_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_231.2" BETYPE="IDREF" FILEID="alto_00116_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="232" ORDERLABEL="220" TYPE="page">
+        <fptr FILEID="tiff_00116_1"/>
+        <fptr FILEID="jpg_00116_1"/>
+        <fptr FILEID="alto_00116_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_232.2" BETYPE="IDREF" FILEID="alto_00116_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="233" ORDERLABEL="221" TYPE="page">
+        <fptr FILEID="tiff_00117_0"/>
+        <fptr FILEID="jpg_00117_0"/>
+        <fptr FILEID="alto_00117_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_233.3" BETYPE="IDREF" FILEID="alto_00117_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="234" ORDERLABEL="222" TYPE="page">
+        <fptr FILEID="tiff_00117_1"/>
+        <fptr FILEID="jpg_00117_1"/>
+        <fptr FILEID="alto_00117_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_234.2" BETYPE="IDREF" FILEID="alto_00117_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="235" ORDERLABEL="223" TYPE="page">
+        <fptr FILEID="tiff_00118_0"/>
+        <fptr FILEID="jpg_00118_0"/>
+        <fptr FILEID="alto_00118_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_235.2" BETYPE="IDREF" FILEID="alto_00118_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="236" ORDERLABEL="224" TYPE="page">
+        <fptr FILEID="tiff_00118_1"/>
+        <fptr FILEID="jpg_00118_1"/>
+        <fptr FILEID="alto_00118_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_236.2" BETYPE="IDREF" FILEID="alto_00118_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="237" ORDERLABEL="225" TYPE="page">
+        <fptr FILEID="tiff_00119_0"/>
+        <fptr FILEID="jpg_00119_0"/>
+        <fptr FILEID="alto_00119_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_237.3" BETYPE="IDREF" FILEID="alto_00119_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="238" ORDERLABEL="226" TYPE="page">
+        <fptr FILEID="tiff_00119_1"/>
+        <fptr FILEID="jpg_00119_1"/>
+        <fptr FILEID="alto_00119_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_238.2" BETYPE="IDREF" FILEID="alto_00119_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-10" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.9" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-11" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.10" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-4" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.4" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b237-5" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.5" BETYPE="IDREF" FILEID="alto_00119_0"/>
+            <area BEGIN="BL_238.1" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AgZ" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.12" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b228-10" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.13" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b228-7" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.7" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b228-6" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.6" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b228-5" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.5" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-5" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.5" BETYPE="IDREF" FILEID="alto_00117_0"/>
+            <area BEGIN="BL_234.1" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-4" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.4" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-6" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.7" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b228-9" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.11" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b228-8" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.10" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-4" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.5" BETYPE="IDREF" FILEID="alto_00118_0"/>
+            <area BEGIN="BL_236.1" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-4" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.4" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-5" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.5" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-3" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.4" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-7" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.7" BETYPE="IDREF" FILEID="alto_00117_1"/>
+            <area BEGIN="BL_235.1" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b236-4" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.4" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b236-5" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.5" BETYPE="IDREF" FILEID="alto_00118_1"/>
+            <area BEGIN="BL_237.1" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Acj" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.9" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-6" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.6" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-3" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.3" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-7" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.8" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-4" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.4" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-5" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.5" BETYPE="IDREF" FILEID="alto_00115_0"/>
+            <area BEGIN="BL_230.1" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AL0" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.8" BETYPE="IDREF" FILEID="alto_00114_1"/>
+            <area BEGIN="BL_228.9" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b237-4" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.4" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-3" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.3" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-5" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.5" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-4" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.4" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-6" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.6" BETYPE="IDREF" FILEID="alto_00116_0"/>
+            <area BEGIN="BL_232.1" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-6" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.4" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-7" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.5" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Am3" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.6" BETYPE="IDREF" FILEID="alto_00115_1"/>
+            <area BEGIN="BL_230.7" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-5" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.6" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-4" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.4" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-5" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.5" BETYPE="IDREF" FILEID="alto_00116_1"/>
+            <area BEGIN="BL_233.1" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-9" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.8" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

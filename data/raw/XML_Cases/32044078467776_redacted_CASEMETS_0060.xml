@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0060" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Decker v. Williams">DECKER et al. v. WILLIAMS</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 424</citation>
+          <citation category="parallel" type="bluebook">73 F. 308</citation>
+          <decisiondate>1896-03-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:05Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00218_1" MIMETYPE="image/tiff" CHECKSUM="1236596eae027f8089381d499aa74374" CHECKSUMTYPE="MD5" SIZE="22400">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00218_1.tif"/>
+      </file>
+      <file ID="tiff_00219_0" MIMETYPE="image/tiff" CHECKSUM="6451451ba083d786e4d380672e371c71" CHECKSUMTYPE="MD5" SIZE="45992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00219_0.tif"/>
+      </file>
+      <file ID="tiff_00219_1" MIMETYPE="image/tiff" CHECKSUM="509a33754c2b9daecbafd96bda826ec7" CHECKSUMTYPE="MD5" SIZE="54218">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00219_1.tif"/>
+      </file>
+      <file ID="tiff_00220_0" MIMETYPE="image/tiff" CHECKSUM="c9110fbc0620b401be176118b4c9b8a2" CHECKSUMTYPE="MD5" SIZE="52006">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00220_0.tif"/>
+      </file>
+      <file ID="tiff_00220_1" MIMETYPE="image/tiff" CHECKSUM="eb478c884f3c462e8cda332ba09dfbd5" CHECKSUMTYPE="MD5" SIZE="28226">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00220_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00218_1" MIMETYPE="image/jpg" CHECKSUM="51c49b9e1676f19122d280ad0d86ad50" CHECKSUMTYPE="MD5" SIZE="124650">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00218_1.jpg"/>
+      </file>
+      <file ID="jpg_00219_0" MIMETYPE="image/jpg" CHECKSUM="393763cba82f2a54d354c1d8ea2906e6" CHECKSUMTYPE="MD5" SIZE="179407">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00219_0.jpg"/>
+      </file>
+      <file ID="jpg_00219_1" MIMETYPE="image/jpg" CHECKSUM="0fcd15a8e8a5a419a858cc3465ffcde6" CHECKSUMTYPE="MD5" SIZE="203816">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00219_1.jpg"/>
+      </file>
+      <file ID="jpg_00220_0" MIMETYPE="image/jpg" CHECKSUM="9e4153abc95d077e58f26de299b1b40a" CHECKSUMTYPE="MD5" SIZE="190036">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00220_0.jpg"/>
+      </file>
+      <file ID="jpg_00220_1" MIMETYPE="image/jpg" CHECKSUM="25d43a50569f30cd1f0b66c5d96f789c" CHECKSUMTYPE="MD5" SIZE="143919">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00220_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00218_1" MIMETYPE="text/xml+gzip" CHECKSUM="d1aa6785a143b3ffafa078135233906c" CHECKSUMTYPE="MD5" SIZE="6140">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00218_1.xml.gz"/>
+      </file>
+      <file ID="alto_00219_0" MIMETYPE="text/xml+gzip" CHECKSUM="d2d5027350b7817d04433cfa47cd2c2f" CHECKSUMTYPE="MD5" SIZE="11095">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00219_0.xml.gz"/>
+      </file>
+      <file ID="alto_00219_1" MIMETYPE="text/xml+gzip" CHECKSUM="e9cb9de8d38db4401fd9c46d4732e712" CHECKSUMTYPE="MD5" SIZE="12751">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00219_1.xml.gz"/>
+      </file>
+      <file ID="alto_00220_0" MIMETYPE="text/xml+gzip" CHECKSUM="23635a5437ba286071a43b2ec4bd9a44" CHECKSUMTYPE="MD5" SIZE="12792">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00220_0.xml.gz"/>
+      </file>
+      <file ID="alto_00220_1" MIMETYPE="text/xml+gzip" CHECKSUM="18699473f32fa20ffe47cc1ab9988086" CHECKSUMTYPE="MD5" SIZE="7623">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00220_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0060" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="424" lastpage="428">
+              <court pgmap="436" id="b436-9">District Court, D. Alaska.</court>
+              <citation pgmap="436" id="b436-7">73 F. 308</citation>
+              <parties pgmap="436" id="b436-8">DECKER et al. v. WILLIAMS.</parties>
+              <decisiondate pgmap="436" id="b436-10">March 11, 1896.</decisiondate>
+              <attorneys pgmap="437" id="b437-5">Johnson &amp; Heid, for plaintiffs.</attorneys>
+              <attorneys pgmap="437" id="b437-6">C. S. Blackett, for defendant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="437" id="b437-7">DELANEY, District Judge.</author>
+                <p pgmap="437" id="b437-8">The plaintiffs brought suit before United States Com­missioner Mellen, acting as a justice court, against the de­fendant, for an amount stated in the complaint at $249.85, which is within the jurisdiction of Alaska commissioners, acting as such courts, under the statutes of Oregon. Hill’s Ann.Code, p. 643, § 908. Judgment was had by plaintiff for $171.77, from which defendant appeals. Plaintiff moves to dismiss the appeal, on the ground that the amount involved is not large enough to bring the case within the appellate jurisdiction of this court, under the provisions of section 7 of the act providing a civil government for Alaska, commonly known here as the “Organic Act.” 23 Stat. 24; 1 Supp.Rev.St. p. 430. The section referred to pro­vides, among other things, that “an appeal shall lie in any case, civil or criminal, from the judgment of said com­missioners to the district court where the amount involved in any civil case is two hundred dollars or more.” The fate of the motion, therefore, depends upon the construc­tion placed on said section 7 as to the words “the amount involved.” The defendant in the court below, who is the appellant here, contends that the amount involved is the sum demanded in the complaint; while the respondent here, who was plaintiff below, takes the position that the amount involved must be determined by the sum for which judg­ment was recovered in the lower court.</p>
+                <p pgmap="437(90) 438(339)" id="b437-9">Whatever conflict there may be in the decisions of the courts of last resort in the several states of the Union, the principle here involved has been too often and too emphat­ically adjudicated in the federal courts to be open for con­sideration by this court. Since the decision of the supreme court of the United States in the case of Gordon v. Ogden, 3 Pet. 33, rendered at the January term of that court in 1830, the rule has been inflexible that, in cases like the one here at bar, the jurisdiction of the appellate court depends upon the amount in dispute between the parties as the case stands upon the appeal or writ of error in the appellate court, and not upon the amount in dispute in the court below. Where the plaintiff appeals from a judgment in his favor the amount is held to be that stated in the complaint. Where such judgment is appealed from by the defendant, and no question is presented growing out of a partial defense to the action, or a counterclaim or set-off, the amount is fixed by the judgment. The decisions of the supreme court have reference to its own appellate jurisdiction, as defined in the twenty-second section of the judiciary act of 1789, now known as section 691 of the United States Revised Statutes. The language used in this section is “the amount or value in dispute”; but, from the decision of the supreme court in Reynolds v. Burns, 141 U.S. 117, 11 S.Ct. 942, it appears that the supreme court uses the words “amount involved” as equivalent to “amount in dispute.” The syllabus states that the case is dismissed because the amount involved is not sufficient to give the court jurisdiction, and the con­cluding language of the opinion is that under no possible theory can the case be said to involve the amount requisite to give the court jurisdiction. This court is not at liberty to hold that this language was inadvertently used; but, on the contrary, its use implies at least that the terms “amount in dispute” and “amount involved” are regarded by the supreme court as having the same legal significance. In principle, therefore, the question presented in this case, under section 7 of the organic act, is precisely like that arising under section 691, Rev.St.U.S. Both sections re­late to appellate jurisdiction in so far as it depends upon the amount involved. It follows, therefore, that the ad­judications of the United States supreme court on the question are conclusive upon this court.</p>
+                <p pgmap="438(74) 439(133)" id="b438-4">The question first appears in the federal courts in the case of Wilson v. Daniel, 3 Dall. 401, decided in 1798. By a divided court it was there held that the amount in dispute was to be determined by the foundation of the orig­inal controversy, — the amount in dispute when the action was instituted. In support of this view, Ellsworth, C. J., in speaking for the court, says: “This construction not only comports with every word in the law, but enables us to avoid an inconvenience which would otherwise affect the impartial administration of justice; for, if the sum or value found by a verdict was considered the rule to ascertain the magnitude of the matter in dispute, then, whenever less than $2,000 was found, a defendant could have no relief against the most erroneous and injurious judgment, though the plaintiff would have a right to a removal and reversion of the cause, his demand (which is alone to govern him) being for more than $2,000. It is not presumed that the legislature intended to give any party such an advantage over his antagonist; and it ought to be avoided, as it may be avoided, by the fair and reasonable interpretation which has been pronounced.”</p>
+                <p pgmap="439" id="b439-4">Justices Chase and Iredell presented dissenting opinions, the latter in the following language: “When the legislature allowed a writ of error to the supreme court, it was con­sidered that the court was held permanently at the seat of the national government, remote from any parts of the Union, and that it would be inconvenient and oppressive to bring suitors hither for objects of small importance. Hence it was provided that, unless the matter in dispute exceeded the sum of $2,000, a writ should not be issued. But the matter in dispute here meant is the matter in dispute in the writ of error.”</p>
+                <p pgmap="439(170) 440(116)" id="b439-5">This court, even after the long lapse of years since this decision was made, and even at this remote distance “from the seat of national government,” cannot refrain from ex­pressing the judgment that the rule stated by Chief Justice Ellswofth appears to be the better one, and the reason­ing in support of it the more cogent and logical. It was, however, overthrown by Gordon v. Ogden, supra, in 1830, and the doctrine stated by Justice Iredell set up in ijs place, which has met with the continuous and unbroken support of the decisions of the supreme court ever since. Smith v. Honey, 3 Pet. 469; Knapp v. Banks, 2 How. 73; Walker v. U. S., 4 Wall. 165; Merrill v. Petty, 16 Wall. 338; Telegraph Co. v. Rogers, 93 U.S. 565; Town of Elgin v. Marshall, 106 U.S. 578, 1 S.Ct. 484; Hilton v. Dick­inson, 108 U.S. 165, 2 S.Ct. 424; Jenness v. Bank, 110 U.S. 53, 3 S.Ct. 425; Dows v. Johnson, 110 U.S. 223, 3 S.Ct. 640; Bradstreet Co. v. Higgins, 112 U.S. 227, 5 S.Ct. 117; New York El. R. Co. v. Fifth Nat. Bank, 118 U.S. 608, 7 S.Ct. 23; Henderson v. Wadsworth, 115 U. S. 264-276, 6 S.Ct. 40; Gibson v. Shufeldt, 122 U.S. 27, 7 S.Ct. 1066; Reynolds v. Burns, supra; Cameron v. U. S., 146 U.S. 533, 13 S.Ct. 184; Abadie v. U. S., 149 U.S. 261, 13 S.Ct. 836; Railway Co. v. Saunders, 151 U.S. 105, 14 S.Ct. 257; Railway Co. v. Booth, 152 U.S. 671, 14 S.Ct. 693; Jones v. Fritchle, 154 U.S. 590, 14 S.Ct. 1171; Pittsburgh Locomotive &amp; Car Works v. State Nat. Bank of Keokuk, 154 U.S. 626, 14 S.Ct. 1180.</p>
+                <p pgmap="440" id="b440-4">The rule in the United States courts also appears to have been very generally adopted by the state courts, notably by the supreme court of California, when Mr. Justice Field, now of the supreme court of the United States, was chief justice in that state. Gillespie v. Benson, 18 Cal. 410; Vot­an v. Reese, 20 Cal. 90.</p>
+                <p pgmap="440" id="b440-5">The amount involved in this case not being sufficiently large to vest this court with jurisdiction within the rule above stated, this appeal must be dismissed. So ordered.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="436" ORDERLABEL="424" TYPE="page">
+        <fptr FILEID="tiff_00218_1"/>
+        <fptr FILEID="jpg_00218_1"/>
+        <fptr FILEID="alto_00218_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_436.2" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="437" ORDERLABEL="425" TYPE="page">
+        <fptr FILEID="tiff_00219_0"/>
+        <fptr FILEID="jpg_00219_0"/>
+        <fptr FILEID="alto_00219_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_437.2" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="438" ORDERLABEL="426" TYPE="page">
+        <fptr FILEID="tiff_00219_1"/>
+        <fptr FILEID="jpg_00219_1"/>
+        <fptr FILEID="alto_00219_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_438.2" BETYPE="IDREF" FILEID="alto_00219_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="439" ORDERLABEL="427" TYPE="page">
+        <fptr FILEID="tiff_00220_0"/>
+        <fptr FILEID="jpg_00220_0"/>
+        <fptr FILEID="alto_00220_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_439.3" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="440" ORDERLABEL="428" TYPE="page">
+        <fptr FILEID="tiff_00220_1"/>
+        <fptr FILEID="jpg_00220_1"/>
+        <fptr FILEID="alto_00220_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_440.2" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-5" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.5" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            <area BEGIN="BL_440.1" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-4" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.4" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-5" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.5" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-7" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.7" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-6" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.6" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-7" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.6" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-8" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.7" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-9" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.8" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-9" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.9" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            <area BEGIN="BL_438.1" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-8" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.8" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-4" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.4" BETYPE="IDREF" FILEID="alto_00219_1"/>
+            <area BEGIN="BL_439.1" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-10" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.9" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-5" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.5" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-4" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.4" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

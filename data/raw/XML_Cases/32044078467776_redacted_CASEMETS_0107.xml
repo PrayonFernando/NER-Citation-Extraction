@@ -1,0 +1,920 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0107" publicationstatus="published">
+          <court abbreviation="U.S." jurisdiction="United States">Supreme Court of the United States</court>
+          <name abbreviation="McKinley Creek Mining Co. v. Alaska United Mining Co.">McKINLEY CREEK MINING COMPANY et al., v. ALASKA UNITED MINING COMPANY et al.</name>
+          <docketnumber>No. 37</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 713</citation>
+          <citation category="parallel" type="bluebook">183 U.S. 563, 22 S.Ct. 84</citation>
+          <decisiondate>1902-01-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:08Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00363_0" MIMETYPE="image/tiff" CHECKSUM="aecc5fcf8961205e83295ad2406fcf02" CHECKSUMTYPE="MD5" SIZE="25020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00363_0.tif"/>
+      </file>
+      <file ID="tiff_00363_1" MIMETYPE="image/tiff" CHECKSUM="4fd7f9a5a9a68d8908917fa4259a8f1d" CHECKSUMTYPE="MD5" SIZE="4142">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00363_1.tif"/>
+      </file>
+      <file ID="tiff_00364_0" MIMETYPE="image/tiff" CHECKSUM="2f8932bd2f9f2dbf48a6c9006ca261dd" CHECKSUMTYPE="MD5" SIZE="3970">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00364_0.tif"/>
+      </file>
+      <file ID="tiff_00364_1" MIMETYPE="image/tiff" CHECKSUM="3bc1b069a83086a2836fa4184a9a3a2f" CHECKSUMTYPE="MD5" SIZE="4294">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00364_1.tif"/>
+      </file>
+      <file ID="tiff_00365_0" MIMETYPE="image/tiff" CHECKSUM="8cad98d2e1e2c38f37c248def9a7cfab" CHECKSUMTYPE="MD5" SIZE="18284">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00365_0.tif"/>
+      </file>
+      <file ID="tiff_00365_1" MIMETYPE="image/tiff" CHECKSUM="1d01a26771f8157ea5909c340b231c5a" CHECKSUMTYPE="MD5" SIZE="46604">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00365_1.tif"/>
+      </file>
+      <file ID="tiff_00366_0" MIMETYPE="image/tiff" CHECKSUM="e480a781bb765657c32c4fdaf4a31cf6" CHECKSUMTYPE="MD5" SIZE="49564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00366_0.tif"/>
+      </file>
+      <file ID="tiff_00366_1" MIMETYPE="image/tiff" CHECKSUM="1bea107a7e3ea389a8f006360a663a29" CHECKSUMTYPE="MD5" SIZE="52438">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00366_1.tif"/>
+      </file>
+      <file ID="tiff_00367_0" MIMETYPE="image/tiff" CHECKSUM="6dca3944684ec3b4ebfa35931bde2093" CHECKSUMTYPE="MD5" SIZE="46902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00367_0.tif"/>
+      </file>
+      <file ID="tiff_00367_1" MIMETYPE="image/tiff" CHECKSUM="fc7146a6573703eb5d223435da77ddf5" CHECKSUMTYPE="MD5" SIZE="51220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00367_1.tif"/>
+      </file>
+      <file ID="tiff_00368_0" MIMETYPE="image/tiff" CHECKSUM="74adb3cee60ac2b0d26c8d17bd49e78e" CHECKSUMTYPE="MD5" SIZE="25944">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00368_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00363_0" MIMETYPE="image/jpg" CHECKSUM="af200a69157216a624dce3818821fc79" CHECKSUMTYPE="MD5" SIZE="123894">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00363_0.jpg"/>
+      </file>
+      <file ID="jpg_00363_1" MIMETYPE="image/jpg" CHECKSUM="c5576c46c410551f17b03313f1332c55" CHECKSUMTYPE="MD5" SIZE="53987">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00363_1.jpg"/>
+      </file>
+      <file ID="jpg_00364_0" MIMETYPE="image/jpg" CHECKSUM="5e9de76a1eab09947dfdc58c48aa19dd" CHECKSUMTYPE="MD5" SIZE="49791">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00364_0.jpg"/>
+      </file>
+      <file ID="jpg_00364_1" MIMETYPE="image/jpg" CHECKSUM="9e1da6f2546a09b3af7906c71ca0cf66" CHECKSUMTYPE="MD5" SIZE="57789">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00364_1.jpg"/>
+      </file>
+      <file ID="jpg_00365_0" MIMETYPE="image/jpg" CHECKSUM="1712bfbf7bc1a5dea285e48cb7c50a24" CHECKSUMTYPE="MD5" SIZE="97007">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00365_0.jpg"/>
+      </file>
+      <file ID="jpg_00365_1" MIMETYPE="image/jpg" CHECKSUM="46114f2f5bde537ecbe181f35e5af5c9" CHECKSUMTYPE="MD5" SIZE="184883">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00365_1.jpg"/>
+      </file>
+      <file ID="jpg_00366_0" MIMETYPE="image/jpg" CHECKSUM="e3edcf0fb851d2378bdfd2c1b965e3ea" CHECKSUMTYPE="MD5" SIZE="181669">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00366_0.jpg"/>
+      </file>
+      <file ID="jpg_00366_1" MIMETYPE="image/jpg" CHECKSUM="abe6dc5a03d2cf08c426e708d16ffb84" CHECKSUMTYPE="MD5" SIZE="208920">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00366_1.jpg"/>
+      </file>
+      <file ID="jpg_00367_0" MIMETYPE="image/jpg" CHECKSUM="6da0c4e57714f503937e4b75fd936be7" CHECKSUMTYPE="MD5" SIZE="185532">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00367_0.jpg"/>
+      </file>
+      <file ID="jpg_00367_1" MIMETYPE="image/jpg" CHECKSUM="143166cd7b8c7ee67eea85843f75ccd6" CHECKSUMTYPE="MD5" SIZE="195998">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00367_1.jpg"/>
+      </file>
+      <file ID="jpg_00368_0" MIMETYPE="image/jpg" CHECKSUM="dd375089cf510874a03a63fd0e9fa8c7" CHECKSUMTYPE="MD5" SIZE="122871">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00368_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00363_0" MIMETYPE="text/xml+gzip" CHECKSUM="a92b16f1290a5f4e4296a02eae8b9392" CHECKSUMTYPE="MD5" SIZE="6497">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00363_0.xml.gz"/>
+      </file>
+      <file ID="alto_00363_1" MIMETYPE="text/xml+gzip" CHECKSUM="6fd00b09d2ea485a8f46afd152e055d3" CHECKSUMTYPE="MD5" SIZE="923">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00363_1.xml.gz"/>
+      </file>
+      <file ID="alto_00364_0" MIMETYPE="text/xml+gzip" CHECKSUM="12984492e99cc841a4e518790946438a" CHECKSUMTYPE="MD5" SIZE="929">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00364_0.xml.gz"/>
+      </file>
+      <file ID="alto_00364_1" MIMETYPE="text/xml+gzip" CHECKSUM="cbc08a24b1e851bd8bf78d0a68c2d73b" CHECKSUMTYPE="MD5" SIZE="925">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00364_1.xml.gz"/>
+      </file>
+      <file ID="alto_00365_0" MIMETYPE="text/xml+gzip" CHECKSUM="0c597652a061f4326a59f36b8e4e3f3a" CHECKSUMTYPE="MD5" SIZE="4607">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00365_0.xml.gz"/>
+      </file>
+      <file ID="alto_00365_1" MIMETYPE="text/xml+gzip" CHECKSUM="247775bedffbc76cdf55b19ef5bc6c76" CHECKSUMTYPE="MD5" SIZE="11187">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00365_1.xml.gz"/>
+      </file>
+      <file ID="alto_00366_0" MIMETYPE="text/xml+gzip" CHECKSUM="80c7cb03331d2730c361b1f67bd5afcd" CHECKSUMTYPE="MD5" SIZE="11705">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00366_0.xml.gz"/>
+      </file>
+      <file ID="alto_00366_1" MIMETYPE="text/xml+gzip" CHECKSUM="9a3991ed3f032e5f3be8d4752a0f9cac" CHECKSUMTYPE="MD5" SIZE="12459">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00366_1.xml.gz"/>
+      </file>
+      <file ID="alto_00367_0" MIMETYPE="text/xml+gzip" CHECKSUM="a956fb6d1b635b900287bb324ad67b0a" CHECKSUMTYPE="MD5" SIZE="11337">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00367_0.xml.gz"/>
+      </file>
+      <file ID="alto_00367_1" MIMETYPE="text/xml+gzip" CHECKSUM="18d8167c214d98e866e98396735e7ef4" CHECKSUMTYPE="MD5" SIZE="12962">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00367_1.xml.gz"/>
+      </file>
+      <file ID="alto_00368_0" MIMETYPE="text/xml+gzip" CHECKSUM="41dcf9aceee5ea8d918a9f0f54920ecb" CHECKSUMTYPE="MD5" SIZE="7168">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00368_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0107" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="713" lastpage="723">
+              <court pgmap="725" id="b725-15">Supreme Court of the United States.</court>
+              <docketnumber pgmap="725" id="b725-14">No. 37.</docketnumber>
+              <citation pgmap="725" id="b725-12">183 U.S. 563, 22 S.Ct. 84</citation>
+              <parties pgmap="725" id="b725-13">McKINLEY CREEK MINING COMPANY et al., v. ALASKA UNITED MINING COMPANY et al.</parties>
+              <decisiondate pgmap="725" id="Asq">Decided Jan. 6, 1902.</decisiondate>
+              <otherdate pgmap="725" id="b725-16">Argued April 15, 16, 1901.</otherdate>
+              <attorneys pgmap="729" id="b729-6">Messrs. S. M. Stockslager and George C. Heard, for appellants.</attorneys>
+              <attorneys pgmap="729" id="b729-7">Messrs. L. T. Michener, W. W. Dudley, J. F. Malony, and J. H. Cobb, for appellees.</attorneys>
+              <opinion type="majority">
+                <author pgmap="729" id="b729-8">Mr. Justice McKENNA</author>
+                <p pgmap="729" id="AqC">delivered the opinion of the</p>
+                <p pgmap="729" id="AQq">court:</p>
+                <p pgmap="729" id="b729-9">The assignments of error present for review the rul­ings of the court upon the admission of testimony, the correctness of the court’s instructions to the jury, and the sufficiency of the evidence to justify the judgment.</p>
+                <p pgmap="729(40) 730(67)" id="b729-10">We may dispose of the rulings on the admission of tes­timony summarily. They are not precisely indicated by counsel in their brief, and to review them with a detail of the evidence would unduly extend this opinion. It is enough to say that we have examined the evidence and con­sidered the rulings, and do not discover any prejudicial error in the latter. Besides, it is questionable if such rulings are reviewable in an appellate court. Wilson v. Riddle, 123 U.S. 608, 8 S.Ct. 255, 31 L.Ed. 280; Huse v. Washburn, 59 Wis. 414, 18 N.W. 341; Peabody v. Kendall, 145 Ill. 519, 32 N.E. 674.</p>
+                <p pgmap="730" id="b730-4">For an understanding and consideration of the other contentions of appellants it is only necessary to indicate the propositions which the evidence of the parties tended to establish. On the part of the plaintiffs (appellees) the evidence tended to show that Dan. Sutherland, James Han­son, William Chisholm, and Jack Dalton, who compose the appellee company, and Peter Hall, and one Hawes, and C. P. Cahoon, were working at Pleasant camp in Alaska for William Chisholm on and prior to October, 1898. Prospecting on the river Porcupine was resolved on to be done by Hanson, Sutherland, and Cahoon, and the following power of attorney was given to Cahoon:</p>
+                <p pgmap="730" id="b730-5">Know all men by these presents that Peter Hall, Wil­liam Chisholm, William S. Hawes, of Pleasant camp, British Columbia, have made, constituted, and appointed, and by these presents do make, constitute, and appoint, C. P. Cahoon, of Pleasant camp, British Columbia, our true and lawful attorney, for us and in our names, place, and stead, to locate a mining claim in the territory of Alas­ka.</p>
+                <p pgmap="730" id="b730-6">In testimony whereof we have hereunto set our hands and seal this 4th day of Oct., A. D. 1898.</p>
+                <p pgmap="730" id="b730-7">Peter Hall. [Seal.]</p>
+                <p pgmap="730" id="b730-8">Wm. A. Chisholm. [Seal.]</p>
+                <p pgmap="730" id="b730-9">Wm. S. Hawes. [Seal.]</p>
+                <p pgmap="730" id="b730-10">Signed, sealed, and delivered in the presence of— Dan. Sutherland.</p>
+                <p pgmap="730" id="b730-11">J. Hanson.</p>
+                <p pgmap="730(57) 731(66)" id="b730-12">Provisions were furnished the party, and they started out on the 4th of October, 1898, and met on the creek (subsequently given the name of McKinley) certain mem­bers of the appellant company. Gold was discovered, and Cahoon wrote notices of location for Chisholm and Hall upon a snag or stump in the creek, making their claims contiguous, and afterward reported that he had done so, saying that he had staked Chisholm first and Hall next. Chisholm and Hall went to the claims about the 20th of October, and cut trails to them, and did other work up­on them; and at that time copied the notices of location and had them recorded. The notices, with their indorse­ments, were introduced in evidence.</p>
+                <p pgmap="731" id="b731-3">The testimony was given by several witnesses and in great detail, and it was opposed at about all points by testimony of several witnesses, including ' Cahoon; and as to who first discovered gold there was a decided con­flict whether Sutherland did, who is one of the appellee company, or whether Hackley did, under a location by whom the appellant company claims. Also a conflict as to whether Hackley protested when Cahoon wrote the no­tices of location for Chisholm and Hall, and whether Ca­hoon promised to take them down and authorized Hackley to do so, and, upon his declining, authorized Lewis, one of the appellant company, to take them down and relocate Chisholm - and Hall further up the creek, and whether Lewis did so.</p>
+                <p pgmap="731" id="b731-4">1. It will be observed that the main controversy of fact between the parties was as to who made the first discovery of gold, — Hackley or Sutherland. On this tes­timony appellants base three contentions, to which, they claim, the instructions asked by them at the trial court were addressed:</p>
+                <p pgmap="731" id="b731-5">(1) That the discovery of mineral is a precedent con­dition to the making of a valid location, and that Hackley was the first to discover gold.</p>
+                <p pgmap="731" id="b731-6">(2) That the locations relied on by appellees were in­valid because they were not “distinctly marked on the ground, or otherwise designated as required by law.”</p>
+                <p pgmap="731" id="b731-7">(3) That the citizenship of Chisholm and Hall was put at issue by the pleadings, and no evidence was offered to establish it, but, on the contrary, the power of attor­ney under which Cahoon acted represents them to be citi­zens of British Columbia.</p>
+                <p pgmap="731(28) 732(133)" id="b731-8">Without now questioning the soundness of either of these contentions, it is enough to say that the assignments of error based upon the refusal of instructions cannot be entertained. This is undoubtedly a suit in equity, and if it may be regarded as entertained under the general powers conferred by the act of May 17, 1884 (23 Stat. at L. 24, chap. 53), error cannot be predicated upon the giving or the refusing of instructions. The verdict was but advisory to the coúrt, tó be adopted or disregarded at the court’s discretion. This wé regarded as indisputable, but in order that counsel might be heard upon the effect of the Oregon Code, if regarded as applicable to Alaska, we requested briefs of counsel “as to what errors, in re­spect of giving or refusing instructions or other rulings on trial by a jury in a cause of this character, are open for consideration on appeal from the district court of Alaska.”</p>
+                <p pgmap="732" id="b732-3">In response to that request, counsel for appellant urge that by § 7 of the act of May 17, 1884, supra, the final judgments of a district court of Alaska are reviewable by this court “as in other cases,” and that the terms, “oth­er cases,” “necessarily refer to the procedure for review provided by §§ 691 and 692, Revised Statutes, governing-­district and circuit courts having like jurisdiction.” But the procedure there prescribed is for the purpose of re­viewing error, and error, as we have already said, cannot be based on instructions given or refused in an equity case. Nor is the rule different in the state of Oregon. De Lashmutt v. Everson, 7 Or. 212; Swegle v. Wells, 7 Or. 222.</p>
+                <p pgmap="732" id="b732-4">2. There was no finding of facts by the court, and assuming that we may look into the evidence, we find it conflicting as to who first discovered gold, — Hackley or Sutherland. The court below evidently determined that Sutherland did, and, having no test of the credibility of the witnesses, we cannot pronounce that determination un­sound. Sutherland seems to have been acting with and co-operating with Cahoon. At any rate, Sutherland is not contesting the locations made by Cahoon for Chis­holm and Hall, but, on the contrary, asserts their validity and claims, title under them. The locations, therefore, are valid so far as they depend upon the discovery of gold.</p>
+                <p pgmap="732(25) 733(40)" id="b732-5">The second contention is that they are invalid because they were not “distinctly marked on the ground.” The appellants base this contention on Cahoon’s testimony. His testimony is that he wrote the notices of locations upon a stump or snag in the creek, and they were as fol­lows: “I, the undersigned, claim 1,500 feet running down this creek and 300 feet on each side.”</p>
+                <p pgmap="733" id="b733-3">But the notices produced by other witnesses, and which were testified to be copies, as near as could be made out, of those on the stump, were respectively as follows:</p>
+                <p pgmap="733" id="b733-4">Notice is hereby given that I, the undersigned, have, this 6th day of October, 1898, located a placer mining claim 1,500 feet running with the creek and 300 feet on each side from center of creek known as McKinley creek, in Porcupine mining district, running into Porcupine riv­er. This claim is the east extension of W. A. Chisholm claim on about 1,800 feet from the first falls above the Porcupine river, in the district of Alaska.</p>
+                <p pgmap="733" id="b733-5">Peter Hall, Locator.</p>
+                <p pgmap="733" id="b733-6">Witnesses: J. Hanson.</p>
+                <p pgmap="733" id="b733-7">D. Sutherland.</p>
+                <p pgmap="733" id="b733-8">Notice is hereby given that I, the undersigned, have, this 6th day of Oct., 1898, located a placer mining claim 1,500 feet along creek bottom and 300 feet from center of creek each way on creek known as McKinley, in Por­cupine mining district, described as follows: West exten­sion of Peter Hall’s claim and about 300 feet above first falls on said creek, in the district of Alaska.</p>
+                <p pgmap="733" id="b733-9">Wm. A. Chisholm, Locator.</p>
+                <p pgmap="733" id="b733-10">Witnesses: D. Sutherland.</p>
+                <p pgmap="733" id="b733-11">James Hanson.</p>
+                <p pgmap="733" id="b733-12">These notices constituted a sufficient location; the creek was identified, and between it and the stump there was a definite relation which, combined with the measurements, enabled the boundaries of the claim to be readily traced. Haws v. Victoria Copper Min. Co., 160 U.S. 303, 16 S.Ct. 282, 40 L.Ed. 436.</p>
+                <p pgmap="733(69) 734(12)" id="b733-13">3. Conceding, appellants say, a proper discovery and a proper description of the location, nevertheless, as the citizenship of the locators was put in issue, it was neces­sary to be proved to justify a judgment for the appellees, because, under § 2319, Rev.Stat. (30 U.S.C.A. § 22), the public lands of the United States are only open to ex­ploration, occupation, and purchase by citizens of the Unit­ed States and those who have declared their intention to become such.</p>
+                <p pgmap="734" id="b734-4">In Manuel v. Wulff, 152 U.S. 505, 14 S.Ct. 651, 38 L.Ed. 532, this court sustained the validity of a convey­ance of a mining location to an alien, reversing a decision of the supreme court of Montana to the contrary. The decision was based upon the difference between a title by purchase and title by descent, and the doctrine expressed that an alien can take title by purchase, and can only be devested of it by office found. The case of Doe ex dem. Goveneur v. Robertson, 11 Wheat. 332, 6 L.Ed. 488, was cited and approved, and the remarks of Mr. Justice Johnson in that case become apposite:</p>
+                <blockquote pgmap="734" id="b734-5">“That an alien can take by deed, and can hold until office found, must now be regarded as a positive rule of law, so well established that the reason of the rule is lit­tle more than a subject for the antiquary. It no doubt owes its present authority, if not its origin, to a regard to the peace of society and a desire to protect the individu­al from arbitrary aggression. Hence it is usually said that it has regard to the solemnity of the livery of seisin, which ought not to be devested without some correspond­ing solemnity. But there is one reason assigned by a very judicious compiler, which from its good sense and ap­plicability to the nature of our government makes it prop­er to introduce it here. I copy it from Bacon, not having had leisure to examine the authority which he cites for it: ‘Every person,’ says he, ‘is supposed a natural-born subject that is resident in the Kingdom and that owes a local allegiance to the King, till the contrary be found by office.’ This reason, it will be perceived, applies with double force to the resident who has acquired of the sov­ereign himself, whether by purchase or by favor, a grant of freehold.”</blockquote>
+                <p pgmap="734(75) 735(14)" id="b734-6">That grantees of the public land take by purchase this court, in Manuel v. Wulff, left no doubt. It was said that when a location is perfected it has the effect of a grant by the United States of the right of present and exclusive possession. Forbes v. Gracey, 94 U.S. 762, 24 L.Ed. 313; Belk v. Meagher, 104 U.S. 279, 26 L.Ed. 735; Gwillim v. Donnellan, 115 U.S. 45, 5 S.Ct. 1110, 29 L.­Ed. 348; Noyes v. Mantle, 127 U.S. 348, 8 S.Ct. 1132, 32 L.Ed. 168.</p>
+                <p pgmap="735" id="b735-3">The appellants, however, deny the application of Manuel v. Wulff, and contend that this suit having been brought under § 500 of the Oregon Code, in order to maintain the suit, the appellees must show a right to the exclusive possession of the ground in dispute. This is in effect to say that, while the validity of the location may not be dis­puted by appellants, that the right to the possession, which is but an incident of the location, may be. We do not "concur in this view. The meaning of Manuel v. Wulff is that the location by an alien and all of the rights follow­ing from such location are voidable, not void, and are free from attack by anyone except the government.</p>
+                <p pgmap="735" id="b735-4">It is not necessary to notice other points made by ap­pellants; and, discovering no error in the record, judg­ment is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="725" ORDERLABEL="713" TYPE="page">
+        <fptr FILEID="tiff_00363_0"/>
+        <fptr FILEID="jpg_00363_0"/>
+        <fptr FILEID="alto_00363_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_725.1" BETYPE="IDREF" FILEID="alto_00363_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="726" ORDERLABEL="714" TYPE="page">
+        <fptr FILEID="tiff_00363_1"/>
+        <fptr FILEID="jpg_00363_1"/>
+        <fptr FILEID="alto_00363_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_726.1" BETYPE="IDREF" FILEID="alto_00363_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="727" ORDERLABEL="715" TYPE="page">
+        <fptr FILEID="tiff_00364_0"/>
+        <fptr FILEID="jpg_00364_0"/>
+        <fptr FILEID="alto_00364_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_727.2" BETYPE="IDREF" FILEID="alto_00364_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="728" ORDERLABEL="716" TYPE="page">
+        <fptr FILEID="tiff_00364_1"/>
+        <fptr FILEID="jpg_00364_1"/>
+        <fptr FILEID="alto_00364_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_728.1" BETYPE="IDREF" FILEID="alto_00364_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="729" ORDERLABEL="717" TYPE="page">
+        <fptr FILEID="tiff_00365_0"/>
+        <fptr FILEID="jpg_00365_0"/>
+        <fptr FILEID="alto_00365_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_729.2" BETYPE="IDREF" FILEID="alto_00365_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="730" ORDERLABEL="718" TYPE="page">
+        <fptr FILEID="tiff_00365_1"/>
+        <fptr FILEID="jpg_00365_1"/>
+        <fptr FILEID="alto_00365_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_730.2" BETYPE="IDREF" FILEID="alto_00365_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="731" ORDERLABEL="719" TYPE="page">
+        <fptr FILEID="tiff_00366_0"/>
+        <fptr FILEID="jpg_00366_0"/>
+        <fptr FILEID="alto_00366_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_731.2" BETYPE="IDREF" FILEID="alto_00366_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="732" ORDERLABEL="720" TYPE="page">
+        <fptr FILEID="tiff_00366_1"/>
+        <fptr FILEID="jpg_00366_1"/>
+        <fptr FILEID="alto_00366_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_732.2" BETYPE="IDREF" FILEID="alto_00366_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="733" ORDERLABEL="721" TYPE="page">
+        <fptr FILEID="tiff_00367_0"/>
+        <fptr FILEID="jpg_00367_0"/>
+        <fptr FILEID="alto_00367_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_733.2" BETYPE="IDREF" FILEID="alto_00367_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="734" ORDERLABEL="722" TYPE="page">
+        <fptr FILEID="tiff_00367_1"/>
+        <fptr FILEID="jpg_00367_1"/>
+        <fptr FILEID="alto_00367_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_734.2" BETYPE="IDREF" FILEID="alto_00367_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="735" ORDERLABEL="723" TYPE="page">
+        <fptr FILEID="tiff_00368_0"/>
+        <fptr FILEID="jpg_00368_0"/>
+        <fptr FILEID="alto_00368_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_735.4" BETYPE="IDREF" FILEID="alto_00368_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b730-4" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_730.4" BETYPE="IDREF" FILEID="alto_00365_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQq" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_729.11" BETYPE="IDREF" FILEID="alto_00365_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b730-6" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_730.6" BETYPE="IDREF" FILEID="alto_00365_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b733-7" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_733.8" BETYPE="IDREF" FILEID="alto_00367_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b733-11" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_733.12" BETYPE="IDREF" FILEID="alto_00367_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b734-4" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_734.4" BETYPE="IDREF" FILEID="alto_00367_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b734-6" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_734.6" BETYPE="IDREF" FILEID="alto_00367_1"/>
+            <area BEGIN="BL_735.1" BETYPE="IDREF" FILEID="alto_00368_0"/>
+            <area BEGIN="BL_735.2" BETYPE="IDREF" FILEID="alto_00368_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b735-4" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_735.6" BETYPE="IDREF" FILEID="alto_00368_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b733-9" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_733.10" BETYPE="IDREF" FILEID="alto_00367_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b733-5" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_733.6" BETYPE="IDREF" FILEID="alto_00367_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b735-3" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_735.5" BETYPE="IDREF" FILEID="alto_00368_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b733-6" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_733.7" BETYPE="IDREF" FILEID="alto_00367_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b732-3" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_732.4" BETYPE="IDREF" FILEID="alto_00366_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b729-10" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_729.13" BETYPE="IDREF" FILEID="alto_00365_0"/>
+            <area BEGIN="BL_730.1" BETYPE="IDREF" FILEID="alto_00365_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b730-8" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_730.8" BETYPE="IDREF" FILEID="alto_00365_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b733-8" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_733.9" BETYPE="IDREF" FILEID="alto_00367_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b730-12" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_730.12" BETYPE="IDREF" FILEID="alto_00365_1"/>
+            <area BEGIN="BL_731.1" BETYPE="IDREF" FILEID="alto_00366_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b733-10" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_733.11" BETYPE="IDREF" FILEID="alto_00367_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b732-5" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_732.6" BETYPE="IDREF" FILEID="alto_00366_1"/>
+            <area BEGIN="BL_733.1" BETYPE="IDREF" FILEID="alto_00367_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b732-4" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_732.5" BETYPE="IDREF" FILEID="alto_00366_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b733-3" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_733.4" BETYPE="IDREF" FILEID="alto_00367_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b733-4" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_733.5" BETYPE="IDREF" FILEID="alto_00367_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b731-3" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_731.4" BETYPE="IDREF" FILEID="alto_00366_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqC" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_729.10" BETYPE="IDREF" FILEID="alto_00365_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b730-5" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_730.5" BETYPE="IDREF" FILEID="alto_00365_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-13" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.14" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-12" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.13" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-15" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.16" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-14" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.15" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-16" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.17" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b730-11" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_730.11" BETYPE="IDREF" FILEID="alto_00365_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b730-10" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_730.10" BETYPE="IDREF" FILEID="alto_00365_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Asq" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.18" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b730-7" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_730.7" BETYPE="IDREF" FILEID="alto_00365_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b733-12" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_733.13" BETYPE="IDREF" FILEID="alto_00367_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b731-4" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_731.5" BETYPE="IDREF" FILEID="alto_00366_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b733-13" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_733.14" BETYPE="IDREF" FILEID="alto_00367_0"/>
+            <area BEGIN="BL_734.1" BETYPE="IDREF" FILEID="alto_00367_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b731-8" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_731.9" BETYPE="IDREF" FILEID="alto_00366_0"/>
+            <area BEGIN="BL_732.1" BETYPE="IDREF" FILEID="alto_00366_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b734-5" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_734.5" BETYPE="IDREF" FILEID="alto_00367_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b730-9" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_730.9" BETYPE="IDREF" FILEID="alto_00365_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b729-9" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_729.12" BETYPE="IDREF" FILEID="alto_00365_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b729-8" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_729.9" BETYPE="IDREF" FILEID="alto_00365_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b729-7" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_729.8" BETYPE="IDREF" FILEID="alto_00365_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b729-6" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_729.7" BETYPE="IDREF" FILEID="alto_00365_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b731-5" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_731.6" BETYPE="IDREF" FILEID="alto_00366_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b731-6" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_731.7" BETYPE="IDREF" FILEID="alto_00366_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b731-7" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_731.8" BETYPE="IDREF" FILEID="alto_00366_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

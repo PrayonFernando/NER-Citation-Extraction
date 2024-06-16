@@ -1,0 +1,570 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0054" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="In re Moore">In re MOORE, Collector of Customs</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 393</citation>
+          <citation category="parallel" type="bluebook">66 F. 947</citation>
+          <decisiondate>1895-03-27</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:05Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00203_0" MIMETYPE="image/tiff" CHECKSUM="8f8c32b0975eb7d324e3b1286b6bb7f9" CHECKSUMTYPE="MD5" SIZE="15796">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00203_0.tif"/>
+      </file>
+      <file ID="tiff_00203_1" MIMETYPE="image/tiff" CHECKSUM="70d15ceb67f677979e4ffac6570a3023" CHECKSUMTYPE="MD5" SIZE="53122">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00203_1.tif"/>
+      </file>
+      <file ID="tiff_00204_0" MIMETYPE="image/tiff" CHECKSUM="9454e191b7048f613f3124b2293ff8bb" CHECKSUMTYPE="MD5" SIZE="53010">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00204_0.tif"/>
+      </file>
+      <file ID="tiff_00204_1" MIMETYPE="image/tiff" CHECKSUM="256fe9529bd6a99aa55560ae473dbbab" CHECKSUMTYPE="MD5" SIZE="53716">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00204_1.tif"/>
+      </file>
+      <file ID="tiff_00205_0" MIMETYPE="image/tiff" CHECKSUM="f94e0524f874a957cf25f7427cbafb6f" CHECKSUMTYPE="MD5" SIZE="52884">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00205_0.tif"/>
+      </file>
+      <file ID="tiff_00205_1" MIMETYPE="image/tiff" CHECKSUM="54cf5747a7ac7e8218adce587d762e05" CHECKSUMTYPE="MD5" SIZE="52928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00205_1.tif"/>
+      </file>
+      <file ID="tiff_00206_0" MIMETYPE="image/tiff" CHECKSUM="6558630f47216ed6f113c7bf7e1948d9" CHECKSUMTYPE="MD5" SIZE="52504">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00206_0.tif"/>
+      </file>
+      <file ID="tiff_00206_1" MIMETYPE="image/tiff" CHECKSUM="c20eaca7a940c49fdfe13f3ac15b11a3" CHECKSUMTYPE="MD5" SIZE="35082">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00206_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00203_0" MIMETYPE="image/jpg" CHECKSUM="b9aa025bf2a1e0b7f2a9dae5a8df47cf" CHECKSUMTYPE="MD5" SIZE="93714">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00203_0.jpg"/>
+      </file>
+      <file ID="jpg_00203_1" MIMETYPE="image/jpg" CHECKSUM="22a41bb5d55505b61fd9fafed05533ed" CHECKSUMTYPE="MD5" SIZE="201055">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00203_1.jpg"/>
+      </file>
+      <file ID="jpg_00204_0" MIMETYPE="image/jpg" CHECKSUM="b86b8ded59993fa7c008a53645896a4b" CHECKSUMTYPE="MD5" SIZE="192535">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00204_0.jpg"/>
+      </file>
+      <file ID="jpg_00204_1" MIMETYPE="image/jpg" CHECKSUM="f224e26721085a638e02d261da952484" CHECKSUMTYPE="MD5" SIZE="210184">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00204_1.jpg"/>
+      </file>
+      <file ID="jpg_00205_0" MIMETYPE="image/jpg" CHECKSUM="51b555ae05c7733cb3bdf638ab59dca0" CHECKSUMTYPE="MD5" SIZE="195917">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00205_0.jpg"/>
+      </file>
+      <file ID="jpg_00205_1" MIMETYPE="image/jpg" CHECKSUM="7829eb4e712b31334782b344f04ac12f" CHECKSUMTYPE="MD5" SIZE="203974">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00205_1.jpg"/>
+      </file>
+      <file ID="jpg_00206_0" MIMETYPE="image/jpg" CHECKSUM="fe9af87575bc2b71a13937fbccb47e5b" CHECKSUMTYPE="MD5" SIZE="192269">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00206_0.jpg"/>
+      </file>
+      <file ID="jpg_00206_1" MIMETYPE="image/jpg" CHECKSUM="a016b5befcd6a9d7bb9aee6a0241e429" CHECKSUMTYPE="MD5" SIZE="156563">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00206_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00203_0" MIMETYPE="text/xml+gzip" CHECKSUM="5c6a44c3cf6dac315b05a539bcb5d633" CHECKSUMTYPE="MD5" SIZE="4260">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00203_0.xml.gz"/>
+      </file>
+      <file ID="alto_00203_1" MIMETYPE="text/xml+gzip" CHECKSUM="33639a14147e6ba4a7b90e76dbd30488" CHECKSUMTYPE="MD5" SIZE="13315">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00203_1.xml.gz"/>
+      </file>
+      <file ID="alto_00204_0" MIMETYPE="text/xml+gzip" CHECKSUM="973c5d529c8bec04101035df57a590e7" CHECKSUMTYPE="MD5" SIZE="13093">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00204_0.xml.gz"/>
+      </file>
+      <file ID="alto_00204_1" MIMETYPE="text/xml+gzip" CHECKSUM="94fc0a3311f08f61d2c6c8faae97239b" CHECKSUMTYPE="MD5" SIZE="13638">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00204_1.xml.gz"/>
+      </file>
+      <file ID="alto_00205_0" MIMETYPE="text/xml+gzip" CHECKSUM="600d3cc7b921e371d5413cb6ef944890" CHECKSUMTYPE="MD5" SIZE="12853">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00205_0.xml.gz"/>
+      </file>
+      <file ID="alto_00205_1" MIMETYPE="text/xml+gzip" CHECKSUM="4e2ace05c2f93b69b4ae91d59455a973" CHECKSUMTYPE="MD5" SIZE="13116">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00205_1.xml.gz"/>
+      </file>
+      <file ID="alto_00206_0" MIMETYPE="text/xml+gzip" CHECKSUM="b347cb2602ffb96dbb3bcd4a48290a62" CHECKSUMTYPE="MD5" SIZE="12797">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00206_0.xml.gz"/>
+      </file>
+      <file ID="alto_00206_1" MIMETYPE="text/xml+gzip" CHECKSUM="b124740cb08075432681fd0a9e2445d5" CHECKSUMTYPE="MD5" SIZE="8850">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00206_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0054" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="393" lastpage="400">
+              <court pgmap="405" id="b405-5">District Court, D. Alaska.</court>
+              <citation pgmap="405" id="b405-3">66 F. 947</citation>
+              <parties pgmap="405" id="b405-4">In re MOORE, Collector of Customs.</parties>
+              <decisiondate pgmap="405" id="b405-6">March 27, 1895.</decisiondate>
+              <attorneys pgmap="405" id="b405-12">Lytton Taylor, Dist. Atty., for petitioner.</attorneys>
+              <opinion type="majority">
+                <author pgmap="405" id="b405-13">TRUITT, District Judge.</author>
+                <p pgmap="405(72) 406(175)" id="AtC">This case is brought up for determination by the petition of said Benjamin P. Moore, verified by his oath, and addressed to the judge of said court, in which he sets out his official capacity, and then among other things alleges, upon information and belief, that one Paul Baum now has secreted about his premises at Sitka/within said district, a quantity of intoxicating liq­uor commonly called “whisky,” which has been unlawfully imported from other parts of the United States, and prays for a warrant to search for and seize the same. By this ap­plication two very important questions are for the first time directly brought before this court, viz.: (1) Does .the law authorize the issuance of such a warrant for the purpose named? (2) If so, then can it be executed by the collec­tor or his deputies? The first is the most important ques­tion, and really the vital one in the case, for, if the law does not authorize the issuance of the warrant, then the second question is never reached, but, if such warrant is authorized, the question of its execution is of secondary importance. In passing upon the petition I shall therefore consider the above questions in the order of their statement, and examine the statutes that seem to bear upon the au­thority of the United States judge or a commissioner for this district to issue a search warrant upon such facts as are alleged in the petition herein.</p>
+                <p pgmap="406" id="b406-4">The warrant asked for is of a high and extraordinary nature. It is expressly guarded by article 4 of the original amendment to the constitution proposed by the first con­gress, and ratified by the several states, for the purpose of securing the rights and liberty of the people from encroach­ment, disparagement, or violation by the federal government through its departments, courts, or various officers, either military or civil; and unless such warrant is directly au­thorized by law, or comes within the fair intendment of the same, it should not be issued. In Nelson v. U. S., 12 Sawy. 285, 30 F. 112, which was a criminal prosecution under sec­tion 14 of the act of May 17, 1884, providing a civil gov­ernment for Alaska, Judge Deady, in his very able opinion, says: “No particular question was made on the argument as to the scope and effect of the act, but, as it covers the whole ground, the most reasonable conclusion is that it su­persedes or repeals all former laws on the subject of intoxi­cating liquors in Alaska.”</p>
+                <p pgmap="406" id="b406-5">And in U. S. v. Warwick, 51 F. 280, a case decided in this court, it is held that: “As to the importation, manufac­ture, and sale of intoxicating liquor in this district, section 14, supra, in connection with section 1955 of the Revised Statutes, and the regulations of the president, must be ac­cepted as the law.”</p>
+                <p pgmap="407" id="b407-3">In the latter case, section 20 of the act of June 30, 1834 (see 25 U.S.C.A. § 241 note), which was by act of March 3, 1873, added as an amendment to section 1 of the Alaska act of July 27, 1868, for the purpose of making this ter­ritory “Indian country” as to the introduction and disposal of spirituous liquors, is held not to be in force here. As the act of July 27, 1868, with the amendment thereto of March 3, 1873, includes all the law of a local character upon the subject of spirituous liquors affecting Alaska prior to the organic act of May 17, 1884, if the said amendment is not now in force, then, unless one or more statutes of a general character touching the subject in some way were extended over this country proprio vigore upon its cession to the United States, it is plain that the only law applicable to the present case will be found in said act of July 27, 1868, and the organic act; and as my attention has not been call­ed to any statute of a general character that might, by the most strained construction, apply to this case, and having been unable to find any such myself after a care­ful examination, I therefore conclude that these acts con­tain all the law applicable to it. Section 14 of the organic act is as follows: “That the provision of chapter three, title twenty-three, of the Revised Statutes of the United States, relating to the unorganized territory of Alaska, shall re­main in full force, except as herein specially otherwise pro­vided*; and the importation, manufacture and sale of intoxicating liquors in said district except for medicinal, mechanical and scientific purposes is hereby prohibited un­der the penalties which are provided in section nineteen hun­dred and fifty-five of the Revised Statutes for the wrongful importation of distilled spirits.”</p>
+                <p pgmap="407" id="b407-4">At this point in the case it is necessary, before going further, to determine what effect this act had upon prior legislation upon the same subject. What parts or provisions of said chapter 3, tit. 23, were changed or repealed by it? Repeals by implication are never favored by courts. “There must be a positive repugnancy between the provisions of the new law and the old to work a repeal of the old by im­plication, and even then the old law is only repealed to the extent of the repugnancy.” Fabbri v. Murphy, 95 U.S. 191.</p>
+                <p pgmap="408" id="b408-3">In McCool v. Smith, 1 Black, 459, Mr. Justice Swayne said: “A repeal by implication is not favored. The leaning of the courts is against the doctrine, if it be possible to rec­oncile the two acts together.”</p>
+                <p pgmap="408" id="b408-4">Numerous other authorities could be given to the same effect, but even these seem hardly necessary upon the prop­osition they are cited to support, for the legislative mind seems to have attempted, by the very language used in the act, to preclude any question about its object and intention. It is expressly declared that the provisions o‘f said chapter 3, tit. 23, “shall remain in full force, except as herein special­ly otherwise provided.” Under the rule governing repeals by implication, and the peculiar language of the act itself, most of the old law must be in force. Section 14 is broader than section 1955 in two respects, for while this section is only against “distilled spirits,” and confers upon the presi­dent the power to “restrict, and regulate, or to prohibit,” it is against “intoxicating liquors,” and absolutely prohibits such liquors except for the three purposes named. As these changes are not repugnant to the intention and spirit of said section, I hold that it is still in force as to distilled spirits, and only modified as to the power of the president. In this I am following a well-established doctrine, which is very concisely stated by Mr. Justice Field in Chicago, M. &amp; St. P. R. Co. v. U. S., 127 U.S. 406, 8 S.Ct. 1194, as follows: “When there are two acts or provisions of law relating to the same subject, effect is given to both if that be practicable. If the two are repugnant, the latter will operate as a repeal of the former to that extent; but the sec­ond act will not operate as such repeal merely because it may repeat some of the provisions of the first one, and omit others, or add new provisions.”</p>
+                <p pgmap="408(99) 409(158)" id="b408-5">Section 14 of the organic act refers, to section 1955 for its penalty; hence this part of it is not repealed; and, if the rest is, then we have a unique statute, — that is, one consisting wholly of a penalty. So far as these statutes relate to the subject of intoxicating liquors they are in pari materia, for they have a common object, and are intended to prevent a common evil, and should be looked at as one statute in explaining their meaning and import. Ryan v. Carter, 93 U.S. 78; Harrington v. U. S., 11 Wall. 356; Vane v. Newcombe, 132 U.S. 220, 10 S.Ct. 60. In section 1955 it provides that “the president shall have power” to make regulations necessary to carry out its provisions, and in section 14 of the organic act it is declared that he “shall make such regulations” as are necessary to carry out its provisions. These regulations have been made by the president, and if, under either one or both of said statutes, the warrant asked for can be issued, then the request of the petition should be granted. In section 1955 it is declared, among other things, that: “Distilled spirits landed or at­tempted to be landed or used at any port or place in the territory, in violation of such regulations, shall be for­feited; and if the value of the same exceeds four hundred dollars the vessel upon which the same is found, or from which they have been landed * * * shall be forfeited.”</p>
+                <p pgmap="409" id="b409-4">As the forfeiture provided for in this statute is against personal property and vessels carrying or landing it, any attempt to enforce such forfeiture would be vain without first seizing the property and bringing it within the power of the court. And it is a well-settled rule that proceedings to enforce a forfeiture are in the nature of actions in rem, and that seizure is a jurisdictional fact which must pre­cede the commencement of such proceedings. The Wash­ington, 4 Blatchf. 101, Fed. Cas. No. 17,221; The Bolina, 3 Fed. Cas. No. 1,608; The Ann, 9 Cranch, 289. In the latter case it is stated that: “In order to institute and per­fect proceedings in rem it is necessary that the thing should be actually or constructively within the reach of the court.”</p>
+                <p pgmap="409" id="b409-5">The petition alleges that domestic intoxicating liquor, commonly called “whisky,” is believed to be at certain premises within this district, and that the same has been unlawfully imported or brought into it. The executive or­der of May 4, 1887, says: “No intoxicating liquors shall be landed at any port or place in the territory of Alaska without a permit from the chief officer of the customs at such port or place, to be issued upon evidence satisfactory to such officer that the liquors are imported and are to be used solely for sacramental, medicinal, mechanical, or scien­tific purposes.”</p>
+                <p pgmap="409(22) 410(245)" id="b409-6">It is the practice of the customs officers to .seize all such liquors when found in the hands of persons attempting to land it from boats or vessels at any port or place in the territory contrary to law. But suppose the liquors are clan­destinely landed and carried into the country. How far inland must they be taken before they become purged of their illegal nature, or exempt from the ban of the law upon them? Is there an arbitrary line or distance from the wharf or beach at which the customs officer must stop, and just beyond which the smuggler can store his illicit goods in safety, or even openly display them and laugh at the law? A construction which would sanction so glar­ing an evasion of the whole policy and object of the law and the executive order ought not to be adopted. Penal laws, though subject to what is known as the “rule of strict construction,” should not be construed with such technical strictness as to defeat the obvious intention of the law. American Fur Co. v. U. S., 2 Pet. 358. “A thing with­in the intention of the makers of the statute is as much within the statute as if it was within the letter.” U. S. v. Babbit, 1 Black, 55., But under the strictest rules of con­struction, if the statutes upon the subject are to stand as I have indicated, I think the warrant should.be issued. Hav­ing thus determined the first question in the case, but little need be said in passing upon the other one.</p>
+                <p pgmap="410" id="b410-4">Section 1957 of the Revised Statutes (16 U.S.C.A. § 645 note), provides: “Until otherwise provided by law all viola­tions of this chapter, and of the laws hereby extended to the territory of Aláska and the waters thereof, committed with­in the limits of the same shall be prosecuted in any district court of the United States in California or Oregon, or in the district courts of Washington; and the collector and deputy collectors appointed for Alaska territory, and any person authorized in writing by either of them, or by the secretary of the treasury, shall have power to arrest per­sons and seize vessels and merchandise liable to fines, penal­ties or forfeitures under this and the other laws extended over the territory.”</p>
+                <p pgmap="410(54) 411(123)" id="b410-5">There is no repugnancy between this statute and section 14 of the organic act; but section 3 of said act establishes a district court for Alaska, and thus establishes a new fo­rum, in which the offenses against the provisions of chapter 3, tit. 23, of the Revised Statutes must be tried. The new law changes or repeals the old in this respect. But courts have generally upheld parts of a statute capable of stand­ing alone when other parts have been repealed by im­plication because repugnant to a later act. Presser v. People of Illinois, 116 U.S. 252, 6 S.Ct. 580; In re Canal Cer­tificates, 19 Colo. 63, 34 P. 274; Cooke v. Ford, 6 Fed.Cas. No.3,173; Wood v. U. S., 16 Pet. 342. In the case of Wood v. U. S., Mr. Justice Story said: “There must be a positive repugnancy between the provisions of the new laws and those of the old; and even then the old law is re­pealed by implication only pro tanto to the extent of the repugnancy.”</p>
+                <p pgmap="411(294) 412(39)" id="b411-4">However, the very language used in the organic act and that used in section 1957 plainly shows that the former should not be held to repeal the latter in toto, or at all, except as to that part providing the court in which offenses named in the chapter should be tried. The new act declares that this chapter “shall remain in full force” except as oth­erwise specially provided; and section 1957 only makes prosecutions for violations of said chapter triable in the courts of California, Oregon, and Washington “until oth­erwise provided by law.” When the organic act was en­acted, the prosecutions mentioned in said section were oth­erwise provided for by law, and all that portion of the section from the beginning down to and including the word “Washington” became inoperative or was repealed by implication. It was only intended to be temporary. If the rest of this section is allowed to stand, then it gives the collector, his deputies, and any person authorized by either of them in writing, the “power to arrest persons and seize vessels and merchandise liable to fines, penalties or forfeitures under this and other laws extended over the territory.” The president seems to have understood or be­lieved that this law was in force after the organic act was adopted, for in his circular of May 4, 1887, he puts the control of intoxicating liquors to be landed at any port or place in Alaska under “the chief officer of the customs.” Now, while this does not have the binding force of a de­cision from a superior judicial tribunal, yet in the language of Mr. Justice Harlan in U. S. v. Johnston, 124 U.S. 236, 8 S.Ct. 446: “The contemporaneous construction of a stat­ute by those charged with its execution, especially when it has long prevailed, is entitled to great weight, and should not be disregarded or overturned except for cogent reasons, and unless it be clear that such construction is erroneous.”</p>
+                <p pgmap="412" id="b412-4">And he cites a number of authorities in support of the rule which he says has often Nbeen announced by the court. But it may be said that, admitting the authority of the cus­toms officers to seize intoxicating liquors while they are being landed contrary to law, yet after they have escaped the vigilance of these officers, and passed through the guard line that they are supposed to maintain along our coast, then the marshal or his deputies should seize them. Upon this point I express no opinion, further than that the collector can execute the warrant, because it is not in the case. By his petition he asks for this warrant, and from my hold­ing that it should issue, and that he may execute the same, it cannot be implied that another officer of the district might not obtain its issuance and have the same power in executing it. If any person had been caught in the act of illegally landing these liquors, the customs officers could have seized them without a warrant. Under the law, as I understand it, I think both questions in the case must be decided in favor of the petitioner, and the warrant will be issued.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="405" ORDERLABEL="393" TYPE="page">
+        <fptr FILEID="tiff_00203_0"/>
+        <fptr FILEID="jpg_00203_0"/>
+        <fptr FILEID="alto_00203_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_405.2" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="406" ORDERLABEL="394" TYPE="page">
+        <fptr FILEID="tiff_00203_1"/>
+        <fptr FILEID="jpg_00203_1"/>
+        <fptr FILEID="alto_00203_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_406.2" BETYPE="IDREF" FILEID="alto_00203_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="407" ORDERLABEL="395" TYPE="page">
+        <fptr FILEID="tiff_00204_0"/>
+        <fptr FILEID="jpg_00204_0"/>
+        <fptr FILEID="alto_00204_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_407.2" BETYPE="IDREF" FILEID="alto_00204_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="408" ORDERLABEL="396" TYPE="page">
+        <fptr FILEID="tiff_00204_1"/>
+        <fptr FILEID="jpg_00204_1"/>
+        <fptr FILEID="alto_00204_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_408.1" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="409" ORDERLABEL="397" TYPE="page">
+        <fptr FILEID="tiff_00205_0"/>
+        <fptr FILEID="jpg_00205_0"/>
+        <fptr FILEID="alto_00205_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_409.3" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="410" ORDERLABEL="398" TYPE="page">
+        <fptr FILEID="tiff_00205_1"/>
+        <fptr FILEID="jpg_00205_1"/>
+        <fptr FILEID="alto_00205_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_410.2" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="411" ORDERLABEL="399" TYPE="page">
+        <fptr FILEID="tiff_00206_0"/>
+        <fptr FILEID="jpg_00206_0"/>
+        <fptr FILEID="alto_00206_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_411.3" BETYPE="IDREF" FILEID="alto_00206_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="412" ORDERLABEL="400" TYPE="page">
+        <fptr FILEID="tiff_00206_1"/>
+        <fptr FILEID="jpg_00206_1"/>
+        <fptr FILEID="alto_00206_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_412.2" BETYPE="IDREF" FILEID="alto_00206_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-5" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.5" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtC" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.14" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            <area BEGIN="BL_405.15" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            <area BEGIN="BL_406.1" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b411-4" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_411.4" BETYPE="IDREF" FILEID="alto_00206_0"/>
+            <area BEGIN="BL_412.1" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-4" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.4" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-5" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.5" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            <area BEGIN="BL_411.1" BETYPE="IDREF" FILEID="alto_00206_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-6" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.6" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            <area BEGIN="BL_410.1" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-4" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.4" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-5" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.5" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            <area BEGIN="BL_409.1" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-12" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.12" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-13" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.13" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-5" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.5" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-4" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.4" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-5" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.5" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-4" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.4" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-4" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.4" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-3" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.3" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-6" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.6" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-4" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.4" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-3" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.3" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-3" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.3" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-4" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.4" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

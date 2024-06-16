@@ -1,0 +1,1282 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0029" publicationstatus="published">
+          <court abbreviation="U.S." jurisdiction="United States">Supreme Court of the United States</court>
+          <name abbreviation="McAllister v. United States">McALLISTER v. UNITED STATES</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 189</citation>
+          <citation category="parallel" type="bluebook">141 U.S. 174, 11 S.Ct. 949</citation>
+          <decisiondate>1891-05-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:21:59Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00101_0" MIMETYPE="image/tiff" CHECKSUM="4b6754e625a2f8d1105504a8ff6700aa" CHECKSUMTYPE="MD5" SIZE="30888">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00101_0.tif"/>
+      </file>
+      <file ID="tiff_00101_1" MIMETYPE="image/tiff" CHECKSUM="abfef10474c676b32761f37f37a450ca" CHECKSUMTYPE="MD5" SIZE="3624">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00101_1.tif"/>
+      </file>
+      <file ID="tiff_00102_0" MIMETYPE="image/tiff" CHECKSUM="2369cc2d761a27025b75071b8bbe41a0" CHECKSUMTYPE="MD5" SIZE="21324">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00102_0.tif"/>
+      </file>
+      <file ID="tiff_00102_1" MIMETYPE="image/tiff" CHECKSUM="f9adb275495bac7f1e39da37159c8134" CHECKSUMTYPE="MD5" SIZE="52304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00102_1.tif"/>
+      </file>
+      <file ID="tiff_00103_0" MIMETYPE="image/tiff" CHECKSUM="f510245bd2a1ca318931fd16de84ca75" CHECKSUMTYPE="MD5" SIZE="52698">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00103_0.tif"/>
+      </file>
+      <file ID="tiff_00103_1" MIMETYPE="image/tiff" CHECKSUM="3d3314336a137ff8645009b5778a7c45" CHECKSUMTYPE="MD5" SIZE="52422">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00103_1.tif"/>
+      </file>
+      <file ID="tiff_00104_0" MIMETYPE="image/tiff" CHECKSUM="b398dd226824b822b112ff7c5884b4e4" CHECKSUMTYPE="MD5" SIZE="52850">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00104_0.tif"/>
+      </file>
+      <file ID="tiff_00104_1" MIMETYPE="image/tiff" CHECKSUM="6675df3622914955717ee10a38fce9bf" CHECKSUMTYPE="MD5" SIZE="52862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00104_1.tif"/>
+      </file>
+      <file ID="tiff_00105_0" MIMETYPE="image/tiff" CHECKSUM="bb91a228595bee1d43f371699197d657" CHECKSUMTYPE="MD5" SIZE="54642">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00105_0.tif"/>
+      </file>
+      <file ID="tiff_00105_1" MIMETYPE="image/tiff" CHECKSUM="f8a0480e3dfe3b1cea43190078857fa1" CHECKSUMTYPE="MD5" SIZE="51344">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00105_1.tif"/>
+      </file>
+      <file ID="tiff_00106_0" MIMETYPE="image/tiff" CHECKSUM="42b677bbff25573d0076d352df8f4f9e" CHECKSUMTYPE="MD5" SIZE="52916">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00106_0.tif"/>
+      </file>
+      <file ID="tiff_00106_1" MIMETYPE="image/tiff" CHECKSUM="11c3c5860293668a7db85ca9ea7ba1e1" CHECKSUMTYPE="MD5" SIZE="58924">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00106_1.tif"/>
+      </file>
+      <file ID="tiff_00107_0" MIMETYPE="image/tiff" CHECKSUM="6297ab8082b91c495fac2b5fb1ccbf6a" CHECKSUMTYPE="MD5" SIZE="54262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00107_0.tif"/>
+      </file>
+      <file ID="tiff_00107_1" MIMETYPE="image/tiff" CHECKSUM="873191a41c5c5e19e2848cab32ed860e" CHECKSUMTYPE="MD5" SIZE="53942">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00107_1.tif"/>
+      </file>
+      <file ID="tiff_00108_0" MIMETYPE="image/tiff" CHECKSUM="6188b8127f802d04a8bef0a3cf28306e" CHECKSUMTYPE="MD5" SIZE="53932">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00108_0.tif"/>
+      </file>
+      <file ID="tiff_00108_1" MIMETYPE="image/tiff" CHECKSUM="157bb8b45e78a922a69462f6b2448f0b" CHECKSUMTYPE="MD5" SIZE="55372">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00108_1.tif"/>
+      </file>
+      <file ID="tiff_00109_0" MIMETYPE="image/tiff" CHECKSUM="509dd564ef25fceb666e49b3c437807b" CHECKSUMTYPE="MD5" SIZE="52320">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00109_0.tif"/>
+      </file>
+      <file ID="tiff_00109_1" MIMETYPE="image/tiff" CHECKSUM="67b4fe1072ecb7afc7ce190a6143fdbb" CHECKSUMTYPE="MD5" SIZE="51194">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00109_1.tif"/>
+      </file>
+      <file ID="tiff_00110_0" MIMETYPE="image/tiff" CHECKSUM="beb44229bb86bb31eb5aaab9671106cf" CHECKSUMTYPE="MD5" SIZE="53026">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00110_0.tif"/>
+      </file>
+      <file ID="tiff_00110_1" MIMETYPE="image/tiff" CHECKSUM="9b3f91a489a1f3ead570264f6b71d8f3" CHECKSUMTYPE="MD5" SIZE="54184">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00110_1.tif"/>
+      </file>
+      <file ID="tiff_00111_0" MIMETYPE="image/tiff" CHECKSUM="7530dada35998b2f5c0471ce54c355eb" CHECKSUMTYPE="MD5" SIZE="54326">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00111_0.tif"/>
+      </file>
+      <file ID="tiff_00111_1" MIMETYPE="image/tiff" CHECKSUM="c4e44266f1df27ad54807eea0b2451d4" CHECKSUMTYPE="MD5" SIZE="56216">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00111_1.tif"/>
+      </file>
+      <file ID="tiff_00112_0" MIMETYPE="image/tiff" CHECKSUM="37e70566e3f1168b944d2b5bbc610488" CHECKSUMTYPE="MD5" SIZE="54578">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00112_0.tif"/>
+      </file>
+      <file ID="tiff_00112_1" MIMETYPE="image/tiff" CHECKSUM="d8f03ddd69d7b3b886257179c8fecfa7" CHECKSUMTYPE="MD5" SIZE="55364">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00112_1.tif"/>
+      </file>
+      <file ID="tiff_00113_0" MIMETYPE="image/tiff" CHECKSUM="a22b701536b6530e013f428a6a3ae343" CHECKSUMTYPE="MD5" SIZE="55674">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00113_0.tif"/>
+      </file>
+      <file ID="tiff_00113_1" MIMETYPE="image/tiff" CHECKSUM="369dd8ff888f48127648b0ce2109cbdf" CHECKSUMTYPE="MD5" SIZE="52966">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00113_1.tif"/>
+      </file>
+      <file ID="tiff_00114_0" MIMETYPE="image/tiff" CHECKSUM="01b2bd13f66aa466b8dcdc2d84be1174" CHECKSUMTYPE="MD5" SIZE="10414">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00114_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00101_0" MIMETYPE="image/jpg" CHECKSUM="e812226477d7253e90d18718b6f75422" CHECKSUMTYPE="MD5" SIZE="138162">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00101_0.jpg"/>
+      </file>
+      <file ID="jpg_00101_1" MIMETYPE="image/jpg" CHECKSUM="8e9a69b298a824e3117f3e24379af753" CHECKSUMTYPE="MD5" SIZE="51617">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00101_1.jpg"/>
+      </file>
+      <file ID="jpg_00102_0" MIMETYPE="image/jpg" CHECKSUM="cd01cd9550a15592849f2b9f0a2f7c8b" CHECKSUMTYPE="MD5" SIZE="98930">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00102_0.jpg"/>
+      </file>
+      <file ID="jpg_00102_1" MIMETYPE="image/jpg" CHECKSUM="ddc8d30b0f21a9d10627cc9735c7fe2c" CHECKSUMTYPE="MD5" SIZE="205411">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00102_1.jpg"/>
+      </file>
+      <file ID="jpg_00103_0" MIMETYPE="image/jpg" CHECKSUM="04f12ccd1580afedd46ea8fbd4ebb2bd" CHECKSUMTYPE="MD5" SIZE="195197">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00103_0.jpg"/>
+      </file>
+      <file ID="jpg_00103_1" MIMETYPE="image/jpg" CHECKSUM="75bb75ce787536a9a76930b2857d7644" CHECKSUMTYPE="MD5" SIZE="199251">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00103_1.jpg"/>
+      </file>
+      <file ID="jpg_00104_0" MIMETYPE="image/jpg" CHECKSUM="0b0d2d5cb14e25b26678ecec2444263a" CHECKSUMTYPE="MD5" SIZE="191729">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00104_0.jpg"/>
+      </file>
+      <file ID="jpg_00104_1" MIMETYPE="image/jpg" CHECKSUM="8a9499026639e8e77e4840f0a08aa70e" CHECKSUMTYPE="MD5" SIZE="206941">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00104_1.jpg"/>
+      </file>
+      <file ID="jpg_00105_0" MIMETYPE="image/jpg" CHECKSUM="dceff0c8950b8dbb82b2fd858eff174d" CHECKSUMTYPE="MD5" SIZE="201366">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00105_0.jpg"/>
+      </file>
+      <file ID="jpg_00105_1" MIMETYPE="image/jpg" CHECKSUM="deb0ab76603740ed515de39b97187413" CHECKSUMTYPE="MD5" SIZE="198646">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00105_1.jpg"/>
+      </file>
+      <file ID="jpg_00106_0" MIMETYPE="image/jpg" CHECKSUM="08508b9367942cc9fc81dae8c70091b5" CHECKSUMTYPE="MD5" SIZE="190352">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00106_0.jpg"/>
+      </file>
+      <file ID="jpg_00106_1" MIMETYPE="image/jpg" CHECKSUM="38286115f926283d550f4974e097d800" CHECKSUMTYPE="MD5" SIZE="221907">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00106_1.jpg"/>
+      </file>
+      <file ID="jpg_00107_0" MIMETYPE="image/jpg" CHECKSUM="09214acfb4fca4c5db70187bd6e4eb50" CHECKSUMTYPE="MD5" SIZE="196909">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00107_0.jpg"/>
+      </file>
+      <file ID="jpg_00107_1" MIMETYPE="image/jpg" CHECKSUM="97542b4d64feb4706aca280035fd01ea" CHECKSUMTYPE="MD5" SIZE="204174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00107_1.jpg"/>
+      </file>
+      <file ID="jpg_00108_0" MIMETYPE="image/jpg" CHECKSUM="b88deeaedd2185b2d32d07bdbab816c9" CHECKSUMTYPE="MD5" SIZE="195409">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00108_0.jpg"/>
+      </file>
+      <file ID="jpg_00108_1" MIMETYPE="image/jpg" CHECKSUM="a829bac393a2490230898c4d8fda64f2" CHECKSUMTYPE="MD5" SIZE="212048">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00108_1.jpg"/>
+      </file>
+      <file ID="jpg_00109_0" MIMETYPE="image/jpg" CHECKSUM="f7b8f7adf3a552f7b38a00910fd02627" CHECKSUMTYPE="MD5" SIZE="195035">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00109_0.jpg"/>
+      </file>
+      <file ID="jpg_00109_1" MIMETYPE="image/jpg" CHECKSUM="7fa03a36c6ded5f0b6f97db3cbde82aa" CHECKSUMTYPE="MD5" SIZE="198413">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00109_1.jpg"/>
+      </file>
+      <file ID="jpg_00110_0" MIMETYPE="image/jpg" CHECKSUM="16fe6b2b2a2d2838d9ce841bd3a0b3f8" CHECKSUMTYPE="MD5" SIZE="193537">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00110_0.jpg"/>
+      </file>
+      <file ID="jpg_00110_1" MIMETYPE="image/jpg" CHECKSUM="e1b3c34a4007618c8d9f93cc2bb71dc4" CHECKSUMTYPE="MD5" SIZE="212364">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00110_1.jpg"/>
+      </file>
+      <file ID="jpg_00111_0" MIMETYPE="image/jpg" CHECKSUM="c6b98becc5eb2818522ef3488ea9e8b4" CHECKSUMTYPE="MD5" SIZE="202339">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00111_0.jpg"/>
+      </file>
+      <file ID="jpg_00111_1" MIMETYPE="image/jpg" CHECKSUM="c80144fcbabc7159c3dc79018bbae4b2" CHECKSUMTYPE="MD5" SIZE="209882">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00111_1.jpg"/>
+      </file>
+      <file ID="jpg_00112_0" MIMETYPE="image/jpg" CHECKSUM="599ff15b031ea39536ae586c7036157c" CHECKSUMTYPE="MD5" SIZE="193793">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00112_0.jpg"/>
+      </file>
+      <file ID="jpg_00112_1" MIMETYPE="image/jpg" CHECKSUM="b21bede676ff908022bc6b3ca8f4babf" CHECKSUMTYPE="MD5" SIZE="215463">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00112_1.jpg"/>
+      </file>
+      <file ID="jpg_00113_0" MIMETYPE="image/jpg" CHECKSUM="a56dfbbca28058dd834456dd837f837d" CHECKSUMTYPE="MD5" SIZE="202605">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00113_0.jpg"/>
+      </file>
+      <file ID="jpg_00113_1" MIMETYPE="image/jpg" CHECKSUM="7ecd26bd710c3a56310795435f2ce304" CHECKSUMTYPE="MD5" SIZE="200985">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00113_1.jpg"/>
+      </file>
+      <file ID="jpg_00114_0" MIMETYPE="image/jpg" CHECKSUM="18a4d86f4111ab639b8d801020e37b4d" CHECKSUMTYPE="MD5" SIZE="74017">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00114_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00101_0" MIMETYPE="text/xml+gzip" CHECKSUM="0dfd5d3cf0bc1b64d212e83a4f3658af" CHECKSUMTYPE="MD5" SIZE="7767">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00101_0.xml.gz"/>
+      </file>
+      <file ID="alto_00101_1" MIMETYPE="text/xml+gzip" CHECKSUM="2db432dc6e5e9015f6abff7b3000a1f0" CHECKSUMTYPE="MD5" SIZE="884">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00101_1.xml.gz"/>
+      </file>
+      <file ID="alto_00102_0" MIMETYPE="text/xml+gzip" CHECKSUM="0b34deb0121729167c65ce9800b7fee5" CHECKSUMTYPE="MD5" SIZE="5370">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00102_0.xml.gz"/>
+      </file>
+      <file ID="alto_00102_1" MIMETYPE="text/xml+gzip" CHECKSUM="fd763a570790fdeb878a825f1c2138a0" CHECKSUMTYPE="MD5" SIZE="12341">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00102_1.xml.gz"/>
+      </file>
+      <file ID="alto_00103_0" MIMETYPE="text/xml+gzip" CHECKSUM="c91c21305f79807c31d739d47cf14c57" CHECKSUMTYPE="MD5" SIZE="12845">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00103_0.xml.gz"/>
+      </file>
+      <file ID="alto_00103_1" MIMETYPE="text/xml+gzip" CHECKSUM="38a5cddecd6c4a7a2d061adbab228bc8" CHECKSUMTYPE="MD5" SIZE="12775">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00103_1.xml.gz"/>
+      </file>
+      <file ID="alto_00104_0" MIMETYPE="text/xml+gzip" CHECKSUM="5d04d4574e4d240dcac83c266179a297" CHECKSUMTYPE="MD5" SIZE="12562">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00104_0.xml.gz"/>
+      </file>
+      <file ID="alto_00104_1" MIMETYPE="text/xml+gzip" CHECKSUM="ca20fd40633605fe0bea8a0f241cfda5" CHECKSUMTYPE="MD5" SIZE="11821">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00104_1.xml.gz"/>
+      </file>
+      <file ID="alto_00105_0" MIMETYPE="text/xml+gzip" CHECKSUM="81140f6746161a4a9e8e5f33db1b08b8" CHECKSUMTYPE="MD5" SIZE="12657">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00105_0.xml.gz"/>
+      </file>
+      <file ID="alto_00105_1" MIMETYPE="text/xml+gzip" CHECKSUM="af7eb2460b58f54137ac27dde272b0c4" CHECKSUMTYPE="MD5" SIZE="12081">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00105_1.xml.gz"/>
+      </file>
+      <file ID="alto_00106_0" MIMETYPE="text/xml+gzip" CHECKSUM="8b98d13761a0ffc6073eca0aaadf217d" CHECKSUMTYPE="MD5" SIZE="12318">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00106_0.xml.gz"/>
+      </file>
+      <file ID="alto_00106_1" MIMETYPE="text/xml+gzip" CHECKSUM="b9ae51709e8a083b7aadd1e7c3516f50" CHECKSUMTYPE="MD5" SIZE="16071">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00106_1.xml.gz"/>
+      </file>
+      <file ID="alto_00107_0" MIMETYPE="text/xml+gzip" CHECKSUM="334156c4cc1cc1f4e0ff074771bef937" CHECKSUMTYPE="MD5" SIZE="12654">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00107_0.xml.gz"/>
+      </file>
+      <file ID="alto_00107_1" MIMETYPE="text/xml+gzip" CHECKSUM="2d59f3914d2b3105e055377665638343" CHECKSUMTYPE="MD5" SIZE="12439">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00107_1.xml.gz"/>
+      </file>
+      <file ID="alto_00108_0" MIMETYPE="text/xml+gzip" CHECKSUM="8193064641ee9354d6d54716137b47a9" CHECKSUMTYPE="MD5" SIZE="12964">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00108_0.xml.gz"/>
+      </file>
+      <file ID="alto_00108_1" MIMETYPE="text/xml+gzip" CHECKSUM="38acef19785334dd718788df65564a91" CHECKSUMTYPE="MD5" SIZE="12938">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00108_1.xml.gz"/>
+      </file>
+      <file ID="alto_00109_0" MIMETYPE="text/xml+gzip" CHECKSUM="27d1f471ba01cff688f93170cfd24ca5" CHECKSUMTYPE="MD5" SIZE="12400">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00109_0.xml.gz"/>
+      </file>
+      <file ID="alto_00109_1" MIMETYPE="text/xml+gzip" CHECKSUM="a71e8c906c5ddac5f514f1b5a114e081" CHECKSUMTYPE="MD5" SIZE="12263">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00109_1.xml.gz"/>
+      </file>
+      <file ID="alto_00110_0" MIMETYPE="text/xml+gzip" CHECKSUM="3f0fc79c64da9a536d34b0a3509b1d7b" CHECKSUMTYPE="MD5" SIZE="12908">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00110_0.xml.gz"/>
+      </file>
+      <file ID="alto_00110_1" MIMETYPE="text/xml+gzip" CHECKSUM="a413cb6a016e8a64614b5c03352e3804" CHECKSUMTYPE="MD5" SIZE="12597">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00110_1.xml.gz"/>
+      </file>
+      <file ID="alto_00111_0" MIMETYPE="text/xml+gzip" CHECKSUM="3c965714f578c57f421d3f00239446bc" CHECKSUMTYPE="MD5" SIZE="12595">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00111_0.xml.gz"/>
+      </file>
+      <file ID="alto_00111_1" MIMETYPE="text/xml+gzip" CHECKSUM="fdc85e147c570f7d44cf08522fbb3985" CHECKSUMTYPE="MD5" SIZE="12520">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00111_1.xml.gz"/>
+      </file>
+      <file ID="alto_00112_0" MIMETYPE="text/xml+gzip" CHECKSUM="c954755562f976bb1c8b99d5485f522b" CHECKSUMTYPE="MD5" SIZE="12709">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00112_0.xml.gz"/>
+      </file>
+      <file ID="alto_00112_1" MIMETYPE="text/xml+gzip" CHECKSUM="cd956795165b3a712228aa5fb1a37b17" CHECKSUMTYPE="MD5" SIZE="12523">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00112_1.xml.gz"/>
+      </file>
+      <file ID="alto_00113_0" MIMETYPE="text/xml+gzip" CHECKSUM="aa1cb5a83ccedbeafd6c8ce5318aba2b" CHECKSUMTYPE="MD5" SIZE="13114">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00113_0.xml.gz"/>
+      </file>
+      <file ID="alto_00113_1" MIMETYPE="text/xml+gzip" CHECKSUM="fc79154f5002424aa970a8585ba05c23" CHECKSUMTYPE="MD5" SIZE="12420">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00113_1.xml.gz"/>
+      </file>
+      <file ID="alto_00114_0" MIMETYPE="text/xml+gzip" CHECKSUM="acdb0bcc8f6c99c4a19ecd517a81891c" CHECKSUMTYPE="MD5" SIZE="3023">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00114_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0029" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="189" lastpage="215">
+              <court pgmap="201" id="b201-10">Supreme Court of the United States.</court>
+              <citation pgmap="201" id="b201-8">141 U.S. 174, 11 S.Ct. 949</citation>
+              <parties pgmap="201" id="b201-9">McALLISTER v. UNITED STATES.</parties>
+              <decisiondate pgmap="201" id="b201-11">May 25, 1891.</decisiondate>
+              <attorneys pgmap="203" id="b203-7">S. F. Phillips, Frederic D. McKenney, John S. Blair, and Jos. K. McCammon, for appellant. Sol. Gen. Taft, for the United States.</attorneys>
+              <opinion type="majority">
+                <author pgmap="203" id="b203-8">Mr. Justice Harlan,</author>
+                <p pgmap="203" id="Am">aiter stating the facts in the fore­going language, delivered the opinion of the court.</p>
+                <p pgmap="203(103) 204(28)" id="b203-9">Counsel for the appellant state his contention to be (1) that he was entitled to hold the office of district judge for the district of Alaska for four years from July 5, 1884, the date of his commission, and until his successor was appointed and qualified; or, (2) in the alternative, that his right to perform the duties and receive the emolu­ments of the office continued until September 3, 1886, when Judge Dawson qualified, upon which basis the amount due him would be $3,041.09; or (3) that he is, in any event, entitled to the salary from the first day after the end of the session of the senate, August 7, 1886, to Sep­tember 3, 1886, when his successor qualified, upon which basis there would be due him $221.91.</p>
+                <p pgmap="204" id="b204-4">Although the determination of the second of these propositions may, to some extent, involve a decision of the first one, it is proper to remark that no question is distinctly raised by the petition as to the right of the ap­pellant to hold the district judgeship for Alaska for the full term designated in his commission, namely, four years, and until his successor was appointed and qualified. He sues only for the salary from the 29th of August, 1885, the day succeeding his suspension from office, to the 6th day of September, 1886, a few days after Dawson took the oath of office.</p>
+                <p pgmap="204" id="b204-5">The government disputes the right of the appellant to receive any part of the sum for which he brings suit. Its defense rests upon section 1768 of the Revised Statutes. That section and the one preceding it are as follows:</p>
+                <blockquote pgmap="204" id="b204-6">“Sec. 1767. Every person holding any civil office to which he has been or may hereafter be appointed by and with the advice and consent of the senate, and who shall have become duly qualified to act therein, shall be entitled to hold such office during the term for which he was ap­pointed, unless sooner removed by and with the advice and consent of the senate, or by the appointment, with the like advice and consent, of a successor in his place, except as herein otherwise provided.</blockquote>
+                <blockquote pgmap="204(146) 205(100)" id="b204-7">“Sec. 1768. During any recess of the senate the presi­dent is authorized, in his discretion, to suspend any civil officer appointed by and with the advice and consent of the senate, except judges of the courts of the United States, until the end of the next session of the senate, and to des­ignate some suitable person, subject to be removed, in his discretion, by the designation of another, to perform the duties of such suspended officer in the mean time; and the person so designated shall take the oath and give the bond required by law to be taken and given by the suspended officer, and shall, during the time he performs the duties of such officer, be entitled to the salary and emoluments of the office, no part of which shall belong to the officer suspended. The president shall, within thirty days after the commencement of each session of the senate, except for any office which in his opinion ought not to be filled, nominate persons to fill all vacancies in office which existed at the meeting of the senate, whether temporarily filled or not, and also in the place of all officers suspended; and, if the senate during such session shall refuse to advise and consent to an appointment in the place of any suspended officer, then, and not otherwise, the president shall nomi­nate another person as soon as practicable to the same ses­sion of the senate for the office.”</blockquote>
+                <p pgmap="205" id="b205-4">These sections were brought forward from the act of March 2, 1867, regulating the tenure of certain civil of­fices, and the act of April 5, 1869, amendatory thereof. 14 St. p. 430, c. 154; 16 St. p. 6, c. 10. By an act of con­gress approved March 3, 1887, those sections, as well as sections 1769-1772, relating to the same subject, were repealed, subject to the condition that the repeal should not affect any officer theretofore suspended, or any desig­nation, nomination, or appointment previously made, un­der or by virtue of the repealed sections. 24 St. p. 500, c. 353. As the appointment and suspension of Judge Mc-­Allister occurred prior to the passage of the act of 1887, the present case is not controlled by its provisions, but depends upon the effect to be given to the sections of the Revised Statutes above quoted, interpreted in the light of the act establishing the court of which the appellant was made judge in the year 1884. What may be the powers of the president over territorial judges, now that section 1768 is repealed, is a question we need not now discuss.</p>
+                <p pgmap="205(123) 206(296)" id="b205-5">By an act passed May 17, 1884, (23 St. p. 24, c. 53,) the territory ceded to the United States by Russia, and known as Alaska, was constituted a civil and judicial dis­trict with a governor, attorney, judge, marshal, clerk, and commissioners, to be appointed by the president, by and with the advice and consent of the senate, and to hold their respective offices for the term of four years, and until their successors were appointed and qualified. Sections 1, 9. The third section relates to the court established by the act, and is in these words: “That there shall be, and hereby is, established a district court for said district, with the civil and criminal jurisdiction of district courts of the United States, and the civil and criminal jurisdiction of district courts of the United States exercising the jurisdic­tion of circuit courts, and such other jurisdiction, not in­consistent with this act, as may be established by law; and a district judge shall be appointed for said district, who shall, during his term of office, reside therein, and hold at least two terms of said court therein in each year, — one at Sitka, beginning on the first Monday in May, and the other at Wrangel, beginning on the first Monday in No­vember. He is also authorized and directed to hold such special sessions as may be necessary for the dispatch of the business of said court, at such times and places in said district as he may deem expedient, and may adjourn such special session to any other time previous to a regular ses­sion. He shall have authority to employ interpreters, and to make allowances for the necessary expenses of his court.” By the seventh section, the general laws of Ore­gon, then in force, were declared to be laws of Alaska, so far as the same were applicable, and not in conflict with the provisions of that act or of the laws of the United States. By the same section writs of error in criminal cas­es were to go to the district of Alaska from the United States circuit court for the district of Oregon in the cases provided in chapter 176 of the Laws of 1879; the juris­diction by that chapter conferred upon circuit courts of the United States being given to the circuit court of Ore­gon, and the final judgments or decrees of said circuit and district courts being reviewable by this court as in other cases.</p>
+                <p pgmap="206" id="b206-4">In view of these and other provisions of that act, it is clear that the district court for Alaska was invested with the powers of a district court and a circuit court of the United States as well as with general jurisdiction to en­force in Alaska the laws of Oregon, so far as they were applicable and were not inconsistent with the act and the constitution and laws of the United States.</p>
+                <p pgmap="206(52) 207(70)" id="b206-5">But is the court thus established for Alaska one of the “courts of the United States,” within the meaning of sec-" tion 1768 of the Revised Statutes? If it be, then the president had no authority, by that section, to suspend Judge McAllister, and his claim to salary, up to, at least, the confirmation by the senate of the nomination of Daw­son, is “well founded. If it be not, then the judge of the Alaska court is not of the class excepted by that section, and, being a civil officer appointed by and with the advice and consent of the senate, was within the very terms of the clause authorizing his suspension by the president during the recess of the senate.</p>
+                <p pgmap="207" id="b207-3">An affirmative answer to the question just stated could not well be given upon the theory that a territorial court is one of those mentioned in article 3 of the constitution, declaring that the judicial power of the United States shall be vested in one supreme court, and in such inferior courts as congress may from time to time establish, the judges of which hold their offices during good behavior, receiving at stated times for their services a compensation that can­not be diminished during their continuance in office, and are removable only by impeachment. We say this be­cause numerous decisions of this court are inconsistent with that theory. To these decisions we will now advert.</p>
+                <p pgmap="207(218) 208(221)" id="b207-4">The leading case upon the subject is Insurance Co. v. Canter, 1 Pet. 511, 546, decided in 1828. The question there was as to the validity of a decree passed by a court, consisting of a notary and five jurors, created by a stat­ute of the territorial legislature of Florida, whose pow­ers, under certain acts of congress, extended to all right­ful subjects of legislation, subject to the restriction that their laws should not be inconsistent with the laws and constitution of the United States. On one side it was con­tended that, under those acts, jurisdiction was vested exclu­sively in the superior courts of the territory created by the acts of congress establishing a territorial government in Florida. Chief Justice Marshall, speaking for the court, said: “It has been contended that by the constitution the judicial power of the United States extends to all cases of admiralty and maritime jurisdiction, and that the whole of this judicial power must be vested in ‘one supreme court, and in such inferior courts as congress shall from time to time ordain and establish.’ Hence it has been ar­gued that a congress cannot vest admiralty jurisdiction in courts created by the territorial legislature. We have only to pursue this subject one step further to perceive that this provision of the constitution does not apply to it. The next sentence declares that ‘the judges, both of the su­preme and inferior courts, shall hold their offices during good behavior.’ The judges of the superior courts of Florida hold their offices for four years. These courts, then, are not constitutional courts, in which the judicial pow­er conferred by the constitution on the general government can be deposited. They are incapable of receiving it. They are legislative courts, created in virtue of the gen­eral right of sovereignty which exists in the government, or in virtue of that clause which enables congress to make all needful rules and regulations respecting the territory belonging to the United States. The jurisdiction with which they are invested is not a part of that judicial pow­er which is defined in the third article of the. constitution, but is conferred by congress, in the execution of those general powers which that body possesses over the terri­tories of the United States. Although admiralty juris­diction can be exercised in the states in those courts only which are established in pursuance of the third article of the constitution, the same limitation does not extend to the territories. In legislating for them, congress exercises the combined powers of the general and of a state govern­ment.”</p>
+                <p pgmap="208(157) 209(75)" id="b208-4">Equally emphatic is the decision in Benner v. Porter, 9 How. 235, 242, 243. The court, speaking by Mr. Jus­tice Nelson, said that the distinction between the federal and state jurisdictions, under the constitution of the Unit­ed States, has no foundation in these territorial govern­ments; that “they are legislative governments, and their courts legislative courts, congress, in the exercise of its powers in the organization and government of "the terri­tories, combining the powers of both the federal and state authorities.” Again, after citing the judicial clause of the constitution, (article 3, § 1,) the court said: “Congress must not only ordain and establish inferior courts within a state, and prescribe their jurisdiction, but thé judges appointed to administer them must possess the constitu­tional tenure of office before they can become invested with any portion of the judicial power of the Union. There is no exception to this rule in the constitution. The territorial courts, therefore, were not courts in which the judicial power conferred by the constitution on the federal government could be deposited. They were incapable of receiving it, as the tenure of the incumbents was but for four years. 1 Pet. 546. Neither were they organized by congress under the constitution, as they were invested with powers and jurisdiction which that body were incapable of conferring upon a court within the limits of a state.”</p>
+                <p pgmap="209(336) 210(18)" id="AF">The subject next received consideration in Clinton v. Englebrecht, 13 Wall. 434, 447, where the question was whether a law of a territorial legislature, prescribing the mode of obtaining panels of grand and petit jurors, was obligatory upon the district courts of the territory. The supreme and district courts of the territory supposed that they were courts of the United States, and that they were governed in the selection of jurors by the acts of congress, and not by the statutes passed by the territorial legislature. In its discussion of the general subject this court, speak­ing by Chief Justice Chase, said: “The judges of the su­preme court of the territory are appointed by the president under the act of congress, but this does not make the courts they are authorized to hold courts of the United States. This was decided long since in Insurance Co. v. Canter, 1 Pet. 546, and in the later case of Benner v. Porter, 9 How. 235. There is nothing in the constitution which would prevent congress from conferring the jurisdiction which they exercise, if the judges were elected by the people of the territory and commissioned by the governor. They might be clothed with the same authority to decide all cases arising under the constitution and laws of the United States, subject to the same revision. Indeed, it hardly can be supposed that the earliest territorial courts did not decide such questions, although there was no ex­press provision to that effect, as we have already seen, un­til a comparatively recent period. There is no supreme court of the United States, nor is there any district court of the United States, in the sense of the constitution, in the territory of Utah. The judges are not appointed for the same terms, nor is, the jurisdiction which they exercise part of the judicial power conferred by the constitution or the general government. The courts are the legislative courts of the territory, created in virtue of the clause which authorizes congress to make all needful rules and regula­tions respecting the territories belonging to' the United States.”</p>
+                <p pgmap="210" id="b210-3">In Hornbuckle v. Toombs, 18 Wall. 648, 655, the in­quiry was as to whether or not the practice, pleadings, forms, and modes of proceedings of the territorial courts, as well as their respective jurisdictions, were intended by congress to be left to the legislative action of the terri­torial assemblies, and to such regulation as the courts them­selves might adopt. This court, speaking by Mr. Justice Bradley, said: “The acts of congress respecting proceed­ings in the United States courts are concerned with, and confined to, those courts, considered as parts of the fed­eral system, and as invested with the judicial power of the United States expressly conferred by the constitution, and to be exercised in correlation with the presence and jurisdiction of the several state courts and governments. They were not intended as exertions of that plenary mu­nicipal authority which congress has over the District of Columbia and the territories of the United States. * * * As before said, these acts have specific appli­cation to the courts of the United States, which are courts of a peculiar character and jurisdiction.”</p>
+                <p pgmap="210(184) 211(113)" id="b210-6">In Good v. Martin, 95 U.S. 90, 95, the language of the court, speaking by Mr. Justice Clifford, was: “Ter­ritorial courts are not courts of the United States, within the meaning of the constitution, as appears by all the au­thorities.” So in Reynolds v. U. S., 98 U.S. 145, 154, Chief Justice Waite, speaking for the whole court, said: “By section 1910 of the Revised Statutes the district courts of the territory have the same jurisdiction in all cases aris­ing under the constitution and laws of the United States as is vested in the circuit and district courts of the Unit­ed States, but this does not make them circuit and district courts of the United States. We have often so decided. * * * They are courts of the territories, invested for some purposes with the powers of the courts of the Unit­ed States.” Again, in City of Panama, 101 U.S. 453, 460: “It is competent for congress to make provision for the exercise of admiralty jurisdiction, either within or outside of the states; and in organizing territories con­gress may establish tribunals for the exercise of such ju­risdiction, or they may leave it to the legislature of the territory to create such tribunals. Courts of this kind, whether created by an act of congress or a territorial stat­ute, are not, in strictness, courts of the United States; or in other words, the jurisdiction with which they are in­vested is not a part of the judicial power defined by the third article of the constitution, but is conferred by con­gress in the execution of the general powers which the legislative department possesses, to make all the needful rules and regulations respecting the public territory and other public property.”</p>
+                <p pgmap="211" id="b211-3">These cases close all discussion here as to whether ter­ritorial courts are of the class defined in the third article of the constitution. It must be regarded as settled that courts in the territories, created under the plenary munici­pal authority that congress possesses over the territories of the United States, are not courts of the United States created under the authority conferred by that article. And there is nothing in conflict with this view in Page v. Burn­stine, 102 U.S. 664, where it was held that section 858 of the Revised Statutes of the United States (28 U.S.C.A. § 631 note), relating to the competency as witnesses of parties to actions by or against executors, administrators, or guardians, applied to the courts of the District of Colum­bia as fully as to the circuits and districts of the United States. That conclusion was reached, not because the courts of the District of Columbia were adjudged to be of the class in which the judicial power of the United States was vested by the constitution, but because all the acts relating to the competency of witnesses, when con­strued together, indicated that that section of the Revised Statutes applied to the courts of the District of Columbia.</p>
+                <p pgmap="211" id="b211-4">For the reasons we have stated it must be assumed that the words “judges of the courts of the United States,” in section 1768, were used with reference to the recognized distinction between courts of the United States and mere­ly territorial or legislative courts.</p>
+                <p pgmap="211(31) 212(277) 213(250)" id="b211-5">This view, it is contended, is not supported by the his­tory of congressional legislation relating to the organiza­tion of courts in the territories. We do not assent to this proposition. The acts providing for courts in the terri­tories of Orleans, Iowa, Minnesota, New Mexico, Utah, Colorado, Nevada, Dakota, and Arizona,<footnotemark>1</footnotemark> fixed the tenure of office for judges in those territories, respectively, at four years. Those providing for courts in the territories of Missouri, Arkansas, Florida, Oregon, Washington, Nebraska, Kansas, Idaho, Montana, Wyoming, and Oklah­oma<footnotemark>2</footnotemark> fixed the tenure of judges at four years, with the addition, in some cases, of the words, “unless sooner re­moved;” in others, of the words, “unless sooner removed by the president,” or “and no longer,” or “and until their successors shall be appointed and qualified,” or “unless sooner removed by the president with the consent of the senate.” Of course, congress would not have assumed, in the acts providing for courts in the territories named, to limit the terms of the judges in the modes indicated if it had supposed that such courts were courts of the United States of the class defined in the first section of article 3 of the constitution, the judges of which hold,, beyond the power of congress to provide otherwise, during good be­havior. Nor is the view that courts in the territories are legislative courts, as distinguished from courts of the United States, weakened by the circumstance that congress, in a few of the acts providing for territorial courts, fixed the terms of the office of the judges of those courts dur­ing “good behavior.” <footnotemark>3</footnotemark> As the courts of the territories were not courts the judges of which were entitled, by vir­tue of the constitution, to hold their offices during good behavior, it was competent for congress to prescribe the tenure of good behavior, as in the acts last referred to or to prescribe as in the other acts above referred to, the tenure of four years and no longer, or four years unless sooner removed, or four years unless sooner removed by the president, or four years unless sooner removed by the president with the consent of the senate, or four years and until a successor was appointed and qualified. The significance of these enactments, as well as of the acts of 1867 and 1869, and of section 1768 of the Revised Stat­utes, is in the fact that congress has uniformly proceeded upon the theory that the judges of territorial courts were merely legislative courts, and were not entitled, by virtue of their appointment’ and the constitution of the United States, to hold their offices during good behavior, unless it was so declared in the respective acts providing for the organization of such courts. That congress when provid­ing a government for Alaska so regarded them is appar­ent from the fact that the act of May 17, 1884, fixed the tenure of the office of the judge of the district court of Alaska at four years, and until his successor was appoint­ed and qualified. This provision did not repeal section 1768 of the Revised Statutes, for it was not inconsistent with that section. So that the Alaska act must be taken as qualified by that section which confers upon the presi­dent the power of suspension.</p>
+                <p pgmap="213(163) 214(54)" id="b213-4">It is, however, suggested that if the words, “except judges of the courts of the United States,” in section 1768 of the Revised Statutes, embrace only those that are called constitutional courts, as distinguished from legislative courts, it was entirely unnecessary to introduce them into the statute, because, in respect to the judges of the for­mer, the constitution itself makes the exception. This view is plausible, and is not without some force; and yet it is not sufficient to justify the conclusion that congress regarded judges of territorial courts as upon the same footing with judges of the courts of the United States. The acts of 1867 and 1869 inaugurated a new policy in reference to civil officers appointed by and with the advice and consent of the senate. The presumption must be that congress did not overlook the numerous decisions of this court, holding that territorial courts were not courts of the United States; and the words, “judges of the courts of the United States,” were used in those acts, as well as in section 1768, simply out of abundant caution, and to remove all doubt as to the object of congress, by giving an assurance that there was no attempt to confer upon the president the power of suspension in respect to such judges.</p>
+                <p pgmap="214(348) 215(146)" id="b214-4">An elaborate argument, displaying much thought and extended research upon the part of counsel, has been made in support of the proposition that, upon general princi­ples lying at the foundation of our institutions, the judicial power in the territories, exercised as it must be for the protection of life, liberty, and property, ought to have the guaranties that are provided elsewhere within the political jurisdiction of the nation for the independence and se­curity of judicial tribunals, created by congress under the ihird article of the constitution. We have no occasion to controvert the soundness of this view, so far as it rests on grounds of public policy. But we cannot ignore the fact that while the constitution has, in respect to judges of courts in which may be vested the judicial power of the United States, secured their independence, by an ex­press provision that they may hold their offices during good behavior, and receive at stated times a compensation for their services that cannot be diminished during their con­tinuance in office, no such guaranties are provided by that instrument in respect to judges of courts created by or under the authority of congress for a territory of the United States. The absence from the constitution of such guaranties for territorial judges was no doubt due to the fact that the organization of governments for the terri­tories was but temporary, and would be superseded when the territories became states of the Union. The whole subject of the organization of territorial courts, the tenure by which the judges of such courts shall hold their offices, the salary they receive, and the manner in which they may be removed or suspended from office, was left by the constitution with congress, under its plenary power over the territories of the United States. How far the exer­cise of that power is restrained by the essential princi­ples upon which our system of government rests, and which are embodied in the constitution, we need not stop to in­quire, though we may. repeat what was said.in Romney v. U. S., 136 U.S. 1, 44, 10 S.Ct. 792: “Doubtless congress, in legislating for the territories, would be subject to those fundamental limitations in favor of personal rights which are formulated in the constitution and its amendments; but these limitations would exist rather by inference, and the general spirit of the constitution from which con­gress derives all its powers, than by any express and direct application of its provisions.” It is only necessary in this case to say that those principles and limitations are not violated by a statute prescribing for the office of judge of a territorial court a tenure for a fixed term of years, or authorizing his suspension, in the mode indicated in sec­tion 1768, and his ultimate displacement from office, after suspension, by the appointment of someone in his place, by and with the advice and consent of the senate.</p>
+                <p pgmap="215(281) 216(203)" id="b215-4">It has been suggested that the conclusion reached in this case is not in harmony with some observations of Chief Justice Marshall in Marbury v. Madison, 1 Cranch, 137, 162. It was there said: “Where an officer is re­movable at the will of the executive, the circumstance which completes his appointment is of no concern, because the act is at any time revocable, and the commission may be arrested, if still in the office. But when the officer is not removable at the will of the executive the appointment is not revocable, and cannot be annulled. It has conferred legal rights which cannot be resumed.” Again: “Mr. Marbury, then, since his commission [as a justice of the peace in the District of Columbia] was signed by the presi­dent, and sealed by the secretary of the state, was appoint­ed; and as the law creating the office gave the officer a right to hold for five years, independent of the executive, the appointment was not revocable, but vested in the officer legal rights, which are protected by the laws of his coun­try.” Further: “It [the office of justice of the peace in the District of Columbia] has been created by special act of congress, and has been secured, so far as the laws can give security, to the person appointed to fill it, for five years.” 2 St. p. 107, c. 15, § 11. Nothing in those obser­vations militates in any degree against the views we have expressed. On the contrary, the chief justice asserted the authority of congress to fix the term of a justice of the peace in the District of Columbia beyond the power of the president to lessen it by his removal, or by withhold­ing his commission after his appointment has been made, pursuant to an act of congress, by and with the advice and consent of the senate, and after the commission has been signed by the president and sealed by the secretary of state. So, in the present case, while congress fixed the term of office of the district judge for Alaska at four years, and until his successor qualified, it did so without modifying, and therefore in view of, the statute then in force, giving the president power to suspend, in his dis­cretion, any civil officer (other than judges of the courts of the United States) appointed by him, with the advice and consent of the senate, until the end of the next ses­sion of that body. The decision in the present case is a recognition of the complete authority of congress over ter­ritorial offices, in virtue of “those general powers which that body possesses over the territories of the United States,” as Marbury v. Madison was a recognition of the power of congress over the term of office of a justice of the peace for the District of Columbia.</p>
+                <p pgmap="216(222) 217(162)" id="b216-4">It was insisted at the bar that a territorial judge ap­pointed and commissioned for a given number of years was entitled, of right, to hold his office during that term, subject only to the condition of good behavior. This view was not rested upon any specific clause of the constitution, but was supposed to be justified by the genius and spirit of our free institutions, and the principles of the common law. This argument fails to give due weight to the fact that, in legislating for the territories, congress exercises “the combined powers of the general and of a state govern­ment.” Will it be contended that a state of the Union might not provide by its fundamental law, or by legisla­tive enactment not forbidden by that law, for the suspen­sion of one of its judges by its governor until the end of the next session of its legislature? Has congress, under “the general right of sovereignty” existing in the govern­ment of the United States as to all matters committed to its exclusive control, including the making of needful rules and regulations respecting the territories of the United States, any less power over the judges of the territories than a state, if unrestrained by its own organic law, might exercise over judges of its own creation? If congress may — and it is conceded that it may — prescribe a given number of years as the term of office of a territorial judge, we do not perceive why it cannot provide that his appoint­ment shall be subject to the condition that he may be sus­pended by the president until the end of the next session of the senate, and displaced altogether by the appointment of some one in his place, by and with the advice and con­sent of that body. The principles of life tenure and good behavior established for judges of courts in which the con­stitution vests the judicial power of the United States, “to be exercised in correlation with the presence and ju­risdiction of the several state courts and governments,” has no application to courts that are incapable of receiving the judicial power conferred by the constitution, and which cease to exist, as territorial or legislative courts, when the territory becomes a state.</p>
+                <p pgmap="217" id="b217-4">Judge McAllister claims the salary appertaining to the office of judge of the district court for Alaska from the date he was suspended until Dawson was commissioned under an appointment made with the advice and consent of the senate. The statute expressly forbids the allowance of this claim; for it provides that the officer who may be suspended, in virtue of its provisions, shall not, during the suspension, receive the salary, but that the salary and the emoluments of the office shall belong to the person per­forming in his stead the duties of the office. Judge Mc-­Allister accepted the office in question subject to the pro­visions of section 1768, because, not being inconsistent with, it was not repealed by, the Alaska act; and as there is no ground for holding the statute to be invalid, and as his office was not of the class excepted from the operation of its provisions, there is no foundation for his claim to the salary.</p>
+                <p pgmap="217(81) 218(57)" id="b217-5">It is insisted that the appellant is entitled to claim at least the salary from the end of the session of the senate, August 7, 1886, until September 3, 1886, on which day Dawson took the oath of office under his commission of date August 2, 1886. This contention rests upon the ground that Dawson’s authority to act as judge under his appointment in place of Dawne, suspended, ceased when the senate closed its session of 1885-86. It is a sufficier-­answer to this suggestion to say that when the senate confirmed the nomination of Dawson, — which must have been prior to August 2, 1886, — and his commission was signed and sealed, the suspension of Judge McAllister became permanent. If the senate had adjourned without acting upon that nomination a different question would have been presented.</p>
+                <p pgmap="218" id="b218-4">The judgment of the court of claims, dismissing the pe­tition, (22 Ct.Cl. 318), is affirmed.</p>
+                <footnote label="1">
+                  <p pgmap="212" id="b212-4">1 Orleans, (1804,) 2 St. p. 284, c. 38, § 5; Iowa, (1838,) 5 St. p. 238, c. 96, § 9; Minnesota, (1849,) 9 St. p. 406, c. 121, § 9; New Mexico, (1850,) 9 St. p. 449, c. 49, § 10; Utah, (1850,) 9 St. p. 455, c. 51, § 9; Colorado, (1861,) 12 St. p. 174, c. 59, § 9; Nevada, (1861,) 12 St. p. 212, c. 83, § 9; Dakota, (1861,) 12 St. p. 241, c. 86, § 9; and Arizona, (1863,) 12 St. p. 665, c. 56, § 2.</p>
+                </footnote>
+                <footnote label="2">
+                  <p pgmap="212" id="b212-5">2 Missouri, (1812,) 2 St. p. 746, c. 95, § 10; Arkansas, (1819,) 3 St. р. 495, c. 49, § 7; Florida, (1822,) 3 St. p. 657, c. 13, § 8; Oregon, (1848,) 9 St. p. 326, c. 177, § 9; Washington, (1853,) 10 St. p. 175, c. 90, § 9; Nebraska, (1854,) 10 St. p. 280, c. 59, § 9; Kansas, (1854,) 10 St. p. 286, c. 59, § 27; Idaho, (1863,) 12 St. p. 811, c. 117, § 9; Mon­tana, (1864,) 13 St. p. 88, c. 95, § 9; Wyoming, (1868,) 15 St. p. 180, с. 235, § 9; Oklahoma, (1890,) 26 St. p. 85, c. 182, § 9.</p>
+                </footnote>
+                <footnote label="3">
+                  <p pgmap="212" id="b212-8">3 North-West Territory, (1789,) 1 St. p. 51, note a; Mississippi, (1798,) 1 St. p. 550, c. 28, § 3; Indiana, (1800,) 2 St. p. 59, c. 41, § 2; Michigan, (1805,) 2 St. p. 309, c. 5, § 2; Illinois, (1809,) 2 St. p. 514, c. 13, § 2; Alabama, (1817,) 3 St. p. 372, c. 59, § 2; Wisconsin, (1836,) 5 St. p. 13, c. 54, § 9.</p>
+                </footnote>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="218" id="b218-5">Mr. Justice .Field</author>
+                <p pgmap="218" id="ASC">(dissenting.) I am unable to agree with the majority of the court in the judgment in this case, or in the reasoning upon which that judgment is reached; and I will state briefly the grounds of my con­clusion.</p>
+                <p pgmap="218(279) 219(89)" id="b218-6">On the 5th of July, 1884, the appellant, Mr. McAllister, was appointed by the president, “by and with the advice and consent of the senate, district judge for the district of Alaska, to execute and fulfill the duties of that office according to the constitution and laws of the United States, and to have and hold the said office with all the powers, privileges, and emoluments of the same of right appertain­ing,” for the term of four years from that date, and-until his successor should be .appointed and qualified, subject to the conditions prescribed by law. The office to which the appellant was thus appointed was one of great power and responsibility. The district court over which he was to preside was invested not only with the civil and crimi­nal jurisdiction usually exercised by the district courts of the United States, but also with the jurisdiction in such cases exercised by the circuit courts of the United States. 23 St. c. 53, §§ 3, 9. The duties which devolved upon him, therefore, required qualities of a high order. It is not even suggested that he did not possess them. He took the oath of office on the 23d of August following the ap­pointment, and entered upon its duties, which he discharged until the 28th of August, 1885. During this period no complaint was made of his want of ability as a judge, or of official integrity, or of the manner in which he per­formed his duties. But on the 21st of July, 1885, and, so far as appears by the record, without notice to him, or any complaint being made against him, and without any indication of what was forthcoming, he was summarily suspended from his office by the president, in the follow­ing notice: “Executive Mansion, Washington, D. C, July 21, 1885. Sir: You are hereby suspended from the of­fice of district judge for the district of Alaska, in accord­ance with the terms of section 1768 of the Revised Stat­utes of the United States, and subject to all provisions of law applicable thereto. Grover Cleveland. To the Hon. Ward McAllister, Jr., district judge for the district of Alaska, Sitka, Alaska.”</p>
+                <p pgmap="219(336) 220(12)" id="b219-4">It was the president’s will that this incumbent should cease to act; and, so far as the record discloses, that was all there was of it. His will was deemed sufficient, in his estimate of the law, to take a judicial officer charged with the great duties mentioned, a judge of a court of record created by the United States, from the exercise of his judicial functions. On the same day he proceeded to fill the office by the appointment of Edward J. Dawne, of Oregon, to discharge its duties until the end of the next session of the senate. There have been several instances where the power to remove a judicial officer of a court of the United States in one of the territories has been ex­ercised by the president; but the legal right to do so has never been brought directly to the test of judicial decision in this court. The two cases which presented the question are U. S. v. Guthrie, 17 How. 284, and U. S. v. Fisher, 109 U.S. 143, 3 S.Ct. 154, but they went off on other grounds. In the first case, the chief justice of Minnesota territory had been removed before his term of office had expired. Two years afterwards he applied for a manda­mus against the secretary of the treasury to require him to pay his salary. This was refused, as there had been no appropriation to pay the claim. In the second case, the claimant had been chief justice of Wyoming territory. At the time of appointment his salary was $3,000 per an­num, which was subsequently reduced to $2,600. He brought suit for the difference; but he had accepted the reduced salary in full compensation for his services, and on this ground his suit failed. My objection to the power exercised by the president in this case arises from the nature of the judicial office, when held by a judge of a court of record, and from its conflict with the tenure of the office conferred by the law under which the appellant was appointed.</p>
+                <p pgmap="220(391) 221(390)" id="b220-4">1. The idea essentially appertaining to and involved in the judicial office is that its exercise must be free from restraint, without apprehension of removal or suspension or other punishment for the honest and fearless discharge of its functions within the sphere of the jurisdiction as­signed to it. No one, in my judgment, under our system of law, can be appointed a judge of a court of record, having jurisdiction of civil and criminal cases, to hold the office at the pleasure and will of another. No such doctrine has been maintained in England since the statute of 13 Wm. III. c. 2, “for the further limitation of the crown, and better securing of the rights and liberties of the subject,” passed in 1700, one of the great acts which followed the revolution of 1688. Previously to that pe­riod most of the judges of the higher courts held their offices during the pleasure of the crown. Although in some instances their commissions were issued to them during good behavior, yet it was within the power of the crown to prescribe the tenure of the office. This power exerted a most baleful influence upon the administration of justice, destructive of private rights, and subversive of the liber­ties of the subject. In political accusations, to use the lan­guage of Mr. Justice Story, it must often have produced, what the history of the times shows actually occurred, “the most disgraceful compliances with the wishes of the crown, and the most humiliating surrender of the rights of the accused.” 2 Story, Const. § 608. DeLolme, in his History of the English Constitution, states that be­fore the year 1688 subserviency to the crown was so gen­eral in state prosecutions that it ceased almost to attract public indignation. After the statute of 13 Wm. III., which Chancellor Kent speaks of as in the nature of a fundamental charter, imposing limitations upon the crown and adding fresh securities to the rights and liberties of the subject, commissions to_ judges of the courts of record could no longer be held at the pleasure of the crown, du­rante beneplácito, but they continued during the good be­havior of the judges, quamdiu bene se gesserit. They were only removable afterwards by the king, upon the address of both houses of parliament, although their commissions expired with the death of the reigning monarch. This latter condition was changed by the act of 1 Geo. III., so that thereafter their commissions should not then ex­pire, and that full salaries should be secured during their continuance.. This change was produced upon the special recommendation of the king, who on that occasion made a declaration, which Story says is worthy of perpetual re­membrance, that “he looked upon the independence and uprightness of the judges as essential to the impartial ad­ministration of justice as one of the best securities of the rights and liberties of his subjects, and as most conducive to the honor of the crown.” 2 Story, Const. § 1608. Since that period no judge of a court of record in Eng­land except the lord chancellor (and of this exception we will presently speak) could be removed or suspended from his office by the crown except upon the address of both houses of parliament, a limitation upon the exercise of the power which always secures to the accused a notice of the grounds of complaint,, and a hearing upon their truth and sufficiency. This condition of permanency dur­ing good behavior in the office of judges of the courts of record is now a part of the settled public law of Eng­land. The great statutes referred to were passed long before our Revolution, and qualified the existing law of the English kingdom and its dependencies as to the condi­tions upon which the judicial office in courts of record could be held. The law thus modified then constituted a part of the public or common law of this country. Who­ever is here clothed with a judicial office, which empow­ers him to judge in any case affecting the life, liberty, or property of the citizen, cannot be restrained from the fearless exercise of its duties by any apprehension of removal or suspension, in case he should come athwart the will or pleasure of the appointing power.. I cannot believe that under our constitution and system of govern­ment any judicial officer invested with these great re­sponsibilities can hold his office subject to such arbitrary conditions. In my judgment good behavior during the term of his appointment is the only lawful and constitu­tional condition to the retention of his office.</p>
+                <p pgmap="221(18) 222(230)" id="b221-4">The tenure of the lord chancellor’s office is somewhat different; and, though dependent more or less on the pleasure of the crown as to the duration of his term, he is secured absolute independence in his judicial duties. Originally the lord chancellor was an ecclesiastic, the keep­er of the king’s conscience, and exercised power in his name, chiefly in ecclesiastical matters. When the neces­sity of his being an ecclesiastic was changed, he was the king’s counselor, as before, .and is now a member of his cabinet, and generally retires from office with his asso­ciates upon the change in his party’s ascendancy. He has both a political and judicial character, participating in the public measures of government and performing judicial functions in the court of chancery and in the house of lords when sitting as a court of appeals. But no inter­ference is ever attempted, or would be tolerated, with his independence as a judicial officer, by reason of the political functions which he also discharges. The public sense of the necessity of such independence now prevailing in Eng­land is as powerful as the most positive enactment. There is no such union of political and judicial functions in any officer in this country, and the relation of the chancellor in England to the government in no respect affects the im­portance of an independent tenure of office by judges of courts of record in this country during the prescribed pe­riod of their terms.</p>
+                <p pgmap="222(170) 223(408)" id="b222-4">Whenever this principle has been disregarded it has aroused deep and general indignation. Among the repeat­ed injuries and usurpations of the king of Great Britain, which our fathers declared just ground for separation from the mother country, was that he had “made judges dependent upon his will alone for the tenure of their office and the amount and payment of their salaries.” This was one of the wrongs which our fathers submitted to “a can­did world” as justifying the people of the United States in withdrawing from the English nation and establishing for themselves a new form of government. When the constitution of the United States was framed, the conven­tion took special care to prevent the possibility of the com­mission of such a wrong, under the new government to be created, by embodying in that instrument the declaration that “the judges, both of the supreme and inferior courts, shall hold their offices during good behavior, and shall, at stated times, receive for their services a compensation, which shall not be diminished during their continuance in office.” Article 3, § 1. This provision was only the ex­pression of a principle that had become the established law of all English-speaking people. When the constitution was under discussion before the country previous to its adoption this article received special attention. The writ­ers of the Federalist published several articles on the sub­ject, which were widely read and discussed. One of them, No. 78, written by Mr. Hamilton, is directed especially to the tenure of office of the judges. He says: “The stand­ard of good behavior for the continuance in office of the judicial magistracy is certainly one of the most valuable of the modern improvements in the practice of government. In a monarchy, it is an excellent barrier to the despotism of the prince; in a republic, it is a no less excellent bar­rier to the encroachments and oppressions of the represen­tative body. • And it is the best expedient which can be de­vised in any government to secure a steady, upright, and impartial administration of the laws.” And again, after stating that the judiciary is the weakest of the three de­partments of the government, and that though oppression may now and then proceed from the courts of justice, he says: “The general liberty of the people can never be en­dangered from that quarter; I mean so long as the ju­diciary remains truly distinct from both the legislative and the executive. For I agree that ‘there is no liberty, if the power of judging be not separated from the legis­lative and executive powers.’ And it proves, in the last place, that as liberty can have nothing to fear from the judiciary alone, but would have everything to fear from its union with either of the other departments; that as all the effects of such union must ensue from a dependence of the former on the latter, notwithstanding a nominal and apparent separation; that as, from the natural feeble­ness of the judiciary, it is in continual jeopardy of being overpowered, awed, or influenced by its co-ordinate branch­es; and that as nothing can contribute so' much to its firmness and independence as permanency in office, — this quality may therefore be justly regarded as an indispensa­ble ingredient in its constitution, and, in a great measure, as the citadel of the public justice and the public security.”</p>
+                <p pgmap="224(408) 225(297)" id="b224-2">It is contended that, because courts established in the territories are not the courts to which the constitution has reference, they are not therefore courts of the United States in any sense, and that their judges are bereft of that independence which is deemed so essential in the judges of the courts under the constitution. But it seems to me that in this contention the character of the judicial office is entirely overlooked. The courts for the territories, though not permanent like the courts referred to in the constitution, are courts of the United States. They are created by the laws of the United States, and are designed to give that security and protection in the enforcement of the private rights of the inhabitants ° of the territories which the courts in the states are empowered to give to their citizens, beside exercising some of the powers of the federal courts. Their judges are appointed by the same authority, by the president, — by and with the advice and consent of the senate, — and are secured their com­pensation from the treasury of the United States. They enforce the laws of the United States, and from their judgment and decree an appeal lies to this court. Although differing in the period prescribed for their terms, they are clothed with many of the powers and perform many of the duties which the judges of the United States ap­pointed within the states perform there. The same learn­ing, integrity, and ability are required of them; the same necessity for independence and freedom from apprehen­sion of executive or legislative interference with the per­formance of their duties exists with reference to them as exists with reference to all judges appointed under the constitution. It is true that in many cases the two kinds of courts, those existing in the states created under the constitution and those created by congress and existing in the territories, are mentioned, and they are distinguished. Thus in Insurance Co. v. Canter, 1 Pet. 511, Chief Justice Marshall, speaking of the courts of the territory of Flori­da, says: “They are not ‘constitutional courts,’ but are ‘legislative courts,’ created in virtue of the general right oh sovereignty which exists in the government, or in vir­tue of that clause which enables congress to make all need­ful rules and regulations, respecting the territory belonging to the United States.” All this decision affirms is that the judges of those courts do not derive their existence from the constitution, for if they did they would hold their office during good behavior for life, and the term of it could not be otherwise limited by congress. Similar language is also found in other cases, some of which are cited in the opinion of the court; but this does not show that they are not courts of the United States, though creat­ed for the territories. The fact that they exercise a pecu­liar jurisdiction, and are created for the territories, does not change their character as courts of the United States. In Hunt v. Palao, 4 How. 589, a judgment had been ren­dered in the court of appeals of the territory of Florida, in the year 1844. After Florida became a state, its leg­islature ordered the records of that court to be transferred to the custody of the clerk of the supreme court of the state. Speaking of this subject, Chief Justice Taney said: “The territorial court of appeals was a court of the Unit­ed States, and the control of its records therefore belongs to the general government, and not to the state authorities; and it rests with congress to declare to what tribunal these records and proceedings shall be transferred, and how these judgments shall be carried into execution, or reviewed up­on appeal or writ of error.” When a territory becomes a state, the records of the courts of the territory are trans­ferred to the new state courts and to the federal courts, respectively; the judicial proceedings existing in the courts of the territory being continued by federal law in the re­spective state and federal courts, according to the questions involved and the citizenship of the parties.</p>
+                <p pgmap="225(133) 226(28)" id="b225-4">2. But, assuming that judicial offices in the territories may be held subject to the will of the creating power,— that is, assuming that congress may provide that the in­cumbent may be removed or suspended from his office dur­ing the prescribed term at the pleasure of the president,— the statute creating the office of district judge of Alaska, and prescribing his term, has not attached to it any such conditions. It declares that the district judge shall hold his office for the term of four years, and until his success- or is appointed and qualified. To assert that the president can remove the incumbent, or suspend him from his of­fice, without the direction or permission of congress, is to affirm that he is superior in that respect, and may disre­gard its enactments at pleasure; and more, it is to affirm that congress cannot prescribe the term of an office created by it, which no one would pretend.</p>
+                <p pgmap="226" id="b226-4">The president placed the authority which he assumed to exercise in suspending the appellant from his office up­on section 1768 of the Revised Statutes. The part of that section upon which reliance is had is as follows: “Sec. 1768. During any recess of the senate the president is authorized, in his discretion, to suspend any civil officer appointed by and with the advice and consent of the senate, except judges of the courts of the United States, until the end of the next session of the senate, and to designate some suitable person, subject to be removed, in his dis­cretion, by the designation of another, to perform the duties of such suspended officer in the mean time; and the person so designated shall take the oath and give the bond required by law to be taken and given by the suspended officer, and shall, during the time he performs the duties of such officer, be entitled to the salary and emoluments of the office, no part of which shall belong to the officer suspended.” I do not understand how the language in this section, “except judges of the courts of the United States,” can be construed to apply only to judges of courts created under the constitution. Why should the excep­tion, if thus limited, have been inserted at all? It is not pretended, and never has been, that such judges could be suspended or removed by the president. It is very plain to me that it was intended to meet the position, which had been advanced in some quarters, that judges of the courts of the United States in the territories were subject to be removed or suspended by the president equally with other officers. Otherwise there is no assignable cause for its in­sertion.</p>
+                <p pgmap="226(76) 227(27)" id="b226-5">For these reasons, therefore, — First, that the judicial office in question was to be held by the incumbent during good behavior, for the term prescribed; and, second, that section 1768, upon which the suspension was founded, ex­pressly excepts the judges of the courts of the United States from suspension by the president, and that excep­tion includes all judges of all courts established under the laws of the United States, whether those courts per­form their judicial duties within the states or within the territories, — I dissent from the judgment of the majority of the court in this case. ¡</p>
+                <p pgmap="227" id="b227-4">I am authorized to state that Mr. Justice Gray and Mr. Justice Brown concur in this dissent.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="201" ORDERLABEL="189" TYPE="page">
+        <fptr FILEID="tiff_00101_0"/>
+        <fptr FILEID="jpg_00101_0"/>
+        <fptr FILEID="alto_00101_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_201.2" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="202" ORDERLABEL="190" TYPE="page">
+        <fptr FILEID="tiff_00101_1"/>
+        <fptr FILEID="jpg_00101_1"/>
+        <fptr FILEID="alto_00101_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_202.2" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="203" ORDERLABEL="191" TYPE="page">
+        <fptr FILEID="tiff_00102_0"/>
+        <fptr FILEID="jpg_00102_0"/>
+        <fptr FILEID="alto_00102_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_203.3" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="204" ORDERLABEL="192" TYPE="page">
+        <fptr FILEID="tiff_00102_1"/>
+        <fptr FILEID="jpg_00102_1"/>
+        <fptr FILEID="alto_00102_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_204.2" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="205" ORDERLABEL="193" TYPE="page">
+        <fptr FILEID="tiff_00103_0"/>
+        <fptr FILEID="jpg_00103_0"/>
+        <fptr FILEID="alto_00103_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_205.3" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="206" ORDERLABEL="194" TYPE="page">
+        <fptr FILEID="tiff_00103_1"/>
+        <fptr FILEID="jpg_00103_1"/>
+        <fptr FILEID="alto_00103_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_206.2" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="207" ORDERLABEL="195" TYPE="page">
+        <fptr FILEID="tiff_00104_0"/>
+        <fptr FILEID="jpg_00104_0"/>
+        <fptr FILEID="alto_00104_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_207.2" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="208" ORDERLABEL="196" TYPE="page">
+        <fptr FILEID="tiff_00104_1"/>
+        <fptr FILEID="jpg_00104_1"/>
+        <fptr FILEID="alto_00104_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_208.2" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="209" ORDERLABEL="197" TYPE="page">
+        <fptr FILEID="tiff_00105_0"/>
+        <fptr FILEID="jpg_00105_0"/>
+        <fptr FILEID="alto_00105_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_209.3" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="210" ORDERLABEL="198" TYPE="page">
+        <fptr FILEID="tiff_00105_1"/>
+        <fptr FILEID="jpg_00105_1"/>
+        <fptr FILEID="alto_00105_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_210.2" BETYPE="IDREF" FILEID="alto_00105_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="211" ORDERLABEL="199" TYPE="page">
+        <fptr FILEID="tiff_00106_0"/>
+        <fptr FILEID="jpg_00106_0"/>
+        <fptr FILEID="alto_00106_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_211.2" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="212" ORDERLABEL="200" TYPE="page">
+        <fptr FILEID="tiff_00106_1"/>
+        <fptr FILEID="jpg_00106_1"/>
+        <fptr FILEID="alto_00106_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_212.2" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="213" ORDERLABEL="201" TYPE="page">
+        <fptr FILEID="tiff_00107_0"/>
+        <fptr FILEID="jpg_00107_0"/>
+        <fptr FILEID="alto_00107_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_213.3" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="214" ORDERLABEL="202" TYPE="page">
+        <fptr FILEID="tiff_00107_1"/>
+        <fptr FILEID="jpg_00107_1"/>
+        <fptr FILEID="alto_00107_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_214.2" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="215" ORDERLABEL="203" TYPE="page">
+        <fptr FILEID="tiff_00108_0"/>
+        <fptr FILEID="jpg_00108_0"/>
+        <fptr FILEID="alto_00108_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_215.3" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="216" ORDERLABEL="204" TYPE="page">
+        <fptr FILEID="tiff_00108_1"/>
+        <fptr FILEID="jpg_00108_1"/>
+        <fptr FILEID="alto_00108_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_216.2" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="217" ORDERLABEL="205" TYPE="page">
+        <fptr FILEID="tiff_00109_0"/>
+        <fptr FILEID="jpg_00109_0"/>
+        <fptr FILEID="alto_00109_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_217.3" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="218" ORDERLABEL="206" TYPE="page">
+        <fptr FILEID="tiff_00109_1"/>
+        <fptr FILEID="jpg_00109_1"/>
+        <fptr FILEID="alto_00109_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_218.2" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="219" ORDERLABEL="207" TYPE="page">
+        <fptr FILEID="tiff_00110_0"/>
+        <fptr FILEID="jpg_00110_0"/>
+        <fptr FILEID="alto_00110_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_219.3" BETYPE="IDREF" FILEID="alto_00110_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="220" ORDERLABEL="208" TYPE="page">
+        <fptr FILEID="tiff_00110_1"/>
+        <fptr FILEID="jpg_00110_1"/>
+        <fptr FILEID="alto_00110_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_220.2" BETYPE="IDREF" FILEID="alto_00110_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="221" ORDERLABEL="209" TYPE="page">
+        <fptr FILEID="tiff_00111_0"/>
+        <fptr FILEID="jpg_00111_0"/>
+        <fptr FILEID="alto_00111_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_221.3" BETYPE="IDREF" FILEID="alto_00111_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="222" ORDERLABEL="210" TYPE="page">
+        <fptr FILEID="tiff_00111_1"/>
+        <fptr FILEID="jpg_00111_1"/>
+        <fptr FILEID="alto_00111_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_222.2" BETYPE="IDREF" FILEID="alto_00111_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="223" ORDERLABEL="211" TYPE="page">
+        <fptr FILEID="tiff_00112_0"/>
+        <fptr FILEID="jpg_00112_0"/>
+        <fptr FILEID="alto_00112_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_223.3" BETYPE="IDREF" FILEID="alto_00112_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="224" ORDERLABEL="212" TYPE="page">
+        <fptr FILEID="tiff_00112_1"/>
+        <fptr FILEID="jpg_00112_1"/>
+        <fptr FILEID="alto_00112_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_224.1" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="225" ORDERLABEL="213" TYPE="page">
+        <fptr FILEID="tiff_00113_0"/>
+        <fptr FILEID="jpg_00113_0"/>
+        <fptr FILEID="alto_00113_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_225.3" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="226" ORDERLABEL="214" TYPE="page">
+        <fptr FILEID="tiff_00113_1"/>
+        <fptr FILEID="jpg_00113_1"/>
+        <fptr FILEID="alto_00113_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_226.2" BETYPE="IDREF" FILEID="alto_00113_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="227" ORDERLABEL="215" TYPE="page">
+        <fptr FILEID="tiff_00114_0"/>
+        <fptr FILEID="jpg_00114_0"/>
+        <fptr FILEID="alto_00114_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_227.3" BETYPE="IDREF" FILEID="alto_00114_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.4" BETYPE="IDREF" FILEID="alto_00110_1"/>
+            <area BEGIN="BL_221.1" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-3" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.4" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.6" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            <area BEGIN="BL_212.1" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            <area BEGIN="BL_213.1" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.5" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-6" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.8" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            <area BEGIN="BL_219.1" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.5" BETYPE="IDREF" FILEID="alto_00113_1"/>
+            <area BEGIN="BL_227.1" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-8" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.8" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-9" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.11" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            <area BEGIN="BL_204.1" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-8" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.8" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-9" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.9" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-7" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.7" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.5" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            <area BEGIN="BL_208.1" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-3" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.4" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.4" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.4" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.4" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            <area BEGIN="BL_216.1" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.4" BETYPE="IDREF" FILEID="alto_00111_1"/>
+            <area BEGIN="BL_223.1" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.4" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            <area BEGIN="BL_226.1" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.4" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            <area BEGIN="BL_214.1" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.4" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.5" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.5" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            <area BEGIN="BL_207.1" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.4" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-6" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.5" BETYPE="IDREF" FILEID="alto_00105_1"/>
+            <area BEGIN="BL_211.1" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-11" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.11" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.4" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            <area BEGIN="BL_209.1" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.4" BETYPE="IDREF" FILEID="alto_00111_0"/>
+            <area BEGIN="BL_222.1" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-8" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.6" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.5" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-2" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.3" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            <area BEGIN="BL_225.1" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Am" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.9" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            <area BEGIN="BL_203.10" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-10" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.10" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASC" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.6" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            <area BEGIN="BL_218.7" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AF" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.4" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            <area BEGIN="BL_210.1" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.4" BETYPE="IDREF" FILEID="alto_00110_0"/>
+            <area BEGIN="BL_220.1" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.5" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            <area BEGIN="BL_218.1" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.4" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-3" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.4" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.4" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            <area BEGIN="BL_217.1" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.4" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.4" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            <area BEGIN="BL_215.1" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.5" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.4" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-7" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.7" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            <area BEGIN="BL_205.1" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-6" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.6" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.4" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.5" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            <area BEGIN="BL_206.1" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

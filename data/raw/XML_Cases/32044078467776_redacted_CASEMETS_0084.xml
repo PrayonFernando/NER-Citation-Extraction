@@ -1,0 +1,350 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0084" publicationstatus="published">
+          <court abbreviation="D. Wash." jurisdiction="United States">United States District Court for the District of Washington</court>
+          <name abbreviation="Lewis v. Johnson">LEWIS et al. v. JOHNSON</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 559</citation>
+          <citation category="parallel" type="bluebook">90 F. 673</citation>
+          <decisiondate>1898-12-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:09Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00286_0" MIMETYPE="image/tiff" CHECKSUM="d4289e5e26d74d3879c216e8d6ab040c" CHECKSUMTYPE="MD5" SIZE="40644">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00286_0.tif"/>
+      </file>
+      <file ID="tiff_00286_1" MIMETYPE="image/tiff" CHECKSUM="f14f05939f72f75877ef868559a108f0" CHECKSUMTYPE="MD5" SIZE="37502">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00286_1.tif"/>
+      </file>
+      <file ID="tiff_00287_0" MIMETYPE="image/tiff" CHECKSUM="bc2783570b63de0098bb2b48f9f940b7" CHECKSUMTYPE="MD5" SIZE="55592">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00287_0.tif"/>
+      </file>
+      <file ID="tiff_00287_1" MIMETYPE="image/tiff" CHECKSUM="7cd86e43fe8e6d171da4d2d7508f293b" CHECKSUMTYPE="MD5" SIZE="46634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00287_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00286_0" MIMETYPE="image/jpg" CHECKSUM="ced6fd60c85840b5fc6c568e1ed3fc0f" CHECKSUMTYPE="MD5" SIZE="158612">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00286_0.jpg"/>
+      </file>
+      <file ID="jpg_00286_1" MIMETYPE="image/jpg" CHECKSUM="c27d00103c3e39f6e95f5d1e87ecef0c" CHECKSUMTYPE="MD5" SIZE="162118">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00286_1.jpg"/>
+      </file>
+      <file ID="jpg_00287_0" MIMETYPE="image/jpg" CHECKSUM="3e3f9f0776799531d8a58d811264dddd" CHECKSUMTYPE="MD5" SIZE="200163">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00287_0.jpg"/>
+      </file>
+      <file ID="jpg_00287_1" MIMETYPE="image/jpg" CHECKSUM="7997dd4e981b8fddcf1cd1d91c40bae4" CHECKSUMTYPE="MD5" SIZE="182605">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00287_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00286_0" MIMETYPE="text/xml+gzip" CHECKSUM="d4848c16cf22892508853d7a4df6783c" CHECKSUMTYPE="MD5" SIZE="10747">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00286_0.xml.gz"/>
+      </file>
+      <file ID="alto_00286_1" MIMETYPE="text/xml+gzip" CHECKSUM="2ad59862e8118fba2295b5d58496e558" CHECKSUMTYPE="MD5" SIZE="9397">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00286_1.xml.gz"/>
+      </file>
+      <file ID="alto_00287_0" MIMETYPE="text/xml+gzip" CHECKSUM="d84b3c5000646c8c2fa41c5f38b7ea16" CHECKSUMTYPE="MD5" SIZE="13100">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00287_0.xml.gz"/>
+      </file>
+      <file ID="alto_00287_1" MIMETYPE="text/xml+gzip" CHECKSUM="6a45d420c0c25a6a08ad3b65b7e5841e" CHECKSUMTYPE="MD5" SIZE="11597">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00287_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0084" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="559" lastpage="562">
+              <court pgmap="571" id="b571-8">Circuit Court, D. Washington, N. D.</court>
+              <citation pgmap="571" id="b571-6">90 F. 673</citation>
+              <parties pgmap="571" id="b571-7">LEWIS et al. v. JOHNSON.</parties>
+              <decisiondate pgmap="571" id="b571-9">Dec. 1, 1898.</decisiondate>
+              <attorneys pgmap="572" id="b572-4">George E. Wright and R. F. Lewis, for complainants.</attorneys>
+              <attorneys pgmap="572" id="b572-5">S. H. Piles, for defendant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="572" id="b572-6">HANFORD, District Judge.</author>
+                <p pgmap="572(267) 573(414) 574(310)" id="AZNo">This suit was commenced in the United States district court for Alaska, and was pending therein when Hon. C. S. Johnson became judge of that court. Judge Johnson was an attorney for the complainants until a short time before his induction into office, when, by an order of the court, he was permitted to withdraw from all cases in which he appeared as an attorney. He is the sole judge of the only court in Alaska having jurisdiction of the con­troversy. The complainants finding themselves in the pre­dicament of having a case in a court the judge of which is disqualified to hear and decide it, they sought to obtain relief by moving to transfer it to this court, under the provi­sions of sections 601 (28 U.S.C.A. § 24, and note), 637, Rev.St.U.S. These statutes provide, in effect, that when­ever the judge of any district court is interested in any suit pending therein, or has been of counsel for either party, or is related to or connected with either party, it shall be his duty, on application of either party, to cause the fact to be entered on the records of the court, and to order that an authenticated copy of the record “be forthwith certified to the next circuit court for the district; and if there be no circuit court therein, to the next circuit court in the state; and if there be no circuit court in the state, to the next convenient circuit court in an adjoining state; and the circuit court shall, upon the filing of such record with its clerk, take cognizance of and proceed to hear the case, in like manner as if it had originally and rightfully been com­menced therein.” Upon a hearing, the district court for Alaska granted the motion, and caused the record to be made and the cause certified to this court in accordance with the statute. A certified transcript of the order trans­ferring the case, together with what appears to be the orig­inal papers, has been certified to this court, the cause has been docketed, the complainants have entered a general ap­pearance by their attorneys, and the defendant has ap­peared specially by his attorney, and filed objections to any proceedings in this court, on the ground that the court has not jurisdiction of the parties or the controversy. This court cannot take jurisdiction of the cause merely for the sake of accommodating the parties. Unless all the condi­tions necessary to bring the case within the terms of an act of congress conferring jurisdiction upon the court exist, the court is without power to proceed. Sections 601 and 637 have reference to district courts and circuit courts, within the states of the Union, organized under laws enacted pur­suant to the judiciary article of our national constitution, and those sections do not comprehend legislative courts, organized within the territories belonging to the United States'1 under laws enacted by congress providing forms of government for such territories. The character of the dis­trict court for Alaska, and its relationship to our national judiciary system, is defined in the decisions of the supreme court in McAllister v. U. S., 141 U.S. 174-201, 11 S.Ct. 949; In re Cooper, 143 U.S. 472-513, 12 S.Ct. 453; The Coquitlam v. U. S., 163 U.S. 346-353, 16 S.Ct. 1117. Al­though said court is not a district court, comprehended within the statutes above referred to, still the law under which it was organized confers upon it all the powers of constitutional district courts. See the act entitled “An act providing a civil government for Alaska,” approved May 17, 1884 (1 Supp.Rev.St.U.S.[2d Ed.] p. 431). The lan­guage of the statute defining the jurisdiction is broad and comprehensive, and I should have no difficulty in holding that, under the circumstances described, that court could transfer a case to this court, if this were a circuit court in an adjoining state. It is to be observed that section 601 does not authorize the transfer of a case from a district court into any circuit court, or into the most conveniently situated circuit court. The only circuit court authorized to take jurisdiction is a circuit court of the same district; or, if there be no such circuit court, then a circuit court in the same state; or, if there be no circuit court in the same state, then “the next convenient circuit court in an adjoin­ing state.” ' There is no state adjoining the district of Alaska. The state of Washington is the nearest in prox­imity to Alaska of any state in the Union, but between it and Alaska there intervenes a strip of foreign territory sev­eral hundred miles in width. It is not permissible for courts, in deciding questions as to their own jurisdiction, to give to a word in the law defining its jurisdiction a meaning more expansive than its usual and ordinarily understood definition, so as to assume a-wider range of jurisdiction. On the contrary, the rule of strict construction must be ap­plied. Congress might have authorized the transfer of a cause from the district court to the circuit court most con­venient for the parties to attend, or it could have directed the transfer to be made to a circuit court in a neighboring state; but, instead of doing so, it has prescribed the rule that, if there be no circuit court within the state, the trans­fer must be made to a circuit court which must be not only convenient, but in an adjoining state. This means á state having a common boundary line with the district from which the case is to be transferred. The definition of the word “adjoining” is to lie or be next to or in contact. Webst. Diet.; Crabbe, Eng. Synonyms; Fernald, Eng. Synonyms; 1 Am. &amp; Eng.Enc.Law(2d Ed.) 635, note 1, and numerous authorities therein cited.</p>
+                <p pgmap="574" id="b574-4">I am forced to conclude that the transfer of this case from the court in which it was commenced to any other court has not been provided for by law, and that this court is not authorized to exercise jurisdiction, and it will there­fore be ordered that the case be remanded to the United States district court for Alaska.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="571" ORDERLABEL="559" TYPE="page">
+        <fptr FILEID="tiff_00286_0"/>
+        <fptr FILEID="jpg_00286_0"/>
+        <fptr FILEID="alto_00286_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_571.3" BETYPE="IDREF" FILEID="alto_00286_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="572" ORDERLABEL="560" TYPE="page">
+        <fptr FILEID="tiff_00286_1"/>
+        <fptr FILEID="jpg_00286_1"/>
+        <fptr FILEID="alto_00286_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_572.2" BETYPE="IDREF" FILEID="alto_00286_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="573" ORDERLABEL="561" TYPE="page">
+        <fptr FILEID="tiff_00287_0"/>
+        <fptr FILEID="jpg_00287_0"/>
+        <fptr FILEID="alto_00287_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_573.3" BETYPE="IDREF" FILEID="alto_00287_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="574" ORDERLABEL="562" TYPE="page">
+        <fptr FILEID="tiff_00287_1"/>
+        <fptr FILEID="jpg_00287_1"/>
+        <fptr FILEID="alto_00287_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_574.2" BETYPE="IDREF" FILEID="alto_00287_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZNo" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_572.8" BETYPE="IDREF" FILEID="alto_00286_1"/>
+            <area BEGIN="BL_573.1" BETYPE="IDREF" FILEID="alto_00287_0"/>
+            <area BEGIN="BL_574.1" BETYPE="IDREF" FILEID="alto_00287_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b574-4" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_574.4" BETYPE="IDREF" FILEID="alto_00287_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b572-5" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_572.6" BETYPE="IDREF" FILEID="alto_00286_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b572-4" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_572.5" BETYPE="IDREF" FILEID="alto_00286_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b572-6" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_572.7" BETYPE="IDREF" FILEID="alto_00286_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b571-6" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_571.7" BETYPE="IDREF" FILEID="alto_00286_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b571-7" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_571.8" BETYPE="IDREF" FILEID="alto_00286_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b571-8" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_571.9" BETYPE="IDREF" FILEID="alto_00286_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b571-9" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_571.10" BETYPE="IDREF" FILEID="alto_00286_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

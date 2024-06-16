@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0072" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Ebner v. Juneau Mining &amp; Manufacturing Co.">EBNER v. JUNEAU MINING &amp; MANUFACTURING CO. et al.</name>
+          <docketnumber>No. 331</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 498</citation>
+          <citation category="parallel" type="bluebook">79 F. 993</citation>
+          <decisiondate>1897-02-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:06Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00255_1" MIMETYPE="image/tiff" CHECKSUM="3247aa27ab915630204fd6478ec7753c" CHECKSUMTYPE="MD5" SIZE="31918">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00255_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00255_1" MIMETYPE="image/jpg" CHECKSUM="cf7b29109243f9a9dbb9e569bb2705fa" CHECKSUMTYPE="MD5" SIZE="141205">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00255_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00255_1" MIMETYPE="text/xml+gzip" CHECKSUM="042530209a6e7f389780b245908e1757" CHECKSUMTYPE="MD5" SIZE="8039">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00255_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0072" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="498" lastpage="498">
+              <court pgmap="510" id="b510-10">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="510" id="b510-9">No. 331.</docketnumber>
+              <citation pgmap="510" id="b510-7">79 F. 993</citation>
+              <parties pgmap="510" id="b510-8">EBNER v. JUNEAU MINING &amp; MANUFACTURING CO. et al.</parties>
+              <decisiondate pgmap="510" id="b510-11">Feb. 4, 1897.</decisiondate>
+              <attorneys pgmap="510" id="b510-13">William Hoff Cook, for appellant.</attorneys>
+              <attorneys pgmap="510" id="b510-14">Lorenzo S. B. Sawyer, for appellees.</attorneys>
+              <opinion type="majority">
+                <p pgmap="510" id="b510-15">No opinion.</p>
+                <p pgmap="510" id="b510-16">Appeal dismissed on motion of Lorenzo S. B. Sawyer.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="510" ORDERLABEL="498" TYPE="page">
+        <fptr FILEID="tiff_00255_1"/>
+        <fptr FILEID="jpg_00255_1"/>
+        <fptr FILEID="alto_00255_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_510.2" BETYPE="IDREF" FILEID="alto_00255_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-13" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.14" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-7" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.8" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-9" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.10" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-8" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.9" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-11" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.12" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-10" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.11" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-16" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.17" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-15" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.16" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-14" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.15" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

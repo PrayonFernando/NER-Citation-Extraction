@@ -1,0 +1,1174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0093" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Tornanses v. Melsing">TORNANSES v. MELSING et al.; KJELLMAN v. ROGERS</name>
+          <docketnumber>Nos. 634, 636</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 639</citation>
+          <citation category="parallel" type="bluebook">106 F. 775</citation>
+          <decisiondate>1901-02-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:07Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00326_0" MIMETYPE="image/tiff" CHECKSUM="629f17b128f394e20b93330945e03b7b" CHECKSUMTYPE="MD5" SIZE="6260">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00326_0.tif"/>
+      </file>
+      <file ID="tiff_00326_1" MIMETYPE="image/tiff" CHECKSUM="c37273b48358229faaac02036f83e081" CHECKSUMTYPE="MD5" SIZE="5638">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00326_1.tif"/>
+      </file>
+      <file ID="tiff_00327_0" MIMETYPE="image/tiff" CHECKSUM="404f6634f12d2816a390817d10175379" CHECKSUMTYPE="MD5" SIZE="51000">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00327_0.tif"/>
+      </file>
+      <file ID="tiff_00327_1" MIMETYPE="image/tiff" CHECKSUM="7226bd52c427ba75a0bdfb02e8810827" CHECKSUMTYPE="MD5" SIZE="56124">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00327_1.tif"/>
+      </file>
+      <file ID="tiff_00328_0" MIMETYPE="image/tiff" CHECKSUM="afe54b4fa880e17e956803d0027fa67d" CHECKSUMTYPE="MD5" SIZE="53980">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00328_0.tif"/>
+      </file>
+      <file ID="tiff_00328_1" MIMETYPE="image/tiff" CHECKSUM="6789aaf904150e49935b395382ce688a" CHECKSUMTYPE="MD5" SIZE="55564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00328_1.tif"/>
+      </file>
+      <file ID="tiff_00329_0" MIMETYPE="image/tiff" CHECKSUM="0070e5a0727877c10282a3b5e6012235" CHECKSUMTYPE="MD5" SIZE="57056">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00329_0.tif"/>
+      </file>
+      <file ID="tiff_00329_1" MIMETYPE="image/tiff" CHECKSUM="b778d3cd48568f4bfde155911187c3bc" CHECKSUMTYPE="MD5" SIZE="55728">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00329_1.tif"/>
+      </file>
+      <file ID="tiff_00330_0" MIMETYPE="image/tiff" CHECKSUM="6e4dec69aa23c09346bf78f413a22c3c" CHECKSUMTYPE="MD5" SIZE="54798">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00330_0.tif"/>
+      </file>
+      <file ID="tiff_00330_1" MIMETYPE="image/tiff" CHECKSUM="87d77261a5a6f40e965ac3fd51998279" CHECKSUMTYPE="MD5" SIZE="55882">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00330_1.tif"/>
+      </file>
+      <file ID="tiff_00331_0" MIMETYPE="image/tiff" CHECKSUM="ad3a741c8f6259a97f88ad3baba2ba07" CHECKSUMTYPE="MD5" SIZE="56450">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00331_0.tif"/>
+      </file>
+      <file ID="tiff_00331_1" MIMETYPE="image/tiff" CHECKSUM="8e449032224148a8d91c91b01740c94f" CHECKSUMTYPE="MD5" SIZE="52610">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00331_1.tif"/>
+      </file>
+      <file ID="tiff_00332_0" MIMETYPE="image/tiff" CHECKSUM="b36b882864463adaa9b00dafeed0844f" CHECKSUMTYPE="MD5" SIZE="52032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00332_0.tif"/>
+      </file>
+      <file ID="tiff_00332_1" MIMETYPE="image/tiff" CHECKSUM="3c2c4637d2a2f96d8787ff1ac689c29e" CHECKSUMTYPE="MD5" SIZE="56076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00332_1.tif"/>
+      </file>
+      <file ID="tiff_00333_0" MIMETYPE="image/tiff" CHECKSUM="b228430ed8da287ad17399b7f30f6d5a" CHECKSUMTYPE="MD5" SIZE="55630">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00333_0.tif"/>
+      </file>
+      <file ID="tiff_00333_1" MIMETYPE="image/tiff" CHECKSUM="e30fbd40517493d1df4fc448c23df05c" CHECKSUMTYPE="MD5" SIZE="56074">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00333_1.tif"/>
+      </file>
+      <file ID="tiff_00334_0" MIMETYPE="image/tiff" CHECKSUM="c1f32f83df1076bcacee25075be13945" CHECKSUMTYPE="MD5" SIZE="55138">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00334_0.tif"/>
+      </file>
+      <file ID="tiff_00334_1" MIMETYPE="image/tiff" CHECKSUM="96320c24c1309d2b850c5ea2ce852285" CHECKSUMTYPE="MD5" SIZE="55428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00334_1.tif"/>
+      </file>
+      <file ID="tiff_00335_0" MIMETYPE="image/tiff" CHECKSUM="fa0a8635bd257bc1936301ba4a736ed6" CHECKSUMTYPE="MD5" SIZE="54634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00335_0.tif"/>
+      </file>
+      <file ID="tiff_00335_1" MIMETYPE="image/tiff" CHECKSUM="41fc64156106b6dbc7012ffc63e8d616" CHECKSUMTYPE="MD5" SIZE="55586">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00335_1.tif"/>
+      </file>
+      <file ID="tiff_00336_0" MIMETYPE="image/tiff" CHECKSUM="74b41309248ed01d93d79272f004f83d" CHECKSUMTYPE="MD5" SIZE="53966">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00336_0.tif"/>
+      </file>
+      <file ID="tiff_00336_1" MIMETYPE="image/tiff" CHECKSUM="0106c55677a6bac958919fe44b21215f" CHECKSUMTYPE="MD5" SIZE="54740">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00336_1.tif"/>
+      </file>
+      <file ID="tiff_00337_0" MIMETYPE="image/tiff" CHECKSUM="5f9f38d02dcdee56be0c485c9753eddd" CHECKSUMTYPE="MD5" SIZE="56128">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00337_0.tif"/>
+      </file>
+      <file ID="tiff_00337_1" MIMETYPE="image/tiff" CHECKSUM="779e5c947d636d53ed4b363aa0cb809c" CHECKSUMTYPE="MD5" SIZE="50592">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00337_1.tif"/>
+      </file>
+      <file ID="tiff_00338_0" MIMETYPE="image/tiff" CHECKSUM="d328f53e552c52edbcbee38ee4d89a76" CHECKSUMTYPE="MD5" SIZE="22060">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00338_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00326_0" MIMETYPE="image/jpg" CHECKSUM="30151b725d99d33460a3b9ba667984e5" CHECKSUMTYPE="MD5" SIZE="57695">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00326_0.jpg"/>
+      </file>
+      <file ID="jpg_00326_1" MIMETYPE="image/jpg" CHECKSUM="e3951e54a72ea3c1ccc5663d7ca2e984" CHECKSUMTYPE="MD5" SIZE="62129">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00326_1.jpg"/>
+      </file>
+      <file ID="jpg_00327_0" MIMETYPE="image/jpg" CHECKSUM="4ce0bfabbe929a1d2bc3f9b889da146f" CHECKSUMTYPE="MD5" SIZE="193725">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00327_0.jpg"/>
+      </file>
+      <file ID="jpg_00327_1" MIMETYPE="image/jpg" CHECKSUM="b96245a9e681882468dd37efaf5d90cd" CHECKSUMTYPE="MD5" SIZE="211968">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00327_1.jpg"/>
+      </file>
+      <file ID="jpg_00328_0" MIMETYPE="image/jpg" CHECKSUM="6290e398b4517ffb040aab52610f6983" CHECKSUMTYPE="MD5" SIZE="200043">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00328_0.jpg"/>
+      </file>
+      <file ID="jpg_00328_1" MIMETYPE="image/jpg" CHECKSUM="40ef637085c4fa6989829edfcc786acd" CHECKSUMTYPE="MD5" SIZE="218273">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00328_1.jpg"/>
+      </file>
+      <file ID="jpg_00329_0" MIMETYPE="image/jpg" CHECKSUM="61d1a2c51e9b379857fe64718966f62e" CHECKSUMTYPE="MD5" SIZE="205873">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00329_0.jpg"/>
+      </file>
+      <file ID="jpg_00329_1" MIMETYPE="image/jpg" CHECKSUM="c0c38b79c39aa8fee3cb0942da5af4de" CHECKSUMTYPE="MD5" SIZE="211265">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00329_1.jpg"/>
+      </file>
+      <file ID="jpg_00330_0" MIMETYPE="image/jpg" CHECKSUM="d919058f982e5aad10fa673cd9cf173b" CHECKSUMTYPE="MD5" SIZE="200591">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00330_0.jpg"/>
+      </file>
+      <file ID="jpg_00330_1" MIMETYPE="image/jpg" CHECKSUM="d5cc6b1d152dcb7b678032dca608dbec" CHECKSUMTYPE="MD5" SIZE="218236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00330_1.jpg"/>
+      </file>
+      <file ID="jpg_00331_0" MIMETYPE="image/jpg" CHECKSUM="9c7813aa5b66964d599936c05b9e5401" CHECKSUMTYPE="MD5" SIZE="205280">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00331_0.jpg"/>
+      </file>
+      <file ID="jpg_00331_1" MIMETYPE="image/jpg" CHECKSUM="03e5d28460391ce1b3e3d2a450633a1c" CHECKSUMTYPE="MD5" SIZE="205421">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00331_1.jpg"/>
+      </file>
+      <file ID="jpg_00332_0" MIMETYPE="image/jpg" CHECKSUM="6d8744230888585d68586d6a5dc881ae" CHECKSUMTYPE="MD5" SIZE="192403">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00332_0.jpg"/>
+      </file>
+      <file ID="jpg_00332_1" MIMETYPE="image/jpg" CHECKSUM="7ea3a56b04f0955bd7f969572744e895" CHECKSUMTYPE="MD5" SIZE="216728">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00332_1.jpg"/>
+      </file>
+      <file ID="jpg_00333_0" MIMETYPE="image/jpg" CHECKSUM="5f2d8c82f9c2b839470da3924947522c" CHECKSUMTYPE="MD5" SIZE="203645">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00333_0.jpg"/>
+      </file>
+      <file ID="jpg_00333_1" MIMETYPE="image/jpg" CHECKSUM="ca95735750e636973981a33f087e10c7" CHECKSUMTYPE="MD5" SIZE="214567">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00333_1.jpg"/>
+      </file>
+      <file ID="jpg_00334_0" MIMETYPE="image/jpg" CHECKSUM="ca6f6b531d5d7da0872a064d8819a5dd" CHECKSUMTYPE="MD5" SIZE="199619">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00334_0.jpg"/>
+      </file>
+      <file ID="jpg_00334_1" MIMETYPE="image/jpg" CHECKSUM="783ebe40f7eb7bed790d7c2238476732" CHECKSUMTYPE="MD5" SIZE="216595">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00334_1.jpg"/>
+      </file>
+      <file ID="jpg_00335_0" MIMETYPE="image/jpg" CHECKSUM="c4b7d9dce84340af4d20b649c55cd4cf" CHECKSUMTYPE="MD5" SIZE="201232">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00335_0.jpg"/>
+      </file>
+      <file ID="jpg_00335_1" MIMETYPE="image/jpg" CHECKSUM="b957160df68dca28657e712b0f3edb0f" CHECKSUMTYPE="MD5" SIZE="208903">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00335_1.jpg"/>
+      </file>
+      <file ID="jpg_00336_0" MIMETYPE="image/jpg" CHECKSUM="011fb788545f5d7eb0de17495a352d36" CHECKSUMTYPE="MD5" SIZE="196388">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00336_0.jpg"/>
+      </file>
+      <file ID="jpg_00336_1" MIMETYPE="image/jpg" CHECKSUM="ab81b1b82ce1b7edd02c0d02f7dab656" CHECKSUMTYPE="MD5" SIZE="213825">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00336_1.jpg"/>
+      </file>
+      <file ID="jpg_00337_0" MIMETYPE="image/jpg" CHECKSUM="337b9104107b76fb80dcc8ea4301b795" CHECKSUMTYPE="MD5" SIZE="205478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00337_0.jpg"/>
+      </file>
+      <file ID="jpg_00337_1" MIMETYPE="image/jpg" CHECKSUM="29996e208de8f7ef3e70b0421fcfcb13" CHECKSUMTYPE="MD5" SIZE="194907">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00337_1.jpg"/>
+      </file>
+      <file ID="jpg_00338_0" MIMETYPE="image/jpg" CHECKSUM="035efb0a0e4063040d998c62a95311a0" CHECKSUMTYPE="MD5" SIZE="111486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00338_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00326_0" MIMETYPE="text/xml+gzip" CHECKSUM="ad406e330cabbc28675c1ebff080d0b0" CHECKSUMTYPE="MD5" SIZE="1935">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00326_0.xml.gz"/>
+      </file>
+      <file ID="alto_00326_1" MIMETYPE="text/xml+gzip" CHECKSUM="887fa7bbd06f997703bbca897e6632c8" CHECKSUMTYPE="MD5" SIZE="1276">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00326_1.xml.gz"/>
+      </file>
+      <file ID="alto_00327_0" MIMETYPE="text/xml+gzip" CHECKSUM="c89c95be0c412b4410e1810c65dd6d7a" CHECKSUMTYPE="MD5" SIZE="12111">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00327_0.xml.gz"/>
+      </file>
+      <file ID="alto_00327_1" MIMETYPE="text/xml+gzip" CHECKSUM="9772a06db7b02f1fd0415a169bd2eefe" CHECKSUMTYPE="MD5" SIZE="13207">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00327_1.xml.gz"/>
+      </file>
+      <file ID="alto_00328_0" MIMETYPE="text/xml+gzip" CHECKSUM="e42692fbed814db8217752a607604e12" CHECKSUMTYPE="MD5" SIZE="13779">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00328_0.xml.gz"/>
+      </file>
+      <file ID="alto_00328_1" MIMETYPE="text/xml+gzip" CHECKSUM="c1c3e0b5c8732e8407e7c3b941f5c445" CHECKSUMTYPE="MD5" SIZE="13193">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00328_1.xml.gz"/>
+      </file>
+      <file ID="alto_00329_0" MIMETYPE="text/xml+gzip" CHECKSUM="a5cd9dc53bbbda72446af32f6dc025f1" CHECKSUMTYPE="MD5" SIZE="13443">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00329_0.xml.gz"/>
+      </file>
+      <file ID="alto_00329_1" MIMETYPE="text/xml+gzip" CHECKSUM="62fd5ee94abc0a8b7d6bf0c56f364551" CHECKSUMTYPE="MD5" SIZE="13017">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00329_1.xml.gz"/>
+      </file>
+      <file ID="alto_00330_0" MIMETYPE="text/xml+gzip" CHECKSUM="c5ec27a11174ca19454203dd9dce97a3" CHECKSUMTYPE="MD5" SIZE="12917">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00330_0.xml.gz"/>
+      </file>
+      <file ID="alto_00330_1" MIMETYPE="text/xml+gzip" CHECKSUM="cff58d0ad288c14f85d8d61db93f4bd9" CHECKSUMTYPE="MD5" SIZE="12954">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00330_1.xml.gz"/>
+      </file>
+      <file ID="alto_00331_0" MIMETYPE="text/xml+gzip" CHECKSUM="2a2db1fdc92418c16a7a04106a548c69" CHECKSUMTYPE="MD5" SIZE="12833">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00331_0.xml.gz"/>
+      </file>
+      <file ID="alto_00331_1" MIMETYPE="text/xml+gzip" CHECKSUM="5d8ead27b33138d3f0a3895bea085b0a" CHECKSUMTYPE="MD5" SIZE="12705">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00331_1.xml.gz"/>
+      </file>
+      <file ID="alto_00332_0" MIMETYPE="text/xml+gzip" CHECKSUM="fc2204de5adfbc266ce27495372d40a5" CHECKSUMTYPE="MD5" SIZE="12170">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00332_0.xml.gz"/>
+      </file>
+      <file ID="alto_00332_1" MIMETYPE="text/xml+gzip" CHECKSUM="29cc54f0890711447d0b875d013ddc20" CHECKSUMTYPE="MD5" SIZE="13438">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00332_1.xml.gz"/>
+      </file>
+      <file ID="alto_00333_0" MIMETYPE="text/xml+gzip" CHECKSUM="04a2162ed4df44d0e7928048c35e056a" CHECKSUMTYPE="MD5" SIZE="13114">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00333_0.xml.gz"/>
+      </file>
+      <file ID="alto_00333_1" MIMETYPE="text/xml+gzip" CHECKSUM="26bf7286896eca486a21710041340d7a" CHECKSUMTYPE="MD5" SIZE="13130">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00333_1.xml.gz"/>
+      </file>
+      <file ID="alto_00334_0" MIMETYPE="text/xml+gzip" CHECKSUM="c7d29effb52d614b6fca151d9afd83e1" CHECKSUMTYPE="MD5" SIZE="13815">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00334_0.xml.gz"/>
+      </file>
+      <file ID="alto_00334_1" MIMETYPE="text/xml+gzip" CHECKSUM="c64ed6d720ebf3a5e589dbca5857d1f0" CHECKSUMTYPE="MD5" SIZE="13638">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00334_1.xml.gz"/>
+      </file>
+      <file ID="alto_00335_0" MIMETYPE="text/xml+gzip" CHECKSUM="b2f6bca8ea1c4247a9f39130d7ec0f4d" CHECKSUMTYPE="MD5" SIZE="13406">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00335_0.xml.gz"/>
+      </file>
+      <file ID="alto_00335_1" MIMETYPE="text/xml+gzip" CHECKSUM="88d1d931bc56488445d6607b87e08855" CHECKSUMTYPE="MD5" SIZE="13821">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00335_1.xml.gz"/>
+      </file>
+      <file ID="alto_00336_0" MIMETYPE="text/xml+gzip" CHECKSUM="7c8e69a3f574c5f93bdb3e8ce0fdfe00" CHECKSUMTYPE="MD5" SIZE="13736">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00336_0.xml.gz"/>
+      </file>
+      <file ID="alto_00336_1" MIMETYPE="text/xml+gzip" CHECKSUM="85f0b214a1c5725a80e3f70b61fcfe17" CHECKSUMTYPE="MD5" SIZE="13166">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00336_1.xml.gz"/>
+      </file>
+      <file ID="alto_00337_0" MIMETYPE="text/xml+gzip" CHECKSUM="33fc25c484eea9cf93541572cf3416d3" CHECKSUMTYPE="MD5" SIZE="13113">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00337_0.xml.gz"/>
+      </file>
+      <file ID="alto_00337_1" MIMETYPE="text/xml+gzip" CHECKSUM="f5b34f446dc71a8d9a559c74b975fb50" CHECKSUMTYPE="MD5" SIZE="11930">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00337_1.xml.gz"/>
+      </file>
+      <file ID="alto_00338_0" MIMETYPE="text/xml+gzip" CHECKSUM="e2a1915c40b02d62700b03761a47f769" CHECKSUMTYPE="MD5" SIZE="5904">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00338_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0093" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="639" lastpage="663">
+              <court pgmap="651" id="b651-6">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="651" id="b651-5">Nos. 634, 636.</docketnumber>
+              <citation pgmap="651" id="b651-3">106 F. 775</citation>
+              <parties pgmap="651" id="b651-4">TORNANSES v. MELSING et al. KJELLMAN v. ROGERS.</parties>
+              <decisiondate pgmap="651" id="b651-7">Feb. 11, 1901.</decisiondate>
+              <judges pgmap="653" id="b653-3">Before GILBERT, ROSS, and MORROW, Circuit Judges.</judges>
+              <attorneys pgmap="652" id="b652-11">Page, McCutchen, Harding &amp; Knight, for appellants.</attorneys>
+              <attorneys pgmap="653" id="b653-2">Thomas J. Geary and A. C. Severance, for respondent Alexander McKenzie.</attorneys>
+              <opinion type="majority">
+                <author pgmap="653" id="b653-4">ROSS, Circuit Judge.</author>
+                <p pgmap="653" id="b653-5">The proceedings now before the court in the above-en­titled cases grow out of the alleged disobedience by one Alexander McKenzie of certain writs of supersedeas is­sued out of this court upon the order of Honorable William W. Morrow, one of its judges. They have been argued and submitted together, atnd will be so considered. Each case originated in the United States district court for the Second division of the district of Alaska, of which Arthur H. Noyes is the judge, George V. Borchsenius the clerk, and C. E. Dickey a deputy clerk. Placer-mining claim known as “No. 10 Above Discovery,” on Anvil creek, a tributary to Snake river, was the subject of controversy in the action of Melsing et al. against Tornanses, and placer mining claim “No. 2 Below Discovery,” on the same creek, was the subject of contention in the action of Rogers against Kjellman. Both claims aré situated within the Cape Nome mining district of Alaska. The act of con­gress under which Judge Noyes \yas appointed was ap­proved June 6, 1900 (31 Stat. 321). In its fourth section it is provided that “the judge designated to preside over division numbered two (within which divi­sion is the Cape Nome mining district) shall reside at Saint Michaels during his term of office, and shall hold at least one term of court each year at Saint Michaels, in the dis­trict, beginning the third Monday in June.” It is further provided in the fourth section that each of the three judges provided for by the act “is authorized and directed to hold such special terms of court as may be necessary for the public welfare or for the dispatch of the business of the court, at such times and places in the district as they or any of them, respectively, may deem expedient, or as the at­torney-general may direct,” and that “at'least thirty days’ notice shall be given by the judge or the clerk of the time and place of holding special terms of the court.”</p>
+                <p pgmap="653(23) 654(434) 655(460) 656(115)" id="b653-6">It is not pretended that Judge Noyes held any term of the court at Saint Michaels in June, or that any notice was given by him or the clerk of the court of the holding of a special term thereof at Nome or elsewhere, prior to the acts out of which the present proceedings arise. On the con­trary, it appears from the records and proofs on file in this court that the steamer on which Judge Noyes went from the city of Seattle, Wash., to Alaska did not reach the roadstead of Nome until July 19, 1900, and that he did not go ashore until Saturday, July 21st. Two days thereafter, to wit, Monday, July 23d, he signed orders appointing Alexander McKenzie receiver of said placer mining claims, with directions to take immediate possession thereof, and to manage, mine, and work the same; to preserve the gold, gold dust, and proceeds resulting from the working and mining of the claims, and to dispose of the same subject to the further orders of the court; and further ordering the persons then in possession of the claims to deliver to the receiver their immediate possession, control, and manage­ment, and expressly enjoining them from in any manner interfering with the mining or working of the claims by the receiver, or with his control or management thereof. The amount of the bond required by the judge of the re­ceiver was $5,000 in each case. These orders were signed at the same time, and the circumstances under which they were made appear in the proceedings of the court of August 3, 1900, on the motion of counsel for the parties against whom they were directed, made for their annulment on July 24th. We extract from the record in the case of Melsing et al. against Tornanses, precisely similar proceed­ings appearing also in the case of Rogers against Kjell­man: “Upon the hearing of the applications to set aside appointments of receiver in the Anvil creek cases, Mr. Knight, of counsel for defendant, after reading affidavits in support of his application, continued as follows: In addi­tion, if the court please, to these affidavits, we desire to in­troduce the records of the court in this case, and, if Mr. Dickey is here, I desire to call him as a witness. The Court: I believe Mr. Dickey is inside. Mr. Knight: I desire to call Mr. Dickey with reference to the filing of these papers. (It is ascertained that Mr. Dickey is not in.) The Court: The records are here; can you use them instead? Mr. Knight: I desire to prove, if the court please, that the papers were not filed in this case until after an order had been made appointing a receiver; and, further, that no process was issued at that time, or summons, and that, so far as I know, it has not been issued at the present time. Mr. Hume: So far as the plaintiff is concerned, the papers were delivered to the clerk, to be filed, all at the same time. Mr. Knight: The summons has not been served on any of our people. Mr. Hume: So far as I know, the summons has not been served in any of these cases. Preparation was made to serve the summons, but the defendants came into court the next morning, and, the question of the propriety of their appearance here before answer coming up, personal service has been delayed until the court should pass upon that matter. We have been getting the papers ready to serve each and every person interested with a copy of the complaint. Mr. Knight: I wish simply to make the point that the papers were not filed before the order was issued. The Court: All the papers were before the court; they were left here. Mr. Knight: But my point is that they were not filed until after the order appointing the receiver was made, and that the order was made before process is­sued. I think your honor will agree as to the fact that the bill of complaint was presented to your honor on the after­noon of the 23d day of July, 1900, and that your honor thereafter made an order appointing a receiver, and the papers were subsequently that evening handed to the deputy clerk of the court for filing, but that no process was issued in the cases in which I now appear; that is, in the cases in­volving No. 2 Below, Nos. 10 and 11 Above, and No. 1 Nakkela. Mr. Hume, is that correct? Mr. Hume: Well, of course, as to the time they were filed, we can agree to this fact; that all the papers — the affidavits and bills of complaint and summons — were all presented here to the court. They were not presented to the clerk. We could not find the clerk at that time; he had no office. They were presented to the court, and left with the court. All the papers were left with the court, and the clerk was to file them; but, he being out some place, we were unable to find him, and, he having no special office, we presumed they were not filed until later. Everything was in confusion then, and we simply left the papers with the court; that is all we could do. The Court: I remember this: That the papers were here on the table, and I called Mr. Dickey’s attention to them. Mr. Knight: After the order had been made? The Court: Oh, yes. Mr. Knight: It is agreed, further, .then, that no process has yet issued in this case? Mr. Hume: • I think the summons has been issued. I know it was made out. Mr. Knight: But no process has been placed in the hands of an officer for service? Mr. Hume: No, I think not; I think not placed in the hands of an offi­cer. The Court: I think you will find as a matter of record that the summons has been issued. Mr. Knight: As far as the issuance of process is concerned, the records will speak for themselves.”</p>
+                <p pgmap="656(322) 657(432) 658(68)" id="b656-4">It thus appears that the injunctions and orders appoint­ing a receiver of the claims in question were made before the organization of the court, without notice of any char­acter, and before any paper of any kind had been placed on the files of the court; assuming the court to have been or­ganized and in condition for the transaction of business. Not only so, but the injunction granted and the appoint­ment of the receiver in the case of Rogers against Kjell­man was based upon a pleading which is without a single allegation of an equitable nature. That pleading alleges only the citizenship of the plaintiff Rogers, and the alienage of the defendant Kjellman; the competency of the plaintiff to make locations under the mining laws of the United States; his discovery of gold on, and his location of, claim No. 2 Below Discovery, on Anvil creek, on the 6th day of June, 1899; his marking of its boundaries in accordance with the statutes of the United States and with the local rules of the mining district within which it is situated, and the recordation, of notice of the location in the office of the recorder of the district; the possession of the claim by the plaintiff until his dispossession by the defendant, on or about July 1, 1899; the withholding thereof by the defend­ant ever since, and the extraction therefrom by the defend­ant, and others under him, of $100,000 in gold and gold dust, to the damage of the plaintiff in that sum; and the right of the plaintiff to a restitution of the possession of the claim. The prayer is only for such restitution of possession of the property, and for $100,000 damages, and for costs. In other words, the complaint in the case of Rogers against Kjellman, upon which the judge granted an injunction and appointed a receiver, wás an ordinary complaint in eject­ment, without a single allegation of even an equitable nature. It is true there was presented to the judge at the same time the affidavit of the plaintiff Rogers, and the affi­davit of one Charles Cooper, in which they swore, in sub­stance, that the defendant Kjellman was not a citizen of the United States, and. had never declared his intention to be­come such; had never located or marked the claim in ques­tion in accordance with law, but had extracted therefrom during the mining season of 1899 gold to the amount of $100,000, and removed the same beyond the jurisdiction of the court; and that his servants and assigns were then in the possession of and working the claim, whose only value consisted of the gold it contained, and, if allowed, would continue to work the claim, and extract therefrom $5,000 a day, and appropriate the same to their own use, in fraud of the plaintiffs’ rights. In the case of Melsing et al. against Tornanses, the order granting the injunction and appointing the receiver was based upon an unverified bill praying for an injunction and an order appointing a re­ceiver, supported by the affidavits of one T. H. Downing and one E. W. Bacon. L. F. Melsing, H. L. Blake, D. B. Libby, W. T. Hume, and O. P. Hubbard are the com­plainants in that bill, and John I. Tornanses is the sole de­fendant thereto, although it appears in more than one place in its body that the complainants contemplated naming other parties also as defendants. In the bill it is, among other things, alleged: “That the complainant L. F. Melsing has begun an action at law against the defendants herein to recover the possession of the premises herein described, a copy of which complaint is attached to this bill and made a part hereof; that in order to preserve the rights of the complainant in said action at law and in said placer-mining claim pending the termination of said action at law, to pre­vent the extraction of gold from said claim, and the ap­propriation thereof by defendants, his lessees, agents, serv­ants, employés, and grantees, and preserve the said proper­ty and the gold extracted therefrom, it is necessary, proper, and convenient that a receiver should be appointed by this honorable court to take possession of, charge of, and care for said claim, and to hold, operate, and mine and control the same, under the orders of this honorable court, until the termination of said action at law; that the complainants H. L. Blake, D. B. Libby, O. P. Hubbard, and W. T. Hume are grantees, for a valuable consideration, of the said com­plainant L. F. Melsing, of an undivided interest each in said placer mining claim, and are the owners of a sub­stantial and undivided interest in the land and premises hereinbefore described, alleged, and designated as said ‘Placer-Mining Claim No. 10 Above Discovery/ on Anvil creek.”</p>
+                <p pgmap="658(357) 659(311)" id="b658-3">The record shows that the complaint, in the action at law thus spoken of, was verified by Melsing on the 25th day of August, 1899, and is entitled in the district court of the United States for the district of Alaska, which court was abolished by the act of congress of June 6, 1900 (31 Stat. 321). That complaint, however, appears from the record to have been filed in the district court for the district of Alaska, Second division, created by the last-mentioned act of congress, at the time the bill in the case of Melsing et al. against Tornanses was filed therein, together with an affi­davit of Melsing, made by him on the 25th day of August, 1899, evidently to be used in some way in connection with the action at law entitled in the abolished court. The bill in the case of Melsing et al. against Tornanses further alleges that on the 11th day of March, 1899, Melsing discovered gold in the ground known as said “Placer Mining Claim No. 10 Above Discovery,” and, being at the time competent to do so, located the ground under the mining laws of the United States, marking the boundaries thereof in accord­ance with law, and recording the notice of the location in the office of the recorder of the district in which the claim is situated, and took peaceable possession thereof; that there­after, and on or about May 1, 1899, the defendant Tor­nanses wrongfully and forcibly, by himself and others un­der him, ejected Melsing from the premises, and took pos­session of the claim, and has ever since withheld its pos­session from him; that during the mining season of 1899 .the defendant worked the said claim, and extracted there­from gold of the value of at least $150,000, and at the opening of the season of 1900 commenced, and still con­tinues, the working of the claim, thereby extracting there­from each day gold and gold dust of the value of at least $5,000, all of which the defendant Tornanses, his lessees and grantees, have appropriated to their own use and ben­efit, to the injury of the complainants and in fraud of their rights; that the ground is valuable only for the gold it contains; and that the defendant Tornanses, his agents, lessees, and grantees, are insolvent; and that the defend­ant Tornanses is an alien, and has never declared his in­tention to become a citizen of the United States. This bill, as has been said, was never verified. The affidavits of Downing and Bacon, presented in support of the bill, are only to the effect that in July, 1900 (that of Bacon fixing the date as the 19th of that month), they saw working upon claim No. 10 Above" Discovery a large number of men, under, as they were informed and believe, the defendant or his assigns or grantees, and that the claim was being un­skillfully worked, with the object of taking only the richest pay dirt, without regard to the manner in which the claim would be left thereafter, and that the continuation of such work in that manner would destroy the value of the claim. The affidavit of Bacon further states that he was informed by the men at work that they were getting gold therefrom at the rate of a dollar a shovel, and that in addition to the work by hand the persons working the ground had a steam plant in operation thereon for the purpose of exnediting the extraction of the gold contained therein, and that the pay dirt was then so exposed as to be easily sluiced and worked when there should be sufficient water in Anvil creek, and that when there should be more water in the creek the par­ties then working the ground “could take thousands of dol­lars out of said claim, and virtually destroy the same for sale or proper operation, unless restrained by order of the court.”</p>
+                <p pgmap="659(119) 660(435) 661(17)" id="b659-4">It was upon the showing here stated, and under the cir­cumstances' above detailed, that Judge Noyes, on the 23d day of July, 1900, signed the orders granting the injunc­tions, and appointing the receiver of the mining claims in question, who at once took possession of them. On the 24th day of July, 1900, in the case of Melsing et al. against Tornanses, and on the 30th day of July, 1900, in the case of Rogers against Kjellman, the parties claiming under Tornanses and Kjellman moved the court to vacate those orders, supporting the motions by the notices of location of the respective claims by Tornanses and Kjellman, by their respective deeds of conveyance, and by numerous affi­davits. The notice of location by Kjellman of claim No. 2 Below Discovery described the claim, set forth the discov­ery of gold thereon on the 22d day of September, 1898, and its location on that day, and appears to have been wit­nessed by John Brynteson and Erik O. Lindblom, and was filed for record at 12 o’clock noon on October 12, 1898, with A. N. Kittelsen, recorder of the mining district. The notice of location by Tornanses of claim No. 10 Above Discovery was similar, and purported to have been wit­nessed by G. W. Price and A. N. Kittelsen, M. D., and filed for the record at 12 o’clock noon on October 18, 1898. The .deeds thus presented to the court were conveyances from those original locators, for a valuable consideration, to Charles D. Lane of ‘their interests in' the claims. The affidavits presented in support of the motions to vacate the orders referred to set forth, among other things, that Tor­nanses was the first locator of the aforesaid claim No. 10 Above Discovery, and that Kjellman was tlje first locatdr of the aforesaid claim No. 2 Below Discovery; that prior to the respective locations gold was discovered by the ■ locator in the ground located, and that in making each of said locations the boundaries thereof -were so marked upon the ground that they could be readily traced, and that from the time of their location each of the claims was in the possession of the locator and his successors in interest, and during each working season thereafter was mined for gold in a proper, miner-like way; that the conveyance of those claims to Lane was made to him for and on behalf of the Wild Goose Mining &amp; Trading Company, a corporation, that of the aforesaid claim No. 2 Below Discovery on the 9th day of September, 1899, and that of- the aforesaid claim No. 10 Above Discovery on the 18th day of Septem­ber, 1899, since which time neither Kjellman nor Tornanses have ever had possession of, or control over, either of said claims, but that both of them thereupon departed from the United States, and neither has ever returned, and that the property has since been held and worked by Lane and those holding under him, and was so worked and held at the time of the initiation of these cases. The affidavits on be­half of the moving parties also deny the alleged insolvency of Lane and those holding under him, and, on the con­trary, aver that both Lane and the Wild Goose Mining &amp; Trading Company are amply able to respond in any dam­ages that may be recovered against them.</p>
+                <p pgmap="661(408) 662(146)" id="b661-4">In each case the' district court, on the 10th day of Au­gust, 1900, made and entered an order denying the motion so made to vacate the order granting the injunction and ap­pointing the receiver, and on the 14th day of August, 1900, counsel for the defendants, in each case, petitioned the court for an order allowing an appeal from the order granting the injunction and appointing the receiver, at the time pre­senting to the court a proper bond on appeal, together with an assignment of errors and a proposed bill of exceptions for settlement and allowance; in response to which the judge, on the 15th day of August, 1900, made an order in each case “that said proposed bill of exceptions is in each and every part thereof disallowed as a bill of exceptions herein, and the settlement thereof, or of any proposed bill of exceptions herein, is hereby refused; that said petition for an order allowing said appeal is hereby denied; and said judge declines to accept or fix the amount of any bond for costs thereof, or allow a supersedeas bond to be given, or fix the amount thereof. Dated Nome, Alaska, August 15, 1900. Arthur H. Noyes, Judge.” On the same day, to wit, August 15, 1900, the judge made and entered the fol­lowing order in each case: “Now, at this time comes the plaintiff, by his attorneys, Hubbard, Beeman &amp; Hume and Dudley Du Bose, and moves the court for an additional and further order in the matter of the appointment of Alex­ander McKenzie, as receiver in the above-entitled suit, and, the court being fully advised in the premises, it is further ordered that, in addition to the powers and authorities al­ready granted the receiver appointed, the said receiver is hereby ordered to take possession of the placer claim men­tioned in the complaint herein, and all sluice boxes, dams, excavations, machinery, pipe, boarding houses, tents, build­ings, safes, scales, and all other personal property, fixed or movable, on the said placer claim; also all gold, gold dust, precious metals, money, books of account, and each and all personal property upon the said claim connected therewith and in any way appertaining thereto, in possession of and under the control of the defendant, his lessees, grantees, as­signs, and employés; and all and every person in possession of the said claim, or claiming any right, title, or interest in and to the said placer claim, or any gold dust therein, or any personal property thereon, of any nature whatsoever, are hereby ordered to deliver the same to the said receiver, and are hereby restrained from interfering with the said re­ceiver in quiet and peaceable possession of the same, or any agent that the said receiver may designate to take posses­sion thereof. It is further ordered that this order shall re­voke all and any order in conflict herewith, and does here­by revoke the same; and it is further ordered that this or­der shall remain in full force and effect until further order of this court. It is further ordered that a copy of this or­der shall be served upon any person in possession of, or claiming possession of, the property described. Done in chambers, this 15th day of August, 1900.</p>
+                <p pgmap="662" id="b662-4">“Arthur H. Noyes, Judge.”</p>
+                <p pgmap="662" id="b662-5">For this sweeping order against any and every person, whether a party to the suit or not, and this express require­ment of the receiver to take possession, among other things, of all sluice boxes, machinery, pipe, boarding houses, tents, safes, scales, money, books of account, and all other per­sonal property upon the claims, of whatsoever kind oy nature, no basis of any kind appears from the records which have been brought here upon certiorari to have been pre­sented to the court below, although the order recites upon its face that the court was “fully advised in the premises.” Nor does it appear that the slightest attention was paid to an express provision of the very statute under which the court was created and existed, in terms prohibiting the ap­pointment of a receiver in any action for the recovery of specific personal property (Code Alaska, § 753), nor to sections 301 or 475 of the same Code, which provide as follows: ‘</p>
+                <blockquote pgmap="662" id="b662-6">“Sec. 301. Any person who has a legal estate in real property, and a present right to the possession thereof, may recover such possession, with damages for withholding the same, by an action. Such action shall be commenced against the person in the actual possession of the property at the time, or, if1 the property be not in the actual posses­sion of anyone, then against the person acting as the own­er thereof.”</blockquote>
+                <blockquote pgmap="662(20) 663(25)" id="b662-7">“Sec. 475. Any person in possession, by himself or his tenant, of real property, may maintain an action of an equitable nature against another who claims an estate or interest therein adverse to him for the purpose of de­termining such claim, estate, or interest.”</blockquote>
+                <p pgmap="663" id="b663-4">It will be observed from these provisions that by the code governing Alaska an action of ejectment is required to be brought “against the person in the actual possession of the property at the time, or if the property be not in the actual possession of anyone, then against the person acting as the owner thereof”; and that the right to maintain an equitable action for the purpose of determining an adverse claim is only given to one in possession by himself or his tenant.</p>
+                <p pgmap="663" id="b663-5">The successors in interest of the defendants to the suits having thus been denied an appeal from the orders granting the injunctions and appointing a receiver, not only of the mining claims in question, but of their personal property as well, with directions to the receiver to extract from the claims the gold which constituted their sole value, the de­fendants applied, with all speed possible, to a judge of this court for the allowance of the appeals which had been de­nied them in Alaska. The judge of this court to whom the applications were made, and upon a showing embracing much of this shocking record, at once granted the ap­peals, requiring and approving a supersedeas bond in each case in the sum of $20,000, and thereupon ordered a writ of supersedeas to issue out of this court under its seal, in each case, and, in writing, approved the form thereof, stay­ing all proceedings under the orders granting the injunc­tions and appointing the receiver, and further ordering the receiver to at once restore to the defendants from whom he had taken them the said mining claims, together with the gold, gold dust, and other personal property received by him under the orders appealed from. Certified copies of the order allowing the appeal in each case, together with certified copies of the assignment of errors and of the bond, were, with the original writ of supersedeas and the original citation in each case, filed in the lower court on the 14th day of September, 1900, and copies thereof at once served upon the receiver, McKenzie, and a demand made upon him for the restitution of the property in accordance with the writs.</p>
+                <p pgmap="664" id="b664-3">The evidence taken upon the hearing of these proceed­ings is to the effect, and we so find the fact fo be, that the respondent McKenzie thereupon refused, and continued to refuse, to restore, in accordance with the requirements of the writs of supersedeas, the gold, gold dust, and other per­sonal property received by him under the orders of the trial court, and that fact being made to appear to this court by affidavits, on the 1st day of October, 1900, and it fur­ther being then made to appear to this court that the last steamer for the season would leave the city of Seattle for Nome within a few days, and that no further communica­tion could be had with that section of the country until the spring or early summer of 1901, this court thereupon made an order directing its marshal to proceed to Nome, enforce its writs of supersedeas, arrest the offending re­ceiver, and produce him at the bar of this court.'' The evi­dence taken upon the hearing of these proceedings is also to the effect, and we so find the fact to be, that the re­spondent McKenzie at all times had it within his power to comply with the requirements of the writs of supersedeas issued out of this court; that he contumaciously refused to restore the gold, gold dust, and other personal property to the defendants, as required by those writs, and has con­tinued such refusal ever since.</p>
+                <p pgmap="664(197) 665(74)" id="b664-4">It is said by counsel for the respondent McKenzie that the action of Judge Noyes in refusing to allow the appeals petitioned for, and in refusing to settle any bill of excep­tions, was based upon the opinion that no appeal is allowed by law from the orders made by him; and it is here so con­tended. Provision is made by section 504 of the Alaska Code for the taking and prosecution of an appeal from the final judgment of the district court for the district of Alaska, or any division thereof, direct to the supreme court of the United States in certain cases, within which the pres­ent cases do not come, and it is then provided “that in all other cases, where the amount involved or the value of the subject matter exceeds the sum of five thousand dollars, the United States circuit court of appeals for the Ninth circuit shall have jurisdiction to review upon writ of error or ap­peal the final judgment (and) orders of the district court.” And section 507 of the same Code declares that “an appeal may be taken to the circuit court of appeals from any in­terlocutory order granting or dissolving an injunction, re­fusing to grant or dissolve an injunction, made or rendered in any cause pending before the district court within sixty days after the entry of such interlocutory order. The pro­ceedings in other respects in the district court in the cause in which such interlocutory order was made shall not be stayed during the pendency of such appeal, unless other­wise ordered by the district court.”</p>
+                <p pgmap="665(352) 666(433) 667(175)" id="b665-4">Leaving out of consideration the last-quoted section, which in express terms authorizes an appeal from an or­der granting an injunction, and without considering the right of the defendants to the suits in question to thus have reviewed the orders enjoining them from working the min­ing claims involved in them, and as a necessary incident the right of the court to appoint a receiver of the property claimed by them, we think we may safely rest the jurisdic­tion of this court to review those orders upon section 504 of the Alaska Code, above referred to. And it is for this court, subject to review of its action by the supreme court, to determine whether it may entertain jurisdiction of the cause removed, and to dispose of controversies in respect to the form of its writs, the parties, the citation, and their service, without interference from any other court. Ex parte Chetwood, 165 U.S. 443, 17 S.Ct. 385, 41 L.Ed. 782. Courts take judicial notice of the general physical and climatic condition of the country within their jurisdiction. We therefore know judicially, as well as from the record in these cases, that the sole value of the mining claims in question consisted in the mineral contained in them. The extraction of that is therefore the taking of the very sub­stance of the estate, and when all of it is removed nothing of value will remain in the claims. In the case of a vein or lode mine, with tunnels, drifts, and shafts in which there are timbers to be placed, replaced, or repaired, or water to be controlled, it sometimes happens that the appointment of a receiver becomes necessary to take possession of and operate the mine pending the litigation, in order to preserve the property; but even in that class of cases the necessity for a receiver is not of frequent occurrence. This is well shown in the case of Bigbee v. Summerour, 101 Ga. 201, 28 S.E. 642. So, too, in the case of placer mining claims valuable only for the oil contained in them, where it be­comes necessary for the proper preservation of the claim that the ground be worked to prevent its substance from being drawn off by the operation of wells on adjoining ground, or where it is shown that a receiver is necessary in order that the annual work required by law may be per­formed for the benefit of the party who may ultimately be adjudged entitled to the ground, but nothing of that sort is shown to have existed with respect to the claims here in­volved. Here the gold in the claim would have remained as safe as it was during all the ages it had been there, and an injunction (assuming a proper showing for one to have been made) staying the working of the claims pending the litigation would have perfectly preserved the property for whomsoever might be ultimately adjudged to be entitled to it. The value of mining property of every character, like the value of any other kind of property, largely depends upon the manner in which it is operated. Many good mines prove unprofitable because of loose man­agement or extravagant methods of working them. The successors in interest of the defendant to the suits in which this receiver was appointed were in possession of the claims under a claim of right, and were engaged in mining the ground on a large scale, and had been so engaged during the working season of the year 1899, as well as that of the then current season of 1900. They may, therefore, be properly presumed to have been, at least, somewhat familiar with the proper working of placer claims. But there is no evidence that the respondent ever saw a placer or any other kind of mining claim before he was appointed receiver of. these, and, at least, two other similar, claims, on the 23d day of July, 1900. It is in evidence, in at least one of the contempt proceedings now pending before us against Mc­Kenzie, that, shortly before going to Alaska, he caused to be organized a corporation called the “Alaska Gold Min­ing Company,” with a capital stock of $15,000,000, a ma­jority of which he held, and that, having placed a portion of the remainder where he thought it would stand him in good stead, he proceeded with Judge Noyes to Nome, ar­riving there on Saturday, July 21, 1900, and on Monday, July 23d, before the court was organized, and before the riling of any paper of any character with the clerk of the court, was appointed by Judge Noyes receiver of at least four of the richest claims in the district of Nome, upon complaints made by persons the interest therein of at least one of whom had theretofore been acquired by the receiv­er’s corporation, the Alaska Gold Mining Company. It has been already seen that the orders under which this was done in the present cases directed the receiver to take pos­session of and mine the claims in question, and enjoined the parties then in possession from in any manner inter­fering with the claims or with the acts of the receiver. It has been seen, also, that in the case of Rogers against Kjell­man this was done upon a complaint which did not even ask for the appointment of a receiver or for such injunction, and, in the case of Melsing et al. against Tornanses, that the only relief that was asked was the granting of an in­junction and the appointment of a receiver, all of which was granted by the court by the orders made by it on July 23, 1900.</p>
+                <p pgmap="667(278) 668(154)" id="b667-4">We have no hesitation in holding that an order by which a placer mining claim, whose proper preservation in no re­spect requires it, is taken from one who is in the actual pos­session thereof, and turned over to a receiver, with instruc­tions to extract from it its only value, is, in effect, a final decree, and appealable as such; for its entire value may be thus destroyed by improper working or extravagant man­agement, or by the extraction of all its mineral, while he from whom it is taken, and who asserts a right to it, may prefer to work the claim to a limited extent only, or in a particular manner, or not at all. He may prefer to hold it for sale or other disposition; yet, under such orders as are here involved, the operations of the receiver of necessity constantly exhaust the very substance of the property, and may speedily render it absolutely worthless. Surely, the authority, by whatever name called, under which such a result may be wrought, is, in effect, a final judgment. As was said by the circuit court of appeals for the Third cir­cuit in Potter v. Beal, 2 C.C.A. 60, 50 F. 860, the determi­nation of the question as to what is or is not a final decree “is to be governed by the essence of what is done, and not by the appellation given to it.” In the Farmers’ Loan &amp; Trust Co. Case, 129 U.S. 206, 9 S.Ct. 265, 32 L.Ed. 656, it was held that an order allowing a receiver of a mort­gaged railroad to issue certificates which should be pre­ferred to the mortgage was a final decree, in effect, and appealable. In the case of Sharon v. Sharon, 67 Cal. 215, 7 P. 456, 635, 8 P. 709, the supreme court of California held that an order made pendente lite, directing the pay­ment of alimony in a divorce suit, is in the nature of a final decree, and appealable as such. See, also, Tampa Ry. Co. Case, 168 U.S. 583, 588, 18 S.Ct. 177, 42 L.Ed. 589, and Iron Co. v. Meeker, 109 U.S. 180, 3 S.Ct. 111, 27 L.­Ed. 898. A mine is, as was held in Bigbee v. Summerour, supra, destroyed as such, as fast as the mineral is taken out; so that the necessary effect of the orders in question was to gradually, and perhaps rapidly, destroy the mining claims, and, as a matter of course, the personal property embraced by the orders would necessarily perish by use.</p>
+                <p pgmap="668" id="b668-4">The remaining points urged on behalf of the respondent may be briefly disposed of. It is contended that, in order to give effect to the orders made by Judge Morrow allow­ing the appeals, it was essential to file the original orders in the lower court. Only certified copies of those orders were so filed; but the original citation and the original writ of supersedeas were filed in the lower court in these cases, to­gether with certified copies of the assignment of errors and of the supersedeas bond. All of these papers were filed in the district court, September 14, 1900. That that was suffi­cient to give effect to the appeal has been expressly decided by the supreme court in two cases (Brown v. McConnell, 124 U.S. 489, 8 S.Ct. 559, 31 L.Ed. 495, and Stewart v. Masterson, 124 U.S. 493, 8 S.Ct. 561, 31 L.Ed. 507).</p>
+                <p pgmap="668(135) 669(24)" id="b668-5">Section 1007 of the Revised Statutes (28 U.S.C.A. § 874 and note) declares: “In any case where a writ of er­ror may be a supersedeas, the defendant may obtain such supersedeas by serving the writ of error, by lodging a copy thereof for the adverse party in the clerk’s office where the record remains, within sixty days, Sundays exclusive, after the rendering of the judgment complained of, and giving the security required by law on the issuing of the citation. But if he desires to stay process on the judgment, he may, having served his writ of error as aforesaid, give the se­curity required by law within sixty days after the rendition of such judgment, or afterward with the permission of a justice or judge of the appellate court. And in such cases where a writ of error may be a supersedeas, execution shall not issue until the expiration of (the said term of sixty) (ten) days.”</p>
+                <p pgmap="669" id="b669-4">It is contended that the supersedeas thus provided for by statute does not require the restoration to the defend­ants, pending- the appeal, of any property taken by the receiver. Let that be admitted, and the fact remains that in each of these cases Judge Morrow ordered a writ of supersedeas to be issued out of this court, under its seal, and, in writing, approved the form of the writs, each of which required the receiver, among other things, to restore to the possession of the defendants the personal property he had taken from them, together with the gold and gold dust extracted by him as such receiver from the claims. It is said that a single judge of this court cannot grant a writ of supersedeas. Sections 1000 and 1007 of the Re­vised Statutes (28 U.S.C.A. §§ 869, 874 and note), the case In re Claasen, 140 U.S. 200, 11 S.Ct. 735, 35 L.Ed. 409, rule 36 of the supreme court (11 Sup.Ct. iv.), and section 11 of the act approved March 3, 1891 (28 U.S.C.A. §§ 228, 230, notes), creating this court, conclusively answer this objection.</p>
+                <p pgmap="669(225) 670(204)" id="b669-5">By section 11 of the circuit court of appeals act it is, among other things, provided that “any judge of the cir­cuit court of appeals, in respect of cases brought, or to be brought, to that court, shall have the same powers and du­ties as to the allowance of appeals or writs of error, and the conditions of such allowance, as now by law belong to the justices or judges in respect of the existing courts of the United States respectively.” In the case In re Claasen, supra, the supreme court held that a justice of the supreme court was authorized to grant a supersedeas, saying: “By section 1000 of the Revised Statutes, it is provided that every justice or- judge signing a citation on any writ of er­ror shall take security for the prosecution of the writ, and for costs, where the writ is not to be a supersedeas and stay of execution, and for damages and costs where it is to be. In a criminal case, there are no damages; and in such a case, the United States being a party, it is provided by subdivision 4 of rule 24 of this court (3 Sup.Ct. xiii.) that, in cases where the United States are a party, no costs shall be allowed in this court for or against the United States. Section 1007 of the Revised Statutes provides for the man­ner in which a supersedeas may be obtained on a writ of error. It is by serving the writ of error, by lodging a copy thereof for the adverse party in the clerk’s office where the record remains within 60 days, Sundays exclusive, after the rendering of the judgment complained of, and giving the security required by law on the issuing of the citation. But, as there is no security required in a criminal case, the supersedeas may be obtained by merely serving the writ within the time prescribed, without giving any. security, provided the justice who signs the citation directs that the writ shall operate as a supersedeas; which he may do when no security is required or taken. We hold, therefore, that the allowance of the supersedeas in the present case was proper, and we deny the motion to set it aside. To remove all doubt on the subject, however, in future cases we have adopted a general rule, which is promulgated as rule 36 of this court (see 139 U.S. 706, 11 Sup.Ct. iv.), and which embraces, also, the power to admit the defendant to bail after the citation is served.”</p>
+                <p pgmap="670" id="b670-4">The rule thus referred to and adopted by the supreme court will be found in 139 U.S. 706, 11 S.Ct. iv., and is as follows: “(1) An appeal or a writ of error from a cir­cuit court or a district court direct to this court, in the cases provided for in sections 5 and 6 of the act entitled ‘An act to establish circuit courts of appeals, and to define and regulate in certain cases the jurisdiction of the courts of the United States, and for other purposes,’ approved March 3, 1891, may be allowed, in term time or in vacation, by any justice of this court, or by any circuit judge within his circuit, or by any district judge within his district, and the proper security be taken and the citation signed by him, and he may also grant a supersedeas and stay of execution or of proceedings, pending such writ of error or appeal.”</p>
+                <p pgmap="670(90) 671(124)" id="b670-5">It is further contended that the scope of the writs was too broad, in that, in the first place, they went beyond the orders of Judge Morrow, and, in the second place, that it was beyond the power of the court to require the receiver to restore the property taken by him. It is true that the orders first made by Judge Morrow did not in terms direct the receiver so to restore the property, but in each case that judge subsequently, and on the same day, made an order expressly approving the form of the writs requiring such restoration. If it be conceded that the scope of the writs was too broad, it was not for1 the receiver to ignore their requirements, and himself be the judge of that question, but his only proper remedy was a motion to modify the writs. While refusing to obey them, he should not be heard to object to their scope. In 2 High, Inj. § 1416, it is said that: “If defendant is in doubt as to the scope or ex­tent of the injunction, he should not be left to disregard or violate it, with a view of testing such questions, but should apply to the court for a modification or construction of its order.”</p>
+                <p pgmap="671(323) 672(22)" id="b671-4">The same rule is applicable to a receiver. See, also, Wells, Fargo &amp; Co. v. Oregon Ry. &amp; Nav. Co. (C.C.) 19 F. 20; Ulman v. Ritter (C.C.) 72 F. 1000, 1003; Ma­gennis v. Parkhurst, 4 N.J.Eq. 433, 436. But the point itself is, we think, untenable. In the leading case upon the subject (that of State v. Johnson, 13 Fla. 33, 48) it is said: “The allowance of a supersedeas does not, nor does the order in this case, ‘undo’ or reverse the order of the circuit judge. The order, following the intent and effect of the law in terms, directs a stay of all proceedings under the several orders appealed from, and suspends their operation. The power of the circuit court was suspended, and thereby the power of all the officers in that court, under its orders in question, became inoperative. They no longer had any du­ties to perform under such orders. The authority of the receiver to continue to act as such was made nugatory by the operation of the law. He had entered upon an office and commenced to act when the office was suspended. The supersedeas as understood by us, and as seems to be under­stood by the courts, does of necessity retroact by suspend­ing the life of the order appealed from; reaches back to that order, and forbids action under it. It does not make unlawful an act done in pursuance of the order before the appeal was taken, but it forbids the court and its officers further to act. No new rights having been created, and the duties of the receiver being superseded, the bond stand­ing in the place of the property in his hands, and he hav­ing been notified thereof by proper process,, it was his duty to restore that which had come to his hands to the parties from whom it had been taken and withheld; for, his authority to take being inoperative by the suspension, his authority to hold was equally so, both being derived from the same order.”</p>
+                <p pgmap="672" id="b672-3">The case of State v. Johnson has been several times ap­proved. Buckley v. Georgia, 71 Miss. 580, 15 So. 46; Bank v. Backus, 63 Minn. 115, 65 N.W. 255. See, also, Everett v. State, 28 Md. 190; Freem. Ex’ns (2d Ed.) p. 876, § 271a; High, Rec.(3d Ed.) p. 164, § 190'; 20 Am. &amp; Eng.Enc.Law, 110. In the last edition (Anderson’s) of Beach, Rec. p. 129, § 117, it is said that: “From the au­thorities and reason, there may be legally deduced the fol­lowing principles which should govern questions concerning the subject of this section: * * * (2) If a receiver be appointed and takes possession of the property prior to the appeal and supersedeas, the consummation of the appeal, with bond and supersedeas, gives to the defendant the right to demand and have the property returned to him.”</p>
+                <p pgmap="672" id="b672-5">Finally, it is urged that the refusal of the receiver to obey the writs of supersedeas issued out of this court was based on the advice of his counsel that the writs were void. Such advice is never a justification of a contempt, but in proper cases may be considered in mitigation of the offense. 1 Beach, Inj. § 250; High, Inj. § 1427; Rodgers v. Pitt (C.C.) 89 F. 424, and cases there cited.</p>
+                <p pgmap="672(170) 673(358)" id="b672-6">The circumstances attending the appointment of the re­ceiver in these cases, however, and his conduct after, as well as before, the appointment, as shown by the record and evidence, so far from impressing us with the sincerity of the pretension that his refusal to obey the writs issued out of this court was based upon the advice of his counsel that they were void, satisfy us that it was intentional and deliberate, and in furtherance of the high-handed and gross­ly illegal proceedings initiated almost as soon as Judge Noyes and McKenzie had set foot on Alaskan territory at Nome, and which may be safely and fortunately said to have no parallel in the jurisprudence of this country. And it speaks well for the good, sober sense of the people gathered on that remote and barren shore that they depend­ed solely upon the courts for the correction of the wrongs thus perpetrated among and against them, which always may be depended upon to right, sooner or later, wrongs properly brought before them. And it is well, in these days of the rapid extension of our national domain, for all per­sons, whether residing in remote regions or near home, to remember that courts which respect themselves, and have a due regard for the administration of justice and the mainte­nance of law and order, will never tolerate any disobedience of their lawful orders, writs, or judgments, wherever com­mitted within their jurisdiction. “It is inherent in the nature of judicial authority,” said the supreme court of Florida in the case of State v. Johnson, supra, that “every court may protect and maintain its jurisdiction under the law, and that it shall protect itself against all attempts to re­sist or thwart or overthrow its authority. Without the poyver to judge of its jurisdiction, it is practically without ju­risdiction. Without the power to enforce its judgments, it has no judicial authority. That it be made the plaything of whomsoever may choose to deride its judgments or its process, and ignore its existence and its acts, because the opinions of the judges and the judgments of the court may not meet the approval of counsel upon the one side or the other of a controversy, or may not be in accordance with the opinions or the wishes of subordinate officers, cannot be allowed without surrendering the judicial character and confessing the impotency of this department of the govern­ment. Courts commit errors, and parties may suffer from the improvidence or corruption of their judges, yet the remedy for these is not in individual resistance or in a re­sort to private judgment. Every court will hear the ap­peals of those who conceive themselves to be wronged or threatened with injustice by the execution of its decrees. If its errors be made apparent, it will do justice to itself by dealing justice to parties without fear and without hesita­tion. There is no excuse for resistance of the orders of the courts in this country where their doors are wide open, and where every human being may be heard in the pres­ence of the whole people.”</p>
+                <p pgmap="673(61) 674(98)" id="b673-4">In the refusal of the respondent Alexander McKenzie to obey the writs of supersedeas issued out of this court, as hereinbefore found and stated, it is now here considered and adjudged that he did commit contempts of this court, and for the said contempt so committed in the case entitled Tornanses against Melsing et al. it is now here ordered and adjudged that he, the said Alexander McKenzie, be im­prisoned in the county jail of the county of Alameda, Cal., for the period of six months, and for the said contempt so committed in the case entitled Kjellman against Rogers that he be imprisoned in the jail of the said county for a like period of six months, making one year in all; the sentence imposed in the said last mentioned case to commence im­mediately upon the completion of the term of imprison­ment under the first sentence herein. The marshal will ex­ecute this judgment forthwith.</p>
+                <p pgmap="674" id="b674-4">Modification of Judgment.</p>
+                <p pgmap="674" id="b674-5">(February 12, 1901.)</p>
+                <p pgmap="674" id="b674-6">Based upon our understanding of the statement of counsel in two of the companion cases against the respond­ent McKenzie for alleged contempt of the process of this court that all of the pending cases against him had been, in so far as the parties thereto are concerned, settled, and that the respondent had restored to the parties from whom it had been taken the whole of the property in controversy, we so stated in the opinion delivered herein February 11th. The court is now informed that this is a mistake of fact in respect to the present cases, and that in these cases there has been no settlement as respects the parties, and there is no showing of the restoration by the receiver of the prop­erty in the above-entitled cases as required by the writs of supersedeas issued out of this court. The paragraph of the opinion of this court rendered February 11th in which the erroneous statement of fact was made will therefore be corrected, and the judgment entered in these cases at the same time will be, and thereby is, so modified as to direct that the respondent pay all the costs of the contempt pro­ceedings herein, to be taxed by the court.</p>
+                <p pgmap="674" id="b674-7">Modification of Judgment.</p>
+                <p pgmap="674" id="b674-8">(February 18, 1901.)</p>
+                <p pgmap="674(57) 675(33)" id="b674-9">As it is possible that the imposition of costs may be con­sidered a fine, which, in contempt proceedings, cannot be lawfully imposed with imprisonment, it is hereby ordered that the modification of the judgment in the above-entitled cases made and entered February 12, 1901, by which the said judgment entered February 11, 1901, was “so modi­fied as to direct that the respondent [Alexander McKenzie] pay all the costs of the contempt proceedings herein, to be taxed by the court,” be and hereby is vacated, set aside, and annulled.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="651" ORDERLABEL="639" TYPE="page">
+        <fptr FILEID="tiff_00326_0"/>
+        <fptr FILEID="jpg_00326_0"/>
+        <fptr FILEID="alto_00326_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_651.2" BETYPE="IDREF" FILEID="alto_00326_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="652" ORDERLABEL="640" TYPE="page">
+        <fptr FILEID="tiff_00326_1"/>
+        <fptr FILEID="jpg_00326_1"/>
+        <fptr FILEID="alto_00326_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_652.2" BETYPE="IDREF" FILEID="alto_00326_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="653" ORDERLABEL="641" TYPE="page">
+        <fptr FILEID="tiff_00327_0"/>
+        <fptr FILEID="jpg_00327_0"/>
+        <fptr FILEID="alto_00327_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_653.1" BETYPE="IDREF" FILEID="alto_00327_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="654" ORDERLABEL="642" TYPE="page">
+        <fptr FILEID="tiff_00327_1"/>
+        <fptr FILEID="jpg_00327_1"/>
+        <fptr FILEID="alto_00327_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_654.2" BETYPE="IDREF" FILEID="alto_00327_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="655" ORDERLABEL="643" TYPE="page">
+        <fptr FILEID="tiff_00328_0"/>
+        <fptr FILEID="jpg_00328_0"/>
+        <fptr FILEID="alto_00328_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_655.3" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="656" ORDERLABEL="644" TYPE="page">
+        <fptr FILEID="tiff_00328_1"/>
+        <fptr FILEID="jpg_00328_1"/>
+        <fptr FILEID="alto_00328_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_656.2" BETYPE="IDREF" FILEID="alto_00328_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="657" ORDERLABEL="645" TYPE="page">
+        <fptr FILEID="tiff_00329_0"/>
+        <fptr FILEID="jpg_00329_0"/>
+        <fptr FILEID="alto_00329_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_657.3" BETYPE="IDREF" FILEID="alto_00329_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="658" ORDERLABEL="646" TYPE="page">
+        <fptr FILEID="tiff_00329_1"/>
+        <fptr FILEID="jpg_00329_1"/>
+        <fptr FILEID="alto_00329_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_658.2" BETYPE="IDREF" FILEID="alto_00329_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="659" ORDERLABEL="647" TYPE="page">
+        <fptr FILEID="tiff_00330_0"/>
+        <fptr FILEID="jpg_00330_0"/>
+        <fptr FILEID="alto_00330_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_659.3" BETYPE="IDREF" FILEID="alto_00330_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="660" ORDERLABEL="648" TYPE="page">
+        <fptr FILEID="tiff_00330_1"/>
+        <fptr FILEID="jpg_00330_1"/>
+        <fptr FILEID="alto_00330_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_660.2" BETYPE="IDREF" FILEID="alto_00330_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="661" ORDERLABEL="649" TYPE="page">
+        <fptr FILEID="tiff_00331_0"/>
+        <fptr FILEID="jpg_00331_0"/>
+        <fptr FILEID="alto_00331_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_661.3" BETYPE="IDREF" FILEID="alto_00331_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="662" ORDERLABEL="650" TYPE="page">
+        <fptr FILEID="tiff_00331_1"/>
+        <fptr FILEID="jpg_00331_1"/>
+        <fptr FILEID="alto_00331_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_662.2" BETYPE="IDREF" FILEID="alto_00331_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="663" ORDERLABEL="651" TYPE="page">
+        <fptr FILEID="tiff_00332_0"/>
+        <fptr FILEID="jpg_00332_0"/>
+        <fptr FILEID="alto_00332_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_663.3" BETYPE="IDREF" FILEID="alto_00332_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="664" ORDERLABEL="652" TYPE="page">
+        <fptr FILEID="tiff_00332_1"/>
+        <fptr FILEID="jpg_00332_1"/>
+        <fptr FILEID="alto_00332_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_664.1" BETYPE="IDREF" FILEID="alto_00332_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="665" ORDERLABEL="653" TYPE="page">
+        <fptr FILEID="tiff_00333_0"/>
+        <fptr FILEID="jpg_00333_0"/>
+        <fptr FILEID="alto_00333_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_665.3" BETYPE="IDREF" FILEID="alto_00333_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="666" ORDERLABEL="654" TYPE="page">
+        <fptr FILEID="tiff_00333_1"/>
+        <fptr FILEID="jpg_00333_1"/>
+        <fptr FILEID="alto_00333_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_666.2" BETYPE="IDREF" FILEID="alto_00333_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="667" ORDERLABEL="655" TYPE="page">
+        <fptr FILEID="tiff_00334_0"/>
+        <fptr FILEID="jpg_00334_0"/>
+        <fptr FILEID="alto_00334_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_667.3" BETYPE="IDREF" FILEID="alto_00334_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="668" ORDERLABEL="656" TYPE="page">
+        <fptr FILEID="tiff_00334_1"/>
+        <fptr FILEID="jpg_00334_1"/>
+        <fptr FILEID="alto_00334_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_668.2" BETYPE="IDREF" FILEID="alto_00334_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="669" ORDERLABEL="657" TYPE="page">
+        <fptr FILEID="tiff_00335_0"/>
+        <fptr FILEID="jpg_00335_0"/>
+        <fptr FILEID="alto_00335_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_669.3" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="670" ORDERLABEL="658" TYPE="page">
+        <fptr FILEID="tiff_00335_1"/>
+        <fptr FILEID="jpg_00335_1"/>
+        <fptr FILEID="alto_00335_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_670.2" BETYPE="IDREF" FILEID="alto_00335_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="671" ORDERLABEL="659" TYPE="page">
+        <fptr FILEID="tiff_00336_0"/>
+        <fptr FILEID="jpg_00336_0"/>
+        <fptr FILEID="alto_00336_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_671.3" BETYPE="IDREF" FILEID="alto_00336_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="672" ORDERLABEL="660" TYPE="page">
+        <fptr FILEID="tiff_00336_1"/>
+        <fptr FILEID="jpg_00336_1"/>
+        <fptr FILEID="alto_00336_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_672.2" BETYPE="IDREF" FILEID="alto_00336_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="673" ORDERLABEL="661" TYPE="page">
+        <fptr FILEID="tiff_00337_0"/>
+        <fptr FILEID="jpg_00337_0"/>
+        <fptr FILEID="alto_00337_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_673.3" BETYPE="IDREF" FILEID="alto_00337_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="674" ORDERLABEL="662" TYPE="page">
+        <fptr FILEID="tiff_00337_1"/>
+        <fptr FILEID="jpg_00337_1"/>
+        <fptr FILEID="alto_00337_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_674.2" BETYPE="IDREF" FILEID="alto_00337_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="675" ORDERLABEL="663" TYPE="page">
+        <fptr FILEID="tiff_00338_0"/>
+        <fptr FILEID="jpg_00338_0"/>
+        <fptr FILEID="alto_00338_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_675.3" BETYPE="IDREF" FILEID="alto_00338_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b668-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_668.4" BETYPE="IDREF" FILEID="alto_00334_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b662-5" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_662.5" BETYPE="IDREF" FILEID="alto_00331_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b662-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_662.4" BETYPE="IDREF" FILEID="alto_00331_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b662-7" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_662.7" BETYPE="IDREF" FILEID="alto_00331_1"/>
+            <area BEGIN="BL_663.1" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b662-6" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_662.6" BETYPE="IDREF" FILEID="alto_00331_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b663-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_663.4" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b663-5" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_663.5" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b674-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_674.4" BETYPE="IDREF" FILEID="alto_00337_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b661-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_661.4" BETYPE="IDREF" FILEID="alto_00331_0"/>
+            <area BEGIN="BL_662.1" BETYPE="IDREF" FILEID="alto_00331_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b674-7" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_674.7" BETYPE="IDREF" FILEID="alto_00337_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b665-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_665.4" BETYPE="IDREF" FILEID="alto_00333_0"/>
+            <area BEGIN="BL_666.1" BETYPE="IDREF" FILEID="alto_00333_1"/>
+            <area BEGIN="BL_667.1" BETYPE="IDREF" FILEID="alto_00334_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-3" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.4" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b674-8" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_674.8" BETYPE="IDREF" FILEID="alto_00337_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-2" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.3" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b652-11" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_652.11" BETYPE="IDREF" FILEID="alto_00326_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b673-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_673.4" BETYPE="IDREF" FILEID="alto_00337_0"/>
+            <area BEGIN="BL_674.1" BETYPE="IDREF" FILEID="alto_00337_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b651-7" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_651.8" BETYPE="IDREF" FILEID="alto_00326_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b651-6" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_651.7" BETYPE="IDREF" FILEID="alto_00326_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b651-5" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_651.6" BETYPE="IDREF" FILEID="alto_00326_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b651-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_651.4" BETYPE="IDREF" FILEID="alto_00326_0"/>
+            <area BEGIN="BL_651.5" BETYPE="IDREF" FILEID="alto_00326_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-5" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.6" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.5" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b668-5" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_668.5" BETYPE="IDREF" FILEID="alto_00334_1"/>
+            <area BEGIN="BL_669.1" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-6" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.7" BETYPE="IDREF" FILEID="alto_00327_0"/>
+            <area BEGIN="BL_654.1" BETYPE="IDREF" FILEID="alto_00327_1"/>
+            <area BEGIN="BL_655.1" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            <area BEGIN="BL_656.1" BETYPE="IDREF" FILEID="alto_00328_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b670-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_670.4" BETYPE="IDREF" FILEID="alto_00335_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b672-3" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_672.4" BETYPE="IDREF" FILEID="alto_00336_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b671-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_671.4" BETYPE="IDREF" FILEID="alto_00336_0"/>
+            <area BEGIN="BL_672.1" BETYPE="IDREF" FILEID="alto_00336_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b674-9" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_674.9" BETYPE="IDREF" FILEID="alto_00337_1"/>
+            <area BEGIN="BL_675.1" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b656-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_656.4" BETYPE="IDREF" FILEID="alto_00328_1"/>
+            <area BEGIN="BL_657.1" BETYPE="IDREF" FILEID="alto_00329_0"/>
+            <area BEGIN="BL_658.1" BETYPE="IDREF" FILEID="alto_00329_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b670-5" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_670.5" BETYPE="IDREF" FILEID="alto_00335_1"/>
+            <area BEGIN="BL_671.1" BETYPE="IDREF" FILEID="alto_00336_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b672-6" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_672.6" BETYPE="IDREF" FILEID="alto_00336_1"/>
+            <area BEGIN="BL_673.1" BETYPE="IDREF" FILEID="alto_00337_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b659-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_659.4" BETYPE="IDREF" FILEID="alto_00330_0"/>
+            <area BEGIN="BL_660.1" BETYPE="IDREF" FILEID="alto_00330_1"/>
+            <area BEGIN="BL_661.1" BETYPE="IDREF" FILEID="alto_00331_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b674-5" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_674.5" BETYPE="IDREF" FILEID="alto_00337_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b672-5" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_672.5" BETYPE="IDREF" FILEID="alto_00336_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b664-3" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_664.3" BETYPE="IDREF" FILEID="alto_00332_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b651-3" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_651.3" BETYPE="IDREF" FILEID="alto_00326_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b664-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_664.4" BETYPE="IDREF" FILEID="alto_00332_1"/>
+            <area BEGIN="BL_665.1" BETYPE="IDREF" FILEID="alto_00333_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b667-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_667.4" BETYPE="IDREF" FILEID="alto_00334_0"/>
+            <area BEGIN="BL_668.1" BETYPE="IDREF" FILEID="alto_00334_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b658-3" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_658.4" BETYPE="IDREF" FILEID="alto_00329_1"/>
+            <area BEGIN="BL_659.1" BETYPE="IDREF" FILEID="alto_00330_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b674-6" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_674.6" BETYPE="IDREF" FILEID="alto_00337_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-4" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.4" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-5" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.5" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            <area BEGIN="BL_670.1" BETYPE="IDREF" FILEID="alto_00335_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

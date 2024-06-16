@@ -1,0 +1,668 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0052" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Alaska Treadwell Gold Min. Co. v. Whelan">ALASKA TREADWELL GOLD MIN. CO. v. WHELAN</name>
+          <docketnumber>No. 161</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 380</citation>
+          <citation category="parallel" type="bluebook">64 F. 462</citation>
+          <decisiondate>1894-10-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:05Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00196_1" MIMETYPE="image/tiff" CHECKSUM="bdc0664a0f7f056451dd3f3fb94266db" CHECKSUMTYPE="MD5" SIZE="6514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00196_1.tif"/>
+      </file>
+      <file ID="tiff_00197_0" MIMETYPE="image/tiff" CHECKSUM="c866b13d544c61cd896c96d4be08d4db" CHECKSUMTYPE="MD5" SIZE="32064">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00197_0.tif"/>
+      </file>
+      <file ID="tiff_00197_1" MIMETYPE="image/tiff" CHECKSUM="d333ffbe79c0e87bae221f5f288bbe15" CHECKSUMTYPE="MD5" SIZE="52574">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00197_1.tif"/>
+      </file>
+      <file ID="tiff_00198_0" MIMETYPE="image/tiff" CHECKSUM="6ffc9a2f5fd1168800762b0db9eb4da5" CHECKSUMTYPE="MD5" SIZE="51214">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00198_0.tif"/>
+      </file>
+      <file ID="tiff_00198_1" MIMETYPE="image/tiff" CHECKSUM="c29c1b563640d27d6be593e6eee25028" CHECKSUMTYPE="MD5" SIZE="55038">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00198_1.tif"/>
+      </file>
+      <file ID="tiff_00199_0" MIMETYPE="image/tiff" CHECKSUM="5177d3ed281008f38dbda29a5e0f9982" CHECKSUMTYPE="MD5" SIZE="51894">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00199_0.tif"/>
+      </file>
+      <file ID="tiff_00199_1" MIMETYPE="image/tiff" CHECKSUM="95f54d673cf77ee180ec9c9fa7968469" CHECKSUMTYPE="MD5" SIZE="53412">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00199_1.tif"/>
+      </file>
+      <file ID="tiff_00200_0" MIMETYPE="image/tiff" CHECKSUM="977bfe917e3ec5d4bc857d4efbefc338" CHECKSUMTYPE="MD5" SIZE="52894">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00200_0.tif"/>
+      </file>
+      <file ID="tiff_00200_1" MIMETYPE="image/tiff" CHECKSUM="3f2f56560405b3319af1c38206e785f4" CHECKSUMTYPE="MD5" SIZE="54644">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00200_1.tif"/>
+      </file>
+      <file ID="tiff_00201_0" MIMETYPE="image/tiff" CHECKSUM="139b50b23d0bc19d75946edbc2550071" CHECKSUMTYPE="MD5" SIZE="25584">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00201_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00196_1" MIMETYPE="image/jpg" CHECKSUM="e416758797fa40cf5da1193341170e24" CHECKSUMTYPE="MD5" SIZE="66863">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00196_1.jpg"/>
+      </file>
+      <file ID="jpg_00197_0" MIMETYPE="image/jpg" CHECKSUM="32b67353f807d95c0d7a58c26e1158a2" CHECKSUMTYPE="MD5" SIZE="144684">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00197_0.jpg"/>
+      </file>
+      <file ID="jpg_00197_1" MIMETYPE="image/jpg" CHECKSUM="0e6f7a78f0a4effb97988c776aa3ab7a" CHECKSUMTYPE="MD5" SIZE="203931">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00197_1.jpg"/>
+      </file>
+      <file ID="jpg_00198_0" MIMETYPE="image/jpg" CHECKSUM="4b56f43908df2f495db49f6b63173b95" CHECKSUMTYPE="MD5" SIZE="189962">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00198_0.jpg"/>
+      </file>
+      <file ID="jpg_00198_1" MIMETYPE="image/jpg" CHECKSUM="966bf3c6cc20a346a9fd39453b51e191" CHECKSUMTYPE="MD5" SIZE="214271">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00198_1.jpg"/>
+      </file>
+      <file ID="jpg_00199_0" MIMETYPE="image/jpg" CHECKSUM="d1546ab3b5ceb1085739d4a26c65a3da" CHECKSUMTYPE="MD5" SIZE="197057">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00199_0.jpg"/>
+      </file>
+      <file ID="jpg_00199_1" MIMETYPE="image/jpg" CHECKSUM="0c2ea4ede6f4d33e22b2860d8cc73f1f" CHECKSUMTYPE="MD5" SIZE="207330">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00199_1.jpg"/>
+      </file>
+      <file ID="jpg_00200_0" MIMETYPE="image/jpg" CHECKSUM="0dc51035b845e29f25e669f01c71ca29" CHECKSUMTYPE="MD5" SIZE="191300">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00200_0.jpg"/>
+      </file>
+      <file ID="jpg_00200_1" MIMETYPE="image/jpg" CHECKSUM="dc439538c502a8883e689d1f8837ef88" CHECKSUMTYPE="MD5" SIZE="212518">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00200_1.jpg"/>
+      </file>
+      <file ID="jpg_00201_0" MIMETYPE="image/jpg" CHECKSUM="dc3666c915f9e7c0c508ad0a92079014" CHECKSUMTYPE="MD5" SIZE="125406">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00201_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00196_1" MIMETYPE="text/xml+gzip" CHECKSUM="ad3727adddc414a2798926cfe99b3105" CHECKSUMTYPE="MD5" SIZE="1805">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00196_1.xml.gz"/>
+      </file>
+      <file ID="alto_00197_0" MIMETYPE="text/xml+gzip" CHECKSUM="9e9376400ba2fa4ad8c537b4549c130d" CHECKSUMTYPE="MD5" SIZE="7806">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00197_0.xml.gz"/>
+      </file>
+      <file ID="alto_00197_1" MIMETYPE="text/xml+gzip" CHECKSUM="4a12791d6e6dbd05383f3e72d4eda264" CHECKSUMTYPE="MD5" SIZE="13304">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00197_1.xml.gz"/>
+      </file>
+      <file ID="alto_00198_0" MIMETYPE="text/xml+gzip" CHECKSUM="7e4e467f557f239a50af0af371facfbc" CHECKSUMTYPE="MD5" SIZE="12533">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00198_0.xml.gz"/>
+      </file>
+      <file ID="alto_00198_1" MIMETYPE="text/xml+gzip" CHECKSUM="c87e34d2ce4d051603dd5482dac69b15" CHECKSUMTYPE="MD5" SIZE="13386">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00198_1.xml.gz"/>
+      </file>
+      <file ID="alto_00199_0" MIMETYPE="text/xml+gzip" CHECKSUM="474668089cf065bd5596423a9622123a" CHECKSUMTYPE="MD5" SIZE="12826">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00199_0.xml.gz"/>
+      </file>
+      <file ID="alto_00199_1" MIMETYPE="text/xml+gzip" CHECKSUM="70dd337b1a5d97ee926e024a9f8bd477" CHECKSUMTYPE="MD5" SIZE="13390">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00199_1.xml.gz"/>
+      </file>
+      <file ID="alto_00200_0" MIMETYPE="text/xml+gzip" CHECKSUM="501d36e9b0b7fd9c93d3bfb0326d81bf" CHECKSUMTYPE="MD5" SIZE="12780">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00200_0.xml.gz"/>
+      </file>
+      <file ID="alto_00200_1" MIMETYPE="text/xml+gzip" CHECKSUM="b149f61fe81296c19907381e94d917db" CHECKSUMTYPE="MD5" SIZE="12852">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00200_1.xml.gz"/>
+      </file>
+      <file ID="alto_00201_0" MIMETYPE="text/xml+gzip" CHECKSUM="1206d55ea99962707cb315f5427bb144" CHECKSUMTYPE="MD5" SIZE="6666">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00201_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0052" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="380" lastpage="389">
+              <court pgmap="392" id="b392-6">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="392" id="b392-5">No. 161.</docketnumber>
+              <citation pgmap="392" id="b392-3">64 F. 462</citation>
+              <parties pgmap="392" id="b392-4">ALASKA TREADWELL GOLD MIN. CO. v. WHELAN.</parties>
+              <decisiondate pgmap="392" id="b392-7">Oct. 2,1894.</decisiondate>
+              <attorneys pgmap="393" id="b393-6">T. Z. Blakeman, for plaintiff in error.</attorneys>
+              <attorneys pgmap="393" id="b393-7">Lorenzo S. B. Sawyer, for defendant in error.</attorneys>
+              <p pgmap="393" id="b393-8">Before McKENNA and GILBERT, Circuit Judges, and HAWLEY, District Judge.</p>
+              <opinion type="majority">
+                <author pgmap="393" id="b393-9">HAWLEY, District Judge.</author>
+                <p pgmap="393" id="A9Q">This is an action to re­cover damages for injuries received by the negligence of the defendant (plaintiff in error). The complaint alleges that plaintiff (defendant in error), on the 23d day of No­vember, 1891, while in the employ of defendant as a la­borer at its mine at Douglass Island, in Alaska, was severe­ly and permanently injured by being drawn through the chute from the ore pit when the draw in the tunnel below was opened to load the cars used in conveying the ore to the mill; that this accident occurred without any negli­gence on his part, by the negligence of defendant. The answer admits that the accident occurred, but denies that plaintiff was injured to the extent charged, or that his in­jury was caused by the negligence of defendant, and al­leges that plaintiff was guilty of contributory negligence. Upon these issues the cause was tried before a jury, which resulted in a verdict in favor of plaintiff for $2,950. There was but one witness introduced on behalf of plain­tiff, — the plaintiff himself.</p>
+                <p pgmap="393(19) 394(372)" id="b393-10">The defendant owned a mill, mine, and chlorination works. It had a general manager. It also had a super­intendent or foreman in charge of each of its works. It had three shifts of workmen engaged at labor in the mine, —two in the daytime and one at night. Each shift had separate bosses. A man named Finley was the shift boss at night, and upon this shift the plaintiff was at work when the injury was received. The plaintiff’s duty was to break rock, and get it ready to go through the chutes, to be loaded into cars for conveyance to the mill. He had been employed at that work for about six months prior to the accident. In a place designated as the “pit” the quartz rock blasted from the lodes was thrown where it was bro­ken into pieces, and made ready for the mill. From this pit several chutes led downward into a tunnel, where there was a railroad track leading out to the mill, and on which cars were run to receive the broken rock from the chutes. The lower end of the chutes, which were several feet be­low the floor of the pit, had gates to be opened when the rock was to be drawn from the chutes into the cars. Plaintiff and one McCormick were working in chute No. 17, which was full of broken rock, and the rock was piled over it about 30 feet deep. On the top of this pile were large pieces of rock, which, on the night the accident oc­curred, the plaintiff and McCormick were directed, by Finley, to break. It was Finley’s duty to direct when the rock from any particular chute was to be drawn. It was his custom to go into the pit, and notify the men when he was going to draw from the chute. There is a conflict in the evidence as to whether Finley came back that night after ordering the men to break the rock. The plaintiff testified that he did not. The jury must have found that he did not, or, if he did, that plaintiff did not see or hear him. Within an hour after plaintiff commenced work, un­der Finley’s orders, chute No. 17 was drawn, and plain­tiff went through with the rock, and was injured.</p>
+                <p pgmap="394" id="b394-4">1. At the close of the evidence the defendant moved the court to direct the jury to return a verdict for defend­ant upon the following grounds:</p>
+                <blockquote pgmap="394(39) 395(49)" id="b394-5">“First. That it appears from the testimony that the negligence, if any, which caused the accident to the plain­tiff, and the consequent injuries, are the result of the neg­ligence of a coemployé or fellow workman, Sam. Finley, for which the defendant is not liable. Second. That it appears from the testimony that the plaintiff contributed to the accident himself by carelessly and negligently walk­ing over the top or mouth of the chute after he had warn­ing that rock was to be drawn from there.”</blockquote>
+                <p pgmap="395" id="b395-3">The court overruled the motion.</p>
+                <p pgmap="395" id="b395-4">Did the court err in refusing to instruct the jury to find a verdict for defendant? The first and most impor­tant question is whether Finley, the night boss of the shift of workmen employed at the mine, was a fellow servant of the plaintiff. Finley’s duties were to see that the men did their work, to direct them where to work, and to noti­fy them when rock was to be drawn from the chutes. It was the duty of plaintiff to obey Finley’s orders. Finley was his boss. These questions are undisputed. There was a conflict in the testimony as to whether Finley was au­thorized to employ and discharge men at work under him, or whether he had done so. Plaintiff testified that Finley employed him, and he knew that Finley had discharged other men. Upon this state of the evidence the court sub­mitted the question — as a question of fact — to the jury as to whether or not Finley was a fellow servant, by the following instruction:</p>
+                <blockquote pgmap="395" id="b395-5">“The jury is instructed that the true test is whether the person in question is employed to do any of the duties of the master. If so, he cannot be regarded as the fellow servant, but is the representative of the master, and any negligence on his part in the performance of the duty thus delegated to him must be regarded as the'negligence of the master. You have heard the testimony as to Finley’s au­thority and duties, and whether or not he had any power to employ men or discharge them, or whether he simply acted under another man, who had the same power over him that was exercised over other laborers.”</blockquote>
+                <p pgmap="395(71) 396(435) 397(237)" id="b395-6">We do not deem it necessary to discuss the various defi­nitions of the general rules upon this subject, nor to re­view the conflicting decisions which prevail in the different state courts in regard thereto. The instruction given by the court, which was not objected to, is within the princi­ples announced by the supreme court "of the United States as the governing rule in determining whether or not, in any given case, the injury was caused by the acts of a fellow servant (Railroad Co. v. Baugh, 149 U.S. 369, 13 S.Ct. 914); by the circuit court of appeals in Railroad Co. v. Ward, 10 C.C.A. 166, 61 F. 927; and by this court in Railroad Co. v. Charless, 2 C.C.A. 380, 51 F. 562. It is true that Finley and the plaintiff were employed and paid by the same master, and were occasionally brought together in the same common employment. “But it is by no means true that all persons who are in the employ of a common master are fellow servants of each other, in the sense that one of them is not entitled to recover from the common master for injuries caused by the negligence of another employee. Ever since the rule first enunciat­ed in Priestly v. Fowler was sent upon its devious way, there has not been a court in England or this country that has maintained the contrary. All the labor of the courts since the rule was established at the -outset has been in determining its principal limitations. * * * The true test, it is believed, whether an employee occupies the position of a fellow servant to another employee or is the representative of the master, is to be found, not from the grade or rank of the offending or injured servant, but it is to be determined by the character of the act being per­formed by the offending servant by which another employee is injured; or, in other words, whether the person whose status is in question is charged with the performance of a duty which properly belongs to the master. The master, as such, is required to perform certain duties, and the per­son who discharges any of these duties, no matter what his rank or grade, no matter by what name he may be designated, cannot be a servant within the meaning of the rule under discussion.” -McKin.Fel.Serv. § 23. The de­fendant is not released from liability by the &lt;- fact that there were superior agents standing between Finley and the corporation, who had control and supervision over his acts. The supreme court of the United States has repeat­edly -declared that a master, in employing a servant, im­pliedly engages with him that the place in which he is to work, and the tools and machinery which is furnished him, or the instrumentalities by which he is surrounded, shall be reasonably safe, and that a failure to discharge this du­ty exposes the master to liability for injury caused there­by to the servant; that it is wholly immaterial how, or by whom, the master discharged that duty; and that the master’s liability is not made to depend in any manner up­on the grade of service of a coemployee, but upon the char­acter of the act itself, and a breach of the positive obliga­tion of the master. Hough v. Railway Co., 100 U.S. 213; Railroad Co. v. Herbert, 116 U.S. 648, 6 S.Ct. 590; Rail­road Co. v. Baugh, 149 U.S. 368, 13 S.Ct. 914; Railroad Co. v. Daniels, 152 U.S. 684, 14 S.Ct. 756. These gen­eral principles have been universally followed by this court. Railroad Co. v. Charless, 2 C.C.A. 389, 51 F. 562; Pa­cific Co. v. Lafferty, 6 C.C.A. 474, 57 F. 536; Railway Co. v. Novak, 9 C.C.A. 629, 61 F. 582. It was the mas­ter’s duty, in the present case, to provide a reasonably safe place for its employees to work, to keep the chutes through which the quartz rock was drawn in reasonably good condition, and repair, to employ competent persons in the management thereof, and to notify the workmen engaged in breaking rock in the pit when the rock in the chute would be ■ drawn. This latter duty it delegated to the night boss, Finley. Plaintiff, by his contract of service, did not assume the risk that this duty would not be per­formed.</p>
+                <p pgmap="397" id="b397-3">In Railroad Co. v. Ward, supra, the court of appeals, in discussing a similar question, said: “It is not material, therefore, that the switchman, who in this instance was injured, and the track repairers, whose negligence caused the injury, worked in the same yard, and for the same general purpose of maintaining and operating the railroad of the common employer. It was a duty which, under im­plied contract, the railroad company owed to the switch-­man, to keep the yard and tracks where he was employed to do his work — hazardous enough under the most favor­able conditions — in a reasonably safe condition; and if the trackmen to whom the discharge of that duty was in­trusted negligently left in the track, and between the ties, which they had recently been ballasting, a dangerous hole, which caused the injury complained of, their negligence was attributable to the plaintiff in error; and the case was properly submitted to' the jury without reference to the question of responsibility for injuries caused by fellow servants.”</p>
+                <p pgmap="398" id="b398-3">The present case is distinguishable in some of its facts from Randall v. Railroad Co., 109 U.S. 484, 3 S.Ct. 322, upon which defendant principally relies. There the court held that a brakeman working a switch for his train was' a fellow servant with the engineer of another train, be­cause, among things, “neither works under the orders or control of the other.” Here it is undisputed that the plain­tiff did work under the control of Finley, and was at all times subject to his orders. Although the question wheth­er or not Finley employed and discharged workmen that were under his control might not of itself be conclusive under the test laid down by the court, it was an important factor in determining whether or not he was a fellow servant with the plaintiff or the vice principal of the de­fendant. Ordinarily, the question whether the servant whose negligence caused the injury is a fellow servant with the injured person is a question of law; yet under all the facts of this case and the law applicable thereto it is made clear that the court did not err in submitting it to the jury. It was the duty of the court to declare the law, and give the rule as to the definition of fellow serv­ants as applicable to the facts, and for the jury to deter­mine whether under the facts the case came within the definition. Especially is this true in all cases where, as here, there was a conflict in the evidence as to some of the essential facts. “The case should not have been with­drawn from the jury unless the conclusion followed as mat­ter of law that no recovery could be had upon any view which could be properly taken of the facts the evidence tended to establish.” Texas Railway Co. v. Cox, 145 U.S. 606, 12 S.Ct. 905, and authorities there cited.</p>
+                <p pgmap="398(117) 399(107)" id="b398-4">The court did not err in submitting the question of contributory negligence to the jury. This, perhaps, suf­ficiently appears from what has already been said upon the other branch of the motion, and but little need be add­ed upon this point. It was the duty of the jury, in deter­mining this question, to consider the surroundings in which the plaintiff was placed; the noise of the drills near where he was at work; the fact that the top of the chute was completely covered over with rock to such a depth that it was difficult, if not impossible, to tell where it was. Moreover, the mere fact that there was a conflict of evi­dence as to whether Finley notified the plaintiff when the rock was to be drawn from the chute made it the duty of the court, under proper instructions, to submit this ques­tion to the jury. Kane v. Railroad Co., 128 U.S. 91, 9 S.Ct. 16; Jones v. Railroad Co., 128 U.S. 443, 9 S.Ct. 118; Railroad Co. v. McDade, 135 U.S. 571, 10 S.Ct. 1044; Railway Co. v. Converse, 139 U.S. 469, 11 S.Ct. 569; Railway Co. v. Ives, 144 U.S. 409, 12 S.Ct. 679; Railroad Co. v. Amato, 144 U.S. 467, 12 S.Ct. 740; Rail­road Co. v. Jarvi, 3 C.C.A. 433, 53 F. 70.</p>
+                <p pgmap="399" id="b399-3">2. After defendant’s motion was overruled, the defend­ant requested the court to instruct the jury as follows: “(2) To make the defendant liable in this case for the injury received by the plaintiff, the evidence must satisfy you that the defendant was guilty of negligence causing the injury, to plaintiff; and if you find from the evidence that the company, by its general manager, or by its super­intendent of the men under him, directed any one of the employees or workmen of defendant to notify the men working about the chutes in the pit whenever rock was to be drawn from the chutes into the train, and that this was a standing rule of the defendant company, then your ver­dict must be for the defendant, whether such employee gave the notice and carried out the rule or not, as in that case the negligence of such employe in not giving the no­tice would not be the negligence of the defendant.”</p>
+                <p pgmap="399(149) 400(432)" id="b399-4">The court modified this by adding the words, "Unless you also find from the evidence that the defendant was guilty of gross negligence in employing as such workmen or employees unsuitable, unskilled, and unreliable persons,” and as thus modified the instruction was given. This in­struction, as asked for by the defendant, was clearly er­roneous, and it ought to have been refused. It entirely ignored any reference to the duty which the corporation owed to the plaintiff, and released it from all liability in the premises, provided the jury should find that its general manager or superintendent had directed any of the work­men to notify the men working about the chute when it would be drawn, if there was a standing rule of the com­pany to that effect. There was no rule of the company to that effect offered in evidence. It was not shown that the company had any “standing rule” upon the subject. The testimony shows that it was the custom of the night boss to give the notice, and that this duty had been as­signed to him to perform. It is true that upon the cross-­examination of the plaintiff, when asked if that was a rule of the company, he answered in the affirmative; but it is apparent from the record that he did not mean that the company had adopted a “standing rule.” The instruc­tion authorized the jury to find a verdict for the defend­ant if it had such a standing rule, whether the plaintiff knew of it or not. The modification which the court made was also objectionable in this: that it introduced an is­sue that was not raised by the pleadings. It does not appear that this specific objection was made in the court below. Courts should avoid stating abstract principles which have no application to the issues raised in the case cither by the evidence or by the pleadings, even if such principles are, in all respects, correctly stated. The safest course for courts to pursue when an imperfect instruc­tion is asked for is to refuse the instruction, and to embody in its charge a correct statement of the principles applic­able to the case. The court, in its charge to the jury in this case, instructed the jury upon all the issues raised in the case as favorably to the defendant as the law would warrant, and, taking all the instructions and charge to­gether, we are of opinion that there is no ground for be­lieving that the jury could possibly have- been misled by the modification made to this instruction. How could the defendant have been prejudiced by the modification? It affirmatively appears that the jury must necessarily have found that the injury was caused by the negligence of Fin­ley in failing to give notice to plaintiff when the rode in the chute was drawn. If the jury had found that Finley gave the notice, then, under the charge of the court, the verdict would of course have been for the defendant. If Finley gave the notice, there was no negligence, and the jury could not have found that he was incompetent. If he did not give the notice, he was guilty of negligence, and his negligence was the negligence of the corporation, and this warranted the jury in rendering a verdict in fá­vor of plaintiff; and it was wholly immaterial whether he was a suitable, skilled, or reliable servant.</p>
+                <p pgmap="401" id="b401-3">3. The defendant further requested the court to give the following instruction: “(4) The master is never lia­ble for injuries received by a workman in its employ if the injuries are the result of any negligence on the part of the person injured. That is what the law calls ‘con­tributory negligence.’ And if you find from the evidence that the accident which caused the plaintiff’s injuries was in any manner the result of want of ordinary care on the part of the plaintiff to avoid the accident and escape the damage, the plaintiff cannot recover, and your verdict must be for the defendant,”</p>
+                <p pgmap="401" id="Aqr">—Which the court modified by adding thereto the words:</p>
+                <blockquote pgmap="401" id="b401-5">“Unless you also find from the evidence that the de­fendant was guilty of gross negligence, and the plaintiff’s negligence was slight.”</blockquote>
+                <p pgmap="401" id="b401-6">The court did not err in making this modification. Beach, Contrib.Neg. § 9. The judgment of the district court is affirmed, with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="392" ORDERLABEL="380" TYPE="page">
+        <fptr FILEID="tiff_00196_1"/>
+        <fptr FILEID="jpg_00196_1"/>
+        <fptr FILEID="alto_00196_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_392.1" BETYPE="IDREF" FILEID="alto_00196_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="393" ORDERLABEL="381" TYPE="page">
+        <fptr FILEID="tiff_00197_0"/>
+        <fptr FILEID="jpg_00197_0"/>
+        <fptr FILEID="alto_00197_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_393.1" BETYPE="IDREF" FILEID="alto_00197_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="394" ORDERLABEL="382" TYPE="page">
+        <fptr FILEID="tiff_00197_1"/>
+        <fptr FILEID="jpg_00197_1"/>
+        <fptr FILEID="alto_00197_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_394.2" BETYPE="IDREF" FILEID="alto_00197_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="395" ORDERLABEL="383" TYPE="page">
+        <fptr FILEID="tiff_00198_0"/>
+        <fptr FILEID="jpg_00198_0"/>
+        <fptr FILEID="alto_00198_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_395.2" BETYPE="IDREF" FILEID="alto_00198_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="396" ORDERLABEL="384" TYPE="page">
+        <fptr FILEID="tiff_00198_1"/>
+        <fptr FILEID="jpg_00198_1"/>
+        <fptr FILEID="alto_00198_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_396.2" BETYPE="IDREF" FILEID="alto_00198_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="397" ORDERLABEL="385" TYPE="page">
+        <fptr FILEID="tiff_00199_0"/>
+        <fptr FILEID="jpg_00199_0"/>
+        <fptr FILEID="alto_00199_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_397.2" BETYPE="IDREF" FILEID="alto_00199_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="398" ORDERLABEL="386" TYPE="page">
+        <fptr FILEID="tiff_00199_1"/>
+        <fptr FILEID="jpg_00199_1"/>
+        <fptr FILEID="alto_00199_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_398.1" BETYPE="IDREF" FILEID="alto_00199_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="399" ORDERLABEL="387" TYPE="page">
+        <fptr FILEID="tiff_00200_0"/>
+        <fptr FILEID="jpg_00200_0"/>
+        <fptr FILEID="alto_00200_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_399.3" BETYPE="IDREF" FILEID="alto_00200_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="400" ORDERLABEL="388" TYPE="page">
+        <fptr FILEID="tiff_00200_1"/>
+        <fptr FILEID="jpg_00200_1"/>
+        <fptr FILEID="alto_00200_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_400.2" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="401" ORDERLABEL="389" TYPE="page">
+        <fptr FILEID="tiff_00201_0"/>
+        <fptr FILEID="jpg_00201_0"/>
+        <fptr FILEID="alto_00201_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_401.2" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.7" BETYPE="IDREF" FILEID="alto_00198_0"/>
+            <area BEGIN="BL_396.1" BETYPE="IDREF" FILEID="alto_00198_1"/>
+            <area BEGIN="BL_397.1" BETYPE="IDREF" FILEID="alto_00199_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.5" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.6" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-3" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.4" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b399-3" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_399.4" BETYPE="IDREF" FILEID="alto_00200_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.5" BETYPE="IDREF" FILEID="alto_00197_1"/>
+            <area BEGIN="BL_395.1" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-10" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.16" BETYPE="IDREF" FILEID="alto_00197_0"/>
+            <area BEGIN="BL_394.1" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9Q" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.14" BETYPE="IDREF" FILEID="alto_00197_0"/>
+            <area BEGIN="BL_393.15" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b397-3" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_397.4" BETYPE="IDREF" FILEID="alto_00199_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-3" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.3" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqr" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.4" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.4" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.4" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.4" BETYPE="IDREF" FILEID="alto_00199_1"/>
+            <area BEGIN="BL_399.1" BETYPE="IDREF" FILEID="alto_00200_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b399-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_399.5" BETYPE="IDREF" FILEID="alto_00200_0"/>
+            <area BEGIN="BL_400.1" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-3" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.3" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.6" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-3" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.3" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.5" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.12" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-9" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.13" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.7" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.6" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.5" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.10" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.11" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0035" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Campbell v. Silver Bow Basin Mining Co.">CAMPBELL v. SILVER BOW BASIN MINING CO.</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 240</citation>
+          <citation category="parallel" type="bluebook">49 F. 47</citation>
+          <decisiondate>1892-01-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:21:58Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00126_1" MIMETYPE="image/tiff" CHECKSUM="727c2ff9123d97ac8ff053a223daae2c" CHECKSUMTYPE="MD5" SIZE="40260">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00126_1.tif"/>
+      </file>
+      <file ID="tiff_00127_0" MIMETYPE="image/tiff" CHECKSUM="013783f22d63a15ff653ca41ad36a073" CHECKSUMTYPE="MD5" SIZE="36436">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00127_0.tif"/>
+      </file>
+      <file ID="tiff_00127_1" MIMETYPE="image/tiff" CHECKSUM="492725deda943bf8aba261e71cc9dcc3" CHECKSUMTYPE="MD5" SIZE="27478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00127_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00126_1" MIMETYPE="image/jpg" CHECKSUM="bf2386f76d81e85d51342a043f8b2862" CHECKSUMTYPE="MD5" SIZE="174039">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00126_1.jpg"/>
+      </file>
+      <file ID="jpg_00127_0" MIMETYPE="image/jpg" CHECKSUM="5baed089acfc28736124684444ce3a21" CHECKSUMTYPE="MD5" SIZE="155968">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00127_0.jpg"/>
+      </file>
+      <file ID="jpg_00127_1" MIMETYPE="image/jpg" CHECKSUM="e7324d18a93a86056928e23969d0fc37" CHECKSUMTYPE="MD5" SIZE="129232">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00127_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00126_1" MIMETYPE="text/xml+gzip" CHECKSUM="aed1da6bde9feb4a1be367ffdc4d8863" CHECKSUMTYPE="MD5" SIZE="10272">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00126_1.xml.gz"/>
+      </file>
+      <file ID="alto_00127_0" MIMETYPE="text/xml+gzip" CHECKSUM="3968cee2d44fd08b984ec0f600d5bae0" CHECKSUMTYPE="MD5" SIZE="9018">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00127_0.xml.gz"/>
+      </file>
+      <file ID="alto_00127_1" MIMETYPE="text/xml+gzip" CHECKSUM="e786fdec53f82091d00e3930f75cfd4d" CHECKSUMTYPE="MD5" SIZE="7652">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00127_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0035" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="240" lastpage="242">
+              <court pgmap="252" id="b252-7">Circuit Court of Appeals, Ninth Circuit.</court>
+              <citation pgmap="252" id="b252-5">49 F. 47</citation>
+              <parties pgmap="252" id="b252-6">CAMPBELL v. SILVER BOW BASIN MINING CO.</parties>
+              <decisiondate pgmap="252" id="b252-8">Jan. 25, 1892.</decisiondate>
+              <judges pgmap="253" id="b253-6">Before DEADY, HAWLEY, and MORROW, District Judges.</judges>
+              <attorneys pgmap="253" id="b253-5">C. S. Johnson and John G. Heid, (W. S. Wood, of counsel), for plaintiff in error.</attorneys>
+              <opinion type="majority">
+                <author pgmap="253" id="b253-7">DEADY, District Judge.</author>
+                <p pgmap="253" id="b253-8">This action is brought to recover the possession of a dump claim for mill tailings, situate in Harris mining dis­trict, in the district of Alaska.</p>
+                <p pgmap="253" id="b253-9">It is alleged, in the amended complaint, that the claim does not contain five acres, and is of no value, either as agricultural or mineral land; that the plaintiff is the owner in fee of the mining claim known as the “Fuller First Lode,” situate in Silver Bow basin, in the district afore­said, which is very valuable for the gold it contains; that the plaintiff, for the purpose of mining said lode, has built a quartz-mill, and located and appropriated said dump claim, which is about 1,150 feet south of said quartz-mill, and worth more than $5,000, and is essential to the proper working of said lode; that while the plaintiff was so pos­sessed and entitled to the possession of said dump claim the defendant entered upon the same, and ousted plaintiff there­from, and still wrongfully withholds the possession thereof from' the plaintiff.</p>
+                <p pgmap="253" id="b253-10">There was a demurrer to the complaint, which was sus­tained by the court. The case is here on error, for review of the decision on the demurrer. There is no opinion of the court below in the record, nor is there any brief or ap­pearance of counsel for the defendant.</p>
+                <p pgmap="253(20) 254(27)" id="b253-11">Upon the facts stated in the complaint, and admitted by the demurrer, the plaintiff is entitled to recover. He ap­pears to have had, at least, possession of the claim, and the defendant ousted him without a shadow of right, and is, in fact, a naked trespasser.</p>
+                <p pgmap="254" id="b254-4">The laws of the state of Oregon govern this procedure, (23 St. p. 25), and by them any “person who has a legal estate in real property, and a present right to the posses­sion thereof, may recover such possession, with damages for withholding the same, by an action at law.” Hill’s Comp. 1887, § 316.</p>
+                <p pgmap="254" id="b254-5">In Wilson v. Fine, 38 F. 789, 14 Sawy. 38, it was held, in the United States circuit court for the district of Oregon, that a person in the possession of real property might main­tain this action to recover the same against a mere intruder or wrong-doer.</p>
+                <p pgmap="254" id="b254-6">The judgment of the court below is reversed, and the cause is remanded for further proceedings in accordance with this opinion.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="252" ORDERLABEL="240" TYPE="page">
+        <fptr FILEID="tiff_00126_1"/>
+        <fptr FILEID="jpg_00126_1"/>
+        <fptr FILEID="alto_00126_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_252.2" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="253" ORDERLABEL="241" TYPE="page">
+        <fptr FILEID="tiff_00127_0"/>
+        <fptr FILEID="jpg_00127_0"/>
+        <fptr FILEID="alto_00127_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_253.3" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="254" ORDERLABEL="242" TYPE="page">
+        <fptr FILEID="tiff_00127_1"/>
+        <fptr FILEID="jpg_00127_1"/>
+        <fptr FILEID="alto_00127_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_254.2" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-5" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.5" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-6" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.6" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-7" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.7" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-9" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.12" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-8" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.11" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-6" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.6" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-4" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.4" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-5" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.5" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-8" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.8" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-10" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.13" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-11" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.14" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            <area BEGIN="BL_254.1" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-5" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.8" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-7" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.10" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-6" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.9" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

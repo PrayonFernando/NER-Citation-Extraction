@@ -1,0 +1,504 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0023" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="In re Can-Ah-Couqua for Habeas Corpus">In re Petition of CAN-AH-COUQUA for Habeas Corpus</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 163</citation>
+          <citation category="parallel" type="bluebook">29 F. 687</citation>
+          <decisiondate>1887</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:21:59Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00088_0" MIMETYPE="image/tiff" CHECKSUM="ffaa41f31435782d116d57f51f07cb9e" CHECKSUMTYPE="MD5" SIZE="23960">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00088_0.tif"/>
+      </file>
+      <file ID="tiff_00088_1" MIMETYPE="image/tiff" CHECKSUM="1dcb08612ba55bdbed4556c78c3806cb" CHECKSUMTYPE="MD5" SIZE="32266">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00088_1.tif"/>
+      </file>
+      <file ID="tiff_00089_0" MIMETYPE="image/tiff" CHECKSUM="bcbe5b0942deadbefc2d21113b47408d" CHECKSUMTYPE="MD5" SIZE="55380">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00089_0.tif"/>
+      </file>
+      <file ID="tiff_00089_1" MIMETYPE="image/tiff" CHECKSUM="e67a01a02020fcf3b7195504e6e5a1f4" CHECKSUMTYPE="MD5" SIZE="53308">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00089_1.tif"/>
+      </file>
+      <file ID="tiff_00090_0" MIMETYPE="image/tiff" CHECKSUM="b32ed93faed462735d2a37dccaa70ffe" CHECKSUMTYPE="MD5" SIZE="52792">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00090_0.tif"/>
+      </file>
+      <file ID="tiff_00090_1" MIMETYPE="image/tiff" CHECKSUM="df22ca2861a08112f5756a6bd548ef55" CHECKSUMTYPE="MD5" SIZE="52316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00090_1.tif"/>
+      </file>
+      <file ID="tiff_00091_0" MIMETYPE="image/tiff" CHECKSUM="616179a816a1fa9db356c87f068b1dfb" CHECKSUMTYPE="MD5" SIZE="7764">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00091_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00088_0" MIMETYPE="image/jpg" CHECKSUM="e7941ce0ea7b601b61c19e22b1417335" CHECKSUMTYPE="MD5" SIZE="113501">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00088_0.jpg"/>
+      </file>
+      <file ID="jpg_00088_1" MIMETYPE="image/jpg" CHECKSUM="a1d95285f352bbcc6095140e9f4ff6ad" CHECKSUMTYPE="MD5" SIZE="147240">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00088_1.jpg"/>
+      </file>
+      <file ID="jpg_00089_0" MIMETYPE="image/jpg" CHECKSUM="4e3a13669898b018b6cb13e3241efe0f" CHECKSUMTYPE="MD5" SIZE="199681">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00089_0.jpg"/>
+      </file>
+      <file ID="jpg_00089_1" MIMETYPE="image/jpg" CHECKSUM="3909b107e80f0abfca757640bd1d151c" CHECKSUMTYPE="MD5" SIZE="200474">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00089_1.jpg"/>
+      </file>
+      <file ID="jpg_00090_0" MIMETYPE="image/jpg" CHECKSUM="e6b056e083d6c4cdab9af10d9f6e4297" CHECKSUMTYPE="MD5" SIZE="188859">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00090_0.jpg"/>
+      </file>
+      <file ID="jpg_00090_1" MIMETYPE="image/jpg" CHECKSUM="6afc06092bdfdd3d69f37f686fd8a0b3" CHECKSUMTYPE="MD5" SIZE="203565">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00090_1.jpg"/>
+      </file>
+      <file ID="jpg_00091_0" MIMETYPE="image/jpg" CHECKSUM="8ca995f3257e9be58a3a22b173cd97ae" CHECKSUMTYPE="MD5" SIZE="71134">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00091_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00088_0" MIMETYPE="text/xml+gzip" CHECKSUM="744da00a7561732ac4d0892ca0bfab75" CHECKSUMTYPE="MD5" SIZE="6603">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00088_0.xml.gz"/>
+      </file>
+      <file ID="alto_00088_1" MIMETYPE="text/xml+gzip" CHECKSUM="85ddef0489c5431047867b68c3cb18ee" CHECKSUMTYPE="MD5" SIZE="7619">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00088_1.xml.gz"/>
+      </file>
+      <file ID="alto_00089_0" MIMETYPE="text/xml+gzip" CHECKSUM="c2d62b4671160114099c4c34fe32b129" CHECKSUMTYPE="MD5" SIZE="12505">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00089_0.xml.gz"/>
+      </file>
+      <file ID="alto_00089_1" MIMETYPE="text/xml+gzip" CHECKSUM="c8e8874ab500bfb7194e0be2059aa0a7" CHECKSUMTYPE="MD5" SIZE="12783">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00089_1.xml.gz"/>
+      </file>
+      <file ID="alto_00090_0" MIMETYPE="text/xml+gzip" CHECKSUM="cd899486a4d14ff6f5aa87144424bc6c" CHECKSUMTYPE="MD5" SIZE="12470">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00090_0.xml.gz"/>
+      </file>
+      <file ID="alto_00090_1" MIMETYPE="text/xml+gzip" CHECKSUM="3ee42f085353307133c1a098b5456473" CHECKSUMTYPE="MD5" SIZE="12264">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00090_1.xml.gz"/>
+      </file>
+      <file ID="alto_00091_0" MIMETYPE="text/xml+gzip" CHECKSUM="1891e8247e70eb85516770afe3e895a7" CHECKSUMTYPE="MD5" SIZE="2339">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00091_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0023" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="163" lastpage="169">
+              <court pgmap="175" id="b175-9">District Court, D. Alaska.</court>
+              <citation pgmap="175" id="b175-7">29 F. 687</citation>
+              <parties pgmap="175" id="b175-8">In re Petition of CAN-AH-COUQUA for Habeas Corpus.</parties>
+              <decisiondate pgmap="175" id="As">1887.</decisiondate>
+              <attorneys pgmap="176" id="b176-8">Clark &amp; Berry, for petitioner.</attorneys>
+              <attorneys pgmap="176" id="b176-9">M. D. Ball, for defendants.</attorneys>
+              <opinion type="majority">
+                <author pgmap="176" id="b176-10">DAWSON, Judge.</author>
+                <p pgmap="176" id="b176-11">This is a proceeding by habeas corpus, brought by Can-ah­couqua, an Indian woman, the mother of Can-ca-dach, a male child eight years of age, against William A. Kelly, who is superintendent of the Presbyterian mission school at Sitka, and A. E. Austin, who is an ordained minister of the gospel of the Presbyterian Church denomination, and is now chaplain of said Presbyterian mission school. The petition alleges that Can-ca-dach is unlawfully restrained of his liberty by the defendants; that his restraint and deten­tion is contrary to the will and wishes of the petitioner. The defendants, making return to the writ, admit the cus­tody of Can-ca-dach, but deny the illegality of the restraint, and assert that they are detaining him in the mission school pursuant to the assent and agreement of the petitioner made in May, 1883; that under said agreement said petitioner voluntarily surrendered the custody and care of her child (he being then only five years old) to the superintendent of the mission school for a period of five years, there to be instructed in the ordinary branches of an English educa­tion.</p>
+                <p pgmap="176(23) 177(289)" id="b176-12">The facts are, as I have been able to gather them from the evidence, that some years ago the Board of Home Mis­sions of the Presbyterian Church of the United States of America, an institution incorporated under the laws of the state of New York, established a number of mission schools in Alaska, and, among the number, one at Sitka. The schools were equipped and supplied with teachers by liberal contributions from the Presbyterian Church denominations in various parts of the country, and especially in the city and state of New York. In May, 1883, the defendant Austin was the superintendent of, and in charge of, the mission school at Sitka. The petitioner, Can-ah-couqua, admits that at that time she surrendered the custody of her child to the superintendent for the purpose of having him educated. In March, 1885, the defendant Austin was su­perseded as superintendent of said mission school by one A. J. Davis, and he by the defendant Kelly, and Can-ca­dach has since that time remained in his custody. In July, 1884, congress appropriated $15,000 for the support and education of Indian children of both sexes at industrial schools in Alaska, (23 U.S.St. at Large, 91); and in March, 1885, a further appropriation of $20,000 was made by congress for the same purpose, (Id. 381). In Decem­ber, 1885, the commissioner of Indian affairs, for and on behalf of the United States, entered into a contract in writ­ing with the Board of Home Missions of the Presbyterian Church of the United States of America, of New York city, by the terms of which it was stipulated and agreed that, by a compliance with certain conditions therein set forth by the said Presbyterian Board of Home Missions, the United States would pay to said Board of Missions $11.25 per month for each scholar taught in said school.</p>
+                <p pgmap="177(106) 178(172)" id="b177-3">The question presented is by no means free from diffi­culty. The civil government of Alaska is anomalous. It has no parallel in the history of territorial governments. The school laws of the state of Oregon are inapplicable, and we are left to assimilate the adjudications of these questions as nearly as possible to the rules of the common law. From the congressional appropriations referred to, and the contract of December, 1885, it is quite evident that the policy of the government is to aid these mission schools in the great Christian enterprise of rescuing from lives of barbarism and savagery these Indian children, and confer­ring upon them the benefits of an educated civilization. But how shall this be done? There is no law compelling-the Indians to send their children to school. Moral suasion is the only weapon in the hands of the missionaries. Can the parents bind their children in any manner except by in­denture? The General Laws of Oregon, p. 559, forbid minors to be bound unless by indenture, but I am relieved from determining the applicability of that provision to Alaska, because the surrender of the custody of this child took place one year prior to the adoption by congress of any part of the general laws of Oregon as the law of this territory, and, as a rule, laws can only operate prospective­ly. It will be observed that there is no provision in the organic act of May 17, 1884, from which it can be inferred that congress intended section 7 of said act to have any retroactive force. Laws cannot act retroactively unless the intent is manifest, clear, and undoubted.</p>
+                <p pgmap="178" id="b178-4">Can a parent, then, at common law, surrender the custody of an infant by parol and acquiescence, so as to preclude the right to recover it on habeas corpus ? The earlier decisions are to the effect that such contracts are not binding, but the later decisions are unquestionably against the repudiation of such agreements by the parent; and, unless a clear breach of the agreement is shown, or abuse of the child, or a failure to educate and provide for, and properly super­intend its moral training, the courts will not assist in its recovery on habeas corpus. Church, Hab.Corp. 444; Com. v. Dougherty, 1 Leg.Gaz.(Pa.) 63; Pool v. Gott, 14 Law Rep. 269; Hurd, Hab.Corp. 545.</p>
+                <p pgmap="178(122) 179(39)" id="b178-5">In this case the mother has, without objection, acquiesced in her agreement for nearly three years, has witnessed the progress of her child in his studies, and has expressed satis­faction at the treatment he has received. The evidence shows most clearly that Can-ca-dach has, during this time, been fed, clothed, sheltered, and cared for at the mission without expense to the petitioner, and that he is slowly but surely acquiring an education. The question now arises, what is for the best interest of the child ? This is the para­mount fact, and one that must have a controlling influence in determining this question. In re Bort, 25 Kan. 308. Will it be contended that his best interests require that he shall be released from the custody of the superintendent of the mission school, and permitted to go where the fasci­nations of camp life will soon obliterate and absorb the im­pressions of civilization his young mind has received?</p>
+                <p pgmap="179" id="b179-3">It is the experience of those who have been engaged in these Indian schools that, to make them effectual as dis­seminators of civilization, Indian children should, at a tender and impressionable age, be entirely withdrawn from the camp, and placed under the control of the schools. It is quite obvious that to permit the parents of these children to place them in school under an agreement that they shall remain there for a determinate period, and then withdraw them at their own pleasure, would render all efforts of both the government and missions to civilize them abortive.</p>
+                <p pgmap="179" id="b179-4">These Alaska Indians are dependent allies, under the pro­tection of the laws, and subject to such restraints in their tribal relations as may be deemed necessary for their own welfare, promotion, and protection, and they must recog­nize the binding force of their obligations. Now, unless I should refuse to be influenced by considerations which in­fluence the rest of mankind, I cannot escape the conclusion that the best interests of this child imperatively require that he should be remanded to the custody of the superintendent of the mission school. I am fully aware that the jurisdic­tion asserted in equity to remove an infant from the cus­tody of its parent, or to withhold that custody after it has been surrendered, and a desire is expressed to again assume it, is admitted to be of great delicacy, and attended with embarrassment and responsibility. But when sound morals, the good order and protection of civilized society, unmis­takably demand it, the court has no alternative. There is no doubt as to the jurisdiction or duty in matters of this kind. 2 Kent, Comm. 205; In re Wollstonecroft, 4 Johns. Ch.(N.Y.) 80; U. S. v. Green, Fed.Cas.No.15,256, 3 Mason, 482.</p>
+                <p pgmap="179(59) 180(48)" id="b179-5">The education and moral training of the child should invariably be looked to by the court. Story, Eq.Jur. §§ 1327-1342, inclusive. The wishes of the child may be con­sulted, but they are not binding on the court. The court cannot substitute the wishes and caprice of the child for its own deliberate judgment. Consulting the wishes of the child is a mere rule, founded upon the duty of the court to exercise a wise and just discretion, and not upon any permanent and fixed right of the child to decide for him­self and the court the question of custody. Rex v. Delaval, 3 Burr. 1436.</p>
+                <p pgmap="180" id="b180-4">The habeas corpus proceeding would be a mockery if, after all, the child should be permitted to decide for him­self where he will go, or under whose roof he will shelter. I can only look to the capacity, information, intelligence, and judgment of the child, and I am clearly of the opinion that Can-ca-dach has not yet reached that discretion which would enable him to choose wisely. Rude and untutored as the petitioner is shown to be, yet it is evident that the profligate and dissolute life she has.lived has not entirely extinguished the natural affection and love of a mother’s heart, and she asks to be permitted to visit her child.</p>
+                <p pgmap="180(228) 181(23)" id="b180-5">The judgment of the court will be that Can-ca-dach be remanded to the custody of the superintendent of the mis­sion school under the following order, which I have pre­pared: The superintendent, William A. Kelly, shall keep the child Can-ca-dach in the mission school, subject to the order of this court, and shall produce him in court when called upon by the court so to do. He shall maintain order, and refrain from inflicting corporal punishment upon In­dian children, unless it should become absolutely necessary 'to the maintenance of discipline, and even then it must be done in moderation only; that he shall labor during school hours to advance the pupils in their studies, to create in their minds a desire for knowledge, principle, morality, politeness, cleanliness, and the preservation of physical health; that he shall impose on Can-ca-dach such manual labor only as will be consistent with his tender years. In the industrial department he and his subordinates must be equally vigilant in imparting to these Indian children a knowledge of mechanics and mechanical arts; and that Can-ah-couqua, the petitioner, shall, upon suitable occasions, when her presence will not interfere with recitations or study, be permitted to visit her child at the mission; that she must be received without injury or insult, and be per­mitted to remain with her child under surveillance of the superintendent or his subordinates a reasonable length of time, but shall not be permitted to take him away-without the order of the court.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="175" ORDERLABEL="163" TYPE="page">
+        <fptr FILEID="tiff_00088_0"/>
+        <fptr FILEID="jpg_00088_0"/>
+        <fptr FILEID="alto_00088_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_175.3" BETYPE="IDREF" FILEID="alto_00088_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="176" ORDERLABEL="164" TYPE="page">
+        <fptr FILEID="tiff_00088_1"/>
+        <fptr FILEID="jpg_00088_1"/>
+        <fptr FILEID="alto_00088_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_176.1" BETYPE="IDREF" FILEID="alto_00088_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="177" ORDERLABEL="165" TYPE="page">
+        <fptr FILEID="tiff_00089_0"/>
+        <fptr FILEID="jpg_00089_0"/>
+        <fptr FILEID="alto_00089_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_177.2" BETYPE="IDREF" FILEID="alto_00089_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="178" ORDERLABEL="166" TYPE="page">
+        <fptr FILEID="tiff_00089_1"/>
+        <fptr FILEID="jpg_00089_1"/>
+        <fptr FILEID="alto_00089_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_178.2" BETYPE="IDREF" FILEID="alto_00089_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="179" ORDERLABEL="167" TYPE="page">
+        <fptr FILEID="tiff_00090_0"/>
+        <fptr FILEID="jpg_00090_0"/>
+        <fptr FILEID="alto_00090_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_179.2" BETYPE="IDREF" FILEID="alto_00090_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="180" ORDERLABEL="168" TYPE="page">
+        <fptr FILEID="tiff_00090_1"/>
+        <fptr FILEID="jpg_00090_1"/>
+        <fptr FILEID="alto_00090_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_180.2" BETYPE="IDREF" FILEID="alto_00090_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="181" ORDERLABEL="169" TYPE="page">
+        <fptr FILEID="tiff_00091_0"/>
+        <fptr FILEID="jpg_00091_0"/>
+        <fptr FILEID="alto_00091_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_181.3" BETYPE="IDREF" FILEID="alto_00091_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b176-12" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_176.12" BETYPE="IDREF" FILEID="alto_00088_1"/>
+            <area BEGIN="BL_177.1" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b176-11" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_176.11" BETYPE="IDREF" FILEID="alto_00088_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b176-10" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_176.10" BETYPE="IDREF" FILEID="alto_00088_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b179-3" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_179.4" BETYPE="IDREF" FILEID="alto_00090_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b179-4" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_179.5" BETYPE="IDREF" FILEID="alto_00090_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b179-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_179.6" BETYPE="IDREF" FILEID="alto_00090_0"/>
+            <area BEGIN="BL_180.1" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="As" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.10" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b180-4" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_180.4" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b180-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_180.5" BETYPE="IDREF" FILEID="alto_00090_1"/>
+            <area BEGIN="BL_181.1" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b178-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_178.5" BETYPE="IDREF" FILEID="alto_00089_1"/>
+            <area BEGIN="BL_179.1" BETYPE="IDREF" FILEID="alto_00090_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b178-4" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_178.4" BETYPE="IDREF" FILEID="alto_00089_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-3" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.4" BETYPE="IDREF" FILEID="alto_00089_0"/>
+            <area BEGIN="BL_178.1" BETYPE="IDREF" FILEID="alto_00089_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b175-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.8" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b175-9" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.9" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b175-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.7" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b176-9" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_176.9" BETYPE="IDREF" FILEID="alto_00088_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b176-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_176.8" BETYPE="IDREF" FILEID="alto_00088_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

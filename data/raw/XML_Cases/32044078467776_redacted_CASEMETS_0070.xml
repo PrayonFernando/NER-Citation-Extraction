@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0070" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Harkrader v. Carroll">HARKRADER v. CARROLL</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 479</citation>
+          <citation category="parallel" type="bluebook">76 F. 474</citation>
+          <decisiondate>1896-10-28</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:06Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00246_0" MIMETYPE="image/tiff" CHECKSUM="9d1f21db706d916b2f9c1d64931497c0" CHECKSUMTYPE="MD5" SIZE="9510">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00246_0.tif"/>
+      </file>
+      <file ID="tiff_00246_1" MIMETYPE="image/tiff" CHECKSUM="7c3c2b9c7721b184f610437c6f5af984" CHECKSUMTYPE="MD5" SIZE="48566">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00246_1.tif"/>
+      </file>
+      <file ID="tiff_00247_0" MIMETYPE="image/tiff" CHECKSUM="891f2291f1caf7ea8fe813948daae00f" CHECKSUMTYPE="MD5" SIZE="52448">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00247_0.tif"/>
+      </file>
+      <file ID="tiff_00247_1" MIMETYPE="image/tiff" CHECKSUM="6c762bfe8b417365c9534df7383c1360" CHECKSUMTYPE="MD5" SIZE="50894">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00247_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00246_0" MIMETYPE="image/jpg" CHECKSUM="bdcf9e051116c005c4b7a32908cf9afd" CHECKSUMTYPE="MD5" SIZE="81191">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00246_0.jpg"/>
+      </file>
+      <file ID="jpg_00246_1" MIMETYPE="image/jpg" CHECKSUM="e0622e2f4232d168aaf00e84dd8b931e" CHECKSUMTYPE="MD5" SIZE="198892">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00246_1.jpg"/>
+      </file>
+      <file ID="jpg_00247_0" MIMETYPE="image/jpg" CHECKSUM="f8dc63a30736e605c246b5de6d75de89" CHECKSUMTYPE="MD5" SIZE="195633">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00247_0.jpg"/>
+      </file>
+      <file ID="jpg_00247_1" MIMETYPE="image/jpg" CHECKSUM="4050c8ff28b6135e6d35a285612c4b4a" CHECKSUMTYPE="MD5" SIZE="195913">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00247_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00246_0" MIMETYPE="text/xml+gzip" CHECKSUM="0d74c26fe60c360fd01afb737bca5f0a" CHECKSUMTYPE="MD5" SIZE="2820">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00246_0.xml.gz"/>
+      </file>
+      <file ID="alto_00246_1" MIMETYPE="text/xml+gzip" CHECKSUM="8b218ed7ada1b96c453fc3f7f11aa921" CHECKSUMTYPE="MD5" SIZE="11357">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00246_1.xml.gz"/>
+      </file>
+      <file ID="alto_00247_0" MIMETYPE="text/xml+gzip" CHECKSUM="8084f9f826c6c033d315b8671b101efc" CHECKSUMTYPE="MD5" SIZE="13516">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00247_0.xml.gz"/>
+      </file>
+      <file ID="alto_00247_1" MIMETYPE="text/xml+gzip" CHECKSUM="a47131e0c20df6ad93c53ffdfff687ab" CHECKSUMTYPE="MD5" SIZE="12658">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00247_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0070" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="479" lastpage="482">
+              <court pgmap="491" id="b491-7">District Court, D. Alaska.</court>
+              <citation pgmap="491" id="b491-5">76 F. 474</citation>
+              <parties pgmap="491" id="b491-6">HARKRADER v. CARROLL.</parties>
+              <decisiondate pgmap="491" id="b491-8">Oct. 28, 1896.</decisiondate>
+              <attorneys pgmap="492" id="b492-3">J. F. Maloney (John Trumbull, on brief), for plaintiff.</attorneys>
+              <attorneys pgmap="492" id="b492-4">Johnson &amp; Heid, for defendant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="492" id="b492-5">DELANEY, District Judge.</author>
+                <p pgmap="492" id="b492-6">On the 1st day of November, 1894, letters patent were issued by the United States to the defendant for a certain lode-mining claim, known as the “Monitor,” situated in Silver Bow basin, Harris mining district. The claim was located by William Moore and Thomas Mooney on the 4th day of June, 1881. Application for the patent was made on the 23d day of August, 1890, and a receiver’s receipt was issued to defendant on the 27th day of July, 1892. After the application was filed, and before the certificate was issued, to wit on the 24th day of January, 1891, Moore executed a deed to the plaintiff for an undivided one-half of the claim. This bill is brought for the purpose of hav­ing defendant declared a trustee for plaintiff of said un­divided one-half, and to compel a conveyance thereof. The issue of abandonment is raised by the pleadings, and all the material facts except such abandonment have been stipulated by the parties, leaving that issue the only ques­tion of fact to be tried. It was further stipulated by par­ties “that, if the court finds, from the evidence in the case, that there was no abandonment, then plaintiff is entitled to the undivided one-half of the claim; but if the court finds, from the evidence, that Moore had abandoned the claim, then defendant is the owner of all the land described in the patent.”</p>
+                <p pgmap="492(109) 493(173)" id="b492-7">Possessory rights in mining claims may be divested by sale or gift, by forfeiture, or by abandonment. No ques­tion of forfeiture is presented in this case by either the pleadings or the proof. The issue is one of abandonment, and, if there was an abandonment by Moore, occurring before the sale and conveyance from him to the plaintiff, then the latter can take no title thereunder. Abandon­ment is a matter of intention, and whenever the intention and an actual surrender of the claim are united, the aban­donment is complete, and operates instanter to restore the title to the United States. Where a miner gives up his claim, and goes away from it, without any intention of holding or repossessing it, and regardless of what may become of it, or who may appropriate it, an 'abandonment takes place, and the property reverts to its original status as a part of the unoccupied public domain. It is then open to location by the first comer, and, after others have ac­quired rights therein, no sale by the former locator, made subsequently to his abandonment, will convey any right or title to his grantee, or in any way affect intervening rights; for, the rights of the original locator having be­come wholly divested by abandonment, he has nothing to convey, and his grantee has nothing to take. Derry v. Ross, 5 Colo. 295; Richardson v. McNulty, 24 Cal. 339; Davis v. Butler, 6 Cal. 510; French v. Manufacturing Co., 23 Pick. (Mass.) 216; McGoon v. Ankeny, 11 Ill. 558; Mallett v. Mining Co., 1 Nev. 188; Bell v. Rock Co., 36 Cal. 214; 1 Morr.Min.R. pp. 1, 7, 9, 11, 17, 45.</p>
+                <p pgmap="493" id="b493-4">While lapse of time is not an essential element of aban­donment, it may be a strong circumstance, in connection with others, to prove the intention to abandon. Mallet v. Uncle Sam Co., supra. The testimony in this case is undisputed that in 1882, about a year after the location of the claim, Moore left this mining district and territory, and has never since returned to the claim. Upon this point he testified as follows: “Q. How long did you work the claim? A. I worked it from that date [meaning date of location] somewhere about nearly a year. Q. Where did you go then? A. I went way, sick and disgusted, out of the district. Q. Have you ever been upon the claim since? A. No, sir; I never have. Q. Have you done or caused to be done any assessment work on that claim? A. I have not, sir. Q. Have you paid or caused to be paid for any labor on that claim since 1882? A. I have not, sir. Q. Was it your purpose, or was it not your purpose, to return to the Monitor claim after you had left it? A. The doctor told me it would take me from five to seven years to get well of my troubles, and then I gave up all hopes of returning to the claim.”</p>
+                <p pgmap="493(31) 494(234)" id="b493-5">If these facts do not constitute an abandonment, it is difficult to conceive what will. In a case decided by the supreme court of California, March 20, 1896, it was held that, where the owner of a mining claim, which was er­roneously included in a sale under a decree of court, moved his effects from the claim, and absented himself for two years, allowing the purchasers to work it without objec­tion, although knowing that their title was invalid, and intending to claim it in case their development rendered it profitable to do so, his acts constituted an abandonment. Trevaskis v. Peard, 44 P. 246. Assuredly the testimony in the case at bar goes a long way further towards estab­lishing an abandonment than that in the case cited. In the present case the locator, Moore, left the claim in 1882, and never returned to it, or pretended to exercise any acts of ownership over it, until he executed the deed to the plaintiff in January, 1891, nearly nine years after he left the district. Aside from this, he testifies that, when he left, he gave up all hopes of returning to the claim. Ap­plying the well-settled rules of law to this state of facts, it seems impossible to reach any other conclusions than that the claim was abandoned by Moore in 1882; that whatever interest he acquired by virtue of his location was instantly lost upon such abandonment, and reverted to the United States; and that, at the time of making the deed to plaintiff in 1891, he had nothing to convey.</p>
+                <p pgmap="494" id="b494-4">While -neither the pleadings nor the testimony, the pat­ent excepted, disclose what became of his interest after it was restored to the United States by such abandonment, the presumption is in favor of the regularity of the pro­ceedings in the land office prior to the issuance of the pat­ent to the defendant, and that sufficient evidence was brought, and proper proceedings were had, before the land office, to authorize the granting of a patent to the defend­ant for the full claim. Polk v. Wendell, 9 Cranch, 87; Minter v. Crommelin, 18 How. 87; Bagnell v. Broderick, 13 Pet. 450; Moffat v. U. S., 112 U.S. 24, 5 S.Ct. 10. In any event, the plaintiff here cannot inquire into the pro­ceedings in the land office for the purpose of attacking the patent. -As he is seeking to obtain title under the patent, he cannot be heard in this suit to deny or dispute its va­lidity.</p>
+                <p pgmap="494" id="b494-5">It follows, from these views, that the bill must be dis­missed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="491" ORDERLABEL="479" TYPE="page">
+        <fptr FILEID="tiff_00246_0"/>
+        <fptr FILEID="jpg_00246_0"/>
+        <fptr FILEID="alto_00246_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_491.3" BETYPE="IDREF" FILEID="alto_00246_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="492" ORDERLABEL="480" TYPE="page">
+        <fptr FILEID="tiff_00246_1"/>
+        <fptr FILEID="jpg_00246_1"/>
+        <fptr FILEID="alto_00246_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_492.1" BETYPE="IDREF" FILEID="alto_00246_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="493" ORDERLABEL="481" TYPE="page">
+        <fptr FILEID="tiff_00247_0"/>
+        <fptr FILEID="jpg_00247_0"/>
+        <fptr FILEID="alto_00247_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_493.3" BETYPE="IDREF" FILEID="alto_00247_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="494" ORDERLABEL="482" TYPE="page">
+        <fptr FILEID="tiff_00247_1"/>
+        <fptr FILEID="jpg_00247_1"/>
+        <fptr FILEID="alto_00247_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_494.2" BETYPE="IDREF" FILEID="alto_00247_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b493-4" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_493.4" BETYPE="IDREF" FILEID="alto_00247_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b493-5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_493.5" BETYPE="IDREF" FILEID="alto_00247_0"/>
+            <area BEGIN="BL_494.1" BETYPE="IDREF" FILEID="alto_00247_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b494-4" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_494.4" BETYPE="IDREF" FILEID="alto_00247_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-8" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.8" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.5" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b494-5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_494.5" BETYPE="IDREF" FILEID="alto_00247_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-7" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.7" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-6" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.6" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b492-6" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_492.7" BETYPE="IDREF" FILEID="alto_00246_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b492-7" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_492.8" BETYPE="IDREF" FILEID="alto_00246_1"/>
+            <area BEGIN="BL_493.1" BETYPE="IDREF" FILEID="alto_00247_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b492-4" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_492.5" BETYPE="IDREF" FILEID="alto_00246_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b492-5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_492.6" BETYPE="IDREF" FILEID="alto_00246_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b492-3" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_492.4" BETYPE="IDREF" FILEID="alto_00246_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

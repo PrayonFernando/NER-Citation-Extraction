@@ -1,0 +1,908 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0021" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="United States v. Nelson">UNITED STATES v. NELSON</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 143</citation>
+          <citation category="parallel" type="bluebook">29 F. 202</citation>
+          <decisiondate>1886</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:21:59Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00078_0" MIMETYPE="image/tiff" CHECKSUM="42c07e6a3d54a434160d01ab6d5cc812" CHECKSUMTYPE="MD5" SIZE="15896">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00078_0.tif"/>
+      </file>
+      <file ID="tiff_00078_1" MIMETYPE="image/tiff" CHECKSUM="bc2ade5f9b2617b7ebbb39b76184522c" CHECKSUMTYPE="MD5" SIZE="52346">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00078_1.tif"/>
+      </file>
+      <file ID="tiff_00079_0" MIMETYPE="image/tiff" CHECKSUM="0ad5c0aa657c41837b60b6e6bc2e9d1d" CHECKSUMTYPE="MD5" SIZE="51190">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00079_0.tif"/>
+      </file>
+      <file ID="tiff_00079_1" MIMETYPE="image/tiff" CHECKSUM="ae600d216f47ad54ee2ecc3f5d7b189e" CHECKSUMTYPE="MD5" SIZE="49082">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00079_1.tif"/>
+      </file>
+      <file ID="tiff_00080_0" MIMETYPE="image/tiff" CHECKSUM="8ebca9d44659115cc7aada2c4546d90a" CHECKSUMTYPE="MD5" SIZE="50696">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00080_0.tif"/>
+      </file>
+      <file ID="tiff_00080_1" MIMETYPE="image/tiff" CHECKSUM="f8efc96623d5a8d5dc7d53a7489b2f55" CHECKSUMTYPE="MD5" SIZE="54266">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00080_1.tif"/>
+      </file>
+      <file ID="tiff_00081_0" MIMETYPE="image/tiff" CHECKSUM="6167bddd188366f014dc50026ad0eb8f" CHECKSUMTYPE="MD5" SIZE="52184">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00081_0.tif"/>
+      </file>
+      <file ID="tiff_00081_1" MIMETYPE="image/tiff" CHECKSUM="de2c12c9449e8f4a039d3f9d7374442b" CHECKSUMTYPE="MD5" SIZE="53210">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00081_1.tif"/>
+      </file>
+      <file ID="tiff_00082_0" MIMETYPE="image/tiff" CHECKSUM="1dd2edb24ceac5103a9ac3f4e5fbe4a3" CHECKSUMTYPE="MD5" SIZE="52552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00082_0.tif"/>
+      </file>
+      <file ID="tiff_00082_1" MIMETYPE="image/tiff" CHECKSUM="64d908523217bb11fba19b03f6342626" CHECKSUMTYPE="MD5" SIZE="54036">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00082_1.tif"/>
+      </file>
+      <file ID="tiff_00083_0" MIMETYPE="image/tiff" CHECKSUM="7445e94b5657e9d469752c58d6846a8f" CHECKSUMTYPE="MD5" SIZE="51734">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00083_0.tif"/>
+      </file>
+      <file ID="tiff_00083_1" MIMETYPE="image/tiff" CHECKSUM="f335ac1bf2fe1b18496017f4a78f6976" CHECKSUMTYPE="MD5" SIZE="20156">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00083_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00078_0" MIMETYPE="image/jpg" CHECKSUM="5744fd1367e0947faee6ec90dbe0e908" CHECKSUMTYPE="MD5" SIZE="92262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00078_0.jpg"/>
+      </file>
+      <file ID="jpg_00078_1" MIMETYPE="image/jpg" CHECKSUM="12a3bea4cb7210b6dfccc5ed8c4ab5b5" CHECKSUMTYPE="MD5" SIZE="204825">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00078_1.jpg"/>
+      </file>
+      <file ID="jpg_00079_0" MIMETYPE="image/jpg" CHECKSUM="5b0e5f540faa755461fe6783c007a708" CHECKSUMTYPE="MD5" SIZE="186809">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00079_0.jpg"/>
+      </file>
+      <file ID="jpg_00079_1" MIMETYPE="image/jpg" CHECKSUM="c3e84ceddc20efbc79ce29d9a28eb568" CHECKSUMTYPE="MD5" SIZE="188816">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00079_1.jpg"/>
+      </file>
+      <file ID="jpg_00080_0" MIMETYPE="image/jpg" CHECKSUM="2c449e6570ca8a04fe96d33a971db25f" CHECKSUMTYPE="MD5" SIZE="183106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00080_0.jpg"/>
+      </file>
+      <file ID="jpg_00080_1" MIMETYPE="image/jpg" CHECKSUM="45cf5fd197c7d3c4edb1c4f80a15e112" CHECKSUMTYPE="MD5" SIZE="208415">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00080_1.jpg"/>
+      </file>
+      <file ID="jpg_00081_0" MIMETYPE="image/jpg" CHECKSUM="4b6f6cd0b47a56b0f985adb98880b304" CHECKSUMTYPE="MD5" SIZE="192462">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00081_0.jpg"/>
+      </file>
+      <file ID="jpg_00081_1" MIMETYPE="image/jpg" CHECKSUM="fcc732d5691e9314e68935b52e6f2e63" CHECKSUMTYPE="MD5" SIZE="199224">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00081_1.jpg"/>
+      </file>
+      <file ID="jpg_00082_0" MIMETYPE="image/jpg" CHECKSUM="79469914571880197ba00a64c77ec571" CHECKSUMTYPE="MD5" SIZE="188108">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00082_0.jpg"/>
+      </file>
+      <file ID="jpg_00082_1" MIMETYPE="image/jpg" CHECKSUM="37756a47152a16162d00718e5abd3b94" CHECKSUMTYPE="MD5" SIZE="208292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00082_1.jpg"/>
+      </file>
+      <file ID="jpg_00083_0" MIMETYPE="image/jpg" CHECKSUM="3670a308dcdef355b62b42728ccc4140" CHECKSUMTYPE="MD5" SIZE="190685">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00083_0.jpg"/>
+      </file>
+      <file ID="jpg_00083_1" MIMETYPE="image/jpg" CHECKSUM="e158dec2518c41b1018a7beb6ebe2987" CHECKSUMTYPE="MD5" SIZE="108385">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00083_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00078_0" MIMETYPE="text/xml+gzip" CHECKSUM="2e17f4c64164eb07b1c0b4cf913e94b9" CHECKSUMTYPE="MD5" SIZE="4198">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00078_0.xml.gz"/>
+      </file>
+      <file ID="alto_00078_1" MIMETYPE="text/xml+gzip" CHECKSUM="8f4ba6fcc9172177e164b46bac8d4b1d" CHECKSUMTYPE="MD5" SIZE="13031">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00078_1.xml.gz"/>
+      </file>
+      <file ID="alto_00079_0" MIMETYPE="text/xml+gzip" CHECKSUM="237214df52f282f79eb83cc45adb84df" CHECKSUMTYPE="MD5" SIZE="11657">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00079_0.xml.gz"/>
+      </file>
+      <file ID="alto_00079_1" MIMETYPE="text/xml+gzip" CHECKSUM="e481e332ea6c1887651d4220343de6c7" CHECKSUMTYPE="MD5" SIZE="11594">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00079_1.xml.gz"/>
+      </file>
+      <file ID="alto_00080_0" MIMETYPE="text/xml+gzip" CHECKSUM="ab6ad81442f4da158949766c4c127b19" CHECKSUMTYPE="MD5" SIZE="12289">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00080_0.xml.gz"/>
+      </file>
+      <file ID="alto_00080_1" MIMETYPE="text/xml+gzip" CHECKSUM="be90d80a2f3e38ac5e60e286a722353a" CHECKSUMTYPE="MD5" SIZE="12537">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00080_1.xml.gz"/>
+      </file>
+      <file ID="alto_00081_0" MIMETYPE="text/xml+gzip" CHECKSUM="97b7dd42981b5bdbbddb30be397f0c7e" CHECKSUMTYPE="MD5" SIZE="12631">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00081_0.xml.gz"/>
+      </file>
+      <file ID="alto_00081_1" MIMETYPE="text/xml+gzip" CHECKSUM="f74d45b629af3c874b4780144e288d16" CHECKSUMTYPE="MD5" SIZE="12452">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00081_1.xml.gz"/>
+      </file>
+      <file ID="alto_00082_0" MIMETYPE="text/xml+gzip" CHECKSUM="f6277f11fb4b6d8a4f63b0573676c8f0" CHECKSUMTYPE="MD5" SIZE="12826">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00082_0.xml.gz"/>
+      </file>
+      <file ID="alto_00082_1" MIMETYPE="text/xml+gzip" CHECKSUM="aefbf4339118cbcf46285e493f609176" CHECKSUMTYPE="MD5" SIZE="12301">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00082_1.xml.gz"/>
+      </file>
+      <file ID="alto_00083_0" MIMETYPE="text/xml+gzip" CHECKSUM="3c52e7c111c157b2ea555be278e35281" CHECKSUMTYPE="MD5" SIZE="12527">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00083_0.xml.gz"/>
+      </file>
+      <file ID="alto_00083_1" MIMETYPE="text/xml+gzip" CHECKSUM="32c282ddeca833bef533f253c801ce88" CHECKSUMTYPE="MD5" SIZE="5421">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00083_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0021" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="143" lastpage="154">
+              <court pgmap="155" id="b155-5">District Court, D. Alaska.</court>
+              <citation pgmap="155" id="b155-3">29 F. 202</citation>
+              <parties pgmap="155" id="b155-4">UNITED STATES v. NELSON.</parties>
+              <decisiondate pgmap="155" id="b155-6">1886.</decisiondate>
+              <opinion type="majority">
+                <author pgmap="155" id="b155-14">DAWSON, Judge.</author>
+                <p pgmap="155" id="b155-15">Defendant was indicted at the May term, 1886, of the district court for selling distilled liquors in the town of Sitka, in the district of Alaska, contrary to the statutes of the United States made and provided against, etc. To this indictment defendant has demurred upon two grounds: (1) That the statute of the United States which it is al­leged was violated, is unconstitutional and void; (2) that the indictment does not state facts sufficient to constitute an offense against the statute.</p>
+                <p pgmap="156" id="b156-3">The question presented is, has congress the constitutional power to prohibit the importation, manufacture, and sale of distilled spirits in the district of Alaska ?</p>
+                <p pgmap="156" id="b156-4">It is earnestly and ably argued by defendant’s counsel that the act of congress of July, 1868, (Gen.St. § 1955), is ^violative of the fundamental principles of free govern­ment, and therefore void; for the reason alleged in the argument that congress, in its peculiar relation to Alaska, and with the restricted power it possesses in regard thereto, has no constitutional right to enact a prohibitory liquor law for this territory.</p>
+                <p pgmap="156" id="b156-5">It has been judicially held (see Kie v. U. S., 27 F. 351) that Alaska has been since 1867, and now is, a district of our country under the exclusive jurisdiction of the United States, but I know of no case in which it has been de­cided that Alaska is in no sense “Indian country.” It was held by this court in the Slave Case, in April last, that only as to the prohibited commerce mentioned in the sections referred to, being section 1955 of the act of July, 1868, and sections 20 and 21 of the intercourse act of 1834 (25 U.S.C.A. §§ 223, 241, 251, and notes), and section 14 of the act of May; 1884, could Alaska be regarded as Indian country. That conclusion was based upon the Opinions of Attorneys General, vol. 14, p. 290, and vol. 16, p. 141, and I am unable to find anything in the opinion of Justice Deady in the Kie Case in conflict with the conclusion there reached; for the learned judge says:</p>
+                <blockquote pgmap="156" id="b156-6">“As it rests with congress to say whether a district of country shall be considered ‘Indian country,’ so far as the intercourse between the aborigines thereof' and other per­sons is concerned, this legislation, in my judgment, by at least a reasonable, if not a necessary, implication, is equiva­lent to a declaration that Alaska is not to be considered ‘In­dian country’ only so far as concerns the introduction and disposition of spirituous liquors therein.”</blockquote>
+                <p pgmap="156(68) 157(101)" id="b156-7">It may well be said that Alaska is not “Indian country,” in the conventional sense of the word; but it does not fol­low that it is not “Indian country,” so far as congress may choose to make it such. True, the government has never treated with the Indians of Alaska; but in the third article of the treaty of March 3, .1867, there is express and specific reservation of power to the United States to make laws and regulations in relation to the aboriginal tribes. Congress being the only law-making power of the government under the constitution, that instrument has sharply defined the subjects upon which congress may legislate, and specifically prescribed the duties of the legislative branch of the gov­ernment. Section 3 of article 4 of the constitution, one of the sections classifying the.subjects upon which congress may legislate, says:. “The congress shall have power" to dispose of and make all needful rules and regulations re­specting the territory or other property of the United States.”</p>
+                <p pgmap="157" id="b157-4">It will be observed from this section that the territory or unpatented lands then within the territorial boundaries of the United States, and which did not belong to the orig­inal individual states, was intended to be, and upon the rati­fication and adoption of the constitution did become, the ab­solute property of the United States, subject only to the right of occupancy by the Indians. But the United States possessed the right to extinguish the Indian title of' oc­cupancy either by conquest or purchase. See 1 Kent, Comm. lect. 12. The treaty-making power of the govern­ment is vested by section 2 of article 2 of the constitution in the president, by and with the advice and consent of the senate. This power necessarily implies the right to pur­chase new territory; and when the power has been exer­cised, and territory purchased, the title, immediately upon an exchange of ratification, vested in the United States. American Ins. Co. v. Canter, 1 Pet. 511.</p>
+                <p pgmap="157" id="b157-5">Such was the recognized doctrine in the treaty of peace with Great Britain, and by subsequent cessions from France and Spain, and by cessions from the individual states. But an effort was made to restrict and limit the powers of the government over the territories of Louisiana and Florida. The reason for the strenuous efforts to limit and restrict the powers of the government in relation to those territories is a matter of history, but the institution about which that controversy arose has passed away, and is no longer a question of contention, either in the political or juridical affairs of the government.</p>
+                <p pgmap="158" id="b158-3">Counsel refers to and quotes the following from the opinion of the court in the case of American Ins. Co. v. Canter, 1 Pet. 511:</p>
+                <blockquote pgmap="158" id="b158-4">“In the mean time Florida continues to be a territory of the United States government by that clause of the con­stitution which empowers congress to make all needful rules and regulations respecting the territory or other property of the United States. Perhaps the power of governing a territory belonging to the United States, which has not, by becoming a state, acquired the means of self-government, may result necessarily from the facts that it is not within the jurisdiction of any particular state, and is within the power and jurisdiction of the United States. The right to govern may be the inevitable consequence of the right to acquire territory. Whichever may be the source from which the power is derived, the possession of it is unques­tionable.”</blockquote>
+                <p pgmap="158" id="b158-5">It is then argued that because the source of the power to make all needful rules and regulations respecting the ter­ritory or other property of the United States was not de­cided in that case, that the power exists only as the inevita­ble consequence of the right to acquire territory; .and the celebrated Dred Scott Case, 19 How. 393, is cited and re­lied upon by counsel. But the conclusion reached by the majority of the court in that case, holding that the power to make all needful rules and regulations existed only as the inevitable consequence of the right to acquire territory, and that section 3 of article 4 of the constitution had ref­erence only to the then territory of the United States, has never met with the united approval of the American bench and bar. Two reasons may be assigned for the lack of approval of the doctrine of that case: First, the decision was by a divided bench, some of the ablest jurists then on the bench, in exhaustive opinions, dissenting from the con­clusions reached by the majority; secondly, the case in­volved a vital political question, upon which the American people were unmistakably and radically divided in senti­ment.</p>
+                <p pgmap="158" id="b158-6">Article 1 of the treaty by which Alaska was ceded to the United States is as follows:</p>
+                <blockquote pgmap="159" id="b159-2">“His majesty, the emperor of all the Russias, agrees to cede to the United States, by this convention, immediately upon the exchange of the ratifications thereof, all the ter­ritory and dominion now possessed by his said majesty on the continent of America, and in adjacent islands; the same being contained within the geographical limits herein set forth.” See Pub.Treaties U.S. 671.</blockquote>
+                <p pgmap="159" id="b159-3">Upon the ratification by the president of the United States, by and with the advice and consent of the senate, on the one part, and on the other by his majesty, the em­peror of all the Russias, and an exchange of those ratifica­tions within three months from the date of the treaty, the title to the soil in Alaska vested in the United States, and remains in the United States by virtue of the treaty with Russia.</p>
+                <p pgmap="159" id="b159-4">Judge Story, in his Commentaries on the Constitution, in examining the section now under consideration, has de­duced the following conclusion from the very case referred to and quoted from by counsel, in 1 Pet.:</p>
+                <blockquote pgmap="159" id="b159-5">“As the general government possesses the right to ac­quire territory either by conquest or by treaty, it would seem to follow, as an inevitable consequence, that it pos­sesses the power to govern what it has so acquired. The territory does not, when so acquired, become entitled to self-government, and it is not subject to the jurisdiction of any state. It must consequently be under the dominion and jurisdiction of the Union, or it would be without any gov­ernment at all. * * * In cases of confirmation or ces­sion by treaty, the acquisition becomes firm and stable, and the ceded territory becomes a part of the nation to which it is annexed, either on terms stipulated in the treaty, or on such as its new masters may impose.” Story, Const. par. 1324.</blockquote>
+                <p pgmap="159(80) 160(69)" id="b159-7">There can, I think, be no question as to the authority of congress to enact such forms of territorial government within the territories of the United States as they may choose or deem best, and not in conflict with the constitu­tion and laws of the United States. Possessing the power to erect a territorial government for Alaska, they could confer upon it such powers, judicial and executive, as they deem most suitable to the necessities of the inhabitants. It was unquestionably within the constitutional power of con­gress to withhold from the inhabitants of Alaska the power to legislate and make laws. In the absence, then, of any law-making power in the territory, to what source must the people look for the laws by which they are to be gov­erned? This question can admit of but one answer. Con­gress is the only law-making power for Alaska.</p>
+                <p pgmap="160" id="b160-3">The next question to be determined is, what laws are applicable to Alaska in relation to the importation and sale of ardent spirits? In March, 1873, sections 20 and 21 of the intercourse laws of 1834 were extended to and over all the main-land, islands, and waters of Alaska. In the act of congress of July 27, 1868, the president is authorized to restrict, regulate, or prohibit the importation and use of fire-arms, ammunition, and distilled liquors into and with­in the territory of Alaska. Section 1955, Rev.St.</p>
+                <p pgmap="160" id="b160-4">Section 14 of the act of May, 1884, establishing a civil government for Alaska, (23 St. 28), is as follows:</p>
+                <blockquote pgmap="160" id="b160-5">“Sec. 14. That the provisions of chapter 3, tit. 23, of the Revised Statutes of the United States, relating to the unorganized territory of Alaska, shall remain in full force, except as herein specially otherwise provided; and the im­portation, manufacture, and sale of intoxicating liquors in said district, except for medicinal, mechanical, and scientific purposes, is hereby prohibited, under the penalties which are provided in section 1955 of the Revised Statutes for the wrongful importation of distilled spirits. And the presi­dent of the United States shall make such regulations as are necessary to carry out the provisions of this section.”</blockquote>
+                <p pgmap="160(124) 161(34)" id="b160-6">It will be observed that fire-arms and ammunition, as prohibited commerce in section 1955 of the act of 1868, are omitted in section 14 of the act of May, 1884; thus, by clear implication, repealing section 1955 so far only as prohibiting the importation and use of fire-arms and am­munition. It is well settled that in the construction of statutes a subsequent statute which is repugnant to a prior one, or that if it can be reasonably inferred that the inten­tion was that the subsequent statute should prescribe the only rule that should govern in the case, it is to be regard­ed as a substitute for, and as repealing, such prior act. Sedg.St. &amp; Const.Law, 104; U. S. v. Seveloff, Fed.Cas.No. 16,252, 2 Sawy. 311. A statute is repealed by the enact­ment of another repugnant to it, or one covering the whole subject of the former. U. S. v. Barr, Fed.Cas.No.14,527, 4 Sawy. 254.</p>
+                <p pgmap="161" id="b161-4">Applying this rule, we may reasonably conclude that sec­tion 14 of the act of May, 1884, was intended to cover the whole of the subject embraced in sections 20 and 21 of the intercourse laws of 1834, as extended to and made applica­ble to Alaska; and that section 1955, with the omission of the words “fire-arms” and “ammunition,” with the act of May 17, 1884, and the regulations made by the president on the twenty-sixth day of February, 1885, taken together, are the only laws now in force in relation to this question in Alaska.</p>
+                <p pgmap="161" id="b161-5">To enforce this law the following rules have been pre­scribed :</p>
+                <blockquote pgmap="161(249) 162(123)" id="b161-6">“No intoxicating liquors shall be landed at any port or place in said territory without a permit from the chief officer of the customs at such port or place, to be issued upon evi­dence satisfactory to such officer that the liquors are im­ported, and are to be used, solely for medicinal, mechanical, and scientific purposes. No person shall manufacture or sell intoxicating liquors within the territory of Alaska with­out first having obtained a license from the governor of said territory, to be issued upon evidence satisfactory to that officer that the making and sale of such liquor will be conducted strictly in accordance with the requirements of the statute. Any intoxicating liquors imported, manufac­tured, or sold within the limits of said territory in viola­tion of these regulations, and the persons engaged in such violation, will be dealt with in the manner prescribed in sec­tion 1955 of the Revised Statutes; and the governor of Alaska, and thé officers of the customs at any port or place the United States from which intoxicating liquors may shipped to that territory, as well as officers of the Unit-­States within that territory, are hereby authorized, re­spectively, to exact, in their discretion, a bond of the char­acter mentioned in section 1955, Rev.St., from the master mate of any vessel, and from such persons in such terri­tory to whom liquors may be sent. The penalty prescribed section 1955, Rev.St., for violation of the law, is a fine not exceeding $500, or imprisonment not more than six months, and the forfeiture of the vessel bringing the mer­chandise and her cargo, together with her tackle, apparel, and furniture, where the value of the merchandise exceeds $400. Where the value of the merchandise does not ex­ceed $400, the penalty is forfeiture of the merchandise. The proper officers within the territory are charged with the execution of the law and these regulations.- Intoxicat­ing liquors forfeited under the provisions of this act will be subject to sale under the same provisions of law as gov­ern the sale of other' goods that may have become liable to forfeiture, but will only be delivered for removal beyond the limits of the territory.</blockquote>
+                <blockquote pgmap="162" id="b162-4">“H. McCulloch, Secretary.</blockquote>
+                <blockquote pgmap="162" id="b162-5">“Approved: Chester A. Arthur.”</blockquote>
+                <p pgmap="162" id="b162-6">These laws, as amended, then, are the only laws now ap­plicable to Alaska in relation to the importation and sale of distilled liquor. Congress unquestionably had the con­stitutional power to authorize the president to regulate or prohibit the introduction of distilled spirits into the district of Alaska, and when the president, in pursuance of that power, made regulations, those regulations became a part of the law upon the subject. The Louisa Simpson, Fed. Cas.No.8,533, 2 Sawy. 57. It should be borne in mind that the various acts of congress in relation to the subject now under consideration are in pari materia, all relating to the same subject-matter, and are to be taken and ex­amined together, in order to ascertain the legislative intent. Sedg.St. &amp; Const.Law, 247. What was the object of the legislation ? What was the evil sought to be remedied ? By the treaty of March, 1867, more than 500,000 square miles had been added to the territory of the United States. This vast region was then populated principally by Indian creoles and Russians, with a few whites scattered here and there.</p>
+                <p pgmap="162(67) 163(72)" id="b162-7">By the third article of that treaty the United States guarantied the Russians who chose to remain in the ceded territory the equal protection of the laws. The evils re­sulting from the use of intoxicating liquors are so ap­palling, prolific of so much mischief and disorder, that at an early period in the history of our government strenuous efforts were inaugurated to prevent their introduction among the Indian?. This policy has been scrupulously ad­hered to by the government through all the years of its ex­istence. The court cannot presume that in a matter of such vital importance to the material and moral well-being of the Indians, and to the protection, peace, and safety of other residents in Alaska, that congress intended to depart from the long-established policy of the government in relation to this question.</p>
+                <p pgmap="163" id="b163-4">The evident intention of congress was that distilled spir­its shall not be imported, sold, and used in Alaska as a beverage; but that, under the regulations of the president, they may be imported and sold for the purposes only men­tioned in section 14 of the act of May, 1884. But it is con­tended that the law is unwise, impolitic, and discrimina­tive. With these questions the court has nothing to do. It is not for the court to decide the wisdom or inconveni­ences of a law. Is it a law? Is it within the scope of leg­islative power to enact? If so, it belongs to the legislative branch of the government to correct its oppressive features, if they exist. Neither can policy have any influence in con­struing a law. The policy of one age may not suit the wishes of another; the law is not subject to such fluctua­tions. Story, Confl.Laws. It may be well to remark that distilled spirits are not lawful commerce per se, but the business can only become legitimate by those engaging in it complying with the internal revenue laws of the United States. Section 3232, c. 3, Rev.St. (26 U.S.C.A. § 1402 (a) says: “No person shall be engaged in or carry on any trade or business hereinafter mentioned until he has paid a special tax therefor, in a manner hereinafter provided.” Then follows an enumeration of the articles, and the amount of license taxes, including distilled spirits. See section 3244.</p>
+                <p pgmap="163(79) 164(90)" id="b163-5">It is also unlawful for any person to retail distilled spir­its in Alaska without having complied with the regulations prescribed by the president, by procuring a license from the governor as therein prescribed. Upon this branch of the case I have no doubt about the constitutionality of the laws now in force in relation to Alaska, even though they amount to prohibition. Many instances might be pointed out in which congress has imposed' like duties upon the president, and I know of no case in which the power to do so has been seriously questioned. Alaska being under the com­plete dominion of the United States government, and its in­habitants subject to the jurisdiction of its courts, it follows, as a necessary sequence, that the government, by virtue of its sovereignty, may restrict or prohibit the manufacture, importation, and sale of distilled spirits as a beverage in the territory as it may do in any other district under the exclusive jurisdiction and control of the United States.</p>
+                <p pgmap="164" id="b164-3">This legislation by congress is analogous to prohibitory legislation by the states. Prohibitory laws have been sus­tained by state courts where the question of conflict with state constitutions, or with general fundamental principles, has been raised. Such laws are regarded by the court as police regulations, established by the law-making power for the abatement and prevention of intemperance, and the consequent and intolerable train of evils which invariably follow in its wake. See People v. Hawley, 3 Mich. 360; Reynolds v. Geary, 26 Conn. 179; Com. v. Kendall, 12 Cush. (Mass.) 414; Com. v. Clapp, 5 Gray (Mass.) 97; Com. v. Howe, 13 Gray (Mass.) 26; State v. Robinson, 33 Me. 568.</p>
+                <p pgmap="164(177) 165(71)" id="b164-4">The second point raised by defendant’s counsel is that the indictment is defective in that it does not negative the exceptions in the statute. Section 1955, Rev.St., contains no exceptions whatever, but confers upon the president power to restrict and regulate, or prohibit, etc. The first act of congress containing any exceptions is section 14 of the act of May 17, 1884, in which it is declared that the importation, manufacture, and sale of intoxicating liquors in said district, except for medicinal, mechanical, and scien­tific purposes, is hereby prohibited. Chapter 3 of title 23 of the Revised Statutes, which congress declares in the act of May 17, 1884, shall remain in full force, except as therein otherwise provided, was enacted and became a law nearly 16 years prior to the act of May, 1884, in which the words “fire-arms and ammunition” were omitted, and the words “except for mechanical, medicinal, and scientific purposes,” were introduced. The omission of the words “firé-arms and ammunition,” and specifications of the uses for which distilled spirits may be manufactured, imported, and sold, we must infer is what was embraced in the lan­guage, “except as herein specially otherwise provided” in section 14 of the act of May, 1884. Then follows the regu­lations by the president dated February 26, 1885. Can it now be said that the exceptions are contained in the enact­ing clause of the statute so as to invoke an application of the rule contended for by defendant?</p>
+                <p pgmap="165" id="b165-3">When the enacting clause of a statute describes the of­fense with certain exceptions, it is necessary to state all the circumstances that constitute the offense, and to negative the exceptions; but, if the exceptions are contained in separate clauses of the statute,-they may be omitted in the indictment, and the defendant must show that his case comes within them to avail himself of their benefit. Kline v. State, 44 Miss. 317. Where provisos or exceptions are contained in distinct and independent clauses of the statute upon which an indictment is founded, it is unnecessary to allege in the indictment that the party indicted is not with­in the exceptions. State v. Cassady, 52 N.H. 500.</p>
+                <p pgmap="165" id="b165-4">The allegation in the indictment is that the defendant did sell certain distilled liquors, therein described, contrary to the statutes of the United States. Now, before there could be legal sale of liquors, the law requires that the party selling must have procured a license from the governor of the territory, issued upon evidence satisfactory to that of­ficer that the sale of such liquor would be strictly in ac­cordance with the requirement of the statute, as provided for and required in the president’s regulations.</p>
+                <p pgmap="165" id="b165-5">Prof. Wharton says, (Crim.Ev. § 342) :</p>
+                <blockquote pgmap="165" id="b165-6">“When the non-existence of the license is not averred in the indictment, and when the license is particularly within the knowledge of the party holding it, the burden is on him to produce such license in all cases in which the existence of the license i$ in question.”</blockquote>
+                <p pgmap="165" id="b165-7">If this defendant has complied with the law, and procured license from the governor, surely he knows it; and I am clearly of opinion that this is one of that class of cases in which the burden is shifted on the defendant, and, upon the general allegation that he sold contrary to the statute, he must show that he is within the exceptions of the statute.</p>
+                <p pgmap="166" id="b166-2">As to any other defect in the indictment, if any exists, it is cured by section 1025, Rev.St. (18 U.S.C.A. § 556) ; which is that “no indictment found and presented by a grand jury, in any district or circuit or other court of the United States, shall be deemed insufficient, nor shall the trial, judgment, or other proceeding thereon be affected, by reason of any defect or imperfection in matter of form only, which shall not tend to the prejudice of the defend­ant.”</p>
+                <p pgmap="166" id="b166-3">Upon a careful consideration of the questions presented, I am of opinion that the law is constitutional; that the in­dictment, while probably inartificially drawn, is substantial­ly good; and that the demurrer should be overruled; and it is so ordered.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="155" ORDERLABEL="143" TYPE="page">
+        <fptr FILEID="tiff_00078_0"/>
+        <fptr FILEID="jpg_00078_0"/>
+        <fptr FILEID="alto_00078_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_155.2" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="156" ORDERLABEL="144" TYPE="page">
+        <fptr FILEID="tiff_00078_1"/>
+        <fptr FILEID="jpg_00078_1"/>
+        <fptr FILEID="alto_00078_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_156.1" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="157" ORDERLABEL="145" TYPE="page">
+        <fptr FILEID="tiff_00079_0"/>
+        <fptr FILEID="jpg_00079_0"/>
+        <fptr FILEID="alto_00079_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_157.3" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="158" ORDERLABEL="146" TYPE="page">
+        <fptr FILEID="tiff_00079_1"/>
+        <fptr FILEID="jpg_00079_1"/>
+        <fptr FILEID="alto_00079_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_158.1" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="159" ORDERLABEL="147" TYPE="page">
+        <fptr FILEID="tiff_00080_0"/>
+        <fptr FILEID="jpg_00080_0"/>
+        <fptr FILEID="alto_00080_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_159.1" BETYPE="IDREF" FILEID="alto_00080_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="160" ORDERLABEL="148" TYPE="page">
+        <fptr FILEID="tiff_00080_1"/>
+        <fptr FILEID="jpg_00080_1"/>
+        <fptr FILEID="alto_00080_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_160.2" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="161" ORDERLABEL="149" TYPE="page">
+        <fptr FILEID="tiff_00081_0"/>
+        <fptr FILEID="jpg_00081_0"/>
+        <fptr FILEID="alto_00081_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_161.3" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="162" ORDERLABEL="150" TYPE="page">
+        <fptr FILEID="tiff_00081_1"/>
+        <fptr FILEID="jpg_00081_1"/>
+        <fptr FILEID="alto_00081_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_162.2" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="163" ORDERLABEL="151" TYPE="page">
+        <fptr FILEID="tiff_00082_0"/>
+        <fptr FILEID="jpg_00082_0"/>
+        <fptr FILEID="alto_00082_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_163.3" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="164" ORDERLABEL="152" TYPE="page">
+        <fptr FILEID="tiff_00082_1"/>
+        <fptr FILEID="jpg_00082_1"/>
+        <fptr FILEID="alto_00082_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_164.2" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="165" ORDERLABEL="153" TYPE="page">
+        <fptr FILEID="tiff_00083_0"/>
+        <fptr FILEID="jpg_00083_0"/>
+        <fptr FILEID="alto_00083_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_165.2" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="166" ORDERLABEL="154" TYPE="page">
+        <fptr FILEID="tiff_00083_1"/>
+        <fptr FILEID="jpg_00083_1"/>
+        <fptr FILEID="alto_00083_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_166.1" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-14" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.15" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-15" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.16" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.5" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.4" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.6" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            <area BEGIN="BL_162.1" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.5" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.6" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.7" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            <area BEGIN="BL_161.1" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.7" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.6" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.7" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            <area BEGIN="BL_163.1" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.4" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-3" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.4" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.5" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            <area BEGIN="BL_165.1" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-3" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.3" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.4" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.5" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.6" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.5" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.6" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.7" BETYPE="IDREF" FILEID="alto_00080_0"/>
+            <area BEGIN="BL_160.1" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-3" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.4" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-2" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.3" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-3" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.4" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.5" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.6" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.4" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.5" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-2" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.3" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.5" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            <area BEGIN="BL_164.1" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.4" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-3" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.4" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-3" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.3" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.5" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.8" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-3" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.4" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.7" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            <area BEGIN="BL_157.1" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.6" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.5" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.4" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-3" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.3" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.5" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.4" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.6" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

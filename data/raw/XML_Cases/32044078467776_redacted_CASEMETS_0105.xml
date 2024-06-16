@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0105" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Nackkela v. Webster">NACKKELA et al. v. WEBSTER</name>
+          <docketnumber>No. 635</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 712</citation>
+          <citation category="parallel" type="bluebook">109 F. 1061</citation>
+          <decisiondate>1901-05-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:08Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00362_1" MIMETYPE="image/tiff" CHECKSUM="ec1d7e43222fc9e37ed998ee47d59df1" CHECKSUMTYPE="MD5" SIZE="37468">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00362_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00362_1" MIMETYPE="image/jpg" CHECKSUM="11973d89b45f736eeba8a7f628d581a1" CHECKSUMTYPE="MD5" SIZE="168633">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00362_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00362_1" MIMETYPE="text/xml+gzip" CHECKSUM="ab55e42e4ec5a71ac32610793b43be17" CHECKSUMTYPE="MD5" SIZE="9207">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00362_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0105" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="712" lastpage="712">
+              <court pgmap="724" id="b724-9">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="724" id="b724-8">No. 635.</docketnumber>
+              <citation pgmap="724" id="b724-6">109 F. 1061</citation>
+              <parties pgmap="724" id="b724-7">NACKKELA et al. v. WEBSTER.</parties>
+              <decisiondate pgmap="724" id="b724-10">May 17, 1901.</decisiondate>
+              <judges pgmap="724" id="b724-12">Before GILBERT, ROSS, and MORROW, Circuit Judges.</judges>
+              <attorneys pgmap="724" id="b724-11">Page, McCutcheon, Harding &amp; Knight, for appellants.</attorneys>
+              <opinion type="majority">
+                <author pgmap="724" id="b724-13">GILBERT, Circuit Judge.</author>
+                <p pgmap="724" id="b724-14">This case is similar to the case of Tornanses v. Melsing, 109 F. 710. The appellee claims the right to locate and appropriate a mining claim which had already been locat­ed by the appellants, upon the ground, as alleged in the bill, that the appellants were not citizens of the United States, and had not declared their intentions to become citizens of the United States, and “that they do not intend to pay for or purchase the said placer-mining claim from the United States, or take any steps to that end; that their residence and citizenship is in Lapland, to which place they expect to return when they shall have extracted from the above-described claim and premises the gold therein contained.” All the questions which are involved in this case were considered in the case of Tornanses v. Melsing, above referred to. ' For the reasons set forth in the opinion in that case, the order of July 23, 1900,-­appointing a receiver of the placer claim involved in this case, being placer claim No. 1, on Nugget Gulch or Nack­kela Gulch, a tributary to Anvil creek, in the Cape Nome mining district, Alaska, is reversed, and the cause will be remanded, with instructions to dismiss the bill.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="724" ORDERLABEL="712" TYPE="page">
+        <fptr FILEID="tiff_00362_1"/>
+        <fptr FILEID="jpg_00362_1"/>
+        <fptr FILEID="alto_00362_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_724.2" BETYPE="IDREF" FILEID="alto_00362_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-6" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.5" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-7" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.6" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-8" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.7" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-14" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.13" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-11" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.10" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-12" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.11" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-13" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.12" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-10" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.9" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-9" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.8" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

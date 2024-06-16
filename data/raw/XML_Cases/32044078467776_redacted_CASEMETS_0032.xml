@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0032" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Miller v. Blackett">MILLER v. BLACKETT</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 232</citation>
+          <citation category="parallel" type="bluebook">47 F. 547</citation>
+          <decisiondate>1891-08-15</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:01Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00122_1" MIMETYPE="image/tiff" CHECKSUM="eea5781ec25ddf683c5ce6d2211ecc67" CHECKSUMTYPE="MD5" SIZE="16712">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00122_1.tif"/>
+      </file>
+      <file ID="tiff_00123_0" MIMETYPE="image/tiff" CHECKSUM="90167d653a4ec65f6e67c04136e7c26d" CHECKSUMTYPE="MD5" SIZE="55458">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00123_0.tif"/>
+      </file>
+      <file ID="tiff_00123_1" MIMETYPE="image/tiff" CHECKSUM="f5a9ac00285a06db2d2272511ab5f71e" CHECKSUMTYPE="MD5" SIZE="53704">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00123_1.tif"/>
+      </file>
+      <file ID="tiff_00124_0" MIMETYPE="image/tiff" CHECKSUM="6bfbc006e4b97f4282799e1484ef1ee6" CHECKSUMTYPE="MD5" SIZE="52786">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00124_0.tif"/>
+      </file>
+      <file ID="tiff_00124_1" MIMETYPE="image/tiff" CHECKSUM="456c6310a3e44c99a34b97327e795101" CHECKSUMTYPE="MD5" SIZE="12934">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00124_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00122_1" MIMETYPE="image/jpg" CHECKSUM="ee59f6c872e663e47ede3abbd64bb5b0" CHECKSUMTYPE="MD5" SIZE="104079">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00122_1.jpg"/>
+      </file>
+      <file ID="jpg_00123_0" MIMETYPE="image/jpg" CHECKSUM="bb341afcc4c191269061070db50d5357" CHECKSUMTYPE="MD5" SIZE="203287">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00123_0.jpg"/>
+      </file>
+      <file ID="jpg_00123_1" MIMETYPE="image/jpg" CHECKSUM="1e3ba0f3385143146de57a1a0efb0429" CHECKSUMTYPE="MD5" SIZE="203829">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00123_1.jpg"/>
+      </file>
+      <file ID="jpg_00124_0" MIMETYPE="image/jpg" CHECKSUM="3a388a2645bbaf9546347cc3da472303" CHECKSUMTYPE="MD5" SIZE="190033">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00124_0.jpg"/>
+      </file>
+      <file ID="jpg_00124_1" MIMETYPE="image/jpg" CHECKSUM="5d918c5a4ea0d7bd0004bc666d0a0ddb" CHECKSUMTYPE="MD5" SIZE="88483">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00124_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00122_1" MIMETYPE="text/xml+gzip" CHECKSUM="266b4fcbb95c7e06e37ef6369214e8ea" CHECKSUMTYPE="MD5" SIZE="4545">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00122_1.xml.gz"/>
+      </file>
+      <file ID="alto_00123_0" MIMETYPE="text/xml+gzip" CHECKSUM="d94adebe1cd03aaceccdba251f3f358f" CHECKSUMTYPE="MD5" SIZE="12395">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00123_0.xml.gz"/>
+      </file>
+      <file ID="alto_00123_1" MIMETYPE="text/xml+gzip" CHECKSUM="f099f96825e866ff26f5c530b2b4e862" CHECKSUMTYPE="MD5" SIZE="12712">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00123_1.xml.gz"/>
+      </file>
+      <file ID="alto_00124_0" MIMETYPE="text/xml+gzip" CHECKSUM="01bc6c51eaf327b7a265b523cdf6a065" CHECKSUMTYPE="MD5" SIZE="13085">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00124_0.xml.gz"/>
+      </file>
+      <file ID="alto_00124_1" MIMETYPE="text/xml+gzip" CHECKSUM="76ee8ccaa5d6fa38af3fda64138cadd4" CHECKSUMTYPE="MD5" SIZE="3490">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00124_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0032" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="232" lastpage="236">
+              <court pgmap="244" id="b244-4">District Court, D. Alaska.</court>
+              <citation pgmap="244" id="b244-2">47 F. 547</citation>
+              <parties pgmap="244" id="b244-3">MILLER v. BLACKETT.</parties>
+              <decisiondate pgmap="244" id="b244-5">Aug. 15,1891.</decisiondate>
+              <attorneys pgmap="244" id="b244-11">Willoughby Clark, for plaintiff.</attorneys>
+              <attorneys pgmap="244" id="b244-12">C. S. Blackett, in pro. per., and C. S. Johnson, U. S. Dist. Atty., for defendant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="244" id="b244-13">BUGBEE, Judge.</author>
+                <p pgmap="244(74) 245(395) 246(19)" id="b244-14">This is an action of ejectment to recover the possession of certain premises in the town of Juneau. On the trial it was shown by the plaintiff that in May, 1888, he and one Henning, under deed from one Foster, went into possession of the premises as tenants in common, claiming equal shares, an'd commenced the erection of a house thereon, in­tending to occupy it as a home; that upon the completion of the building they moved into it, and lived there together until the wife of Henning came to the territory, when plain­tiff moved out for her accommodation; that the Hennings occupied the premises for a short period thereafter, with the understanding between Henning and the plaintiff that, if the former wanted the house for himself, he should pay the latter for his share, which, so far as the evidence shows, he never did. There was no attempt to contradict this tes­timony. On the part of the defendant there was introduced in evidence, without objection, a notice, signed, “A. K. Delaney, Custodian,” directed to, and served in February, 1889, upon, Henning, stating that the United States had determined to take possession of the ground known as the “Military Reservation of Juneau, Alaska,” and notifying him to vacate within 30 days, else legal proceedings would be brought against him. Said Delaney at the time was the collector of customs for the district of Alaska. Defendant also introduced, without objection, the proceedings, judg­ment, and writ of restitution in an action brought in this court in April, 1889, by the United States against said Henning to recover possession of these premises, which were alleged to.be claimed by the government by treaty with and purchase from Russia, and to have been improved as a reservation. Henning having failed to appear in the action, his default was entered. A judgment was rendered in favor of the United States in September, 1889; and, un­der a writ of possession, Henning was evicted in November, 1889, and the premises turned over by the United States marshal to the collector of customs of the district; the defendant herein, who was his deputy, receipting therefor as such officer. Government padlocks were placed upon the closed doors by defendant, who entered into and kept pos­session of the building as United States deputy-collector. The plaintiff testifies that he knew nothing of this suit un­til after the eviction of Henning. When evicted, Henning retained the keys of the house. In the spring of 1890, find­ing one of the doors open, he locked it, and delivered the keys to plaintiff, who at once entered and lived there for some days, until, during his temporary absence, he was ousted by the defendant herein, who, in his capacity as United States deputy-collector of customs, again padlocked the doors, and has ever since retained possession, and with­held it from the plaintiff, claiming adversely to him.</p>
+                <p pgmap="246" id="b246-4">No proof was made that the premises were ever reserved by the government for military or other purposes, nor that the collector of the customs was or is the custodian of the land or buildings belonging to the government; but, as­suming him to be such custodian, there can be no doubt that the defendant, as his deputy, is properly made a party, the government not being amenable to an action. Polack v. Mansfield, 44 Cal. 36. With the exception of a score or so of lots reserved in fee-simple to the owners and occupants by our treaty with Russia, and certain patented mineral lands, the title to all land in Alaska is vested in the United States. The organic act, passed May 17, 1884, provided, however, that persons in the district should not be disturbed in the possession of any lands actually in their use or oc­cupation, but that the terms under which such persons might acquire title to such lands were reserved for future legisla­tion by congress. 23 St.U.S. p. 24, § 8 (48 U.S.C.A. § 356 and note). All town lots in Juneau, as well as in other Alaskan settlements, including the land in controversy here, have been marked out, taken possession of, built upon, and occupied by the inhabitants in the faith that their title de­rived from use and occupation would be ultimately recog­nized by the government; and these possessory rights of the people have been acknowledged by their neighbors and sustained by the courts. It would seem, therefore, that possession founded on use and occupation, entitling the possessor to freedom from disturbance by the government, and the implied pledge of the government as to the terms under which he may hereafter acquire title to his land through future legislation, must be deemed a sufficient legal estate and right to present possession to maintain eject­ment under the laws of the state of Oregon, made applica­ble to this district.</p>
+                <p pgmap="246(62) 247(234)" id="b246-5">At the time the government commenced its action against Henning, he and the plaintiff herein were in the actual use and occupation of the premises as tenants in common; and it is claimed by defendant here that the judgment in that action binds not only Henning, but his co-tenant, the plain­tiff herein. But it is very clear that that judgment can work no estoppel upon the plaintiff. Two well-recognized rules of law are applicable to this case, — the one, that judg­ments bind only parties and privies; the other, that no man can be deprived of his rights or of his property without an opportunity of being heard in a court of justice. Tenants in common are separately seised, and there is no privity of estate between them. 4 Kent, Comm. 368 (13th Ed.). Each tenant in common, in respect to his share, has all the rights, except that of sole possession, which a tenant in severalty would have. Carpentier v. Webster, 27 Cal. 548. Parties in possession at the commencement of a suit, and not sued, nor holding under or in privity with any of the parties thereto, are in no way affected by the judgment, nor amenable to a writ of restitution issued thereon. Civil Code Or. § 326; Sampson v. Ohleyer, 22 Cal. 200; Ford v. Doyle, 37 Cal. 346; Association v. Christy, 41 Cal. 501. The plaintiff here, being a tenant in common with Henning, and in possession, at the commencement of the suit, neither being a party to it, nor holding under or in privity with Henning, was not affected by the judgment. Wattson v. Dowling, 26 Cal. 125; Williams v. Sutton, 43 Cal. 66; Fogarty v. Sparks, 22 Cal. 149; Breeding v. Taylor, 6 B. Mon. (Ky.) 62.</p>
+                <p pgmap="247(190) 248(52)" id="b247-4">It is not necessary to decide what legal effect the judg­ment against Henning had. If it made the United States a tenant in common with plaintiff, there has been such an ouster as would permit plaintiff to maintain ejectment. Goldsmith v. Smith, 21 F. 611, 10 Sawy. 294. If it did not convert the government into such a tenancy, plaintiff may still maintain the suit; for a tenant in common is entitled to recover as against all persons except his co-tenants, and persons holding under them. Williams v. Sutton, supra; Treat v. Reilly, 35 Cal. 129. Plaintiff has shown such legal estate as it is possible for any one in Alaska, not having a fee-simple title, to show. Its nature is that which is de­rived under the organic act from use and occupation of the premises as tenant in common, claiming to own one un­divided half thereof. Its duration is such as may be pre­scribed by congress, and lasts, at least, until legislation is had. He has further shown a right at the commencement of this suit to the possession of the premises, and that such possession is wrongfully withheld by defendant. Let judgment be entered in favor of the plaintiff, that he is the owner of, and entitled to the possession of, an undivided one-half of the premises in controversy, stating the nature and duration of the estate as given above, and without damages, but with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="244" ORDERLABEL="232" TYPE="page">
+        <fptr FILEID="tiff_00122_1"/>
+        <fptr FILEID="jpg_00122_1"/>
+        <fptr FILEID="alto_00122_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_244.1" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="245" ORDERLABEL="233" TYPE="page">
+        <fptr FILEID="tiff_00123_0"/>
+        <fptr FILEID="jpg_00123_0"/>
+        <fptr FILEID="alto_00123_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_245.3" BETYPE="IDREF" FILEID="alto_00123_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="246" ORDERLABEL="234" TYPE="page">
+        <fptr FILEID="tiff_00123_1"/>
+        <fptr FILEID="jpg_00123_1"/>
+        <fptr FILEID="alto_00123_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_246.2" BETYPE="IDREF" FILEID="alto_00123_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="247" ORDERLABEL="235" TYPE="page">
+        <fptr FILEID="tiff_00124_0"/>
+        <fptr FILEID="jpg_00124_0"/>
+        <fptr FILEID="alto_00124_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_247.3" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="248" ORDERLABEL="236" TYPE="page">
+        <fptr FILEID="tiff_00124_1"/>
+        <fptr FILEID="jpg_00124_1"/>
+        <fptr FILEID="alto_00124_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_248.2" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-13" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.14" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-12" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.13" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-11" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.12" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.4" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            <area BEGIN="BL_248.1" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-14" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.15" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            <area BEGIN="BL_245.1" BETYPE="IDREF" FILEID="alto_00123_0"/>
+            <area BEGIN="BL_246.1" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.4" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.5" BETYPE="IDREF" FILEID="alto_00123_1"/>
+            <area BEGIN="BL_247.1" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-3" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.4" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-2" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.3" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.6" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.5" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

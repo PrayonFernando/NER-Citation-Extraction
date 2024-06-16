@@ -1,0 +1,582 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0074" publicationstatus="published">
+          <court abbreviation="U.S." jurisdiction="United States">Supreme Court of the United States</court>
+          <name abbreviation="Tla-Koo-Yel-Lee v. United States">TLA-KOO-YEL-LEE v. UNITED STATES</name>
+          <docketnumber>No. 516</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 511</citation>
+          <citation category="parallel" type="bluebook">167 U.S. 274, 17 S.Ct. 855</citation>
+          <decisiondate>1897-05-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:05Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00262_0" MIMETYPE="image/tiff" CHECKSUM="9e3f577e2edbb95d824807bc3d7ec0b1" CHECKSUMTYPE="MD5" SIZE="27824">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00262_0.tif"/>
+      </file>
+      <file ID="tiff_00262_1" MIMETYPE="image/tiff" CHECKSUM="ffc64909e60505b7a86d8989ceddc7a3" CHECKSUMTYPE="MD5" SIZE="49834">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00262_1.tif"/>
+      </file>
+      <file ID="tiff_00263_0" MIMETYPE="image/tiff" CHECKSUM="f4b4e86c2dd100db8405c8c77852358a" CHECKSUMTYPE="MD5" SIZE="46260">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00263_0.tif"/>
+      </file>
+      <file ID="tiff_00263_1" MIMETYPE="image/tiff" CHECKSUM="e99176fe93cb268c92fd8c57dc4367cc" CHECKSUMTYPE="MD5" SIZE="32556">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00263_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00262_0" MIMETYPE="image/jpg" CHECKSUM="d1f0b86664a615ab0679becd1e24281e" CHECKSUMTYPE="MD5" SIZE="121695">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00262_0.jpg"/>
+      </file>
+      <file ID="jpg_00262_1" MIMETYPE="image/jpg" CHECKSUM="befc8420af00b43f760d8eeede3d7d30" CHECKSUMTYPE="MD5" SIZE="198971">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00262_1.jpg"/>
+      </file>
+      <file ID="jpg_00263_0" MIMETYPE="image/jpg" CHECKSUM="37ae3af8e00a09179f35748f35991391" CHECKSUMTYPE="MD5" SIZE="177273">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00263_0.jpg"/>
+      </file>
+      <file ID="jpg_00263_1" MIMETYPE="image/jpg" CHECKSUM="66d8f2faae172a239f15e794cb0cf930" CHECKSUMTYPE="MD5" SIZE="143513">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00263_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00262_0" MIMETYPE="text/xml+gzip" CHECKSUM="21e4e3d1f55e2f3909256efbd14f51b2" CHECKSUMTYPE="MD5" SIZE="7440">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00262_0.xml.gz"/>
+      </file>
+      <file ID="alto_00262_1" MIMETYPE="text/xml+gzip" CHECKSUM="097e67448576edae51a2f1ccfff9ad8f" CHECKSUMTYPE="MD5" SIZE="11996">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00262_1.xml.gz"/>
+      </file>
+      <file ID="alto_00263_0" MIMETYPE="text/xml+gzip" CHECKSUM="cacca3a5ccfa9c8d34c0325f207d8360" CHECKSUMTYPE="MD5" SIZE="11268">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00263_0.xml.gz"/>
+      </file>
+      <file ID="alto_00263_1" MIMETYPE="text/xml+gzip" CHECKSUM="e2d6fe584422bb628c81c4981d38de78" CHECKSUMTYPE="MD5" SIZE="8533">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00263_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0074" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="511" lastpage="514">
+              <court pgmap="523" id="b523-5">Supreme Court of the United States.</court>
+              <docketnumber pgmap="523" id="b523-4">No. 516.</docketnumber>
+              <citation pgmap="523" id="b523-2">167 U.S. 274, 17 S.Ct. 855</citation>
+              <parties pgmap="523" id="b523-3">TLA-KOO-YEL-LEE v. UNITED STATES.</parties>
+              <decisiondate pgmap="523" id="b523-6">May 24, 1897.</decisiondate>
+              <attorneys pgmap="523" id="b523-10">Tla-koo-yel-lee, in pro. per.</attorneys>
+              <attorneys pgmap="523" id="b523-11">Sol. Gen. Conrad, for the United States.</attorneys>
+              <opinion type="majority">
+                <author pgmap="523" id="b523-12">Mr. Justice PECKHAM</author>
+                <p pgmap="523" id="Ajc">delivered the opinion of the court.</p>
+                <p pgmap="523" id="b523-13">This case comes here on writ of error to the district court of the United States for the district of Alaska. The plain­tiff in error is an Indian, and was indicted with another Indian, name Tak-ke, and, upon a separate trial, was con­victed of the crime of murder, in killing one August Jan­sen on or about the 5th day of January, 1894, at or near Shekan, within the territory of Alaska, and within the ju­risdiction of the district court thereof. He was thereupon sentenced to be hanged.</p>
+                <p pgmap="523(74) 524(237)" id="b523-14">Upon the trial in the district court it appeared that the au­thorities at Ft. Wrangel, some 70 miles from Shekan, were informed by some Indians at that place in May, 1894, of the alleged murder of Jansen in the preceding January at or near Shekan. In July of that year the United States com­missioner, a deputy marshal, and some others started from Ft. Wrangel in a steam launch chartered for the purpose, and went to Shekan to find the body, if possible, and to take such other proceedings as were proper in the premises. An Indian woman, Tlak-sha, voluntarily accompanied them for the purpose of showing where the body was to be found. A short distance from Shekan the party landed on the beach, and under her direction search was made, and the body of Jansen was discovered on the beach, covered over with rock and brush. The body was sufficiently preserved to be identified, and it was recognized by some of the party. After the finding and recognition, the defendant, with the other above-named Indian, Tak-ke, was indicted for mur­der, and upon the defendant’s separate trial the Indian wo­man was sworn as a witness. ■ She testified that in January, 1894, the deceased was killed by the defendant and Tak-ke, who was her husband; that they were in a small sloop near Shekan at the time of the murder, and there were present the deceased, three male Indians, herself, and her child. The third Indian was named Ke-tinch, and he was also sworn on the trial, and, while differing in some of the details from the story of the woman, he corroborated her in the statement that the killing was done by the defendant and by the woman’s husband; the defendant shooting the deceased, and the woman’s husband striking him on the head with an ax.</p>
+                <p pgmap="524" id="b524-3">The two Indians above named are the only witnesses to the killing. The female witness accompanied the searching party from Ft. Wrangel, and with her assistance the body was found. As one of the two witnesses on the trial she testified against the defendant -and her own husband, who was indicted for the crime, though not then on trial. It is apparent how important it was to show to the jury, if pos­sible, the bias, if any, of the witness against the defendant, or to show that her credibility was not to be depended upon by the jury.</p>
+                <p pgmap="524" id="b524-4">In the course of her cross-examination upon the trial the following questions were put to her:</p>
+                <blockquote pgmap="524" id="b524-5">“Q. Before this affair took place, were you Tak'-ke’s wife? A. Yes, sir.</blockquote>
+                <blockquote pgmap="524" id="b524-6">“Q. Whose wife are you now? A. I am not married now. -</blockquote>
+                <blockquote pgmap="525" id="b525-2">“Q. Who are you .living with now ?”</blockquote>
+                <p pgmap="525" id="b525-3">Counsel for the prosecution objected to the above ques­tion as immaterial and incompetent. Objection sustained by the court, to which ruling counsel for the defendant then and there duly excepted.</p>
+                <blockquote pgmap="525" id="b525-4">“Q. Is it not a fact that, since your husband was arrested and convicted, you have been living with this witness, Ke­tinch?”</blockquote>
+                <p pgmap="525" id="b525-5">Counsel for the prosecution objected to the above ques­tion as incompetent. The objection was sustained by the court, and an exception taken.</p>
+                <blockquote pgmap="525" id="b525-6">“Q. Is it not a fact that shortly after this affair took place, that you and the witness Ke-tinch agreed to live to­gether if your husband was convicted and you yourselves got clear?”</blockquote>
+                <p pgmap="525" id="b525-7">Same objection was taken, which was sustained by the court, and an exception taken.</p>
+                <blockquote pgmap="525" id="b525-8">“Q. I will ask you if it is not a fact that this defendant got so drunk [upon this occasion] that he was laid in the canoe and covered over, and did not recover until after the body had been concealed. A. No, sir; he didn’t get drunk. Nobody drank.</blockquote>
+                <blockquote pgmap="525" id="b525-9">“Q. I will ask you if it is not a fact that when he awoke and saw the sloop sailing away, and asked where the sloop was going, that Tak-ke told him the white man was sailing away.”</blockquote>
+                <p pgmap="525" id="b525-10">Objection taken to the question as incompetent, irrele­vant, and immaterial. Objection sustained by the court, and an exception taken.</p>
+                <p pgmap="525(109) 526(50)" id="b525-11">We think answers to all these questions should have been permitted. The questions were directed to the pur­pose of showing material facts bearing upon the character and credibility of the witness, and the counsel for the defendant ought to have been permitted to proceed with his examination, and obtain answers from the witness to that end. The two Indian witnesses (of whom the woman was one) did not agree in regard to the details of the alleged murder, and there is enough in the record to show that they were both of a low order of intelligence, and that they testified without any very solemn appreciation of their responsibilities as witnesses upon the trial of one individual for the murder of another. The whole occurrence at the time of the alleged murder is left in a good deal of con­fusion, and the credence to be given to the testimony of the woman was of the highest importance.</p>
+                <p pgmap="526" id="b526-4">The learned solicitor general, in his brief in this case, with most commendable candor and fairness, has said:</p>
+                <blockquote pgmap="526" id="b526-5">“But we feel constrained to say, from an analysis of the evidence certified in this record, that, while it was left to the jury to ascertain the facts established by the evidence, the mind is oppressed with a painful doubt as to the sound­ness of the verdict returned by the jury.”</blockquote>
+                <p pgmap="526" id="b526-6">And in speaking of the refusal of the court to permit an­swers to be given to the questions asked, as above recited, counsel for the government also says in his brief: “No reason is given for the exclusion of these questions, beyond that reiterated in the objection, that they were ‘in­competent, irrelevant, and immaterial.’ ”</p>
+                <p pgmap="526" id="b526-7">He frankly says that in his opinion this evidence was ad­missible, and we have no doubt that it was.</p>
+                <p pgmap="526" id="b526-8">The judgment must therefore be reversed, and the cause remanded to the district court of Alaska with instructions to set aside the verdict and grant a new trial.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="523" ORDERLABEL="511" TYPE="page">
+        <fptr FILEID="tiff_00262_0"/>
+        <fptr FILEID="jpg_00262_0"/>
+        <fptr FILEID="alto_00262_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_523.2" BETYPE="IDREF" FILEID="alto_00262_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="524" ORDERLABEL="512" TYPE="page">
+        <fptr FILEID="tiff_00262_1"/>
+        <fptr FILEID="jpg_00262_1"/>
+        <fptr FILEID="alto_00262_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_524.2" BETYPE="IDREF" FILEID="alto_00262_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="525" ORDERLABEL="513" TYPE="page">
+        <fptr FILEID="tiff_00263_0"/>
+        <fptr FILEID="jpg_00263_0"/>
+        <fptr FILEID="alto_00263_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_525.1" BETYPE="IDREF" FILEID="alto_00263_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="526" ORDERLABEL="514" TYPE="page">
+        <fptr FILEID="tiff_00263_1"/>
+        <fptr FILEID="jpg_00263_1"/>
+        <fptr FILEID="alto_00263_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_526.2" BETYPE="IDREF" FILEID="alto_00263_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-5" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.6" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-4" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.5" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-7" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.8" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b524-3" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_524.4" BETYPE="IDREF" FILEID="alto_00262_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-3" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.4" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b523-14" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_523.17" BETYPE="IDREF" FILEID="alto_00262_0"/>
+            <area BEGIN="BL_524.1" BETYPE="IDREF" FILEID="alto_00262_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b524-6" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_524.7" BETYPE="IDREF" FILEID="alto_00262_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-2" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.3" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-6" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.6" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-7" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.7" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-4" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.4" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-5" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.5" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-9" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.10" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-8" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.9" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-6" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.7" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-11" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.12" BETYPE="IDREF" FILEID="alto_00263_0"/>
+            <area BEGIN="BL_526.1" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-10" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.11" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b524-4" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_524.5" BETYPE="IDREF" FILEID="alto_00262_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b524-5" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_524.6" BETYPE="IDREF" FILEID="alto_00262_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ajc" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_523.14" BETYPE="IDREF" FILEID="alto_00262_0"/>
+            <area BEGIN="BL_523.15" BETYPE="IDREF" FILEID="alto_00262_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b523-11" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_523.12" BETYPE="IDREF" FILEID="alto_00262_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b523-10" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_523.11" BETYPE="IDREF" FILEID="alto_00262_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b523-13" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_523.16" BETYPE="IDREF" FILEID="alto_00262_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b523-12" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_523.13" BETYPE="IDREF" FILEID="alto_00262_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-8" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.8" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b523-6" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_523.7" BETYPE="IDREF" FILEID="alto_00262_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b523-5" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_523.6" BETYPE="IDREF" FILEID="alto_00262_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b523-4" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_523.5" BETYPE="IDREF" FILEID="alto_00262_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b523-3" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_523.4" BETYPE="IDREF" FILEID="alto_00262_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b523-2" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_523.3" BETYPE="IDREF" FILEID="alto_00262_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

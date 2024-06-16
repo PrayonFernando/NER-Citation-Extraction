@@ -1,0 +1,1507 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0109" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="In re Noyes">In re NOYES. In re GEARY. In re WOOD. In re FROST</name>
+          <docketnumber>Nos. 701, 702, 703, and 744</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 724</citation>
+          <citation category="parallel" type="bluebook">121 F. 209</citation>
+          <decisiondate>1902-01-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:08Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00368_1" MIMETYPE="image/tiff" CHECKSUM="72a2e0e4be316d5fcf256dd1e8562153" CHECKSUMTYPE="MD5" SIZE="7022">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00368_1.tif"/>
+      </file>
+      <file ID="tiff_00369_0" MIMETYPE="image/tiff" CHECKSUM="761db9c887c30c214d23daaea1419029" CHECKSUMTYPE="MD5" SIZE="4318">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00369_0.tif"/>
+      </file>
+      <file ID="tiff_00369_1" MIMETYPE="image/tiff" CHECKSUM="9050b09b5585693a86740af9b4134e58" CHECKSUMTYPE="MD5" SIZE="19802">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00369_1.tif"/>
+      </file>
+      <file ID="tiff_00370_0" MIMETYPE="image/tiff" CHECKSUM="fcba85d3673a156f7ba8b8c61da5a4b5" CHECKSUMTYPE="MD5" SIZE="57478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00370_0.tif"/>
+      </file>
+      <file ID="tiff_00370_1" MIMETYPE="image/tiff" CHECKSUM="a8e6237f5e7b2293efee7420974b8506" CHECKSUMTYPE="MD5" SIZE="58260">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00370_1.tif"/>
+      </file>
+      <file ID="tiff_00371_0" MIMETYPE="image/tiff" CHECKSUM="04b9fd639b933924bb759cb1c2c34334" CHECKSUMTYPE="MD5" SIZE="56212">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00371_0.tif"/>
+      </file>
+      <file ID="tiff_00371_1" MIMETYPE="image/tiff" CHECKSUM="47865782fd6b7cc11b00d5de576b4ad3" CHECKSUMTYPE="MD5" SIZE="56760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00371_1.tif"/>
+      </file>
+      <file ID="tiff_00372_0" MIMETYPE="image/tiff" CHECKSUM="c3764b978d11ad1db3ef32147cf67b90" CHECKSUMTYPE="MD5" SIZE="55424">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00372_0.tif"/>
+      </file>
+      <file ID="tiff_00372_1" MIMETYPE="image/tiff" CHECKSUM="3e3c74c3534d6bb3a36590523a814ab5" CHECKSUMTYPE="MD5" SIZE="58366">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00372_1.tif"/>
+      </file>
+      <file ID="tiff_00373_0" MIMETYPE="image/tiff" CHECKSUM="fb1ca733a12fb683af29a5de1f0a752f" CHECKSUMTYPE="MD5" SIZE="56646">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00373_0.tif"/>
+      </file>
+      <file ID="tiff_00373_1" MIMETYPE="image/tiff" CHECKSUM="ce8ed420f18cd4519f5184e3edbc2a67" CHECKSUMTYPE="MD5" SIZE="56032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00373_1.tif"/>
+      </file>
+      <file ID="tiff_00374_0" MIMETYPE="image/tiff" CHECKSUM="7f89cf37cab27854f46c2b15108c14af" CHECKSUMTYPE="MD5" SIZE="55356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00374_0.tif"/>
+      </file>
+      <file ID="tiff_00374_1" MIMETYPE="image/tiff" CHECKSUM="ef8cc204ee0e06050f130802fff66b44" CHECKSUMTYPE="MD5" SIZE="53330">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00374_1.tif"/>
+      </file>
+      <file ID="tiff_00375_0" MIMETYPE="image/tiff" CHECKSUM="5f385163aa328e619e473db53744b148" CHECKSUMTYPE="MD5" SIZE="54634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00375_0.tif"/>
+      </file>
+      <file ID="tiff_00375_1" MIMETYPE="image/tiff" CHECKSUM="207992d617f21fe925564d89a1341d51" CHECKSUMTYPE="MD5" SIZE="55396">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00375_1.tif"/>
+      </file>
+      <file ID="tiff_00376_0" MIMETYPE="image/tiff" CHECKSUM="0afae42357826febd3094c5d780cc862" CHECKSUMTYPE="MD5" SIZE="49610">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00376_0.tif"/>
+      </file>
+      <file ID="tiff_00376_1" MIMETYPE="image/tiff" CHECKSUM="24f61235d2fb58527409c6db8e68e3a5" CHECKSUMTYPE="MD5" SIZE="56336">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00376_1.tif"/>
+      </file>
+      <file ID="tiff_00377_0" MIMETYPE="image/tiff" CHECKSUM="e2810c646baeddb83de349f6e780732d" CHECKSUMTYPE="MD5" SIZE="54176">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00377_0.tif"/>
+      </file>
+      <file ID="tiff_00377_1" MIMETYPE="image/tiff" CHECKSUM="8d478118e7ad28b737de2fd5e46e7c8b" CHECKSUMTYPE="MD5" SIZE="54246">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00377_1.tif"/>
+      </file>
+      <file ID="tiff_00378_0" MIMETYPE="image/tiff" CHECKSUM="f6ccf35902e79e5d15f51809721e001a" CHECKSUMTYPE="MD5" SIZE="54412">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00378_0.tif"/>
+      </file>
+      <file ID="tiff_00378_1" MIMETYPE="image/tiff" CHECKSUM="99021d697b11c718d13c1a39edaef820" CHECKSUMTYPE="MD5" SIZE="55198">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00378_1.tif"/>
+      </file>
+      <file ID="tiff_00379_0" MIMETYPE="image/tiff" CHECKSUM="4fcfe3f2c3e6334962e9bff8ac7fed05" CHECKSUMTYPE="MD5" SIZE="54104">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00379_0.tif"/>
+      </file>
+      <file ID="tiff_00379_1" MIMETYPE="image/tiff" CHECKSUM="134384c981578aecc0c7bec081b75312" CHECKSUMTYPE="MD5" SIZE="54062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00379_1.tif"/>
+      </file>
+      <file ID="tiff_00380_0" MIMETYPE="image/tiff" CHECKSUM="b3c6aa7c55f446cadd65a5143716d10e" CHECKSUMTYPE="MD5" SIZE="54420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00380_0.tif"/>
+      </file>
+      <file ID="tiff_00380_1" MIMETYPE="image/tiff" CHECKSUM="e31454a49829ab176d136a76dfd380d3" CHECKSUMTYPE="MD5" SIZE="55094">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00380_1.tif"/>
+      </file>
+      <file ID="tiff_00381_0" MIMETYPE="image/tiff" CHECKSUM="be03769ce4aff9125ebe39da61253bd3" CHECKSUMTYPE="MD5" SIZE="53656">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00381_0.tif"/>
+      </file>
+      <file ID="tiff_00381_1" MIMETYPE="image/tiff" CHECKSUM="0ce3d71047179264662169f5d8a70ca3" CHECKSUMTYPE="MD5" SIZE="54508">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00381_1.tif"/>
+      </file>
+      <file ID="tiff_00382_0" MIMETYPE="image/tiff" CHECKSUM="44a64dc053afc5f0e032e374007a252f" CHECKSUMTYPE="MD5" SIZE="54256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00382_0.tif"/>
+      </file>
+      <file ID="tiff_00382_1" MIMETYPE="image/tiff" CHECKSUM="edbc50ac57a2bcc79c1387b7abe4cd8a" CHECKSUMTYPE="MD5" SIZE="54876">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00382_1.tif"/>
+      </file>
+      <file ID="tiff_00383_0" MIMETYPE="image/tiff" CHECKSUM="175c2b489db866f10c38a2fbecdd9071" CHECKSUMTYPE="MD5" SIZE="54924">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00383_0.tif"/>
+      </file>
+      <file ID="tiff_00383_1" MIMETYPE="image/tiff" CHECKSUM="8694dfb40cbc4cfc10e1893c4f3d6089" CHECKSUMTYPE="MD5" SIZE="55724">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00383_1.tif"/>
+      </file>
+      <file ID="tiff_00384_0" MIMETYPE="image/tiff" CHECKSUM="d6721eef38bf7bf2d28536df2337cb0b" CHECKSUMTYPE="MD5" SIZE="55152">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00384_0.tif"/>
+      </file>
+      <file ID="tiff_00384_1" MIMETYPE="image/tiff" CHECKSUM="1bd012280845404171e6af8b5735b4b7" CHECKSUMTYPE="MD5" SIZE="56660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00384_1.tif"/>
+      </file>
+      <file ID="tiff_00385_0" MIMETYPE="image/tiff" CHECKSUM="ce5d8a568dfabc0e764338b5b8849815" CHECKSUMTYPE="MD5" SIZE="53282">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00385_0.tif"/>
+      </file>
+      <file ID="tiff_00385_1" MIMETYPE="image/tiff" CHECKSUM="964785da48af3cfeee31165a8af34b85" CHECKSUMTYPE="MD5" SIZE="52588">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00385_1.tif"/>
+      </file>
+      <file ID="tiff_00386_0" MIMETYPE="image/tiff" CHECKSUM="c090ed2f3c66d931ddc551ac9531cc3d" CHECKSUMTYPE="MD5" SIZE="31766">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00386_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00368_1" MIMETYPE="image/jpg" CHECKSUM="6784fb01e4bee79cf975485618f7cdc3" CHECKSUMTYPE="MD5" SIZE="63599">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00368_1.jpg"/>
+      </file>
+      <file ID="jpg_00369_0" MIMETYPE="image/jpg" CHECKSUM="f88f2d6a06890d7119eeb48251d92ad7" CHECKSUMTYPE="MD5" SIZE="53291">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00369_0.jpg"/>
+      </file>
+      <file ID="jpg_00369_1" MIMETYPE="image/jpg" CHECKSUM="a8057e156df20ac039fcf6811a2a2105" CHECKSUMTYPE="MD5" SIZE="100028">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00369_1.jpg"/>
+      </file>
+      <file ID="jpg_00370_0" MIMETYPE="image/jpg" CHECKSUM="31b9c853eed396d6522a7a7e3fb70edc" CHECKSUMTYPE="MD5" SIZE="203136">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00370_0.jpg"/>
+      </file>
+      <file ID="jpg_00370_1" MIMETYPE="image/jpg" CHECKSUM="7bc2e23a25c10149ddbdd5a1a951c53f" CHECKSUMTYPE="MD5" SIZE="221028">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00370_1.jpg"/>
+      </file>
+      <file ID="jpg_00371_0" MIMETYPE="image/jpg" CHECKSUM="6b47bb41927b6fb029ccbce93f68802f" CHECKSUMTYPE="MD5" SIZE="207564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00371_0.jpg"/>
+      </file>
+      <file ID="jpg_00371_1" MIMETYPE="image/jpg" CHECKSUM="ed362e0af546f21af2f8b0f28530392d" CHECKSUMTYPE="MD5" SIZE="213534">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00371_1.jpg"/>
+      </file>
+      <file ID="jpg_00372_0" MIMETYPE="image/jpg" CHECKSUM="7b91b4df17408e6730a3b075d207d0c8" CHECKSUMTYPE="MD5" SIZE="199543">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00372_0.jpg"/>
+      </file>
+      <file ID="jpg_00372_1" MIMETYPE="image/jpg" CHECKSUM="07052753650533ed75c5a34fc35b36e0" CHECKSUMTYPE="MD5" SIZE="221442">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00372_1.jpg"/>
+      </file>
+      <file ID="jpg_00373_0" MIMETYPE="image/jpg" CHECKSUM="bd258e1e18e7c024752e56bd21487f7b" CHECKSUMTYPE="MD5" SIZE="207187">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00373_0.jpg"/>
+      </file>
+      <file ID="jpg_00373_1" MIMETYPE="image/jpg" CHECKSUM="4facc15dea83c1694816c6382bedf641" CHECKSUMTYPE="MD5" SIZE="212604">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00373_1.jpg"/>
+      </file>
+      <file ID="jpg_00374_0" MIMETYPE="image/jpg" CHECKSUM="e4d3ec3f6d10d389ee629737989dcb32" CHECKSUMTYPE="MD5" SIZE="200571">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00374_0.jpg"/>
+      </file>
+      <file ID="jpg_00374_1" MIMETYPE="image/jpg" CHECKSUM="22cc7109c9d70d378d03b2b5b64006e7" CHECKSUMTYPE="MD5" SIZE="210426">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00374_1.jpg"/>
+      </file>
+      <file ID="jpg_00375_0" MIMETYPE="image/jpg" CHECKSUM="fe167af1fedbeb9279324a6eaa233eb1" CHECKSUMTYPE="MD5" SIZE="201362">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00375_0.jpg"/>
+      </file>
+      <file ID="jpg_00375_1" MIMETYPE="image/jpg" CHECKSUM="82ea813f2cc66027693d4b4e45a395f5" CHECKSUMTYPE="MD5" SIZE="212067">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00375_1.jpg"/>
+      </file>
+      <file ID="jpg_00376_0" MIMETYPE="image/jpg" CHECKSUM="591a2cab7655c66ee57d1ab9eb68c2c6" CHECKSUMTYPE="MD5" SIZE="187394">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00376_0.jpg"/>
+      </file>
+      <file ID="jpg_00376_1" MIMETYPE="image/jpg" CHECKSUM="21e916078bb7184b7c5a3339a1294bfa" CHECKSUMTYPE="MD5" SIZE="218212">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00376_1.jpg"/>
+      </file>
+      <file ID="jpg_00377_0" MIMETYPE="image/jpg" CHECKSUM="6174291bfca1bb8136b03f2a0751cc41" CHECKSUMTYPE="MD5" SIZE="202839">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00377_0.jpg"/>
+      </file>
+      <file ID="jpg_00377_1" MIMETYPE="image/jpg" CHECKSUM="3bc417302d51fe332020aab77f043d65" CHECKSUMTYPE="MD5" SIZE="208607">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00377_1.jpg"/>
+      </file>
+      <file ID="jpg_00378_0" MIMETYPE="image/jpg" CHECKSUM="98fa44e0618d8cfbba5879c45f556d94" CHECKSUMTYPE="MD5" SIZE="197466">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00378_0.jpg"/>
+      </file>
+      <file ID="jpg_00378_1" MIMETYPE="image/jpg" CHECKSUM="8a5ef4ab3497e98c27db13adcc811c05" CHECKSUMTYPE="MD5" SIZE="215544">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00378_1.jpg"/>
+      </file>
+      <file ID="jpg_00379_0" MIMETYPE="image/jpg" CHECKSUM="717689ed245e22ab86a29d7d8e3d8547" CHECKSUMTYPE="MD5" SIZE="200456">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00379_0.jpg"/>
+      </file>
+      <file ID="jpg_00379_1" MIMETYPE="image/jpg" CHECKSUM="0b3c85e29d069ba54d7a04c32774c7c2" CHECKSUMTYPE="MD5" SIZE="208405">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00379_1.jpg"/>
+      </file>
+      <file ID="jpg_00380_0" MIMETYPE="image/jpg" CHECKSUM="a2972e48581179081f9655c53b552195" CHECKSUMTYPE="MD5" SIZE="195960">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00380_0.jpg"/>
+      </file>
+      <file ID="jpg_00380_1" MIMETYPE="image/jpg" CHECKSUM="3eb68fcbcf603247da59d257536de4b4" CHECKSUMTYPE="MD5" SIZE="215754">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00380_1.jpg"/>
+      </file>
+      <file ID="jpg_00381_0" MIMETYPE="image/jpg" CHECKSUM="877771b7aef73a44910b507f93d1253f" CHECKSUMTYPE="MD5" SIZE="200784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00381_0.jpg"/>
+      </file>
+      <file ID="jpg_00381_1" MIMETYPE="image/jpg" CHECKSUM="9f0c1a9ebd3192b91f946fa4776062ca" CHECKSUMTYPE="MD5" SIZE="208692">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00381_1.jpg"/>
+      </file>
+      <file ID="jpg_00382_0" MIMETYPE="image/jpg" CHECKSUM="30bee6220b47a6ef7ebe44abedb8e337" CHECKSUMTYPE="MD5" SIZE="196589">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00382_0.jpg"/>
+      </file>
+      <file ID="jpg_00382_1" MIMETYPE="image/jpg" CHECKSUM="aa35cb8823531dca61e3bafc06d7c9d6" CHECKSUMTYPE="MD5" SIZE="214419">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00382_1.jpg"/>
+      </file>
+      <file ID="jpg_00383_0" MIMETYPE="image/jpg" CHECKSUM="d3f080dcf16621a0f797459cbcf26d3e" CHECKSUMTYPE="MD5" SIZE="200297">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00383_0.jpg"/>
+      </file>
+      <file ID="jpg_00383_1" MIMETYPE="image/jpg" CHECKSUM="10c878ec1f1b9848267d71648423f345" CHECKSUMTYPE="MD5" SIZE="206093">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00383_1.jpg"/>
+      </file>
+      <file ID="jpg_00384_0" MIMETYPE="image/jpg" CHECKSUM="fb57265d844abfd467e0c578843e9bda" CHECKSUMTYPE="MD5" SIZE="197982">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00384_0.jpg"/>
+      </file>
+      <file ID="jpg_00384_1" MIMETYPE="image/jpg" CHECKSUM="2ac94b9c1eb4f60a3e473d3d0494a143" CHECKSUMTYPE="MD5" SIZE="217039">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00384_1.jpg"/>
+      </file>
+      <file ID="jpg_00385_0" MIMETYPE="image/jpg" CHECKSUM="14dba2d887cae703d147f06e33739fe5" CHECKSUMTYPE="MD5" SIZE="196544">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00385_0.jpg"/>
+      </file>
+      <file ID="jpg_00385_1" MIMETYPE="image/jpg" CHECKSUM="8451f2bdd52440015c081b73bf693ca4" CHECKSUMTYPE="MD5" SIZE="197389">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00385_1.jpg"/>
+      </file>
+      <file ID="jpg_00386_0" MIMETYPE="image/jpg" CHECKSUM="5d8f24e2c19c19556a35e21324198a2c" CHECKSUMTYPE="MD5" SIZE="133642">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00386_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00368_1" MIMETYPE="text/xml+gzip" CHECKSUM="3ecd5baa2003b23a7b3bf111d1004e48" CHECKSUMTYPE="MD5" SIZE="2099">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00368_1.xml.gz"/>
+      </file>
+      <file ID="alto_00369_0" MIMETYPE="text/xml+gzip" CHECKSUM="c7796a3f010960046cd02a8829908800" CHECKSUMTYPE="MD5" SIZE="914">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00369_0.xml.gz"/>
+      </file>
+      <file ID="alto_00369_1" MIMETYPE="text/xml+gzip" CHECKSUM="7a30250a8b429dbe4ea892a46fae6db6" CHECKSUMTYPE="MD5" SIZE="4897">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00369_1.xml.gz"/>
+      </file>
+      <file ID="alto_00370_0" MIMETYPE="text/xml+gzip" CHECKSUM="db898822782857e4aeccf75f5c626cb1" CHECKSUMTYPE="MD5" SIZE="12883">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00370_0.xml.gz"/>
+      </file>
+      <file ID="alto_00370_1" MIMETYPE="text/xml+gzip" CHECKSUM="2d2019700dfe325d039480f67cbdbbf8" CHECKSUMTYPE="MD5" SIZE="13106">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00370_1.xml.gz"/>
+      </file>
+      <file ID="alto_00371_0" MIMETYPE="text/xml+gzip" CHECKSUM="8db3a1416aaee06b3f602e3301b39d39" CHECKSUMTYPE="MD5" SIZE="13214">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00371_0.xml.gz"/>
+      </file>
+      <file ID="alto_00371_1" MIMETYPE="text/xml+gzip" CHECKSUM="c9d5152179c93a48bac2538b42953146" CHECKSUMTYPE="MD5" SIZE="12948">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00371_1.xml.gz"/>
+      </file>
+      <file ID="alto_00372_0" MIMETYPE="text/xml+gzip" CHECKSUM="d4876561225cbbc5a8aeca2c07172a26" CHECKSUMTYPE="MD5" SIZE="12372">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00372_0.xml.gz"/>
+      </file>
+      <file ID="alto_00372_1" MIMETYPE="text/xml+gzip" CHECKSUM="baac7266eab343cba81b4efaa9c7421f" CHECKSUMTYPE="MD5" SIZE="12907">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00372_1.xml.gz"/>
+      </file>
+      <file ID="alto_00373_0" MIMETYPE="text/xml+gzip" CHECKSUM="7fa607a32becb8ae4fd590ee1db0be53" CHECKSUMTYPE="MD5" SIZE="13157">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00373_0.xml.gz"/>
+      </file>
+      <file ID="alto_00373_1" MIMETYPE="text/xml+gzip" CHECKSUM="0dd53a3d0be25a7fd297af553a0585d7" CHECKSUMTYPE="MD5" SIZE="13157">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00373_1.xml.gz"/>
+      </file>
+      <file ID="alto_00374_0" MIMETYPE="text/xml+gzip" CHECKSUM="942fc4367c5013d9f987b6a6d90c313a" CHECKSUMTYPE="MD5" SIZE="13219">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00374_0.xml.gz"/>
+      </file>
+      <file ID="alto_00374_1" MIMETYPE="text/xml+gzip" CHECKSUM="62a0790ed8460567f42e536cb6946d7e" CHECKSUMTYPE="MD5" SIZE="13210">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00374_1.xml.gz"/>
+      </file>
+      <file ID="alto_00375_0" MIMETYPE="text/xml+gzip" CHECKSUM="c57789328f252baf7c16a7e16cfb242d" CHECKSUMTYPE="MD5" SIZE="12931">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00375_0.xml.gz"/>
+      </file>
+      <file ID="alto_00375_1" MIMETYPE="text/xml+gzip" CHECKSUM="3af16de12b3dfbfa1357ba50e2e33007" CHECKSUMTYPE="MD5" SIZE="12968">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00375_1.xml.gz"/>
+      </file>
+      <file ID="alto_00376_0" MIMETYPE="text/xml+gzip" CHECKSUM="1262355c5dc7e17a1976fc713e56fe3e" CHECKSUMTYPE="MD5" SIZE="12337">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00376_0.xml.gz"/>
+      </file>
+      <file ID="alto_00376_1" MIMETYPE="text/xml+gzip" CHECKSUM="4667f870a6796c35e2a6d014d6380d71" CHECKSUMTYPE="MD5" SIZE="12640">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00376_1.xml.gz"/>
+      </file>
+      <file ID="alto_00377_0" MIMETYPE="text/xml+gzip" CHECKSUM="e73f152021141bb3f9073f916cfe2451" CHECKSUMTYPE="MD5" SIZE="13040">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00377_0.xml.gz"/>
+      </file>
+      <file ID="alto_00377_1" MIMETYPE="text/xml+gzip" CHECKSUM="4b8283c898cbe196e3592656b83e27ce" CHECKSUMTYPE="MD5" SIZE="12507">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00377_1.xml.gz"/>
+      </file>
+      <file ID="alto_00378_0" MIMETYPE="text/xml+gzip" CHECKSUM="9f325df0a6b71cde0b2c8a106f45b111" CHECKSUMTYPE="MD5" SIZE="12948">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00378_0.xml.gz"/>
+      </file>
+      <file ID="alto_00378_1" MIMETYPE="text/xml+gzip" CHECKSUM="164c0c451513cf452b5f659194323900" CHECKSUMTYPE="MD5" SIZE="12952">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00378_1.xml.gz"/>
+      </file>
+      <file ID="alto_00379_0" MIMETYPE="text/xml+gzip" CHECKSUM="ddf84f813fe1d82d0a1b62ff62408882" CHECKSUMTYPE="MD5" SIZE="12753">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00379_0.xml.gz"/>
+      </file>
+      <file ID="alto_00379_1" MIMETYPE="text/xml+gzip" CHECKSUM="7fcb04a4164ed712932ec36c646bc7cf" CHECKSUMTYPE="MD5" SIZE="12883">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00379_1.xml.gz"/>
+      </file>
+      <file ID="alto_00380_0" MIMETYPE="text/xml+gzip" CHECKSUM="34933d3510c61ae1e76f2f9c240b1984" CHECKSUMTYPE="MD5" SIZE="12626">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00380_0.xml.gz"/>
+      </file>
+      <file ID="alto_00380_1" MIMETYPE="text/xml+gzip" CHECKSUM="0bd95abf1626310a26466bef4bf9d64f" CHECKSUMTYPE="MD5" SIZE="13060">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00380_1.xml.gz"/>
+      </file>
+      <file ID="alto_00381_0" MIMETYPE="text/xml+gzip" CHECKSUM="f7989fb70293c0f9ec3fb78474ec22c4" CHECKSUMTYPE="MD5" SIZE="13055">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00381_0.xml.gz"/>
+      </file>
+      <file ID="alto_00381_1" MIMETYPE="text/xml+gzip" CHECKSUM="37f26bb9ebf7ea5e4964507451f4d57d" CHECKSUMTYPE="MD5" SIZE="12421">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00381_1.xml.gz"/>
+      </file>
+      <file ID="alto_00382_0" MIMETYPE="text/xml+gzip" CHECKSUM="594d26b6131d787bf925bad9aff3665a" CHECKSUMTYPE="MD5" SIZE="13334">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00382_0.xml.gz"/>
+      </file>
+      <file ID="alto_00382_1" MIMETYPE="text/xml+gzip" CHECKSUM="c00b76b129bfcf402910fd727ece22f3" CHECKSUMTYPE="MD5" SIZE="13190">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00382_1.xml.gz"/>
+      </file>
+      <file ID="alto_00383_0" MIMETYPE="text/xml+gzip" CHECKSUM="e670de5baa1ded80ca1cc81185209f0c" CHECKSUMTYPE="MD5" SIZE="12713">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00383_0.xml.gz"/>
+      </file>
+      <file ID="alto_00383_1" MIMETYPE="text/xml+gzip" CHECKSUM="fbd05472f83f98bc68e201e7e016d8b9" CHECKSUMTYPE="MD5" SIZE="12927">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00383_1.xml.gz"/>
+      </file>
+      <file ID="alto_00384_0" MIMETYPE="text/xml+gzip" CHECKSUM="8e15e312023cfb62e00c2834c122248b" CHECKSUMTYPE="MD5" SIZE="12983">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00384_0.xml.gz"/>
+      </file>
+      <file ID="alto_00384_1" MIMETYPE="text/xml+gzip" CHECKSUM="5fbd3444c5178aa43b5c9450f7ceb61a" CHECKSUMTYPE="MD5" SIZE="12748">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00384_1.xml.gz"/>
+      </file>
+      <file ID="alto_00385_0" MIMETYPE="text/xml+gzip" CHECKSUM="04f498d8c20631ea48c3c12b9dbd9ef5" CHECKSUMTYPE="MD5" SIZE="12670">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00385_0.xml.gz"/>
+      </file>
+      <file ID="alto_00385_1" MIMETYPE="text/xml+gzip" CHECKSUM="13087cbd4d6b3d5a659d26caf63973dd" CHECKSUMTYPE="MD5" SIZE="11907">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00385_1.xml.gz"/>
+      </file>
+      <file ID="alto_00386_0" MIMETYPE="text/xml+gzip" CHECKSUM="a6e325b5d4caae2c81f3232c418ceb82" CHECKSUMTYPE="MD5" SIZE="7773">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00386_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0109" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="724" lastpage="759">
+              <court pgmap="736" id="b736-5">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="736" id="b736-4">Nos. 701, 702, 703, and 744.</docketnumber>
+              <citation pgmap="736" id="b736-2">121 F. 209</citation>
+              <parties pgmap="736" id="b736-3">In re NOYES. In re GEARY. In re WOOD. In re FROST.</parties>
+              <decisiondate pgmap="736" id="b736-6">Jan. 6, 1902.</decisiondate>
+              <judges pgmap="738" id="b738-8">Before GILBERT, ROSS, and MORROW, Circuit Judges.</judges>
+              <attorneys pgmap="738" id="b738-4">E. S. Pillsbury, amicus curiae.</attorneys>
+              <attorneys pgmap="738" id="b738-5">P. J. McLaughlin and F. J. Heney, for Arthur H. Noyes and C. A. S. Frost.</attorneys>
+              <attorneys pgmap="738" id="b738-6">J. G. Maguire, for Thomas J. Geary.</attorneys>
+              <attorneys pgmap="738" id="b738-7">Joseph K. Wood, in pro. per.</attorneys>
+              <opinion type="majority">
+                <author pgmap="738" id="b738-9">GILBERT, Circuit Judge.</author>
+                <p pgmap="738(79) 739(432) 740(436) 741(348)" id="b738-10">The affidavit upon which the order to show cause was directed to Arthur H. Noyes charges that on July 23, 1900, said Arthur H. Noyes, as judge of the District Court of Alaska, Second Division, at Nome, Alaska, signed an or­der in the action entitled Chipps v. Lindeberg et al., ap­pointing Alexander McKenzie receiver of property de­scribed in the complaint, which consisted of a placer min­ing claim, and enjoined the defendants, who were then in possession of the claim, from working the same; and on the same date made similar orders in four other similar causes pending, viz., Melsing v. Tornanses, Comptois v. Anderson, Rodgers v. Kjellman, and Webster v. Nakkeli et al. That thereupon the receiver took possession of the claims, and proceeded to mine the same, and extracted therefrom gold dust of the value of more than $100,000. That the defendants in each of the said cases presented to the said Arthur H. Noyes, judge of said court, a petition for the allowance of an appeal from said order, together with an undertaking on appeal and assignment of errors, but that the said Arthur H. Noyes refused to grant said petition or to allow such appeal. That thereafter, on Au­gust 29, 1900, Honorable W. W. Morrow, one of the judges of this court, made orders allowing appeals in said cases, and directing that writs of supersedeas issue thereon out of this court, directed to the said Alexander McKenzie and the said Arthur H. Noyes, commanding the said Noyes to desist from any further proceedings on account of said orders, and commanding the said McKenzie to restore to the defendants in said cases all property which he had taken or received as receiver. That on September 14, 1900, certified copies of said orders allowing such appeal in some of said cases, and writs of supersedeas in all of said cases, were filed in the office of the said District Court at Nome, and certified copies of the writs of supersedeas were served upon said Arthur H. Noyes, and also upon the said receiver; and demand was made upon the latter that he return to the defendants in said actions the gold and gold dust which he had taken from the claims described in the complaints in said actions, which gold dust was then in his possession, and was of the value of about $200,000. That said receiver refused to deliver said gold dust, or any part thereof, to the defendants in said ac­tions, and refused to comply with the writs of supersedeas, whereupon application was made by the respective defend­ants, through their counsel, to the said Arthur H. Noyes for orders directing the enforcement of the writs of supersedeas which had been issued by this court, and that the said Arthur H. Noyes then and there declined to make such orders, say­ing that the matter was out of his hands. That on Septem­ber 15, 1900, the defendants in said cases, through their counsel, again requested said Arthur H. Noyes to make an order directing the enforcement of the said writs of supersedeas, but the said Noyes then and there stated and declared that the orders appointing the receiver were not appealable; that the defendants were not entitled to an appeal. That on said last-named date the said Noyes gave instructions to the United States marshal to place a, guard over the vaults containing the gold dust, and to prevent ac­cess thereto by any person. That the object of said order was to defeat the execution of the said writs of super­sedeas. That on said date the said Arthur H. Noyes, in the presence of T. J. Geary, said to the said marshal, “Go ahead and keep possession of the gold dust, and do not let McKenzie or any of the parties go near it,” and that at the same time the said Noyes stated, in the presence of said Geary, that he did not think the order appointing McKen­zie as receiver was an appealable order, but that, assum­ing that it was, the only supersedeas that could be effected was one staying proceedings, and that on the record as it was there was no justification for the defendants demand­ing the return of the property. That on October 6, 1900, in the case of Chipps v. Lindeberg et al., the plaintiff, by his attorneys,. Hubbard, Beeman &amp; Hume, filed a motion in said District Court of the District of Alaska at Nome for an order of the court restraining the defendants in said case from working the placer mining claim in controversy there­in, and from taking out of the jurisdiction of said court any gold taken therefrom, and that said motion was based upon an affidavit of the plaintiff, which referred to the writ of supersedeas as “an alleged writ of supersedeas from the Circuit Court of Appeals of the Ninth Circuit.” That upon such motion the said Arthur H. Noyes, judge of said court, ordered that the defendants in said action show cause on October 8th why an injunction should not issue restrain­ing them from further working the claim, and from de­porting from the jurisdiction of the court any gold dust taken therefrom. That upon October 10th the said Arthur H. Noyes made an order upon such application for an in­junction, enjoining the defendants in said action from re­moving any gold dust taken from said placer claim to any place outside of the Nome precinct, District of Alaska. That the conduct of the said Arthur H. Noyes after the appointment of the said receiver, and above described, was for the purpose of interfering with and preventing the en­forcement of said writs of supersedeas. The answer of Arthur H. Noyes admits that he refused to make an order requiring the receiver to return the gold dust to the defend­ants, but avers that he did not believe he could or should make such an order, and that all matters pertaining to the receivership had passed beyond his control, except such orders as he was required to make by the .terms of the writ. That he did not state, as a reason for refusing to make an order requiring the receiver to deliver the gold dust, that the orders appointing the receiver were not appealable, but admits that it was his judgment and opinion that such or­ders were not appealable. He denies that he ordered the marshal to allow no one, especially McKenzie, or the par­ties interested, to have access to the vaults in which the gold dust held by the receiver was deposited, dr that he stat­ed to the said marshal to go ahead and keep possession of the gold dust. He admits that he stated that the only order he could make in such cases was one staying proceedings; that the writ of supersedeas directed him to stay all pro­ceedings in the receivership matter, and to desist and re­frain from any further acts in connection therewith; and he alleges that the injunction of October 10th was made upon the belief and in the full conviction that such order was within his power as a judge in the said case then pend­ing, for the reason that the appeals had been taken only from the orders appointing the receiver, leaving all other matters in said causes pending in the District Court for further proceedings. That in all the matters set forth in the charges he acted in good faith, and in full respect for the au­thority, writs,, and orders of this court, and he denies that he sought to interfere with or prevent the enforcement of the writs of supersedeas.</p>
+                <p pgmap="741(93) 742(158)" id="b741-4">Of the evidence which was taken upon the issue raised by the answer of Arthur H. Noyes to the order to show cause, a large proportion consists of testimony concerning the attitude of the judge toward the litigation then pending before him in the cases which are hereinafter referred to, as well as in other cases in which McKenzie was receiver or was interested. Much of it tends strongly to show the ex­istence of a criminal conspiracy between some of these re­spondents and McKenzie and others to use the court and its process for their private gain, and to unlawfully deprive the owners of mines who were in possession thereof of their property under the, forms of law. Concerning this portion of the evidence, it is not necessary to express an opinion. The respondents are on trial here for the of­fense of contempt of the process of this court, and for no other offense. Reference to the evidence of their miscon­duct will be made only for the purpose of finding the ani­mus which actuated them in the commission of the acts with which they stand charged. We find it unnecessary to dis­cuss all of this evidence in detail. We shall assume as proven none of the material facts which are testified to, ex­cept such as are not disputed, or are corroborated by other evidence, or are so well sustained by the proofs as to leave in our minds no reasonable doubt of their truth.</p>
+                <p pgmap="742(269) 743(404) 744(428) 745(434) 746(435) 747(189)" id="b742-4">Judge Noyes arrived at Nome on July 19, 1900, in company with other officers of his court, and in company with Alexander McKenzie. Prior to going to Nome, Mc­Kenzie had been engaged in organizing the Alaska Gold Mining Company, a corporation, for the purpose of engag­ing in mining at Nome, and in that connection had made the acquaintance of O. P. Hubbard, a member of the'firm of Hubbard, Beeman &amp; Hume, attorneys at Nome, Alaska. On the day of his arrival at Nome, McKenzie went to the office of Hubbard, Beeman &amp; Hume, and had an interview with Mr. Hume, in which he told the latter that Hubbard had transferred to him, McKenzie, his interest in the litiga­tion which involved the right of possession of the Anvil Creek mining claims, and that Hubbard had represented to him that the other members of the firm would do the same, that is, would transfer to his corporation the contingent in­terest they had in those claims. The contingent interest of Hubbard, Beeman &amp; Hume was a one-half interest in the claims in case the plaintiffs prevailed. Plume testified that McKenzie further represented to him and to Beeman that he controlled the appointment of the judge and the district attorney, and that if they desired to have those cases heard it would be absolutely necessary to transfer their interest to his corporation, and receive in lieu certificates of stock, and he testified that, at the same time, McKenzie demanded that a one-fourth interest of the business of Hubbard, Beeman &amp; Hume be transferred to Joseph K. Wood, the district attorney, and that Wood become a silent partner in the firm, and stated that, if all this were assented to, Hume should become deputy district attorney. The evidence shows that Hume and his partners agreed to these sugges­tions, and Wood became a silent partner in the firm of Hub­bard, Beeman &amp; Hume, and that Hume was appointed deputy district attorney. All this was done on Thursday, July 19th. The evidence shows that on the same day, and immediately after making these arrangements, McKenzie took Hume and Beeman aside and demanded that an en­tire one-fourth interest of the firm be placed in his, Mc­Kenzie’s, name, and that he receive one-fourth of the profits. Hume testified that this was assented to on the next morning, after much objection and hesitation, and only after McKenzie had threatened him that, if he refused, his business and the interests of his clients would be ruined. He testified further that partnership articles were drawn up and signed in accordance with the agreement. Wood ad­mitted that the agreement was entered into whereby he and McKenzie were each to have a one-fourth interest in the firm, but he expressed the belief that it was never acted upon or carried out so far as McKenzie’s interest was con­cerned. At that time Hubbard, Beeman &amp; Hume were at­torneys for the plaintiffs in four actions at law that were pending concerning the title to four of the best placer min­ing claims on Anvil Creek. Immediately after, entering into the partnership agreement, McKenzie directed the firm to get all their stenographers at work preparing papers for applications for the appointment of receivers in those ac­tions. This was done in the four cases then pending, to wit, Rodgers v. Kjellman, involving claim No. 2 below Dis­covery on Anvil Creek; Comptois v. Anderson, involving claim No. 3 above Discovery; Melsing v. Tornanses, in­volving claim No. 10 above Discovery; and Webster v. Nakkeli, involving a claim on Nakkeli Gulch, tributary to Anvil Creek; and a new action was brought, Chipps v. Lindeberg et al., involving Discovery Claim on Anvil Creek. The firm of Hubbard, Beeman &amp; Hume employed three stenographers, and were busily engaged until the afternoon of Monday, July 23d, in making out papers. Bills in equity and affidavits in aid of the pending actions at law were prepared in all these causes except in Rodgers v. Kjellman. In that case, the receiver was appointed upon a complaint in ejectment and affidavits. In Melsing v. Tor­nanses, the bill was not verified. While the papers were be­ing prepared, McKenzie was constantly in and about the office of Hubbard, Beeman &amp; Hume, urging haste. On Monday morning, July 23d, he had a wagon waiting in front of the office of the firm for the purpose of conveying himself and his keepers to take possession of thé mines as soon as he should be appointed receiver. Monday after­noon there were two such wagons waiting. These facts are shown by the testimony of several disinterested wit­nesses, one of whom, Arthur M. Pope, testified that as early as 9 or half past 9 o’clock in the morning his attention was directed to teams standing ready to convey McKenzie and others to the mines on Anvil Creek, and that on that day, or perhaps the day before, he had received information from Hubbard, Beeman &amp; Hume that McKenzie would be appointed receiver of those mines. Between half past 5 and 6 o’clock in the evening of Monday, July 23d, the papers having been prepared, but not filed, Mr. Hume called upon Judge Noyes at his hotel, presented his papers, and asked for the appointment of a receiver in the five suits. Mr. Hume testified that he started to read the affidavit of the plaintiff in one of the cases, whereupon the judge said it was not necessary to read the affidavit, and asked for the orders, and that the witness then stated that he desired to recommend for appointment Alexander McKenzie, to which the judge replied that he had known McKenzie for many years, that he was a very good man, and that, as he was a stranger in the country, he would prefer to appoint someone with whom he was acquainted; and thereupon he appointed McKenzie receiver of all of said mining claims, with instructions to take immediate possession of the same and work them, and to preserve the gold dust and proceeds of the claims subject to the further orders of the court; and all persons then in possession of the claims were ordered to deliver to the receiver immediate possession, control, and management thereof,- and were enjoined from in any man­ner interfering with the mining or working of the claims, or the receiver’s control or management thereof. The amount of the bond required of the receiver was in each case only $5,000, and this in the face of the showing made by the plaintiff’s affidavit in one of the cases that the daily out­put of the mine involved therein was $15,000. Immediate­ly after the orders were signed, and before any bonds were filed, and before the papers were filed by the clerk, or the summons had been issued, the receiver proceeded to take possession of the five placer claims involved in those suits. The appointment of a receiver in these cases was a com­plete surprise to the defendants therein. Judge Chas. S. Johnson, formerly the district judge of Alaska, who was an attorney for certain of the defendants, testified that, in a conversation he had with Judge Noyes on his arrival, the latter had stated that his court would not be open for busi­ness until his return from St. Michaels; that he would go there in a few days, and there formally open his court and spread his commission on the records, and return; that he would keep a clerk or deputy at Nome until he returned, but added: “He will transact no business until I return from St. Michaels.” The fourth section of the act of June 6, 1900, under which Judge Noyes was appointed, pro­vided that the Judge of the Second District of Alaska should reside at St. Michaels, and it authorized him to hold court elsewhere in the district upon giving at least 30 days’ notice. 31 Stat. 321-323. This notice was given by Judge Noyes by publication. It was dated July 21, 1900, and gave notice that a special term of the District Court would be held at Nome on Monday, August 22, 1900, or as soon thereafter as practicable and convenient. Upon learning that a receiver had been appointed, the attorneys for the defendants in those cases endeavored to obtain an order setting aside the appointment. Samuel Knight, an attorney for certain of the defendants, prepared papers and called upon the judge on July 24th, and requested that his motion be set for hearing immediately, or as soon as possible. The judge replied that the matter could not then be taken up nor until after his return from St. Michaels. Mr. Knight urged that the matter be set for hearing at 3 o’clock that afternoon, to which the judge replied that the notice was too short. Judge Noyes declined to give the order or to set the cases for hearing, whereupon Mr. Knight said he would serve a notice on Hubbard, Beeman &amp; Hume, and would be there at 3 o’clock in the afternoon. At 3 o’clock counsel appeared, the motions were argued, and Judge Noyes an­nounced that he would render his decision on the follow­ing Monday, On the following Monday, July 30th, he made no decision. Two days later he left Nome for St. Michaels. After he returned, the motions were reargued on August 3d and 4th. On August 10th they were decided adversely to the defendants. W. H. Metson and Judge Kenneth M. Jackson, on behalf of the defendants whom they represented, made similar motions and efforts to ob­tain orders setting aside the appointment of the receiver in their cases. In the meantime, on July 25th, Judge Noyes made an order in the case of Chipps v. Lindeberg et al., which should receive more than casual notice. W. H. Met-­son, one of the attorneys for the defendants in that case, hearing that the receiver had taken possession of the per­sonal effects of the defendants therein, went on July 24th to the judge and asked him to make an order so construing the order of the 23d as to permit the defendants to remain in the possession of their tents and their personal property, and thereupon the judge so ordered. On July 25th, Mr. Metson having heard that the judge had made a statement that he had been imposed upon in making the order of the previous day, went to the judge and stated what he had heard, and remarked that he was not in the habit of im­posing upon judges, and did not intend so to do. To which Judge Noyes replied: “Your people are preventing the re­ceiver from working the Discovery claim. I am going to tie your people up all around. I am going to make an or­der which will take everything away from them.” Mr. Metson protested against this, and requested the judge not to take so drastic a remedy, and drew his attention to the fact that the complaint called for the possession of the mine only; and he argued that to take away the tools and sup­plies and personal effects of the defendants would be a great injustice. To which Judge Noyes replied: “I have been imposed upon, and I am going to tie them up.” Mr. Met-­son testified positively to these facts. Judge Noyes admit­ted that portions of Metson’s testimony are true, and made uncertain denial of the remainder. 1 We entertain no doubt, in view of all the facts and circumstances, and the nature of Judge Noyes’ own testimony, that the interview occurred substantially as testified to by Mr. Metson. He testified further that he requested the judge to refrain from mak­ing such an order, and that the judge declared his purpose to make it, and told him if he got anything he would have to see McKenzie about it. Judge Noyes denied that he re­ferred Metson to McKenzie. The order which was made on July 25th was entitled an “order enlarging the powers of receiver.” Among other things, it directed the receiver to “take possession of all sluice boxes, pumps, excavations, machinery, pipe, plant, boarding houses, tents, buildings, safes, scales, and all personal property, fixed and movable, gold, gold dust, and precious metals, money boxes, or coin, and all personal property upon said claim.” The receiver took possession of the tents and the beds of the men, the men’s own personal property, the boxes of gold dust be­longing to the men, the gold dust taken from other claims belonging to the defendants, the contents of the safe, and the time books of other claims which the defendants were working, and there was no redress until some six weeks later, when the receiver, on the advice of his counsel, sur­rendered a few of the things so taken.</p>
+                <p pgmap="747(249) 748(178)" id="b747-4">On August 15th the defendants applied to Judge Noyes for orders allowing them appeals to this court from the or­ders appointing the receiver, and accompanied their applica­tion in each case with bonds and assignments of error, and presented bills of exceptions. The applications were de­nied. After the appeals had been subsequently allowed by the order of the Honorable W. W. Morrow, one of the judges of this court, and copies of the orders of the judge and the writs of supersedeas thereupon issued had arrived at Nome on September 14th, Marshal Vawter on that day served the writs upon Judge Noyes and upon the receiver. Mr. Knight called upon the judge on the same day and stat­ed to him that he had come to see about getting an order to put into effect the writs of supersedeas, and the judge said to him: “I can do nothing about this order; this litigation has caused me a great deal of worry. My hands are tied; the court has taken the whole matter out of my hands. You gentlemen have got to fight this thing out among your­selves,” and he added: “I shall make no order; it is not my duty to do so; it is not within my province or right to do so.” On the following day Mr. Knight made a similar ap­plication for such order, and presented to the judge a form of order, to which, he testified, the judge replied that he had talked with Mr. McKenzie, and had come to the conclusion that the writs were void, and added: “You have laid a very suspicious emphasis upon the injunctional part of these orders; you are not entitled to an appeal, and your record shows evidence of a great deal of haste.” Judge Noyes further stated to Mr. Knight that he was hav­ing an order prepared. Cornelius L. Vawtér, who was the marshal of the District Court of Alaska, Second Divi­sion, in the fall and summer of 1900, testified that on Sep­tember 14th he served copies of the writs upon Judge Noyes and McKenzie, and that later in the same day he called upon the judge and asked if there was anything that could be done in relation to the writs, and that the judge answered that he was not going to do anything; McKen­zie could do as he pleased. The marshal testified that on the following day, while he was in consultation with Major Van Orsdale, he received from Judge Noyes the following letter:</p>
+                <blockquote pgmap="748" id="b748-3">“Nome, Alaska, Sept. 15, 1900.</blockquote>
+                <blockquote pgmap="748" id="b748-4">“C. L. Vawter, United States Marshal, City — Dear Mar­shal: I have been able for the first time to make an ex­amination of the original order sent down from the Cir7 cuit Court of Appeals, and find that it will be necessary for me to enter certain orders of record here, which will be done as soon as they can be drawn and spread upon the record. In the meantime, it devolves upon you to preserve the peace and good order so far as it is possible for you to do, and I have taken occasion to request Major Van Ors­dale to render such assistance as necessary to protect life and property and to hold things in statu quo until the order can be prepared and presented to the court.</blockquote>
+                <blockquote pgmap="748" id="b748-5">“Sincerely yours, Arthur H.. Noyes, Judge.”</blockquote>
+                <p pgmap="748(96) 749(169)" id="b748-6">The marshal testified that in connection with the letter, and after he had put a posse of two soldiers in the bank, he had a conversation with Judge Noyes, in which he told the judge what he had done to guard the bullion, and that the judge remarked: “That is right. Hold it there. Don’t let this crowd get it; don’t let anybody get it; keep the guard on there until further orders.” The marshal testi­fied further that it was rumored at that time that the Lane people and the Pioneer Mining Company (the defendants in the Anvil Creek cases) were going to go in and take the bullion out, and that their attorneys had requested him to have the writs enforced, and that he informed Judge Noyes of this later, and that the judge said it was right “not to enforce them; not to let them get the bullion.” Marshal Vawter testified that later, at St. Michaels, he had a conversation with the judge, in which he said to the latter: “There is no danger but what you are going to obey the writ of the appellate, court, is there?” and the judge answered: “Don’t you think it. In the first place I have got a right to interpret those writs. They have not put up bonds enough. I don’t know whether they are genuine or not. I don’t know who Frank Monckton is. I am not go­ing to take any clerk of the court’s word for it. In any event the Supreme Court will knock them out when it gets there.”</p>
+                <p pgmap="749(260) 750(16)" id="b749-4">Judge Noyes contradicted the testimony of the marshal in regard to this conversation, and denied that he made the remarks which the marshal attributed to him. There is par­tial corroboration of the marshal’s testimony by that of George V. Borchsenius, the clerk of the court, who testified that he was present during a part of the conversation at St. Michaels, and that he heard some remark of Judge Noyes concerning Mr. Monckton, the clerk of the Circuit Court of Appeals. It should be noted that Marshal Vaw­ter, at the time when he testified, was no longer marshal of the court, and that his feeling toward Judge Noyes was unfriendly, and that he and the judge were not upon speak­ing terms. Chas. D. French, captain in the United States Army, Seventh Infantry, testified that he was on duty at Nome in August, September, and October, 1900. That he had an interview with Judge Noyes on September 15th, in which reference was made to the writs of supersedeas, and that he asked Judge Noyes what was going to be done about it, to which Judge Noyes answered that he under­stood it that the writs required him not to do anything whatever. Capt. French further testified: “There was some further conversation. He directed me not to issue any executive order in reference to these writs, as I under­stood it. * * * I understood I was required not to undertake the execution of the writs. I was captain of Company K. Seventh Infantry, which was engaged in con­trolling the town, and was, as I understood it, held respon­sible for keeping the peace.”</p>
+                <p pgmap="750(416) 751(97)" id="b750-4">Capt. French later testified that when the judge forbade him to issue an executive order he understood it to refer to the writs of supersedeas, and he so informed Major Van Orsdale, his superior officer. Major Van Orsdale, who was in command of the military forces at Nome, testified that, on the morning of September 15th, Kenneth M. Jackson, one of the attorneys for the defendants in the Anvil Creek cases, called upon him and told him that the receiver had re­fused to comply with the writs of supersedeas, and that there was danger of serious trouble, as a vigilance com­mittee was being or was about to be organized for the pur­pose of taking possession of the properties that McKenzie was responsible for. as receiver, and that he was very anxious that matters should proceed in a lawful way; that if the committee got started there was no knowing where it would end, and very serious trouble would probably re­sult, possibly bloodshed. Kenneth M. Jackson testified that what he told Major Van Orsdale was that McKenzie had refused to obey the writs, and that the marshal had re­fused to enforce them, and that the defendants were afraid that McKenzie and the plaintiffs would remove the gold dust and get away with it, and that if they did attempt to take the gold dust out of the bank some one would get hurt, and that he wanted the assistance of the military to enforce the writs. We have no hesitation in accepting Mr. Jack­son’s statement as embodying the truth of the situation. It is fully sustained by the circumstances, and by the gen­eral facts in the case as testified to by other witnesses. There was no danger of a general riot or of the formation of a vigilance committee, and there was no danger of blood­shed unless either the plaintiffs or the defendants or the receiver should attempt by force to remove the gold dust from the safe deposit vault where it was stored. It is true there were miners in Nome at that time who had been working for the receiver whose wages had not been paid, and who were clamorous for payment, but there is no credible evidence that they contemplated or threatened the use of violence to take the gold dust, or for any purpose, or that there was talk of a vigilance committee. Major Van Orsdale testified that he went to see Judge Noyes, to­gether with Capt. French; that he reported to the judge what he had heard about the writs and the danger of riot and bloodshed, and that the judge informed him that the matter had been taken entirely out of his hands, and that he did not know what Mr. McKenzie was going to do about it, but if the matter was brought to his attention he would inform Mr. McKenzie that he should comply with the writ, or words to that effect. That afternoon, about 4 o’clock, Major Van Orsdale received the following letter from Judge Noyes:</p>
+                <blockquote pgmap="751" id="b751-4">“Nome City, Alaska, Sept. IS, 1900.</blockquote>
+                <blockquote pgmap="751" id="b751-5">“Major Van Orsdale, Nome City, Alaska — My Dear Major: After you called with Captain French this morn­ing I saw the original papers on file from the Circuit Court of Appeals, and I find that it is necessary for an order to be entered by this court, which will be entered, of course, as soon as the same can be prepared, and such further steps will be taken as will be a full and complete compliance with the order of the Circuit Court of Appeals. My anxiety in this matter is to do everything in my power, and have all those whom I can in anywise control fully comply with the order of the court above, which, of course, will be done. In the meantime it is necessary that matters should rest in statu quo, and peace and order be preserved, and I therefore request that you render such assistance to the marshal as may be necessary to maintain that peace and quiet.</blockquote>
+                <blockquote pgmap="751" id="b751-6">“Assuring you of my desire to co-operate in every ef­fort that is needful in order to preserve life and property, I am,</blockquote>
+                <blockquote pgmap="751" id="b751-7">“Very sincerely yours, Arthur H. Noyes, Judge.”</blockquote>
+                <p pgmap="751" id="b751-8">Judge Noyes testified that the letter to Major Van Ors­dale was written in pursuance of an interview that he had previously had with Major Van Orsdale, when the latter had called upon him and told him there was going to be a disturbance and an attack upon the bank, or that a mob was likely to assemble, and that there was going to be bloodshed.</p>
+                <p pgmap="751(39) 752(225)" id="b751-9">On September 17th, W. H. Metson made formal ap­plication in court for an order directing the receiver to comply with the writs of supersedeas in his cases, and the judge answered, saying that he was preparing a formal order which would be filed. On September 19th, Mr. Met-­son and Judge Johnson made, in open court, a motion for the enforcement of the writ of supersedeas .in the Chipps case, and accompanied the motion with an affidavit that McKenzie had extracted $130,000 from the mine, which he refused to deliver, and they asked the court to make an order on the writ of supersedeas that he transfer that property to the defendants. Judge Noyes, being then en­gaged in hearing a trial, directed that the trial proceed, and made no answer to the application which was thus made. It appears that no order was made in open court by Judge Noyes in any of these cases at any time, but Mr. Metson testified that subsequently he found among the pa­pers in the Chipps case orders which bore date September 17th, which were not filed, and which contained, indorsed upon them in pencil, in the handwriting of Wheeler, the private secretary of the judge, the memorandum, “Not to be filed.” The order, after setting forth certain recitals, concludes as follows: “Ordered that all further proceedings herein in relation to said interlocutory order of this District Court of said 23d day of July, 1900, be and are hereby stayed pending the said appeal from said interlocutory or­der to the Circuit Court of Appeals.”</p>
+                <p pgmap="752(179) 753(15)" id="b752-3">Similar orders were made in the other cases, all hearing date of September 17, 1900.' Judge Noyes testified that these orders were made to express his understanding of the requirements of the writs of supersedeas so far as they were directed to him, and that he did not .make or authorize the memorandum “not to be filed.” The writs contained the following: “And that.you, said Alexander McKenzie, do forthwith return unto the said defendants the possession of any and all property of which you took possession under and by virtue of said order, and that you do make return of this supersedeas, together with your acts and doings thereon, to said District Court for such District of Alaska, Second Division, as you will answer the contrary at your peril, and you, the Judge of said District Court for the District of Alaska, Second Division, are hereby command­ed to stay any and all proceedings which may have issued as aforesaid upon said order, and to stay any and all further proceedings in relation to said order and the appointment of a receiver in this case; pending the appeal last afore­said in this court.”</p>
+                <p pgmap="753(410) 754(340)" id="b753-3">Judge Noyes testified that he was not advised of the fact that Judge Morrow had approved the form of the writs of supersedeas, or that he had taken other action than to make the orders upon which said writs were is­sued, and that, taking the writs in connection with those orders and the amount of the bonds upon which the ap­peals had been allowed, which was $35,000 in each case, he was in doubt whether the writs directed the receiver to turn over the gold dust. He testified that he told Mc­Kenzie that he, McKenzie, ought to comply with the writs, but' as to what was necessary for him to do in order to comply therewith he did not undertake to advise him; that he thought, when the appeals were taken, the whole thing was taken out of his, Noyes’, hands, and that he was restrained from taking any further steps in the cases whatever, so far as the receiver was concerned. He ad­mitted that he declined to make an order requiring the. receiver to turn over the gold dust, “not believing I was bound to; on the contrary, believing it was not a part of my duty to do so.” On October 6th, this gold dust re­maining still in the possession of McKen'zie, the receiver, but the mining claims involved in the suits having been surrendered by him to the defendants, who were then engaged in mining the same, Chipps, the plaintiff in the case of Chipps v. Lindeberg et al., by his counsel, applied to the court for an order upon the defendants therein, to show cause why they should not be restrained from re­moving from the territorial jurisdiction of the court the gold dust which they were then extracting from the mine, and accompanied the application with an affidavit setting forth the facts of the allowance of the appeal by Judge Morrow, and the issuance of the writ of supersedeas, which was therein referred to as “an alleged writ of su­persedeas of the Circuit Court of Appeals of the Ninth Circuit.” Hearing was had upon the order to show cause on October 8th, at which time a discussion was had be­fore the court by counsel for the respective parties con­cerning the effect of the writ of supersedeas. It was argued on behalf of the plaintiff that inasmuch as the appeal had been taken only from the receivership pro­ceedings, and the main action remained pending before the court, there could be no violation of the writ of superse­deas by enjoining the defendants from deporting the gold dust from the jurisdiction. That argument was met by the defendants’ counsel with the proposition that on prop­er application to the court, and the proper bond being given, the court would have jurisdiction to issue an injunc­tion, but that the court would have no jurisdiction unless the bond was offered, and they contended that the appli­cation for the injunction, without the bond, was merely a makeshift to avoid the writ of supersedeas. On Octo­ber 10th the court made the injunction order, enjoining the defendants from moving any of the gold dust from the jurisdiction of the court. It was made without bond, and without suggestion of a bond. Judge Noyes testified that it was not his intention to order an injunction with­out a bond, and that if he so ordered in this instance it was by mistake. Marshal Vawter testified, and his testi­mony is not contradicted, that on October 10th, the day when the injunctions were issued, and some three hours before their issuance, McKenzie came to him and was very anxious to have the injunctions served that night, and wanted him to be ready to make the service. On October 15th, McKenzie was arrested at Nome upon an order of this court to show cause why he should not be held guilty of contempt for his disobedience to the writs of supersedeas. The defendants, on October 16th, made a motion in court to dissolve the injunction of October 10th. On the following day, W. T. Hume, one of the attorneys for the plaintiffs, stated in open court that he thought it was the duty of the plaintiffs’ attorneys in that matter, and for their own good, to dissolve the injunction of their own motion, or for the court to dissolve it. Judge Noyes thereupon immediately said, “All of the injunction orders are dissolved forthwith.”</p>
+                <p pgmap="754(67) 755(417) 756(66)" id="b754-3">The record and the evidence of these proceedings show from first to last, upon the part of Judge Noyes, an ap­parent disregard of the legal rights of the defendants in the cases in which McKenzie was appointed receiver. The proceedings upon which the receiver -was appointed were extraordinary in the extreme. Immediately after his ar­rival at Nome in company with the man who, it seems, had gone to Nome for the express purpose of entering into the receivership business, and who boasted to others that he had secured the appointment of the judge, and that he controlled the court and its officers, upon papers which had not as yet been filed, before the issuance of summons, and before the execution of receiver’s bonds, without notice to the defendants, without affording them an opportunity to be heard, Judge Noyes wrested from them their mining claims, of which they were in the full possession, the sole value consisted of the gold dust which they contained, and which lay safely stored in the ground, and placed the claims in the hands of a receiver with in­structions to mine and operate the same, and this without any showing of an equitable nature to indicate the necessity or propriety of the receivership, or the necessity for the operation of the mines by a receiver in order to protect the property or to prevent its injury or waste. When the defendants undertook to appeal from these orders, their right of appeal was denied them. The receiver so appointed was permitted to go on and mine these claims on an extensive scale, and extract from them their value. According to the testimony, some of the mines were “gut­ted.” The appointment of the receiver was, in the case of Chipps v. Lindeberg, almost immediately followed by an order authorizing the receiver to take into his pos­session all the personal property of the defendants which was found upon the claim, including their stores, provi­sions, tools, and tents. The order so made was so ar­bitrary and so unwarranted in law as to baffle the mind in its effort to comprehend how it could have issued from a court of justice. That it was not inadvertent is shown by the fact that, before making it, Judge Noyes was re­minded that the suit involved the placer mining claim only, and by the further fact that the order was preceded by the threat to “tie up” the defendants and take away their property, and was followed three weeks later by the deliberate execution of similar orders in the other four cases. The appointment of the receiver in each case was in direct violation of the Code of Alaska, under which the court was organized (31 Stat. 451, § 753), which provides as follows: “A receiver may be appointed in any civil action or proceeding, other than an action for the recovery of specific personal property — First, provi­sionally, before judgment on the application of either party, when his right to the property which is the subject of the action or proceeding, and which is in the posses­sion of an adverse party, is probable and the property or its rents or profits are in danger of being lost or material­ly injured or impaired.”</p>
+                <p pgmap="756(347) 757(192)" id="b756-4">There is evidence of other arbitrary and oppressive ac­tion of the court in McKenzie’s favor in cases in which he was receiver or was interested,' notably the case of the Topkuk mine. It is shown that two of the original lo­cators of that mining property went to Judge Noyes up­on his arrival at Nome and complained of the action of certain trespassers, and that he referred them to his pri­vate secretary, Wheeler, saying that the latter was about to resign his office and take up the practice of the law; that they went to Wheeler, and he proposed that if they would give him a one-half interest in the mine he would secure them the full possession of their property within 24 hours; that they refused this exorbitant demand, and after some discussion were about to engage his services in consideration of a one-eighth interest, when negotiations were dropped, for the reason, it is suggested in the evi­dence, that McKenzie had become interested on the other side. An action of ejectment was then commenced by the persons whom the locators complained of, and one Cameron was immediately appointed by the court receiv­er of the mining property, upon a bond of $10,000. He proceeded to operate the mine upon an extensive scale, refused to use the machinery which the owners had placed there at an expense of $6,000, and, instead, rented ma­chinery from McKenzie at the rate of $50 per day, and bought supplies of him to the amount of $7,800. The owners attempted to protect their interests. They chal­lenged the sufficiency of the bond and the ability of the sureties to respond, but without avail. They attempted to watch the clean-ups, but their right to be present was denied by the receiver. They applied to the court for relief, but the only relief -they could obtain was an order that one of their number, who was designated by name, be permitted to be present at each clean-up simultaneously with one of the plaintiffs. The evidence is that a consider­able portion of the time the plaintiffs declined to be pres­ent, and thereupon the receiver denied the right of the designated defendant to be present. When the defendants finally established their title to the property by the verdict of a jury, and the receiver was discharged, his account showed that he had taken out of the mine $30,000, while his expenses were largely in excess of that amount. The owners contended that he had taken from the mine more than $200,000. Upon a reference of the receiver’s ac­count to a referee appointed by Judge Noyes, it was found that the receiver had taken from the mine $100,000, and that his expenses were no more than $35,000. The evi­dence shows that neither the receiver nor his bondsmen have any property which can be found to apply upon this large deficit of $65,000. All these matters were properly shown to this court upon these proceedings, to throw light upon the transaction, to show the animus of Judge Noyes in those cases, and to aid the court to interpret the nature of his conduct in the matters upon which contempt is charged.</p>
+                <p pgmap="757(230) 758(157)" id="b757-4">The charges are in substance that the respondent is guilty of contempt of this court in refusing to execute an order directing the receiver to obey the writs of super­sedeas, in giving to the marshal and to Major Van Orsdale instructions to hold matters in statu quo and permit no one to have the gold dust, and in issuing the subsequent injunction of October 10th enjoining the defendants from removing the gold dust from the jurisdiction of the court. When the writs of supersedeas arrived at Nome, and their contents were made known to Judge Noyes, and an ap­plication was made to him for an order requiring the re­ceiver to obey them, it was his plain duty to make that order. The receiver had refused to obey the writs. He was an officer of Judge Noyes’ court, subject in all his conduct as receiver to be controlled by the order of that court, subject to removal or punishment for contempt in case of disobedience. If Judge Noyes believed the writs were void, it was none the less his duty to obey them, and to leave the question of their validity to the decision of the court whose writs they were. He had no warrant for saying that his hands were tied. The writs of su­persedeas did not tie his hands so as to prevent his obe­dience to their own terms. In language which was nei­ther uncertain nor doubtful, they directed him to go no further with the receivership, and McKenzie to surrender all the property he had taken as receiver, including the gold dust. It is absurd to say that Judge Noyes was en­joined from ordering McKenzie to do the very thing the writs commanded the latter to do. It was no excuse for denying the application for the order that the bonds upon which the appeals had been allowed were less in amount than the value of the gold dust which the receiver had taken out of the claims. The inadequacy of the bonds, if they were inadequate, was no concern of Judge Noyes. The appeals had been allowed, it is true, upon bonds aggregating $100,000, but that sum was consider­ably larger than the sum total of the bonds which Judge Noyes had required of McKenzie as receiver.</p>
+                <p pgmap="758(265) 759(416) 760(133)" id="b758-4">Had Judge Noyes done nothing further than to refuse to make an order directing the receiver to obey the writs, however, we -should hesitate to hold his refusal to be con­tempt of court. But he went further than that. Not only did he refuse to make the order, but, apparently fearful that the defendants in those cases were about to obtain possession of the gold dust under the writs, he issued to the marshal and to Major Van Orsdale directions to hold things in statu quo, and couched his directions in words which, upon their face and unexplained, we can construe no otherwise than as meaning that his purpose was to prevent the delivery of the gold dust to the defendants or to any one. These orders, it is true, were accompanied with the promise that the court would investigate the writs and issue such orders as might be proper for their en­forcement, but, when the promised orders were finally made, they were orders not enjoining obedience, but the reverse. In framing the orders,- Judge Noyes took the language of the supersedeas so far as it enjoined him from further proceeding in the receivership matter, and turned it into a general order of the court, which, if it had any force or effect at all, had the effect to inhibit the sur­render of the gold dust by McKenzie, the receiver. But Judge Noyes disclaimed that he had any purpose to inter­fere with the writs or to obstruct their enforcement, and testified that his orders to the marshal and to Major Van Orsdale were made in consequence of the representations which the latter had made to him of the danger of vio­lence, and were not directed against the delivery of the gold dust to the defendants, but were issued to preserve order and prevent riot and possible bloodshed. We have not disregarded the evidence which has been offered on be­half of Judge Noyes to explain the letters to the marshal and to Major Van Orsdale by reference to an alleged con­dition of lawlessness at Nome at that time which threat­ened the safety of the property and the funds in the bank. The evidence does not convince us that that state of things existed. On the contrary, the overwhelming weight of the evidence is that the only commotion that existed at that time was caused by the belief or the apprehension that the defendants in the suits, if balked by the refusal of the receiver to deliver the gold dust, would themselves take possession thereof. The evidence upon that point is to our minds so clear as to leave no room for doubt. We are convinced that Major Van Orsdale misunderstood the purport of the communication which he received from Judge Jackson. But, inasmuch as Major Van Orsdale represented the situation to Judge Noyes as he has detailed it, we reckon with that fact, and with the element of doubt which it might create were it not for the other evidence in the case. All doubt is removed, however, when we come to consider the testimony of Marshal Vawter and Capt. French concerning the oral directions which they received from Judge Noyes in connection with the “statu quo” letters. Vawter was instructed, as he testified, to pre­vent the defendants in those cases from obtaining the gold dust. Capt. French, a disinterested witness, to whose tes­timony we must give full credit, testified that Judge Noyes directed him to issue no executive order in reference to the writs, which he understood to mean, and which could only mean, that Judge Noyes forbade him to issue an or­der that the gold dust referred to in the writs be turned over to the defendants in obedience to the commands of the writs. These oral instructions furnish evidence of the motive of the written instructions. In giving them, and in making the written instructions, the respondent willfully committed an overt act which had the direct ef­fect to interfere with the execution of the writs of this court, and thereupon the charge of contempt must be sus­tained. Concerning the remaining charges against the re­spondent, it is not necessary to make extended comment. His action in issuing the writ of injunction of October 10th was attended by no features of contumacy or want of respect for this court, except the fact that it was made upon a petition which referred to the writs of superse­deas as “an alleged writ of supersedeas of the Circuit Court of Appeals,” and the fact that when the injunction was allowed it was allowed without bond. It is significant, perhaps, of the purpose which these injunctions were in­tended to serve that on October 17th, after the arrival of the warrant of arrest of McKenzie, Judge Noyes of his own motion dissolved them.</p>
+                <p pgmap="760" id="b760-4">In arriving at the conclusion which we have reached in this case, we have not failed to recognize the serious­ness of the charge of contempt when laid at the door of a judge of a court, nor the necessity of maintaining a due regard for the judicial discretion which belongs to that office. It is essential, however, to the administration of justice that the process of courts be obeyed. Upon no one does this obligation of obedience rest with more binding force than upon a judicial officer. The respondent Arthur H. Noyes is adjudged guilty of contempt of the authority of this court by his resistance to the execution of its writs of supersedeas. In. view of the fact that he holds a pub-­lice office, it is the opinion of the court that the respond­ent be required to pay a fine. It is accordingly adjudged that he pay a fine of $1,000.</p>
+                <p pgmap="760(128) 761(278)" id="b760-5">Thomas J. Geary, an attorney of this court, was cited to show cause upon evidence which had been furnished by himself in his testimony taken before this court on January 23, 1901, in the case of Kjellman vs. Rodgers, upon the proceedings which were instituted against Alexander Mc­Kenzie for contempt. Mr. Geary testified at that time that he was the attorney for McKenzie, the receiver, at Nome, and that on or about September 17th he discussed with Judge Noyes the application which had been made to the latter for an order directing the receiver to turn over the gold dust according to the writs of supersedeas, in which discussion Judge Noyes said to him that he did not believe he possessed the authority to make such an order, and that the only order he could make was one stay­ing proceedings, leaving the property where it was. The witness proceeded to say: “Under those circumstances, I advised Mr. McKenzie not to turn over the money.” In the cross-examination which was then had appears the following testimony: “Q. Was not your advice to Mc­Kenzie that the order was not appealable from, and for that reason he should not obey the writ of supersedeas? A. That was part of it; not all of it. * * * Q. Did you not advise him that the order of Judge Morrow al­lowing the appeal was void? A. Yes, sir; I advised that, because I thought that under the two cases that I have cited, that the order appointing McKenzie being merely an order appointing a receiver and not an injunction order, that Justice Morrow or this court had no jurisdiction of an appeal from the. order appointing a receiver. Q. Had you any intention of advising McKenzie on the 15th to turn over the gold dust ? A. I do not know how I can an­swer that any plainer than I have. I stated at that time that I advised Mr. McKenzie that evening after 6 o’clock that in my opinion the supersedeas did not require him to turn over the money. Q. After that writ had been served upon him, McKenzie, did you advise him not to obey that writ? . A. Yes, sir. It did not change my opinion at all. ' If the original proceeding was void and the court had issued a writ it had not authority to issue, it was void.”</p>
+                <p pgmap="761(156) 762(140)" id="Aiq">In his testimony taken in the present proceedings, the respondent testified that he never at any time advised Mc­Kenzie to disobey the writs; that he went no further than to state to McKenzie his opinion of the law, and that he advised him that in his opinion not only the orders ap­pointing him receiver were not appealable, but that the writs themselves did not require him to surrender the pos­session of the gold dust; and he testified that he gave McKenzie no advice whatever as to the course of action he ought to pursue in the matter. Upon his attention being directed to the specific testimony which he had given in the McKenzie case, and which is quoted above, he testified that either he did not catch the scope of the interrogatory, or that the testimony had been incorrectly taken by the reporter, and that he had not intended to testify as re­ported. In that connection he directed attention to the fact that, by the other questions and his answers thereto given in his former testimony, it appeared that he did not advise McKenzie in regard to his action, or advise him to disobey the writs. There is no other evidence in the case sustaining the charge that the respondent advised the receiver to disregard the writs or to disobey the orders of this court. The testimony of Kenneth M. Jackson tends rather to some degree to corroborate the evidence of the respondent in that regard. We think that, upon due consideration of the whole of the evidence against the respondent Geary, there is not sufficient to convince us beyond a reasonable doubt that he has been guilty of contempt of the court. The charge against him will there­fore be dismissed.</p>
+                <p pgmap="762(263) 763(440) 764(339)" id="b762-4">Joseph K. Wood, the United States district attorney, went to Nome in company with McKenzie and Judge Noyes, and immediately after his arrival, through the in­termediation of McKenzie, became a silent member of the firm of Hubbard, Beeman &amp; Hume, and appointed Mr. Hume his deputy district attorney. He corroborated the testimony of Hume to the effect that an arrangement' was also made whereby McKenzie was to be a member of the firm and to receive one-fourth of the profits thereof, but he expressed a doubt whether the agreement was ever car­ried out. The charge which is made against Wood is that at the time of the arrest of McKenzie on October 15, 1900, the keys of the safe-deposit vaults in which McKenzie, as receiver, kept the gold dust which was to be delivered under the writs of supersedeas, had been given by Mc­Kenzie to Wood, and that when the officers, in the pres­ence of McKenzie, demanded of Wood the possession of the keys, he refused to surrender the same. Geo. H. Burnham, one of the deputy marshals who went from San Francisco to arrest McKenzie and enforce obedience to the writs of supersedeas, testified that on October 15, 1900, while he had McKenzie in his custody under arrest, he and Shelley Monckton, the other deputy marshal, demand­ed of McKenzie the keys of the box which contained the gold dust in the Alaska Banking &amp; Savings Deposit Com­pany, and that McKenzie answered that he had given the keys to Mr. Wood, the United States attorney; that Mr. Wood soon thereafter came into the room, and Monckton said to him: “Mr. Wood, we understand you have the keys of the boxes that contain the gold dust in the Alaska Banking &amp; Savings Deposit Company, deposited there by Mr. McKenzie, the receiver;” and that Mr. Wood said: “Do you understand I have the keys to those boxes? Understand nothing; I don’t care what you understand;” and that Mr. Monckton then said: “Well, Mr. Wood, Mr. McKenzie has just informed us that he gave you those keys; that you were an officer of the court; that he thought the keys were safer with you than with himself; and I now make demand on you for those keys;” and that McKenzie then added: “Mr. Wood, I told the mar­shals you had the keys; that I thought they were safer with you than with myself;” that then Mr. Monckton said: “I make demand on you for those keys; have you the keys ?” and that Wood replied: “I don’t know whether I have them or not;” and that he then got up and went to the door, and as he was going to the door he said, “I will see you later.” Dr. Cabell Whitehead, the manager of the bank, testified that when the deputy marshals came to the bank to obtain the gold dust he asked them if they had the keys, and they replied denying that they had them, and that afterwards he met Wood on Stedman avenue and told him that the deputy marshals were at the bank and wanted to see him, to which Wood replied that “the sons of bitches knew where to find him if they wanted to see him”; that the witness protested against the use of that sort of language to him, and told Wood he was simply trying to protect property, that he could not see any good purpose that could be served by break­ing open those boxes, which the officers had a right to do and would do, and that Wood answered: “I will deliver those keys to no one until I have seen a certain person;” that the witness then said to Wood that he did not think there was time to see anybody, because the marshals had been waiting some time, and he did not think they would wait much longer, and that Wood turned and went across the street and said: “Let them proceed with their damned burglaries.” McKenzie testified that after he was arrest­ed he handed Wood his pocketbook and keys, and told him he wished him to take possession of them, as he was afraid they were going to take him to jail, and he did not wish them to get possession of his private papers and private affairs, and that when the deputy marshals in­quired of him if he had the keys he answered, “No,” and informed them that Mr. Wood had them, and that shortly after Wood passed through the room, and Monckton asked him if he had the keys, or requested him to give up the keys, and Wood said, “I will see about that later,” and passed right on. Mr. Wood never did surrender the keys, and the marshals were compelled to break open the boxes. In his answer upon the order to show cause the respond­ent states that his failure and refusal to give up the pos­session of the keys was not through a purpose on his part to hinder or obstruct the officers in discharging their duty, or to render ineffectual any order of this court, or to be in contempt of court, but alleges that he was acting on the belief that he had not the authority or the right to surrender possession of the keys without instructions from McKenzie, or against McKenzie’s wishes as he un­derstood them. We think the evidence fully sustains the charges against the respondent Wood, and indicates up­on. his part a hostile attitude toward the officers of this court, whose duty it was to enforce the writs of superse­deas, and a disposition to willfully obstruct them in the performance of their duty. We are disposed, however, in dealing with his case, to tak,e into consideration the nature of the averments of his answer upon the order to show cause, and the apology which he subsequently made to this court. It is the judgment of the court that the re­spondent Joseph K. Wood is guilty of contempt of the lawful orders of this court, and that he be imprisoned in the county jail of Alameda county, Cal., for a period of four months. . &gt;</p>
+                <p pgmap="764(93) 765(229)" id="b764-4">C. A. S. Frost, an attorney at law, was sent to Nome, by the department of justice as a special examiner to ad­vise and instruct the clerk of the court and the marshal concerning their duties and accounts. He held that of­fice until September 15, 19p0, when he resigned to be­come assistant district attorney to Joseph K. Wood, in the place of Hume, who had resigned, which office he held until April 15, 1901, when he became the private secretary of Judge Noyes. Direct testimony in support of the charg­es against-Frost is given by Marshal Vawter, who testified that the relations between Judge Noyes, McKenzie, and Frost were intimate; that on September 15, 1900, Frost told him that the writs of supersedeas were void, and on that date dictated to him the following letter: “Hon. C, L. Vawter, U. S. Marshal, Nome, Alaska — Sir: Your at­tention is invited to that portion of section 846, Rev. St. U.S. [28 U.S.C.A. § 577], which reads as follows: ‘That where the ministerial officers of the United States have, or shall incur extraordinary expenses in executing the laws thereof, the payment of which is not specifically provided for, the President of the United States has the authority to allow the payment thereof under special tax­ation of the District or Circuit Court of the district in which the said services have been or shall be rendered, to be paid from the appropriation for defraying extraor­dinary expenses of the judiciary.’ If it shall be necessary for you to incur extraordinary expenses under this statute in suppressing specific unlawful acts, acts of violence or attempted violence, burglary, robbery, etc., you will be authorized to employ such force as may be necessary in the premises, and the necessary expenses thereof incurred by you may be included in an extraordinary expense ac­count to be rendered and paid as provided in said action.</p>
+                <blockquote pgmap="765" id="b765-4">“Respectfully, C. A. S. Frost.”</blockquote>
+                <p pgmap="765" id="b765-5">The marshal testified that the letter was accompanied by an order to swear in a large posse comitatus to pre­vent the delivery of the gold dust to the Lane crowd or to the Pioneer people, and that Frost at the same time re­marked that such delivery must be prevented at all hazards, and that he said: “They are going to try to take it by force, and these writs that have been sent up here will be declared void by the Supreme Court. You must obey this court; you are the executive officer of this court here.”</p>
+                <p pgmap="765(78) 766(422) 767(427) 768(409) 769(298)" id="Apn">Frost in his testimony contradicted the marshal as to all essential features of his testimony, except that he ad­mitted having written the letter, but the marshal is so well corroborated that we entertain no doubt of the truth of his testimony. Geo: Leekley, who was the marshal’s deputy and clerk, and who occupied the same room with Frost, testified that a day or two after September 14th, the date when the writs of supersedeas arrived at Nome, he had a conversation with Frost, in which the latter stat­ed that it was the duty of the marshal by all means to preserve the gold dust intact in' the bank in which it was then deposited, and prevent the defendants in said cases and the owners of the gold dust from securing the same under the writs. He also testified that Frost was the confidant and intimate friend and adviser of McKenzie and Judge Noyes, and spent a great deal of time in their com­pany. There are other facts which are fully proven in the case, and which show the deep personal interest which Frost had in the McKenzie receivership, and his partisan­ship for McKenzie’s cause in the controversies then pend­ing. It is proven that in August, 1900, Frost, in violation of his duties as an officer of the United States, and for the purpose of aiding McKenzie, employed, on behalf of the United States, three detectives, Carson, Carroll, and McLean, who for such services during the latter part of August, all of September, and a portion of October, were paid by the department of justice, two of them $10 per diem and their expenses, and one $15 per diem and his expenses, and that the purpose for which the detectives were employed, and the sole service which they rendered, was to watch the movements of the defendants and their attorneys in the cases in which McKenzie was receiver. Frost admitted the employment of these men, but stated that they were engaged for the purpose of ferreting out certain efforts which he had heard were being made to corrupt the jury panel of the District Court. The ex­planation which he gave is inherently improbable. He testified, in substance, that it came to his knowledge that attempts were being made to get persons on the jury panel, and that names were being furnished by interested par­ties to that end, and that it was for the purpose of ascer­taining who was doing this, and to prevent the corrup­tion of the jury panel, that the three detectives were em­ployed. He declined to state the nature of his informa­tion, claiming that it was a confidential communication. On cross-examination he testified that he gave the detec­tives no instructions to watch any particular person, but simply informed them that he had been informed that attempts were being made to corrupt the jury panel, and that he wanted them to find out who was doing that work. He testified that he received from them reports from time to time, but he declined to divulge the nature of their re­ports. On further cross-examination it was shown from the witness that there were upwards of 300 names drawn for the grand and petit jury; that the names were selected one-half by the clerk of the court and one-half by the jury commissioner; that Frost made no inquiry of the clerk nor of the jury commissioner, and had no talk with either of them on the subject, and directed no investigation of either; that he gave to his detective no instructions whatever concerning either of these officers, and that he directed no investigation of the 300 names which were put in the box for jurors, and never personally saw that list or made any investigation of it. He admitted that, these detectives were paid, under the order of the judge, out of funds in the hands of the clerk. On further cross-­examination he testified to a conversation which he had with Judge Noyes concerning lists of names that were presumably to be put into the jury box, and stated that Judge Noyes showed him the lists, and an affidavit ac­companying them to the effect that certain persons had been furnishing names for the jury panel, and stated that Judge Noyes asked him if he knew of any way in which he could find out who the parties were who were attempt­ing to corrupt the jury panel, and that he, Frost, had re­plied by saying that while he was in the department of justice the Attorney General had authorized the employ­ment of persons to investigate that sort of thing, and that he informed the judge that if, in his opinion, it was nec­essary or advisable to employ some one for that purpose, he thought it might be done. He further testified that Judge Noyes told him that the lists had been furnished by attorneys, and that they were in the handwriting of two persons named. This testimony is not corroborated by Judge Noyes. He testified that he did not make any inquiry as to where the lists were obtained, and that he does not remember that any one told him the lists had been furnished by attorneys, and that he could not have told any one whose handwriting the names were in, and that he could not have shown Frost those lists earlier than August 25th, because the affidavit which was attached thereto was dated August 25th. There is positive and direct testimony of other witnesses concerning the pur­pose for which the detectives were employed. John F. Mercer, who was a deputy marshal, and who had been a captain in the First Montana Regiment in the Philippines, a man of standing and of good repute so far as the evi­dence shows, testified that Frost told him that he wanted those detectives to watch Judge Johnson, Mr. Metson, Mr. Knight, Judge Jackson, Lane, their attorneys and following, and report to him their actions and doings. The witness testified that Frost stated to him that they were watching these people; and that Frost told him that they “had the means of ascertaining what was going on in certain neighborhoods, notably the judge’s cham­bers.” “I know,” said the witness, “they were watching Mr. Metson’s office; I know they were watching Judge Jackson very closely.” Mercer further testified that he saw these detectives giving their reports to Frost; that on one night one of them, Carson, reported that an attempt was to be made by the defendants in those suits to take certain gold dust out of the bank. That immediately after, Frost conferred with the witness, and told him what Car­son had reported, and said, “It must be prevented,” and that he went out with Frost late that night to the bank, and that Frost seemed very much excited, and thought they ought to make a general alarm, and that this hap­pened on the night of the arrival of the writs of superse­deas. Marshal Vawter testified that L. D. McLean, one of the detectives, told him that he was employed as a spy upon the attorneys and owners of those Anvil Creek claims of which McKenzie was receiver. Dr. Cabell Whitehead, manager of the bank, testified that McKenzie came to him frequently and told him of reports which his detectives had made to him, and that on one occasion he referred to McLean as one of his detectives; and reported a conversation which he said McLean had overheard through the wall of the room adjoining W. H. Metson’s office. W. H. Metson testified that Carson was already employed by him before Frost engaged him as a detective, but that Frost was evidently not aware of that fact. That Carson came to him and reported to him that Frost had engaged him for the purpose of watching him, Metson, and had directed him to seek employment from Metson in order to be in a position to watch his movements and report the same to Frost. That thereupon he, Metson, ostensibly and openly employed Carson, and from that time on Carson made regular reports to Frost, and that the reports were first submitted to Metson for his super­vision. Geo. A. Leekley testified, also, that on the night of the arrival of the writs of supersedeas Frost made sev­eral trips to the bank, and that Frost informed him that he had just received information that the defendants and owners of the gold dust were going to" attempt to take the dust from the bank that night. George V. Borchseni­us, the clerk of the court, testified that he objected to the payment of the bills of these detectives, for the reason that he did not think they were proper bills, but that Judge Noyes ordered him to pay them immediately, and said to him that he could either pay them or be in contempt of court. The amount of McLean’s bill was about $900. The amount' paid to the others is not stated. The whole of the evidence concerning the case of Frost convinces us beyond any reasonable doubt that he not only aided and abetted to the utmost of his power the efforts of Mc­Kenzie to obstruct the execution of the writs of super­sedeas, but that in his official capacity he grossly betrayed the interests of the United States which were intrusted to his care. The respondent C. A. S. Frost is adjudged to be in contempt of the lawful orders of this court, and for his contempt it is the judgment of the court that he be imprisoned in the county jail of Alameda county, Cal., for a period of 12 months.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author pgmap="769" id="b769-4">ROSS, Circuit Judge</author>
+                <p pgmap="769" id="AHC">(concurring).</p>
+                <p pgmap="769(109) 770(165)" id="b769-5">The findings of fact in the cases of Arthur H. Noyes, Joseph K. Wood, and C. A. S. Frost, embodied in the foregoing opinion of my Brother GILBERT, to the effect that each of those parties committed the contempt alleged against him, meets with my concurrence; but I am of the opinion that the records and evidence in the cases show beyond any reasonable doubt that the circumstances under which and the purposes for which each of those persons committed the contempt alleged and so found were far graver than is indicated in the opinion of the court, and that the punishment awarded by the Court is wholly inade­quate to the gravity of the offenses. I think the records and evidence show very clearly that the contempts of Judge Noyes and Frost were committed in pursuance of a corrupt conspiracy with Alexander McKenzie, and with others not before the court, and therefore not necessary to be named, by which the properties involved in the suits mentioned in the opinion, among other properties, were to be wrongfully taken, under the forms of law, from the possession of those engaged in mining them, and the proceeds thereof appropriated by the conspirators. For those shocking offenses it is apparent that no punishment that can be lawfully imposed in a contempt proceeding is adequate. But a reasonable imprisonment may be here imposed, and I am of the opinion that, in the case of the respondent Arthur H. Noyes, a judgment of imprisonment in a county jail for the period of 18 months should be imposed, and in the case of Frost a like imprisonment of 15 months.</p>
+                <p pgmap="770" id="b770-3">The facts and circumstances against the respondent Wood are by no means so strong, although I find it dif­ficult, if not impossible, to reconcile his ignorance of and disconnection with the conspiracy with the facts that im­mediately upon his arrival at Nome he was, at McKenzie’s dictation, given a one-fourth interest in the firm of Hub­bard, Beeman &amp; Hume (which firm was employed to car­ry on the legal part of the nefarious business), and that Hume (who was, so far as appears, a total stranger to Wood) was, likewise at McKenzie’s dictation, immedi­ately appointed by Wood assistant United ■ States attor­ney. I think Wood should be imprisoned for 10 months.</p>
+                <p pgmap="770" id="b770-4">In regard to the respondent Geary, I agree with the finding of the court to the effect that the contempt alleged against him is not sufficiently established. Reading and considering Geary’s entire testimony, and especially his written opinion given McKenzie at the time of the occur­rences in question, and in the light of the testimony of Mr. Metson, I am of the opinion that it is not shown that he went beyond the legitimate privileges of an attorney in giving his legal advice. I therefore concur-in the dismis­sal of the proceedings against him.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author pgmap="771" id="b771-3">MORROW, Circuit Judge</author>
+                <p pgmap="771" id="ACil">(concurring).</p>
+                <p pgmap="771" id="b771-4">I concur in the findings of fact contained in the opin­ion of Judge GILBERT in the cases of Arthur H. Noyes, Joseph K. Wood, and C. A. S. Frost, and in the judgments directed to be entered thereon. I am also of the opinion that the evidence does not establish the charge against Thomas J. Geary.</p>
+                <p pgmap="771" id="b771-5">In my judgment the evidence establishes the fact that there was a conspiracy between the respondent Noyes, McKenzie, and others to secure possession of certain valuable mining claims at Nome, Alaska, under proceed­ings involving the appointment of a receiver for the pur­pose of working the properties and obtaining the gold deposited in the claims. To carry these proceedings to a supposed successful conclusion, Noyes, McKenzie, and others found it a necessary part of their scheme to resist the process of this court. In pursuance of this conspiracy, the contempt charged against Noyes was committed; but I agree with Judge GILBERT that this conspiracy is out­side the charge of contempt, and, in view of the fact that the respondent Noyes holds a judicial position, I concur in his judgment that the respondent be required to pay a fine of $1,000.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="736" ORDERLABEL="724" TYPE="page">
+        <fptr FILEID="tiff_00368_1"/>
+        <fptr FILEID="jpg_00368_1"/>
+        <fptr FILEID="alto_00368_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_736.1" BETYPE="IDREF" FILEID="alto_00368_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="737" ORDERLABEL="725" TYPE="page">
+        <fptr FILEID="tiff_00369_0"/>
+        <fptr FILEID="jpg_00369_0"/>
+        <fptr FILEID="alto_00369_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_737.3" BETYPE="IDREF" FILEID="alto_00369_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="738" ORDERLABEL="726" TYPE="page">
+        <fptr FILEID="tiff_00369_1"/>
+        <fptr FILEID="jpg_00369_1"/>
+        <fptr FILEID="alto_00369_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_738.2" BETYPE="IDREF" FILEID="alto_00369_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="739" ORDERLABEL="727" TYPE="page">
+        <fptr FILEID="tiff_00370_0"/>
+        <fptr FILEID="jpg_00370_0"/>
+        <fptr FILEID="alto_00370_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_739.3" BETYPE="IDREF" FILEID="alto_00370_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="740" ORDERLABEL="728" TYPE="page">
+        <fptr FILEID="tiff_00370_1"/>
+        <fptr FILEID="jpg_00370_1"/>
+        <fptr FILEID="alto_00370_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_740.2" BETYPE="IDREF" FILEID="alto_00370_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="741" ORDERLABEL="729" TYPE="page">
+        <fptr FILEID="tiff_00371_0"/>
+        <fptr FILEID="jpg_00371_0"/>
+        <fptr FILEID="alto_00371_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_741.3" BETYPE="IDREF" FILEID="alto_00371_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="742" ORDERLABEL="730" TYPE="page">
+        <fptr FILEID="tiff_00371_1"/>
+        <fptr FILEID="jpg_00371_1"/>
+        <fptr FILEID="alto_00371_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_742.2" BETYPE="IDREF" FILEID="alto_00371_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="743" ORDERLABEL="731" TYPE="page">
+        <fptr FILEID="tiff_00372_0"/>
+        <fptr FILEID="jpg_00372_0"/>
+        <fptr FILEID="alto_00372_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_743.3" BETYPE="IDREF" FILEID="alto_00372_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="744" ORDERLABEL="732" TYPE="page">
+        <fptr FILEID="tiff_00372_1"/>
+        <fptr FILEID="jpg_00372_1"/>
+        <fptr FILEID="alto_00372_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_744.2" BETYPE="IDREF" FILEID="alto_00372_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="745" ORDERLABEL="733" TYPE="page">
+        <fptr FILEID="tiff_00373_0"/>
+        <fptr FILEID="jpg_00373_0"/>
+        <fptr FILEID="alto_00373_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_745.3" BETYPE="IDREF" FILEID="alto_00373_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="746" ORDERLABEL="734" TYPE="page">
+        <fptr FILEID="tiff_00373_1"/>
+        <fptr FILEID="jpg_00373_1"/>
+        <fptr FILEID="alto_00373_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_746.2" BETYPE="IDREF" FILEID="alto_00373_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="747" ORDERLABEL="735" TYPE="page">
+        <fptr FILEID="tiff_00374_0"/>
+        <fptr FILEID="jpg_00374_0"/>
+        <fptr FILEID="alto_00374_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_747.3" BETYPE="IDREF" FILEID="alto_00374_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="748" ORDERLABEL="736" TYPE="page">
+        <fptr FILEID="tiff_00374_1"/>
+        <fptr FILEID="jpg_00374_1"/>
+        <fptr FILEID="alto_00374_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_748.2" BETYPE="IDREF" FILEID="alto_00374_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="749" ORDERLABEL="737" TYPE="page">
+        <fptr FILEID="tiff_00375_0"/>
+        <fptr FILEID="jpg_00375_0"/>
+        <fptr FILEID="alto_00375_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_749.3" BETYPE="IDREF" FILEID="alto_00375_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="750" ORDERLABEL="738" TYPE="page">
+        <fptr FILEID="tiff_00375_1"/>
+        <fptr FILEID="jpg_00375_1"/>
+        <fptr FILEID="alto_00375_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_750.2" BETYPE="IDREF" FILEID="alto_00375_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="751" ORDERLABEL="739" TYPE="page">
+        <fptr FILEID="tiff_00376_0"/>
+        <fptr FILEID="jpg_00376_0"/>
+        <fptr FILEID="alto_00376_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_751.3" BETYPE="IDREF" FILEID="alto_00376_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="752" ORDERLABEL="740" TYPE="page">
+        <fptr FILEID="tiff_00376_1"/>
+        <fptr FILEID="jpg_00376_1"/>
+        <fptr FILEID="alto_00376_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_752.2" BETYPE="IDREF" FILEID="alto_00376_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="753" ORDERLABEL="741" TYPE="page">
+        <fptr FILEID="tiff_00377_0"/>
+        <fptr FILEID="jpg_00377_0"/>
+        <fptr FILEID="alto_00377_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_753.2" BETYPE="IDREF" FILEID="alto_00377_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="754" ORDERLABEL="742" TYPE="page">
+        <fptr FILEID="tiff_00377_1"/>
+        <fptr FILEID="jpg_00377_1"/>
+        <fptr FILEID="alto_00377_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_754.2" BETYPE="IDREF" FILEID="alto_00377_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="755" ORDERLABEL="743" TYPE="page">
+        <fptr FILEID="tiff_00378_0"/>
+        <fptr FILEID="jpg_00378_0"/>
+        <fptr FILEID="alto_00378_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_755.3" BETYPE="IDREF" FILEID="alto_00378_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="756" ORDERLABEL="744" TYPE="page">
+        <fptr FILEID="tiff_00378_1"/>
+        <fptr FILEID="jpg_00378_1"/>
+        <fptr FILEID="alto_00378_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_756.2" BETYPE="IDREF" FILEID="alto_00378_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="757" ORDERLABEL="745" TYPE="page">
+        <fptr FILEID="tiff_00379_0"/>
+        <fptr FILEID="jpg_00379_0"/>
+        <fptr FILEID="alto_00379_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_757.3" BETYPE="IDREF" FILEID="alto_00379_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="758" ORDERLABEL="746" TYPE="page">
+        <fptr FILEID="tiff_00379_1"/>
+        <fptr FILEID="jpg_00379_1"/>
+        <fptr FILEID="alto_00379_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_758.2" BETYPE="IDREF" FILEID="alto_00379_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="759" ORDERLABEL="747" TYPE="page">
+        <fptr FILEID="tiff_00380_0"/>
+        <fptr FILEID="jpg_00380_0"/>
+        <fptr FILEID="alto_00380_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_759.3" BETYPE="IDREF" FILEID="alto_00380_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="760" ORDERLABEL="748" TYPE="page">
+        <fptr FILEID="tiff_00380_1"/>
+        <fptr FILEID="jpg_00380_1"/>
+        <fptr FILEID="alto_00380_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_760.2" BETYPE="IDREF" FILEID="alto_00380_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="761" ORDERLABEL="749" TYPE="page">
+        <fptr FILEID="tiff_00381_0"/>
+        <fptr FILEID="jpg_00381_0"/>
+        <fptr FILEID="alto_00381_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_761.3" BETYPE="IDREF" FILEID="alto_00381_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="762" ORDERLABEL="750" TYPE="page">
+        <fptr FILEID="tiff_00381_1"/>
+        <fptr FILEID="jpg_00381_1"/>
+        <fptr FILEID="alto_00381_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_762.2" BETYPE="IDREF" FILEID="alto_00381_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="763" ORDERLABEL="751" TYPE="page">
+        <fptr FILEID="tiff_00382_0"/>
+        <fptr FILEID="jpg_00382_0"/>
+        <fptr FILEID="alto_00382_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_763.3" BETYPE="IDREF" FILEID="alto_00382_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="764" ORDERLABEL="752" TYPE="page">
+        <fptr FILEID="tiff_00382_1"/>
+        <fptr FILEID="jpg_00382_1"/>
+        <fptr FILEID="alto_00382_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_764.2" BETYPE="IDREF" FILEID="alto_00382_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="765" ORDERLABEL="753" TYPE="page">
+        <fptr FILEID="tiff_00383_0"/>
+        <fptr FILEID="jpg_00383_0"/>
+        <fptr FILEID="alto_00383_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_765.3" BETYPE="IDREF" FILEID="alto_00383_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="766" ORDERLABEL="754" TYPE="page">
+        <fptr FILEID="tiff_00383_1"/>
+        <fptr FILEID="jpg_00383_1"/>
+        <fptr FILEID="alto_00383_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_766.2" BETYPE="IDREF" FILEID="alto_00383_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="767" ORDERLABEL="755" TYPE="page">
+        <fptr FILEID="tiff_00384_0"/>
+        <fptr FILEID="jpg_00384_0"/>
+        <fptr FILEID="alto_00384_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_767.3" BETYPE="IDREF" FILEID="alto_00384_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="768" ORDERLABEL="756" TYPE="page">
+        <fptr FILEID="tiff_00384_1"/>
+        <fptr FILEID="jpg_00384_1"/>
+        <fptr FILEID="alto_00384_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_768.2" BETYPE="IDREF" FILEID="alto_00384_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="769" ORDERLABEL="757" TYPE="page">
+        <fptr FILEID="tiff_00385_0"/>
+        <fptr FILEID="jpg_00385_0"/>
+        <fptr FILEID="alto_00385_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_769.3" BETYPE="IDREF" FILEID="alto_00385_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="770" ORDERLABEL="758" TYPE="page">
+        <fptr FILEID="tiff_00385_1"/>
+        <fptr FILEID="jpg_00385_1"/>
+        <fptr FILEID="alto_00385_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_770.2" BETYPE="IDREF" FILEID="alto_00385_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="771" ORDERLABEL="759" TYPE="page">
+        <fptr FILEID="tiff_00386_0"/>
+        <fptr FILEID="jpg_00386_0"/>
+        <fptr FILEID="alto_00386_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_771.2" BETYPE="IDREF" FILEID="alto_00386_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b738-5" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_738.5" BETYPE="IDREF" FILEID="alto_00369_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b738-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_738.4" BETYPE="IDREF" FILEID="alto_00369_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b738-7" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_738.7" BETYPE="IDREF" FILEID="alto_00369_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b738-6" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_738.6" BETYPE="IDREF" FILEID="alto_00369_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b741-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_741.4" BETYPE="IDREF" FILEID="alto_00371_0"/>
+            <area BEGIN="BL_742.1" BETYPE="IDREF" FILEID="alto_00371_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b738-9" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_738.9" BETYPE="IDREF" FILEID="alto_00369_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b738-8" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_738.8" BETYPE="IDREF" FILEID="alto_00369_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b742-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_742.4" BETYPE="IDREF" FILEID="alto_00371_1"/>
+            <area BEGIN="BL_743.1" BETYPE="IDREF" FILEID="alto_00372_0"/>
+            <area BEGIN="BL_744.1" BETYPE="IDREF" FILEID="alto_00372_1"/>
+            <area BEGIN="BL_745.1" BETYPE="IDREF" FILEID="alto_00373_0"/>
+            <area BEGIN="BL_746.1" BETYPE="IDREF" FILEID="alto_00373_1"/>
+            <area BEGIN="BL_747.1" BETYPE="IDREF" FILEID="alto_00374_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b769-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_769.4" BETYPE="IDREF" FILEID="alto_00385_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b753-3" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_753.4" BETYPE="IDREF" FILEID="alto_00377_0"/>
+            <area BEGIN="BL_754.1" BETYPE="IDREF" FILEID="alto_00377_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b754-3" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_754.4" BETYPE="IDREF" FILEID="alto_00377_1"/>
+            <area BEGIN="BL_755.1" BETYPE="IDREF" FILEID="alto_00378_0"/>
+            <area BEGIN="BL_756.1" BETYPE="IDREF" FILEID="alto_00378_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b750-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_750.4" BETYPE="IDREF" FILEID="alto_00375_1"/>
+            <area BEGIN="BL_751.1" BETYPE="IDREF" FILEID="alto_00376_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b736-6" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_736.7" BETYPE="IDREF" FILEID="alto_00368_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b756-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_756.4" BETYPE="IDREF" FILEID="alto_00378_1"/>
+            <area BEGIN="BL_757.1" BETYPE="IDREF" FILEID="alto_00379_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aiq" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_761.4" BETYPE="IDREF" FILEID="alto_00381_0"/>
+            <area BEGIN="BL_762.1" BETYPE="IDREF" FILEID="alto_00381_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b757-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_757.4" BETYPE="IDREF" FILEID="alto_00379_0"/>
+            <area BEGIN="BL_758.1" BETYPE="IDREF" FILEID="alto_00379_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b736-5" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_736.6" BETYPE="IDREF" FILEID="alto_00368_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACil" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_771.4" BETYPE="IDREF" FILEID="alto_00386_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b771-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_771.5" BETYPE="IDREF" FILEID="alto_00386_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b771-5" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_771.6" BETYPE="IDREF" FILEID="alto_00386_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b771-3" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_771.3" BETYPE="IDREF" FILEID="alto_00386_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Apn" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_765.6" BETYPE="IDREF" FILEID="alto_00383_0"/>
+            <area BEGIN="BL_766.1" BETYPE="IDREF" FILEID="alto_00383_1"/>
+            <area BEGIN="BL_767.1" BETYPE="IDREF" FILEID="alto_00384_0"/>
+            <area BEGIN="BL_768.1" BETYPE="IDREF" FILEID="alto_00384_1"/>
+            <area BEGIN="BL_769.1" BETYPE="IDREF" FILEID="alto_00385_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHC" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_769.5" BETYPE="IDREF" FILEID="alto_00385_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b751-8" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_751.8" BETYPE="IDREF" FILEID="alto_00376_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b751-9" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_751.9" BETYPE="IDREF" FILEID="alto_00376_0"/>
+            <area BEGIN="BL_752.1" BETYPE="IDREF" FILEID="alto_00376_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b752-3" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_752.4" BETYPE="IDREF" FILEID="alto_00376_1"/>
+            <area BEGIN="BL_753.1" BETYPE="IDREF" FILEID="alto_00377_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b769-5" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_769.6" BETYPE="IDREF" FILEID="alto_00385_0"/>
+            <area BEGIN="BL_770.1" BETYPE="IDREF" FILEID="alto_00385_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b751-6" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_751.6" BETYPE="IDREF" FILEID="alto_00376_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b751-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_751.4" BETYPE="IDREF" FILEID="alto_00376_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b751-7" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_751.7" BETYPE="IDREF" FILEID="alto_00376_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b764-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.4" BETYPE="IDREF" FILEID="alto_00382_1"/>
+            <area BEGIN="BL_765.1" BETYPE="IDREF" FILEID="alto_00383_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b738-10" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_738.10" BETYPE="IDREF" FILEID="alto_00369_1"/>
+            <area BEGIN="BL_739.1" BETYPE="IDREF" FILEID="alto_00370_0"/>
+            <area BEGIN="BL_740.1" BETYPE="IDREF" FILEID="alto_00370_1"/>
+            <area BEGIN="BL_741.1" BETYPE="IDREF" FILEID="alto_00371_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b760-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_760.4" BETYPE="IDREF" FILEID="alto_00380_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b751-5" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_751.5" BETYPE="IDREF" FILEID="alto_00376_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b765-5" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_765.5" BETYPE="IDREF" FILEID="alto_00383_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b765-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_765.4" BETYPE="IDREF" FILEID="alto_00383_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b770-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_770.5" BETYPE="IDREF" FILEID="alto_00385_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b747-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_747.4" BETYPE="IDREF" FILEID="alto_00374_0"/>
+            <area BEGIN="BL_748.1" BETYPE="IDREF" FILEID="alto_00374_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b758-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_758.4" BETYPE="IDREF" FILEID="alto_00379_1"/>
+            <area BEGIN="BL_759.1" BETYPE="IDREF" FILEID="alto_00380_0"/>
+            <area BEGIN="BL_760.1" BETYPE="IDREF" FILEID="alto_00380_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b762-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_762.4" BETYPE="IDREF" FILEID="alto_00381_1"/>
+            <area BEGIN="BL_763.1" BETYPE="IDREF" FILEID="alto_00382_0"/>
+            <area BEGIN="BL_764.1" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b749-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_749.4" BETYPE="IDREF" FILEID="alto_00375_0"/>
+            <area BEGIN="BL_750.1" BETYPE="IDREF" FILEID="alto_00375_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b748-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_748.5" BETYPE="IDREF" FILEID="alto_00374_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b748-5" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_748.6" BETYPE="IDREF" FILEID="alto_00374_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b748-6" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_748.7" BETYPE="IDREF" FILEID="alto_00374_1"/>
+            <area BEGIN="BL_749.1" BETYPE="IDREF" FILEID="alto_00375_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b736-4" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_736.5" BETYPE="IDREF" FILEID="alto_00368_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b736-3" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_736.4" BETYPE="IDREF" FILEID="alto_00368_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b736-2" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_736.3" BETYPE="IDREF" FILEID="alto_00368_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b748-3" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_748.4" BETYPE="IDREF" FILEID="alto_00374_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b760-5" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_760.5" BETYPE="IDREF" FILEID="alto_00380_1"/>
+            <area BEGIN="BL_761.1" BETYPE="IDREF" FILEID="alto_00381_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b770-3" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_770.4" BETYPE="IDREF" FILEID="alto_00385_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

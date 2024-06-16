@@ -1,0 +1,821 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0103" publicationstatus="published">
+          <court abbreviation="U.S." jurisdiction="United States">Supreme Court of the United States</court>
+          <name abbreviation="Marks v. Shoup">ANTONE MARKS v. J. M. SHOUP</name>
+          <docketnumber>No. 82</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 702</citation>
+          <citation category="parallel" type="bluebook">181 U.S. 562, 21 S.Ct. 724</citation>
+          <decisiondate>1901-05-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:08Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00357_1" MIMETYPE="image/tiff" CHECKSUM="2cc5e350da8e95fd137aad6b626fa72d" CHECKSUMTYPE="MD5" SIZE="22272">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00357_1.tif"/>
+      </file>
+      <file ID="tiff_00358_0" MIMETYPE="image/tiff" CHECKSUM="a66dee0f71d00f704dc7fef0c0e5562a" CHECKSUMTYPE="MD5" SIZE="29640">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00358_0.tif"/>
+      </file>
+      <file ID="tiff_00358_1" MIMETYPE="image/tiff" CHECKSUM="334816bc478ceaade48968c6a450c8c1" CHECKSUMTYPE="MD5" SIZE="49950">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00358_1.tif"/>
+      </file>
+      <file ID="tiff_00359_0" MIMETYPE="image/tiff" CHECKSUM="32d07a21df53e4f7ecaa8917d6ac4ff4" CHECKSUMTYPE="MD5" SIZE="50498">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00359_0.tif"/>
+      </file>
+      <file ID="tiff_00359_1" MIMETYPE="image/tiff" CHECKSUM="ca65c147ab9f21886eef2c1ab2559d3a" CHECKSUMTYPE="MD5" SIZE="48884">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00359_1.tif"/>
+      </file>
+      <file ID="tiff_00360_0" MIMETYPE="image/tiff" CHECKSUM="e2b920b129f44a912b78095a32ca2153" CHECKSUMTYPE="MD5" SIZE="50974">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00360_0.tif"/>
+      </file>
+      <file ID="tiff_00360_1" MIMETYPE="image/tiff" CHECKSUM="adebefd2aefeb4488cb7a8dded702101" CHECKSUMTYPE="MD5" SIZE="17224">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00360_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00357_1" MIMETYPE="image/jpg" CHECKSUM="7c6508142f5020a97c39c9cedae3ec3e" CHECKSUMTYPE="MD5" SIZE="114283">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00357_1.jpg"/>
+      </file>
+      <file ID="jpg_00358_0" MIMETYPE="image/jpg" CHECKSUM="21f34e88fb925c87f7f1a13470e67cf6" CHECKSUMTYPE="MD5" SIZE="127960">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00358_0.jpg"/>
+      </file>
+      <file ID="jpg_00358_1" MIMETYPE="image/jpg" CHECKSUM="94b38d696e24aac0748d1dfddcead894" CHECKSUMTYPE="MD5" SIZE="198569">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00358_1.jpg"/>
+      </file>
+      <file ID="jpg_00359_0" MIMETYPE="image/jpg" CHECKSUM="3631a283a5795744e89bf243ecc6aedc" CHECKSUMTYPE="MD5" SIZE="194502">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00359_0.jpg"/>
+      </file>
+      <file ID="jpg_00359_1" MIMETYPE="image/jpg" CHECKSUM="b266b46ca22f673025af5ec57c747aa1" CHECKSUMTYPE="MD5" SIZE="188564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00359_1.jpg"/>
+      </file>
+      <file ID="jpg_00360_0" MIMETYPE="image/jpg" CHECKSUM="3fd93184192f50c71ad778d04c44b811" CHECKSUMTYPE="MD5" SIZE="183665">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00360_0.jpg"/>
+      </file>
+      <file ID="jpg_00360_1" MIMETYPE="image/jpg" CHECKSUM="d072d84c2ac1cea698ca30035aff89f5" CHECKSUMTYPE="MD5" SIZE="109798">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00360_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00357_1" MIMETYPE="text/xml+gzip" CHECKSUM="1b6a3783ea96fba250b02cf8647a2a85" CHECKSUMTYPE="MD5" SIZE="6425">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00357_1.xml.gz"/>
+      </file>
+      <file ID="alto_00358_0" MIMETYPE="text/xml+gzip" CHECKSUM="22c35f7765b79899e09df45df1c242b8" CHECKSUMTYPE="MD5" SIZE="7749">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00358_0.xml.gz"/>
+      </file>
+      <file ID="alto_00358_1" MIMETYPE="text/xml+gzip" CHECKSUM="d6d32637d340112e95c3e6a900991ba3" CHECKSUMTYPE="MD5" SIZE="11939">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00358_1.xml.gz"/>
+      </file>
+      <file ID="alto_00359_0" MIMETYPE="text/xml+gzip" CHECKSUM="1a54f195e91b9970009319cdcd02c219" CHECKSUMTYPE="MD5" SIZE="12377">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00359_0.xml.gz"/>
+      </file>
+      <file ID="alto_00359_1" MIMETYPE="text/xml+gzip" CHECKSUM="5a0ae8459e4384be0746d41ad18035d7" CHECKSUMTYPE="MD5" SIZE="12075">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00359_1.xml.gz"/>
+      </file>
+      <file ID="alto_00360_0" MIMETYPE="text/xml+gzip" CHECKSUM="65add58271acedaabeea9c7000dbc993" CHECKSUMTYPE="MD5" SIZE="12770">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00360_0.xml.gz"/>
+      </file>
+      <file ID="alto_00360_1" MIMETYPE="text/xml+gzip" CHECKSUM="343c53a18414ddc364da858fdae6107e" CHECKSUMTYPE="MD5" SIZE="4569">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00360_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0103" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="702" lastpage="708">
+              <court pgmap="714" id="b714-16">Supreme Court of the United States.</court>
+              <docketnumber pgmap="714" id="b714-15">No. 82.</docketnumber>
+              <citation pgmap="714" id="b714-13">181 U.S. 562, 21 S.Ct. 724</citation>
+              <parties pgmap="714" id="b714-14">ANTONE MARKS v. J. M. SHOUP.</parties>
+              <decisiondate pgmap="714" id="AkP">Decided May 13, 1901.</decisiondate>
+              <otherdate pgmap="714" id="b714-17">Submitted Feb. 28, 1901.</otherdate>
+              <attorneys pgmap="715" id="b715-7">Messrs. W. W. Dudley, L. T. Michener, W. E. Crews, and J. H. Cobb, for plaintiff in error.</attorneys>
+              <attorneys pgmap="715" id="b715-8">Messrs. S. M. Stockslager, George C. Heard, and Arthur K. Delaney, for defendant in error.</attorneys>
+              <opinion type="majority">
+                <author pgmap="715" id="b715-9">Mr. Justice McKENNA</author>
+                <p pgmap="715" id="AGE">delivered the opinion of the court:</p>
+                <p pgmap="715" id="b715-10">This is an action for damages, brought by the plaintiff in error, who was also plaintiff in the court below, and we will therefore so designate him, against the defendant, by virtue of his office, caused by the taking from the posses­sion of the plaintiff of a certain stock of goods, wares, and merchandise.</p>
+                <p pgmap="715" id="b715-11">The goods originally belonged to one Joe Levy, who sold them to one Levine by verbal sale, and as a part of the consideration Levine assumed to pay a debt due to the plaintiff. Levine sold them to one Kendall, who assumed to pay the same debt. Kendall sold and delivered them to plaintiff.</p>
+                <p pgmap="715" id="b715-12">The defendant was at the time of the taking of the goods marshal of Alaska, and he justified the taking under and by virtue of attachments issued out of the District Court against Levy, one in the case of Powers Dry Goods Co. v. Levy, and the other in the West Coast Grocery Co. v. Levy, and claimed that the transfers by Levy were in fraud of his creditors.</p>
+                <p pgmap="716" id="b716-3">The plaintiff replied that he had bought the goods from third persons for a valuable consideration, denied all fraud, and further pleaded that, during all the time from prior to the commencement of the actions mentioned in defend­ant’s answer until and at the time of the taking, he was in the actual, and exclusive possession of the goods, and denied that defendant ever made any levy whatever upon said goods.</p>
+                <p pgmap="716" id="b716-4">Defendant filed a supplemental answer at the trial, setting up that the attachments had merged in judgments upon which executions had issued, the goods sold, and the judg­ments satisfied.</p>
+                <p pgmap="716" id="b716-5">The case was tried before a jury, and resulted in a ver- . diet for the defendant.</p>
+                <p pgmap="716" id="b716-6">Motion for a new trial was made and overruled, and judg­ment entered for defendant. This writ of error was then sued out.</p>
+                <p pgmap="716" id="b716-7">In the attachment suits against Levy summons was is­sued, but not served, and substituted service was after­ward obtained by publication. The affidavits for the at­tachments did not mention the amount of indebtedness claimed, and the sufficiency of the substituted service and the validity of the judgment based upon it are attacked on that ground.</p>
+                <p pgmap="716" id="b716-8">It is also contended that the levies of the attachments' were invalid; and error is assigned on the admission of the testimony and in giving instructions to the jury.</p>
+                <p pgmap="716" id="b716-9">(1) The laws of Oregon were in force in Alaska at the time of the attachments. 23 Stat. at L. 24, chap. S3. • The provision for attachments was as follows:</p>
+                <blockquote pgmap="716" id="b716-10">“A writ of attachment shall be issued by the clerk of the conrt in which the action is pending whenever the plaintiff or anyone in his behalf shall make an affidavit showing:</blockquote>
+                <blockquote pgmap="716" id="b716-11">“1. That the defendant is indebted to the plaintiff (spec­ifying the amount of such indebtedness over and above all legal set-offs or counterclaims) upon a contract.” 1 Hill’s (Or.) Code, Ed. 1887, .§ 145.</blockquote>
+                <p pgmap="716(38) 717(44)" id="b716-12">It is contended that these provisions were not complied with,' and the attachments were therefore void, and, they being void, there was no foundation for the judgments. This court has ruled already as to that contention in the case of Matthews v. Densmore, 109 U.S. 216, 3 S.Ct. 126, 27 L.Ed. 912, and other cases. In Matthews v. Dens-­more the claim of a defect in the affidavit invalidating the attachment was directly passed on, and of the attachment it was said:</p>
+                <blockquote pgmap="717" id="b717-3">“It may be voidable. It may be avoided by proper pro­ceedings in that court. But when in the hands of the officer who is bound to obey it, with the seal of the court and every­thing else on its face to give it validity, if he did obey it, and is guilty of no error in this act of obedience, it must stand as his sufficient protection for that act in all other courts.”</blockquote>
+                <p pgmap="717" id="b717-4">(2) The answer of the defendant alleged that the writs of attachment in the actions mentioned were placed in his hands for service, and by virtue of them he “duly levied upon all the goods, wares, and merchandise set forth in the plaintiff’s complaint herein, and ever since that time has held and now holds the same as said United States marshal under and by virtue of said writs.”</p>
+                <p pgmap="717" id="b717-5">His returns upon the writs were as follows:</p>
+                <blockquote pgmap="717" id="b717-6">“I hereby certify that I have executed the within writ of attachment by levying upon the personal property of the within-named defendant, to wit: All of the goods, wares, and merchandise situated in the One-story building one door south of B. M. Behrends’ Bank, on Seward street between Second and Third streets in the town of Juneau, district of Alaska, by posting a copy of said writ of attachment on the front door of said building; also, eleven (11) cases of, boots and shoes consigned to the within-named defend­ant, Joseph Levy, situated in the warehouses of the Pacific Coast Steamship Company, by delivering a notice and copy of the within writ of attachment on H. F. Robinson, the agent of said Pacific Coast Steamship Company, and have all of the above-described personal property of the above-named defendant now in my possession.</blockquote>
+                <blockquote pgmap="717" id="b717-7">“Dated at Juneau, Alaska, May 14, 1898.”</blockquote>
+                <p pgmap="717" id="b717-8">It will be observed that the returns are somewhat vague as to whose possession the property was in at the time of levy. If the fact can be said to have been put in issue by the pleadings the only evidence in the case was given by the plaintiff as follows:</p>
+                <blockquote pgmap="718" id="b718-3">“About the 10th day of May, 1898, I was the owner and in the possession of a stock of- goods, wares, and mer­chandise in Juneau, Alaska. The goods were in the build­ing on Seward street, next to B. M. Behrends. On or about that date the United States deputy marshal, W. D. Grant, came to the store and took the goods out of my possession. I declined to surrender possession, but the deputy marshal forcibly put me out of the building, took the key out of my pocket, and locked the front door.”</blockquote>
+                <p pgmap="718" id="b718-4">The truth of this was not questioned, and it must be ac­cepted as established that at the time of the levy the prop­erty was in the possession of the plaintiff. What is the effect of it? In other words, was the levy made, as de­scribed in the return of the defendant, legal ?</p>
+                <p pgmap="718" id="b718-5">The statute provided as follows:</p>
+                <blockquote pgmap="718" id="b718-6">“The sheriff to whom the writ is directed and delivered shall execute the same without delay as follows: * * *</blockquote>
+                <blockquote pgmap="718" id="b718-7">“2. Personal property, capable of manual delivery to the sheriff, and not in the possession of a third person, shall be attached by taking it into his custody.</blockquote>
+                <blockquote pgmap="718" id="b718-8">“3. Other personal property shall be attached by leav­ing a certified copy of the writ, and a notice specifying the property attached, with the person having the possession of the same.” I Hill’s (Or.) Code, Ed.1887, § 149, subds. 2 and 3.</blockquote>
+                <p pgmap="718" id="b718-9">These provisions were passed upon in Spaulding v. Ken­nedy, 6 Or. 208. The facts of the case as stated by the court were as follows:</p>
+                <blockquote pgmap="718" id="b718-10">“Litchenthaler and Simpson were, on the 9th of No­vember, 1875, the owners of a certain mare, the property in dispute, upon which they executed a chattel mortgage of that date in favor of the Granger Market Company. This mortgage was duly recorded, and remained unsatisfied at the commencement of this action. Subsequently Litchen­thaler and Simpson delivered the mare to the plaintiff upon a second chattel mortgage by them in his favor, executed subsequently to the one in favor of the Granger Market Company.</blockquote>
+                <blockquote pgmap="718(18) 719(60)" id="b718-11">“In March, 1876, one James Welch obtained a judgment against the Granger Market Company, upon which an ex­ecution was issued, and placed in the hands of Kennedy, the appellant, who was a constable. Kennedy under this execu­tion levied as it is claimed, upon the mare, as the property of the Granger Market Company, by taking her from the possession of one Stemme, the bailee of the plaintiff Spauld­ing. Spaulding brought this action to recover possession.”</blockquote>
+                <p pgmap="719" id="b719-3">The court said:</p>
+                <blockquote pgmap="719" id="b719-4">“It was the object of the levy to subject the right of the Granger Market Company to execution, and in order to do so, and by a levy and sale transfer this right to an exe­cution purchaser, the officer must pursue the course pointed out by the statute.”</blockquote>
+                <p pgmap="719" id="b719-5">And, after quoting the statute, said further:</p>
+                <blockquote pgmap="719" id="b719-6">“This property not being in the possession of the Granger Market Company at the time of the levy, the officer could not, by virtue of his writ, lawfully take it from the pos­session of a third person in whose possession he found it, and he committed a trespass in so doing. It is claimed that this statute is simply intended to protect those in pos­session of property who may have a lien on it by virtue of which they may be’ entitled to redeem it. This may be the object of the statute. The statute provides that such per­sons, when summoned as garnishees, shall answer and show by what title they hold the property; but the sheriff, when he finds the property which he supposes belongs to the judgment debtor. in the possession of third persons, has no right to determine the right of that-possession, ex­cept in the manner provided by law.”</blockquote>
+                <p pgmap="719" id="b719-7">The same principle was expressed in Lewis v. Birdsey, 19 Or. 164, 26 P. 623, and in Batchellor v. Richardson, 17 Or. 334, 21 P. 392.</p>
+                <p pgmap="719" id="b719-8">The cases cited by defendant in error are not to the contrary. Page v. Grant, 9 Or. 116, was a direct attack, after execution returned unsatisfied, upon a sale claimed to be fraudulent. Lyons v. Leahy, 15 Or. 8, 13 P. 643, and Philbrick v. O’Connor, 15 Or. 15, 13 P. 612; and Craw­ford v. Beard, 12 Or. 447, 8 P. 537, were creditor’s bills brought to set aside deeds for real estate after return of execution unsatisfied. It follows that the levy was in­valid and could constitute no defense to the defendant, and the jury should have been so instructed.</p>
+                <p pgmap="720" id="b720-3">(2) The error assigned on instructions not disposed of by the above reasoning it is not necessary to consider. We may say, however, that we have grave doubts of their cor­rectness.</p>
+                <p pgmap="720" id="b720-4">Judgment reversed, with costs, and cause remanded, with directions to grant a new trial.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="714" ORDERLABEL="702" TYPE="page">
+        <fptr FILEID="tiff_00357_1"/>
+        <fptr FILEID="jpg_00357_1"/>
+        <fptr FILEID="alto_00357_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_714.2" BETYPE="IDREF" FILEID="alto_00357_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="715" ORDERLABEL="703" TYPE="page">
+        <fptr FILEID="tiff_00358_0"/>
+        <fptr FILEID="jpg_00358_0"/>
+        <fptr FILEID="alto_00358_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_715.3" BETYPE="IDREF" FILEID="alto_00358_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="716" ORDERLABEL="704" TYPE="page">
+        <fptr FILEID="tiff_00358_1"/>
+        <fptr FILEID="jpg_00358_1"/>
+        <fptr FILEID="alto_00358_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_716.1" BETYPE="IDREF" FILEID="alto_00358_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="717" ORDERLABEL="705" TYPE="page">
+        <fptr FILEID="tiff_00359_0"/>
+        <fptr FILEID="jpg_00359_0"/>
+        <fptr FILEID="alto_00359_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_717.2" BETYPE="IDREF" FILEID="alto_00359_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="718" ORDERLABEL="706" TYPE="page">
+        <fptr FILEID="tiff_00359_1"/>
+        <fptr FILEID="jpg_00359_1"/>
+        <fptr FILEID="alto_00359_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_718.1" BETYPE="IDREF" FILEID="alto_00359_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="719" ORDERLABEL="707" TYPE="page">
+        <fptr FILEID="tiff_00360_0"/>
+        <fptr FILEID="jpg_00360_0"/>
+        <fptr FILEID="alto_00360_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_719.2" BETYPE="IDREF" FILEID="alto_00360_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="720" ORDERLABEL="708" TYPE="page">
+        <fptr FILEID="tiff_00360_1"/>
+        <fptr FILEID="jpg_00360_1"/>
+        <fptr FILEID="alto_00360_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_720.1" BETYPE="IDREF" FILEID="alto_00360_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b720-4" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_720.4" BETYPE="IDREF" FILEID="alto_00360_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b714-15" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_714.16" BETYPE="IDREF" FILEID="alto_00357_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkP" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_714.19" BETYPE="IDREF" FILEID="alto_00357_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b714-17" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_714.18" BETYPE="IDREF" FILEID="alto_00357_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b714-16" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_714.17" BETYPE="IDREF" FILEID="alto_00357_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b714-13" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_714.14" BETYPE="IDREF" FILEID="alto_00357_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b716-9" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_716.9" BETYPE="IDREF" FILEID="alto_00358_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b718-3" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_718.3" BETYPE="IDREF" FILEID="alto_00359_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b716-8" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_716.8" BETYPE="IDREF" FILEID="alto_00358_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b718-7" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_718.7" BETYPE="IDREF" FILEID="alto_00359_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b718-6" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_718.6" BETYPE="IDREF" FILEID="alto_00359_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b718-5" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_718.5" BETYPE="IDREF" FILEID="alto_00359_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b718-4" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_718.4" BETYPE="IDREF" FILEID="alto_00359_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b719-5" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_719.6" BETYPE="IDREF" FILEID="alto_00360_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b716-3" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_716.3" BETYPE="IDREF" FILEID="alto_00358_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b718-8" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_718.8" BETYPE="IDREF" FILEID="alto_00359_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b716-5" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_716.5" BETYPE="IDREF" FILEID="alto_00358_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b716-4" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_716.4" BETYPE="IDREF" FILEID="alto_00358_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b716-7" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_716.7" BETYPE="IDREF" FILEID="alto_00358_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b716-6" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_716.6" BETYPE="IDREF" FILEID="alto_00358_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b717-4" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_717.5" BETYPE="IDREF" FILEID="alto_00359_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b717-5" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_717.6" BETYPE="IDREF" FILEID="alto_00359_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b717-6" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_717.7" BETYPE="IDREF" FILEID="alto_00359_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b717-7" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_717.8" BETYPE="IDREF" FILEID="alto_00359_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b715-7" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_715.8" BETYPE="IDREF" FILEID="alto_00358_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b717-3" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_717.4" BETYPE="IDREF" FILEID="alto_00359_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b715-8" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_715.9" BETYPE="IDREF" FILEID="alto_00358_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b715-9" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_715.10" BETYPE="IDREF" FILEID="alto_00358_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b717-8" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_717.9" BETYPE="IDREF" FILEID="alto_00359_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b718-11" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_718.11" BETYPE="IDREF" FILEID="alto_00359_1"/>
+            <area BEGIN="BL_719.1" BETYPE="IDREF" FILEID="alto_00360_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b718-10" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_718.10" BETYPE="IDREF" FILEID="alto_00359_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b715-12" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_715.15" BETYPE="IDREF" FILEID="alto_00358_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b716-12" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_716.12" BETYPE="IDREF" FILEID="alto_00358_1"/>
+            <area BEGIN="BL_717.1" BETYPE="IDREF" FILEID="alto_00359_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b716-11" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_716.11" BETYPE="IDREF" FILEID="alto_00358_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b716-10" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_716.10" BETYPE="IDREF" FILEID="alto_00358_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b719-3" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_719.4" BETYPE="IDREF" FILEID="alto_00360_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b719-7" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_719.8" BETYPE="IDREF" FILEID="alto_00360_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b720-3" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_720.3" BETYPE="IDREF" FILEID="alto_00360_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b719-8" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_719.9" BETYPE="IDREF" FILEID="alto_00360_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b719-6" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_719.7" BETYPE="IDREF" FILEID="alto_00360_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b714-14" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_714.15" BETYPE="IDREF" FILEID="alto_00357_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b715-10" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_715.13" BETYPE="IDREF" FILEID="alto_00358_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGE" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_715.11" BETYPE="IDREF" FILEID="alto_00358_0"/>
+            <area BEGIN="BL_715.12" BETYPE="IDREF" FILEID="alto_00358_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b715-11" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_715.14" BETYPE="IDREF" FILEID="alto_00358_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b719-4" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_719.5" BETYPE="IDREF" FILEID="alto_00360_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b718-9" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_718.9" BETYPE="IDREF" FILEID="alto_00359_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

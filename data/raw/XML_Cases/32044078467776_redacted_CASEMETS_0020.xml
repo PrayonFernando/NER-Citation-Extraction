@@ -1,0 +1,580 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0020" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="In re Sah Quah">In re SAH QUAH</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 136</citation>
+          <citation category="parallel" type="bluebook">31 F. 327</citation>
+          <decisiondate>1886-05-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:01Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00074_1" MIMETYPE="image/tiff" CHECKSUM="188872739c18884a66b51b98c60c642c" CHECKSUMTYPE="MD5" SIZE="5236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00074_1.tif"/>
+      </file>
+      <file ID="tiff_00075_0" MIMETYPE="image/tiff" CHECKSUM="825f5bd80bbfc69eab66e4e1ce97d2d0" CHECKSUMTYPE="MD5" SIZE="30256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00075_0.tif"/>
+      </file>
+      <file ID="tiff_00075_1" MIMETYPE="image/tiff" CHECKSUM="3b3ccdc655d495525ef82158e8ca8dda" CHECKSUMTYPE="MD5" SIZE="51890">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00075_1.tif"/>
+      </file>
+      <file ID="tiff_00076_0" MIMETYPE="image/tiff" CHECKSUM="3e2044d0683d554deed87e5c166a3311" CHECKSUMTYPE="MD5" SIZE="52018">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00076_0.tif"/>
+      </file>
+      <file ID="tiff_00076_1" MIMETYPE="image/tiff" CHECKSUM="84290bb77bacd0c1bfc6576fe6224c29" CHECKSUMTYPE="MD5" SIZE="54926">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00076_1.tif"/>
+      </file>
+      <file ID="tiff_00077_0" MIMETYPE="image/tiff" CHECKSUM="71f35ff9b6e09da693264942e552f84e" CHECKSUMTYPE="MD5" SIZE="50962">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00077_0.tif"/>
+      </file>
+      <file ID="tiff_00077_1" MIMETYPE="image/tiff" CHECKSUM="1ddb45121547e031286089fdc6fd3408" CHECKSUMTYPE="MD5" SIZE="48812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00077_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00074_1" MIMETYPE="image/jpg" CHECKSUM="927ca0025dcc08136c8bd8fdf05ee1ca" CHECKSUMTYPE="MD5" SIZE="63785">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00074_1.jpg"/>
+      </file>
+      <file ID="jpg_00075_0" MIMETYPE="image/jpg" CHECKSUM="e6e4cfd6dcb0006896d22849c88e3ba0" CHECKSUMTYPE="MD5" SIZE="132486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00075_0.jpg"/>
+      </file>
+      <file ID="jpg_00075_1" MIMETYPE="image/jpg" CHECKSUM="d601e795001341a3351f89547741acf0" CHECKSUMTYPE="MD5" SIZE="198860">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00075_1.jpg"/>
+      </file>
+      <file ID="jpg_00076_0" MIMETYPE="image/jpg" CHECKSUM="a6ad11d09e84892e4f1c49cb876da836" CHECKSUMTYPE="MD5" SIZE="186638">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00076_0.jpg"/>
+      </file>
+      <file ID="jpg_00076_1" MIMETYPE="image/jpg" CHECKSUM="97386c88de97f393c55e10e442f5c32c" CHECKSUMTYPE="MD5" SIZE="214073">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00076_1.jpg"/>
+      </file>
+      <file ID="jpg_00077_0" MIMETYPE="image/jpg" CHECKSUM="864f0c9114f7605d75e4225e05aba9dc" CHECKSUMTYPE="MD5" SIZE="185969">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00077_0.jpg"/>
+      </file>
+      <file ID="jpg_00077_1" MIMETYPE="image/jpg" CHECKSUM="1c3daedeaa59421121e55364a0e0af30" CHECKSUMTYPE="MD5" SIZE="190130">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00077_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00074_1" MIMETYPE="text/xml+gzip" CHECKSUM="a56c6da3a76533eedc565aea99b2a5a8" CHECKSUMTYPE="MD5" SIZE="1592">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00074_1.xml.gz"/>
+      </file>
+      <file ID="alto_00075_0" MIMETYPE="text/xml+gzip" CHECKSUM="3e24f603daa966a68aced8194fb5931a" CHECKSUMTYPE="MD5" SIZE="7595">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00075_0.xml.gz"/>
+      </file>
+      <file ID="alto_00075_1" MIMETYPE="text/xml+gzip" CHECKSUM="bd1d0eb43bc38fcea1a3bbb7660ae724" CHECKSUMTYPE="MD5" SIZE="12073">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00075_1.xml.gz"/>
+      </file>
+      <file ID="alto_00076_0" MIMETYPE="text/xml+gzip" CHECKSUM="a369861a6c536f7d58f08e689c7b8cac" CHECKSUMTYPE="MD5" SIZE="12042">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00076_0.xml.gz"/>
+      </file>
+      <file ID="alto_00076_1" MIMETYPE="text/xml+gzip" CHECKSUM="b05113bd6a7ba634d3ee0263d3e5ed07" CHECKSUMTYPE="MD5" SIZE="13215">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00076_1.xml.gz"/>
+      </file>
+      <file ID="alto_00077_0" MIMETYPE="text/xml+gzip" CHECKSUM="15a453ef6b6d586cfe656dc2d5230c85" CHECKSUMTYPE="MD5" SIZE="11966">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00077_0.xml.gz"/>
+      </file>
+      <file ID="alto_00077_1" MIMETYPE="text/xml+gzip" CHECKSUM="2812c5845ac9bad4a66a24c964c4cec2" CHECKSUMTYPE="MD5" SIZE="11869">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00077_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0020" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="136" lastpage="142">
+              <court pgmap="148" id="b148-5">District Court, D. Alaska.</court>
+              <citation pgmap="148" id="b148-3">31 F. 327</citation>
+              <parties pgmap="148" id="b148-4">In re SAH QUAH.</parties>
+              <decisiondate pgmap="148" id="b148-6">May 8, 1886.</decisiondate>
+              <attorneys pgmap="149" id="b149-7">W. Clark and P. J. Berry, for petitioner.</attorneys>
+              <attorneys pgmap="149" id="b149-8">M. D. Ball, for respondent.</attorneys>
+              <opinion type="majority">
+                <author pgmap="149" id="b149-9">DAWSON, Judge.</author>
+                <p pgmap="149" id="b149-10">Petitioner alleges that he is unlawfully restrained of his liberty by the respondent, who claims to own him as a slave and chattel, and prays to be released from the restraint im­posed upon him by the respondent. Respondent, by way of return to the writ, in substance alleges that both he and the petitioner are Indians of the Thlinket or Kalosian race; that they are uncivilized natives; that they and their an­cestors have inhabited the Alaskan shores from time where­of the memory of man runneth not to the contrary, in com­munities independent of any other law, authority, or juris­diction except that established by their own rules and cus­toms ; that the buying, selling, and holding of slaves is one of the rules and customs of their race and tribe; that the civil authorities have no jurisdiction over them; and im­pliedly asserting that Alaska is Indian country, and that they as inhabitants are subject to no law, save the usages and customs of Indians.</p>
+                <p pgmap="149(29) 150(30)" id="b149-11">The issue presented is important, and necessarily in­volved an examination of the treaty by which this vast region was ceded to the United States by his majesty, the emperor of all the Russias, as well ás certain acts of con­gress in relation to Alaska. The third article of the treaty of March 30, 1867, is as follows:</p>
+                <blockquote pgmap="150" id="b150-4">“The inhabitants . of the ceded territory, according to their choice, reserving their natural allegiance, may return to Russia within three years; but, if they should prefer to remain in the ceded territory, they, with the exception of uncivilized native tribes, shall be admitted to the enjoyment of all the rights, advantages, and immunities of citizens of the United States, and shall be maintained and protected in the free enjoyment of their liberty, property, and re­ligion. The uncivilized tribes will be subject to such laws and regulations as. the United States may, from time to time, adopt in regard to aboriginal tribes of that country.”</blockquote>
+                <p pgmap="150" id="b150-5">It will be observed that the power to make laws and regulations for the government of the Indians is expressly reserved in the treaty to the United States, thus indicating very clearly that they were even then regarded as subject to some power superior to their own untamed inclinations. Pursuant to the power reserved in the treaty, congress, on the twenty-seventh day of July, 1868, extended the laws of the United States relating to customs, commerce, and navi­gation to and over all the mainland, islands, and waters of Alaska, and conferred upon the president of the United States power to restrict and regulate or prohibit the im­portation and use of fire-arms, ammunition, and distilled spirits into and within the territory. Sections 1954, 1955, Rev. St.</p>
+                <p pgmap="150" id="b150-6">On the third day of March, 1873 congress amended the two sections referred to by extending over this territory two sections of the act of June 30, 1834, known as the “Indian Intercourse Laws,” relating almost exclusively to the interdiction of the liquor traffic among the Indians, and to the distillation of ardent spirits in the Indian country. But I cannot infer that when congress, in express terms, extended two sections of the same act, and made them ap­plicable to a certain people, it was intended to extend the whole act.</p>
+                <p pgmap="150(30) 151(39)" id="b150-7">The presumption is clear that by singling out, mentioning, and extending two sections only, the intention was to with­hold or exclude from the territory all the other sections of the act. If I am correct in this conclusion, it necessarily follows that only as to the. prohibited commerce mentioned in the sections referred to, can Alaska be regarded as In­dian country. 14 Op.Attys.Gen. 290; 16 Op.Attys.Gen. 141.</p>
+                <p pgmap="151" id="b151-4">What, then, is the legal status of Alaska Indians ? Many of them have connected themselves with the mission church­es, manifest a great interest in the education of their youth, and have adopted civilized habits of life. Their condition has been gradually changing until the attributes of their original sovereignty have been lost, and they are becoming more and more dependent upon and subject to the laws of the United States, and yet they are not citizens within the full meaning of that term.</p>
+                <p pgmap="151" id="b151-5">From the organization of the government to the present time, the various Indian tribes of the United States have been treated as free and independent within their respective territories, governed by their tribal laws and customs, in all matters pertaining to their internal affairs, such as con­tracts and the manner of their enforcement, marriage, descents, and the punishment for crimes committed against each other. They have been excused from all allegiance to the municipal laws of the whites as precedents or other­wise in relation to tribal affairs, subject, however, to such restraints as were from time to time deemed necessary for their own protection, and for the protection of the whites adjacent to them. Cherokee Nat. v. Georgia, 5 Pet. 1, 16, 17; Jackson v. Goodell, 20 Johns. (N.Y.) 193.</p>
+                <p pgmap="151" id="b151-6">This policy upon the part of the United States grew out of the ordinance of 1787, adopted by the confederate con­gress for the government of the territory north-west of the Ohio river, and has heen constantly and scrupulously observed in relation to all Indians existing under tribal customs, and with whom the government has treated, and recognized as independent tribes.</p>
+                <p pgmap="151(62) 152(232)" id="b151-7">The doctrine enunciated by the supreme court of the United States in the Crow Dog Case (1883) 109 U.S. 556, 3 S.Ct. 396, is based upon the idea of the supremacy and independence of the Brule Sioux tribe of Indians, in their tribal capacity, as admitted and recognized by the United .States in a treaty stipulation. It was held that the district court of Dakota had no jurisdiction to try and punish Crow Dog for the murder of a member of his own race, because he had been or was liable to be punished by the local law of the tribe. But does the rule in that case apply to the In­dians of Alaska? I think not, and for various reasons. The United States has at no time recognized any tribal independence or relations among these Indians, has never treated with them in any capacity, but from every act of congress in relation to the people of this territory it is clear­ly inferable that they have been and now are regarded as dependent subjects, amenable to the penal laws of the United States, and subject to the jurisdiction of its courts. Upon a careful examination of the habits of these natives, of their modes of living, and their traditions, I am inclined to the opinion that their system is essentially patriarchal, and not tribal, as we understand that term in its application to other Indians. They are practically in a state of pupil-­age, and sustain a relation to the United States similar to that of a ward to a guardian, and have no such inde­pendence or supremacy as will permit them to sustain and enforce a system of forced servitude at variance with the fundamental laws of the United States.</p>
+                <p pgmap="152(196) 153(119)" id="b152-3">Counsel for respondent suggests that these people are not included within the thirteenth amendment to the constitu­tion, and the subsequent legislation by congress to enforce it. Before discussing the amendment, and its object, it is necessary to briefly examine the system of slavery among these natives. The object of all intellectual research is the discovery of truth, and unless we close our eyes to observa­tion, and disbelieve an unbroken chain of human evidence, we cannot escape the conclusion that slavery in its most shocking form has been' thoroughly interwoven with the social policy of the Indians of Alaska, and still exists in many localities under circumstances of extreme cruelty. The life of the slave is entirely at the disposal of his master or his mistress, and it has been customary among them to kill one or more slaves on the death of a master, or on the happening of some other event, such as the completion of a new house. Boring the ears, or putting out an eye, of a slave, or some other mode of marking the flesh, has been and is flow a custom with some of the families of these peo-' pie. The evidence shows that the object of such mutila­tion is to impress upon the slaves their inferiority, and ren­der their humiliation complete; that they are believers in witchcraft, and that, when a spirit of insubordination be­comes manifest on the part of the slaves, the juggler is called upon, and that he, by exorcisms and magical incanta­tions, pretends to drive out the rebellious spirits, and the slaves are compelled to submit. Can such a system be tolerated iti a country whose people lay claims to civiliza­tion and Christianity? Does not every precept of religion, every principle that underlies our system of government, every axiom of our political fabric, cry out against such monstrous inhumanity?</p>
+                <p pgmap="153" id="b153-4">What was the object of the thirteenth amendment to the constitution? In construing the constitution, or any of its amendments, or any of the laws enacted in obedience to its commands, the court may derive aid from contempo­raneous exposition; may look to the history of the time of its adoption; may ascertain the evil sought to be reme­died, and the object to be accomplished. Story, Const. § 405. The object of the thirteenth amendment is easily un­derstood. Its language is sweeping and far reaching. African slavery had practically been abolished by the use of the military arm of the government. A new era had dawned upon the American people. The last vestige of forced servitude, except for the punishment of crime, was to be eliminated from our political system by organic law. The thirteenth amendment was proposed to the several states by the thirty-eighth congress on the first of Febru­ary, 1865, and was declared in a proclamation of the secre­tary of state, dated on the eighteenth day of December fol­lowing, to have been ratified by the legislatures of 27 of the then 36 states.</p>
+                <p pgmap="153" id="b153-5">The amendment is brief, but broad in its scope:</p>
+                <blockquote pgmap="153" id="b153-6">“Section 1. Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to its jurisdiction.</blockquote>
+                <blockquote pgmap="153" id="b153-7">“Sec. 2. Congress shall have power to enforce this ar­ticle by appropriate legislation.”</blockquote>
+                <p pgmap="154" id="b154-3">It is, indeed, seldom that so much meaning is contained within the compass of so short a sentence; and, for the purpose of making the amendment effectual, the law known as the “Civil Rights Bill” was enacted in April, 1866. By it the last relic of slavery or forced servitude in any con­ceivable form, except for the punishment of crime, is emas­culated. Section 1990 abolishes peonage in New Mexico, and in every state and territory where it had a foot-hold. On March 3, 1871, congress passed a law absolutely for­bidding any future treaties with Indian tribes, or the rec­ognition of tribal independence. See section 2079, Rev.St. (25 U.S.C.A. § 71). And by an act approved March 3, 1885, (23 U.S.St. at Large, 385), congress made all In­dians amenable to the criminal laws of the United States, and subject to the jurisdiction of its courts for all offenses designated in said act, committed against the person or property of any other Indian, or any other person.</p>
+                <p pgmap="154" id="b154-4">The last act of congress referred to materially strength­ens the view herein expressed, that the Indians of Alaska are under the control of, and subject to the laws of, the United States. The petitioner testifies that he was captured and sold into slavery when a mere boy; that his labor from that time to this has been appropriated by others. He has lost one eye, his ears are badly mutilated, and he is cer­tainly’a sad spectacle of humiliated manhood. The crack of the lash, the torture of mutilation, the fear of death, the annoyance of the juggler, the excess of manual, labor im­posed upon him, the extreme hardships of his life, with the sense of degradation and inferiority constantly before him, have subdued his manhood, and the pitiable spectacle of his once stately form is an evidence of the blighting curse of slavery. This case has been ably argued on both sides, and all the learning accessible to the attorneys has been brought to bear, but I can arrive at no other conclusion than that the petitioner must be released from the merciless restraint imposed upon him, and go forth a free man, and such is the order of the court</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="148" ORDERLABEL="136" TYPE="page">
+        <fptr FILEID="tiff_00074_1"/>
+        <fptr FILEID="jpg_00074_1"/>
+        <fptr FILEID="alto_00074_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_148.1" BETYPE="IDREF" FILEID="alto_00074_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="149" ORDERLABEL="137" TYPE="page">
+        <fptr FILEID="tiff_00075_0"/>
+        <fptr FILEID="jpg_00075_0"/>
+        <fptr FILEID="alto_00075_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_149.3" BETYPE="IDREF" FILEID="alto_00075_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="150" ORDERLABEL="138" TYPE="page">
+        <fptr FILEID="tiff_00075_1"/>
+        <fptr FILEID="jpg_00075_1"/>
+        <fptr FILEID="alto_00075_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_150.2" BETYPE="IDREF" FILEID="alto_00075_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="151" ORDERLABEL="139" TYPE="page">
+        <fptr FILEID="tiff_00076_0"/>
+        <fptr FILEID="jpg_00076_0"/>
+        <fptr FILEID="alto_00076_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_151.3" BETYPE="IDREF" FILEID="alto_00076_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="152" ORDERLABEL="140" TYPE="page">
+        <fptr FILEID="tiff_00076_1"/>
+        <fptr FILEID="jpg_00076_1"/>
+        <fptr FILEID="alto_00076_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_152.2" BETYPE="IDREF" FILEID="alto_00076_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="153" ORDERLABEL="141" TYPE="page">
+        <fptr FILEID="tiff_00077_0"/>
+        <fptr FILEID="jpg_00077_0"/>
+        <fptr FILEID="alto_00077_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_153.3" BETYPE="IDREF" FILEID="alto_00077_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="154" ORDERLABEL="142" TYPE="page">
+        <fptr FILEID="tiff_00077_1"/>
+        <fptr FILEID="jpg_00077_1"/>
+        <fptr FILEID="alto_00077_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_154.1" BETYPE="IDREF" FILEID="alto_00077_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-11" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.11" BETYPE="IDREF" FILEID="alto_00075_0"/>
+            <area BEGIN="BL_150.1" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-10" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.10" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.8" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.6" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.4" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.5" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.5" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-3" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.3" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.7" BETYPE="IDREF" FILEID="alto_00075_1"/>
+            <area BEGIN="BL_151.1" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.6" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.4" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.5" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.6" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.7" BETYPE="IDREF" FILEID="alto_00076_0"/>
+            <area BEGIN="BL_152.1" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.6" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.7" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.7" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-3" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.4" BETYPE="IDREF" FILEID="alto_00076_1"/>
+            <area BEGIN="BL_153.1" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.4" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.4" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.5" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-9" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.9" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-3" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.3" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.4" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

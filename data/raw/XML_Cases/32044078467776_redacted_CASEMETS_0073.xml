@@ -1,0 +1,755 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0073" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Meydenbauer v. Stevens">MEYDENBAUER v. STEVENS et al.</name>
+          <docketnumber>No. 545</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 499</citation>
+          <citation category="parallel" type="bluebook">78 F. 787</citation>
+          <decisiondate>1897-02-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:03Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00256_0" MIMETYPE="image/tiff" CHECKSUM="f1fda6102a1fc1fe543209f04ee0a7da" CHECKSUMTYPE="MD5" SIZE="5782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00256_0.tif"/>
+      </file>
+      <file ID="tiff_00256_1" MIMETYPE="image/tiff" CHECKSUM="fe1b206fdcd4e7d84e0a90669b69c647" CHECKSUMTYPE="MD5" SIZE="4184">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00256_1.tif"/>
+      </file>
+      <file ID="tiff_00257_0" MIMETYPE="image/tiff" CHECKSUM="e464cf984c363f0736e35f05f57bbed4" CHECKSUMTYPE="MD5" SIZE="34022">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00257_0.tif"/>
+      </file>
+      <file ID="tiff_00257_1" MIMETYPE="image/tiff" CHECKSUM="bd1d56a577b8710d729ca2663df6ec9b" CHECKSUMTYPE="MD5" SIZE="51896">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00257_1.tif"/>
+      </file>
+      <file ID="tiff_00258_0" MIMETYPE="image/tiff" CHECKSUM="0ff4918d66346377525cd5be08d761ef" CHECKSUMTYPE="MD5" SIZE="49158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00258_0.tif"/>
+      </file>
+      <file ID="tiff_00258_1" MIMETYPE="image/tiff" CHECKSUM="6c5e7b22a16035c509dde8d94f3d25e7" CHECKSUMTYPE="MD5" SIZE="52714">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00258_1.tif"/>
+      </file>
+      <file ID="tiff_00259_0" MIMETYPE="image/tiff" CHECKSUM="73cb8767fd7b17307e7f3e0fedd34474" CHECKSUMTYPE="MD5" SIZE="52724">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00259_0.tif"/>
+      </file>
+      <file ID="tiff_00259_1" MIMETYPE="image/tiff" CHECKSUM="743c580a47902fe8eb9dd44550d67b2c" CHECKSUMTYPE="MD5" SIZE="52032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00259_1.tif"/>
+      </file>
+      <file ID="tiff_00260_0" MIMETYPE="image/tiff" CHECKSUM="b214fb24e94abf592e2fcd00dbd76434" CHECKSUMTYPE="MD5" SIZE="52750">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00260_0.tif"/>
+      </file>
+      <file ID="tiff_00260_1" MIMETYPE="image/tiff" CHECKSUM="6b9196dd73c34f1cea8a59eb8854e464" CHECKSUMTYPE="MD5" SIZE="55284">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00260_1.tif"/>
+      </file>
+      <file ID="tiff_00261_0" MIMETYPE="image/tiff" CHECKSUM="060655f0ae4d132500fa5ce39e90d469" CHECKSUMTYPE="MD5" SIZE="51648">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00261_0.tif"/>
+      </file>
+      <file ID="tiff_00261_1" MIMETYPE="image/tiff" CHECKSUM="d3cf12f730aa2cc9f887a195a95a5c73" CHECKSUMTYPE="MD5" SIZE="49266">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00261_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00256_0" MIMETYPE="image/jpg" CHECKSUM="895a8983a443ebdee485e5da18b0e8e3" CHECKSUMTYPE="MD5" SIZE="62192">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00256_0.jpg"/>
+      </file>
+      <file ID="jpg_00256_1" MIMETYPE="image/jpg" CHECKSUM="a321a4ce900d3a4bb71764998d2deebc" CHECKSUMTYPE="MD5" SIZE="62266">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00256_1.jpg"/>
+      </file>
+      <file ID="jpg_00257_0" MIMETYPE="image/jpg" CHECKSUM="4e6347562914a26954c2524efe638cd5" CHECKSUMTYPE="MD5" SIZE="145871">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00257_0.jpg"/>
+      </file>
+      <file ID="jpg_00257_1" MIMETYPE="image/jpg" CHECKSUM="07fb2bfd5d403eeb8f635a2166322d60" CHECKSUMTYPE="MD5" SIZE="194277">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00257_1.jpg"/>
+      </file>
+      <file ID="jpg_00258_0" MIMETYPE="image/jpg" CHECKSUM="012b496f563a91fd4f378a3df9e1408f" CHECKSUMTYPE="MD5" SIZE="182171">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00258_0.jpg"/>
+      </file>
+      <file ID="jpg_00258_1" MIMETYPE="image/jpg" CHECKSUM="06081ba2d387dde6c995bf304ded8c55" CHECKSUMTYPE="MD5" SIZE="206101">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00258_1.jpg"/>
+      </file>
+      <file ID="jpg_00259_0" MIMETYPE="image/jpg" CHECKSUM="cf5120c19f30221d79e5cbb1952b6c8e" CHECKSUMTYPE="MD5" SIZE="196252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00259_0.jpg"/>
+      </file>
+      <file ID="jpg_00259_1" MIMETYPE="image/jpg" CHECKSUM="aff21b6a38c0f3823699c23fb410cdfa" CHECKSUMTYPE="MD5" SIZE="198391">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00259_1.jpg"/>
+      </file>
+      <file ID="jpg_00260_0" MIMETYPE="image/jpg" CHECKSUM="4a34ece35bbc97280c27482faad655db" CHECKSUMTYPE="MD5" SIZE="191173">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00260_0.jpg"/>
+      </file>
+      <file ID="jpg_00260_1" MIMETYPE="image/jpg" CHECKSUM="8bdc07f329c71241501cb7696361bcc5" CHECKSUMTYPE="MD5" SIZE="216693">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00260_1.jpg"/>
+      </file>
+      <file ID="jpg_00261_0" MIMETYPE="image/jpg" CHECKSUM="49693e1b1129a24fe9d9e797699a30b0" CHECKSUMTYPE="MD5" SIZE="192990">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00261_0.jpg"/>
+      </file>
+      <file ID="jpg_00261_1" MIMETYPE="image/jpg" CHECKSUM="1b1ad229dfcdf9ffb67287679063a3b5" CHECKSUMTYPE="MD5" SIZE="188848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00261_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00256_0" MIMETYPE="text/xml+gzip" CHECKSUM="65ab2b4636c83fc12f156980a3a331aa" CHECKSUMTYPE="MD5" SIZE="1741">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00256_0.xml.gz"/>
+      </file>
+      <file ID="alto_00256_1" MIMETYPE="text/xml+gzip" CHECKSUM="06b25866bb3dc3bc16934622d53533a0" CHECKSUMTYPE="MD5" SIZE="926">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00256_1.xml.gz"/>
+      </file>
+      <file ID="alto_00257_0" MIMETYPE="text/xml+gzip" CHECKSUM="79c61b121c296d9e747fa70b41ab44e5" CHECKSUMTYPE="MD5" SIZE="8051">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00257_0.xml.gz"/>
+      </file>
+      <file ID="alto_00257_1" MIMETYPE="text/xml+gzip" CHECKSUM="e4d34768e467b849fecb99a9592cfbe9" CHECKSUMTYPE="MD5" SIZE="12676">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00257_1.xml.gz"/>
+      </file>
+      <file ID="alto_00258_0" MIMETYPE="text/xml+gzip" CHECKSUM="0859834b1d7234b6eda23abd4145fb05" CHECKSUMTYPE="MD5" SIZE="12323">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00258_0.xml.gz"/>
+      </file>
+      <file ID="alto_00258_1" MIMETYPE="text/xml+gzip" CHECKSUM="38b4c82799085fb43befaad86b0ffac1" CHECKSUMTYPE="MD5" SIZE="13073">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00258_1.xml.gz"/>
+      </file>
+      <file ID="alto_00259_0" MIMETYPE="text/xml+gzip" CHECKSUM="b62466c90cbcb5fdf18bd099dbcf2195" CHECKSUMTYPE="MD5" SIZE="13116">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00259_0.xml.gz"/>
+      </file>
+      <file ID="alto_00259_1" MIMETYPE="text/xml+gzip" CHECKSUM="4e71d02c7fe71071ea58ee55a2e53b2a" CHECKSUMTYPE="MD5" SIZE="12630">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00259_1.xml.gz"/>
+      </file>
+      <file ID="alto_00260_0" MIMETYPE="text/xml+gzip" CHECKSUM="dfb0d62e7f4f91e234fb9efb16466a5b" CHECKSUMTYPE="MD5" SIZE="12730">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00260_0.xml.gz"/>
+      </file>
+      <file ID="alto_00260_1" MIMETYPE="text/xml+gzip" CHECKSUM="b8e3dea1810122669dce3f18b936b466" CHECKSUMTYPE="MD5" SIZE="13185">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00260_1.xml.gz"/>
+      </file>
+      <file ID="alto_00261_0" MIMETYPE="text/xml+gzip" CHECKSUM="65115b95aace575c3442e1aeef930e2b" CHECKSUMTYPE="MD5" SIZE="12254">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00261_0.xml.gz"/>
+      </file>
+      <file ID="alto_00261_1" MIMETYPE="text/xml+gzip" CHECKSUM="167ceb22ff2c87912a042646eb43f781" CHECKSUMTYPE="MD5" SIZE="11943">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00261_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0073" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="499" lastpage="510">
+              <court pgmap="511" id="b511-5">District Court, D. Alaska.</court>
+              <docketnumber pgmap="511" id="APo">No. 545.</docketnumber>
+              <citation pgmap="511" id="b511-3">78 F. 787</citation>
+              <parties pgmap="511" id="b511-4">MEYDENBAUER v. STEVENS et al.</parties>
+              <decisiondate pgmap="511" id="b511-6">Feb. 13, 1897.</decisiondate>
+              <attorneys pgmap="513" id="b513-8">Burton E. Bennett, for plaintiff.</attorneys>
+              <attorneys pgmap="513" id="b513-9">H. Stevens, for defendants.</attorneys>
+              <opinion type="majority">
+                <author pgmap="513" id="b513-10">DELANEY, District Judge</author>
+                <p pgmap="513" id="A6_">(charging jury).</p>
+                <p pgmap="513" id="b513-11">This is an action commonly known in the law as “eject­ment.” The plaintiff brings the action for the purpose of recovering possession of a certain piece or parcel of land which he claims, and which is a part of a lode min­ing claim. He has introduced testimony that defendants have ousted him therefrom, and asks judgment restoring the ground to himself. It is the contention of the de­fendants that they are not on the plaintiff’s land; but that the ground, when they took possession of it, was open and unoccupied public land, and that as such they had the right to take possession. Both parties claim possessory rights under the rules.of law governing what are termed “mining claims.” One of these claims is known as the “P. I.,” title to which is asserted by the plaintiff, and which, as he contends, is' overlapped by two claims owned, as they contend, by the defendants, which claims are known as the “Golden Eagle” and the “Sky Pilot.” A proper de­termination of the differences between these parties nec­essarily leads us to an investigation of the mining laws relating to the mineral lands of Alaska.</p>
+                <p pgmap="513(27) 514(102)" id="b513-12">On the 10th day of May, 1872, congress passed an act opening all lands containing mineral deposits, belonging to the United States, to location, occupation, and purchase by citizens of the United States, and those who have de­clared their intentions to become such. By the act of May 17, 1884 (23 Stat. 24, Supp.Rev.St. p. 433), where­by a civil government was established fo.r Alaska, com­monly known here as the “Organic Act,” the provisions of the mineral laws of the United States were extended to Alaska. Consequently the acts of congress, relating to the location and possession of mining claims, are the law of this territory on that subject. The act of 1872 (Rev.St.U.S. § 2319 [30 U.S.C.A. § 22 and note]) is in part as follows:</p>
+                <blockquote pgmap="514" id="b514-4">“All valuable mineral deposits in lands belonging to the United States, both surveyed and un-surveyed, are hereby declared to be free and open to exploration and purchase by citizens of the United States and those who have de­clared their intention to become such, under regulations prescribed by law, and according to the local customs and rules of miners in the several mining districts, so far as the same are applicable and not inconsistent with the laws of the United States.”</blockquote>
+                <blockquote pgmap="514" id="b514-5">“Sec. 2320. Mining claims upon veins or lodes of quartz or other rock in place bearing gold, silver, cinnabar, lead, tin, copper, or other valuable deposits heretofore lo­cated, shall be governed as to length along the vein or lode by the customs, regulations, and laws in force at the date of their location. A mining claim located after the 10 day of May, 1872, whether located by one or more per­sons, may equal but shall not exceed, one thousand five hundred feet in length along the .vein or lode; but no lo­cation of a mining claim shall be made until the discovery of the vein or lode within the limits of the claim located. No claim shall extend more than three hundred feet on each side of the middle of the vein at the surface. * * * The end-lines of each claim shall be parallel to each other.” 30 U.S.C.A. § 23.</blockquote>
+                <blockquote pgmap="514(56) 515(71)" id="b514-6">“Sec. 2324. The miners of each mining-district may make regulations not in conflict with the laws of the United States, or with the laws of the state or territory in which the district is situated, governing the location, manner of recording, amount of work necessary to hold possession of a mining-claim, subject to the following re­quirements: The location must be distinctly marked on the ground so that its boundaries can be readily traced. All records of mining-claims hereafter made shall contain the name or names of the locators, the date of location, and such a description of the claim or claims located by reference to some natural object or permanent monument as will identify the claim. * * * ” 30 U.S.C.A. § 28 and note.</blockquote>
+                <p pgmap="515" id="b515-5">This statute may be properly explained to you, as it is the province of the court to interpret and expound the law, while it is your duty to decide the questions of fact. It is evident from the language of the statute that this act contemplates that the claim shall be in the form of a parallelogram, having its side lines equidistant, and not exceeding 300 feet, from the center of the lode as it out­crops on the surface; and not exceeding 1,500 feet in length, and with the end lines parallel to each other. A claim of these dimensions and having this form will meet the requirements of the statute. In regard to the term “lode” or “vein,” I may say that these words have been given a great many definitions by the courts; but perhaps among them all there is none entitled to greater weight than the one given by Mr. Justice Field, of the supreme court of the United States, who, in consequence of his long experience and eminent services on the bench, now cover­ing a period of over 40 years, including his service in the courts of- California and the supreme court of the United States, is considered by both bench and bar a very high authority. In Eureka Consol. Min. Co. v. Richmond Min. Co., 4 Sawy. 302, Fed.Cas.No.4,548, Judge Field, in delivering the opinion of the court, discussed the question as to what constituted a lode at great length, and came to the conclusion:</p>
+                <blockquote pgmap="515" id="b515-6">“That the term, as used in the acts of congress, is ap­plicable to any zone or belt of mineralized rock lying with­in boundaries clearly separating it from the neighboring rock. It includes * * * all deposits of mineral mat­ter found through a mineralized zone or belt coming from the same source, impressed with the same forms, and ap­pearing to have been created, by the same processes.”</blockquote>
+                <p pgmap="516" id="b516-3">This definition has been approved and followed in a large number of cases. The supreme court of the United States, in Mining Co. v. Cheesman, 116 U.S. 536, 6 S.Ct. 484, after citing this definition with approval, also defines a lode as follows:</p>
+                <blockquote pgmap="516" id="b516-4">“A body of mineral or mineral-bearing rock in the gen­eral mass of the mountain, so far as it may continue un­broken and without interruption, may be regarded as a lode. * * * With well-defined boundaries, very slight evidence of ore within such boundaries will prove the exist­ence of a lode.”</blockquote>
+                <p pgmap="516(307) 517(224)" id="b516-6">In addition to these definitions, I will direct your atten­tion to two characteristics mentioned in the statute, which are essential to and inherent in the formation of a lode. You will observe that the statute uses the language “quartz or other rock in place.” By the phrase “in place” congress evidently intended to make a distinction between rock or quartz held in place by the adjoining country rock and bunches or blotches of quartz or rock simply lying or resting upon the earth’s surface without any walls, and also pieces or bowlders detached from the earth’s crust, commonly called “float,” and usually found in the moun­tain gulches and along the beds of streams in a mineral country. The quartz or rock' designated as “in place” must be suspended between, or lie within, or be inclosed by walls of rock constituting the general mass of the earth’s crust in the immediate vicinity of the zone or belt. “The zone may be very thin, and it may be many feet in thick­ness, or thin in places, — almost or quite ‘pinching out,’ as miners term it, — and in other places widening out into extensive bodies of ore.” Uniformity of structure in the formation of the zone is not required, as it may narrow down until very thin, and then suddenly expand or swell out, and as suddenly contract, forming what miners some- • times call “kidneys”; but if it be held in place as I have described, and continuous in its formation between the country rock, it possesses one of the characteristics neces­sary to constitute a lode. The other necessary characteris­tic is that the belt or zone must bear some of the minerals or valuable deposits mentioned in this statute. A body of quartz or other rock in place might have the most clearly-defined walls, be of very great width, continue in its strike for a long distance, and go down to very great depth through the earth’s crust, but, if totally barren of minerals, it would not be a lode. It is not necessary, however, that the minerals or valuable deposits shall be evenly distributed throughout the zone or belt. It may carry pay streaks near either side or in the center of the lode. In places the zone may be nearly barren of mineral, and in others disclose pockets immensely rich in the precious metals. Areas of the lode may carry ore of a very low grade, while others contain bands or shoots heavily im­pregnated with mineral. It is sufficient if the zone or belt, as a whole, bears any of the valuable deposits mentioned in the statute. Whenever the two conditions I have men­tioned are found together, — that is, (1) quartz or rock held in place by the adjacent country rock, and (2) the presence therein of gold, silver, cinnabar, lead, tin, cop­per, or other valuable deposits, — there is a lode. The finding upon the public lands of the United States of such a belt or zone as I have described is a discovery, within the meaning of this statute, and will authorize the location of a lode claim.</p>
+                <p pgmap="517(205) 518(68)" id="A6I">Your attention is now invited to the language of the statute concerning the location, which is as follows: “The location, must be distinctly marked on the ground so that its boundaries can be readily traced.” This is all the stat­ute requires. The law does not state how the markings shall be made, the kind of markings, or in what particu­lar place or places on the claim they shall be made. Stakes or posts, or piles of stone and bowlders, are markings; blazing trees along the boundaries of the claim, or at the corners thereof, is a marking; cutting away undergrowth, or making a trail through the timber along the sides or ends of the claim, putting up a stake at the point of dis­covery, blazing stumps, or posting a notice on the ground, placing such notice in a tin can and attaching it to a stake, fastening such notice to a tree, or placing it in a box or frame, — such as has been offered in evidence here, — are all markings. I may say here that we are trying this case exclusively within the laws of the United States, and, while the local rules and regulations of miners are recog­nized by the statute, on the trial of causes in court, unless they are produced and admitted in evidence, they cannot be considered. In other words, courts do not take judicial notice of the local rules and regulations of mining districts or camps, and therefore in this case we are only to con­sider the provisions of the federal statute, as no local rules are before the court.</p>
+                <p pgmap="518(349) 519(279)" id="b518-4">In considering the question of location, the court cau­tions you not to' confound the location with the record of location, as has sometimes been done in the courts. The statute does not require any record of a location; but when a record is made the law provides that it shall con­tain the name or names of the locators, the date of the location, and such a description of the claim or claims lo­cated by reference to some.natural object or permanent monument as will identify the claim. As the records of the conflicting claims in this case have been introduced in evidence, it is proper for me to instruct you upon the sub­ject of records of mining claims. The substance of the statute upon this subject is that the record must contain (1) the name of the locator; (2) the date of the location; (3) a description of the claim, and such description must refer to some natural object or permanent monument such as will identify the claim. A mountain, a hill, a ridge, or hog’s back, a butte, a cañón, a gulch, a ravine, a stream, a waterfall, a cascade, a lake, an inlet, bay, or arm of the sea, is a natural object; and stakes, posts, monuments of stones or bowlders, shafts, drifts, tunnels, open cuts, and well-known adjoining claims, especially if patented, are all permanent monuments. The chief purpose of the rec­ord is to identify the claim, and a reference in the rec­ord of the location of a mining claim to any natural ob­jects or permanent monuments, like those I have enu­merated, is sufficient, if such reference will identify the claim. Regarding notices of location, you are instructed that the law does not require that such a notice shall be either posted on the ground or recorded. Such a notice, however, is one kind of a marking when posted on the ground; and, when containing a description of the ground located, and placed upon the record, becomes constructive notice to the world that the locator claims the ground de­scribed in the record. The description of the location as appears from the record is also binding on the locator with this exception: If the calls as to distances and courses set out in the description vary from the markings actual­ly made on the ground, the latter are to prevail, as it is the markings on the ground which establish the boundaries of the claim in contemplation of the statute. To illus­trate: If the miner, in describing his claim in his notice as recorded, should call for 1,500 feet E. S. E., and it should subsequently appear from posts or monuments or other markings on the ground that the distance was 1,400 feet, and the course S. E., the monuments or markings would control the location of the claim as against the de­scription in the notice and record. Therefore, while you have the right to take into consideration notices of loca­tion actually posted on the ground as being one kind of a marking, and have also, for the purpose of identifying the claims or either of them, the right to consider the rec­ord of such notices, and the descriptions therein set forth, still, if you are satisfied from the evidence that the dis­tances and courses set out in the description, as shown by the record, do not correspond with the markings made on the ground, then the latter must prevail, and will deter­mine the locus in quo of the location, regardless of any description appearing from the record. The controlling act in making the location is the marking on the ground so that the boundaries of the location can be readily traced.</p>
+                <p pgmap="519" id="b519-4">You will also understand, gentlemen, that the rules of law I give you apply to both sides of this case, — to the claim known as the “P. I.” as well as to the conflicting claims known as the “Golden Eagle” and the “Sky Pilot.” What has been done as to locating these claims and record­ing the locations thereof, and whether there is a vein or lode within their respective boundaries, are questions of fact for you to determine from the evidence, under the definitions and instructions I have given you. Having disposed of these questions, it will become necessary for you to determine another question of fact, and apply to that question another rule of law to which I will now call your attention.</p>
+                <p pgmap="519(17) 520(436) 521(18)" id="b519-5">Section 910, Rev.St.U.S. (28 U.S.C.A. § 690), pro­vides that no possessory action between parties in any court of the United States for the recovery of any mining title, or for damages to any such title, shall be affected by the fact that the paramount title to the land in which such mines lie is in the United States; but each case shall be adjudged by the law of possession. The cause now on trial is a possessory action, within the purview of this statute. The effect of the statute is to leave the United States entirely out of consideration in actions of this kind. The position of the government is one of neutrality, and neither party can take advantage of the paramount title of the United States, either to sustain his own title or defeat that of his adversary. The law of possession mentioned in this section is that the prior location and occupation carry with them the prior and better right. The effect of a valid location of a mining claim within the instructions I have given you is to segregate or cut out the ground located from the public lands; and until the locator either abandons his claim, or forfeits it by nonperformance of the annual assessment work, the same ground cannot be located or possessed by another person. The statute (section 2322 [30 U.S.C.A. § 26]) provides' that the locator shall have the exclusive right of possession and enjoyment of all the surface ground included within the lines of his location, as well as of all veins, lodes, and ledges properly belonging to the claim; hence he who holds the prior valid location is entitled to the ground compris­ing his claim against all the world, excepting only the United States. Therefore, gentlemen, if you find from the evidence that the plaintiff, after discovering such a lode or vein as I have defined to you, did, on or about the 26th day of September, 1895, and prior to any location or pos­session of the defendants, and, finding the ground unoc­cupied and unpossessed public land, make a location, in accordance with the rules of law I have given you, of the lode claim known as the “P. I.,” then he is entitled to hold his claim, and to recover the ground in dispute. On the other hand, if you find from the evidence that the de­fendants, on or about the 21st day of September, 1896, made a valid location, according to the instructions I have given you, of the claims the “Golden Eagle” and the “Sky Pilot,” and that the ground so located had not been pre­viously located and possessed by plaintiff, but was open and unoccupied public land, then the defendants are entitled to hold their two claims, including the ground in dispute.</p>
+                <p pgmap="521" id="AFt7">Counsel for the plaintiff has requested me to give you another proposition of law with reference to possessory rights of mining claimants, and I will give it to you in substance as he has submitted it. When a person in actual and bona fide possession of a piece of government land is ousted or ejected therefrom by one who, without any color of right or title, and acting as a naked intruder or trespasser, enters thereon, and ejects the first occupant, the latter has the right to recover possession, regardless of any defects in his title. If you find from the evidence that the plaintiff was in the actual possession of the ground in dispute, arid that the defendants, without color of right or title but as mere intruders or trespassers, ousted the plaintiff therefrom, the latter is entitled to your verdict, although his location may have been defective. If, how­ever, the land was unoccupied public land, the defendants had the right to enter and take possession. The theory of the rule is that the wrongdoer cannot attack the title of his adversary, and thereby sustain his own wrongdoing. This doctrine is laid down by the supreme court of the United States in a very recent case (Haws v. Mining Co., 160 U.S. 316, 317, 16 S.Ct. 287, 288) in the follow­ing language:</p>
+                <blockquote pgmap="521" id="ADB">“The elementary rule is that one must recover on the strength of his own, and not on the weakness of the title of his adversary; but this principle is subject to the quali­fication that 'possession alone is adequate as against a mere intruder or trespasser without even color of title, . and especially so against one who has taken possession by force and violence. This exception is based upon the most ob­vious conception of justice and good conscience. It pro­ceeds upon the theory that a mere intruder and trespasser cannot make his wrongdoing successful by asserting a flaw in the title of one against whom the wrong has been by him committed.”</blockquote>
+                <p pgmap="521" id="b521-6">The court also cites the case of Christy v. Scott, 14 How. 282, 292, wherein the court said:</p>
+                <blockquote pgmap="521(20) 522(69)" id="b521-7">“A mere intruder cannot enter on a person actually seised, and eject him, and then question his title, or set up an outstanding title in another. The maxim that the plaintiff must recover on the strength of his own title, and not on the weakness of the defendant’s, is applica­able to all actions for the recovery of property. But, if the plaintiff has actual prior possession of the land, this is strong enough to enable him to recover it from a mere trespasser, who entered without any title.”</blockquote>
+                <p pgmap="522" id="b522-4">You will, however, keep in mind the evidence necessary to justify the application of this rule. If you find from the evidence that the plaintiff was in the actual possession of the ground in dispute with or without a valid location, and that the defendants, without color of right or title, acting as naked intruders or trespassers, ousted and eject­ed the plaintiff from the ground in controversy, then the rule of law I have just given you, as enunciated by the supreme court, will govern the case. But, if you do not find from the evidence these facts, the rights of the par­ties herein must be determined by the rules of law I have given you concerning the location and possession of the ground as mining claims.</p>
+                <p pgmap="522" id="b522-5">The court does not desire to review the testimony, as I doubt not you will remember all its salient points, and you are the exclusive judges of the evidence. I will re­mind you, however, that the only locations in controversy here are the “P. I.,” as claimed by the plaintiff, and the “Golden Eagle” and “Sky Pilot,” as claimed by the de­fendants. I have admitted some testimony concerning the location of the “Alameda” and the old “Bear Moun­tain” lode claims. This was done for the reason that there is some evidence tending to show that the “Alameda” was located before either the “P. I.” or the- “Golden Eagle” or the “Sky Pilot,” and that it adjoins the “P. I.” endwise; and there is also some testimony tending to show that the “Alameda” is a relocation of the ground covered by the old “Bear Mountain” claim. The evidence con­cerñing the two claims last mentioned was admitted to aid you in determining the exact ground covered by the other claims, and you will not consider it for any other purpose.</p>
+                <p pgmap="522" id="b522-6">Verdict for the plaintiff.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="511" ORDERLABEL="499" TYPE="page">
+        <fptr FILEID="tiff_00256_0"/>
+        <fptr FILEID="jpg_00256_0"/>
+        <fptr FILEID="alto_00256_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_511.2" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="512" ORDERLABEL="500" TYPE="page">
+        <fptr FILEID="tiff_00256_1"/>
+        <fptr FILEID="jpg_00256_1"/>
+        <fptr FILEID="alto_00256_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_512.1" BETYPE="IDREF" FILEID="alto_00256_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="513" ORDERLABEL="501" TYPE="page">
+        <fptr FILEID="tiff_00257_0"/>
+        <fptr FILEID="jpg_00257_0"/>
+        <fptr FILEID="alto_00257_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_513.2" BETYPE="IDREF" FILEID="alto_00257_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="514" ORDERLABEL="502" TYPE="page">
+        <fptr FILEID="tiff_00257_1"/>
+        <fptr FILEID="jpg_00257_1"/>
+        <fptr FILEID="alto_00257_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_514.2" BETYPE="IDREF" FILEID="alto_00257_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="515" ORDERLABEL="503" TYPE="page">
+        <fptr FILEID="tiff_00258_0"/>
+        <fptr FILEID="jpg_00258_0"/>
+        <fptr FILEID="alto_00258_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_515.3" BETYPE="IDREF" FILEID="alto_00258_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="516" ORDERLABEL="504" TYPE="page">
+        <fptr FILEID="tiff_00258_1"/>
+        <fptr FILEID="jpg_00258_1"/>
+        <fptr FILEID="alto_00258_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_516.1" BETYPE="IDREF" FILEID="alto_00258_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="517" ORDERLABEL="505" TYPE="page">
+        <fptr FILEID="tiff_00259_0"/>
+        <fptr FILEID="jpg_00259_0"/>
+        <fptr FILEID="alto_00259_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_517.3" BETYPE="IDREF" FILEID="alto_00259_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="518" ORDERLABEL="506" TYPE="page">
+        <fptr FILEID="tiff_00259_1"/>
+        <fptr FILEID="jpg_00259_1"/>
+        <fptr FILEID="alto_00259_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_518.2" BETYPE="IDREF" FILEID="alto_00259_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="519" ORDERLABEL="507" TYPE="page">
+        <fptr FILEID="tiff_00260_0"/>
+        <fptr FILEID="jpg_00260_0"/>
+        <fptr FILEID="alto_00260_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_519.3" BETYPE="IDREF" FILEID="alto_00260_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="520" ORDERLABEL="508" TYPE="page">
+        <fptr FILEID="tiff_00260_1"/>
+        <fptr FILEID="jpg_00260_1"/>
+        <fptr FILEID="alto_00260_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_520.2" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="521" ORDERLABEL="509" TYPE="page">
+        <fptr FILEID="tiff_00261_0"/>
+        <fptr FILEID="jpg_00261_0"/>
+        <fptr FILEID="alto_00261_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_521.3" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="522" ORDERLABEL="510" TYPE="page">
+        <fptr FILEID="tiff_00261_1"/>
+        <fptr FILEID="jpg_00261_1"/>
+        <fptr FILEID="alto_00261_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_522.2" BETYPE="IDREF" FILEID="alto_00261_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFt7" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.4" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-6" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.6" BETYPE="IDREF" FILEID="alto_00257_1"/>
+            <area BEGIN="BL_515.1" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-6" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.6" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-11" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.12" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-3" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.3" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-6" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.5" BETYPE="IDREF" FILEID="alto_00258_1"/>
+            <area BEGIN="BL_517.1" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APo" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.5" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-5" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.5" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-5" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.5" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADB" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.5" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-6" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.5" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6I" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.4" BETYPE="IDREF" FILEID="alto_00259_0"/>
+            <area BEGIN="BL_518.1" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-4" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.4" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-5" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.4" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-4" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.4" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-4" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.4" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-4" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.4" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-5" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.5" BETYPE="IDREF" FILEID="alto_00260_0"/>
+            <area BEGIN="BL_520.1" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            <area BEGIN="BL_521.1" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-4" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.4" BETYPE="IDREF" FILEID="alto_00259_1"/>
+            <area BEGIN="BL_519.1" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-3" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.3" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-12" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.13" BETYPE="IDREF" FILEID="alto_00257_0"/>
+            <area BEGIN="BL_514.1" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6_" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.11" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-10" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.10" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-8" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.8" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-9" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.9" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-4" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.4" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-5" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.6" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-6" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.7" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-7" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.7" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            <area BEGIN="BL_522.1" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-6" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.6" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

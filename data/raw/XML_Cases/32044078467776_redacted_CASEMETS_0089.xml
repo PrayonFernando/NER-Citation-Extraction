@@ -1,0 +1,617 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0089" publicationstatus="published">
+          <court abbreviation="U.S." jurisdiction="United States">Supreme Court of the United States</court>
+          <name abbreviation="Thorp v. Bonnifield">WILLIS THORP v. S. A. BONNIFIELD et al.</name>
+          <docketnumber>No. 153</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 593</citation>
+          <citation category="parallel" type="bluebook">177 U.S. 15, 20 S.Ct. 533</citation>
+          <decisiondate>1900-03-19</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:07Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00303_0" MIMETYPE="image/tiff" CHECKSUM="22c4853ef248f94f8ebaa0d49d5f2683" CHECKSUMTYPE="MD5" SIZE="27158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00303_0.tif"/>
+      </file>
+      <file ID="tiff_00303_1" MIMETYPE="image/tiff" CHECKSUM="16df94a6cf70d96f24c39f6a1aa157e5" CHECKSUMTYPE="MD5" SIZE="43860">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00303_1.tif"/>
+      </file>
+      <file ID="tiff_00304_0" MIMETYPE="image/tiff" CHECKSUM="f5800b3c22b70361e3d6f8199c51b880" CHECKSUMTYPE="MD5" SIZE="51548">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00304_0.tif"/>
+      </file>
+      <file ID="tiff_00304_1" MIMETYPE="image/tiff" CHECKSUM="50bc94601bd30c3dae6a34e3bd1cdc56" CHECKSUMTYPE="MD5" SIZE="53392">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00304_1.tif"/>
+      </file>
+      <file ID="tiff_00305_0" MIMETYPE="image/tiff" CHECKSUM="eb14fc02efee1666e52f462f34306c14" CHECKSUMTYPE="MD5" SIZE="54700">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00305_0.tif"/>
+      </file>
+      <file ID="tiff_00305_1" MIMETYPE="image/tiff" CHECKSUM="d4d9fbeda8c13f9960b1205ff3735ff4" CHECKSUMTYPE="MD5" SIZE="39026">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00305_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00303_0" MIMETYPE="image/jpg" CHECKSUM="f7b43e5eb16a8a6bd1ea675154bd3461" CHECKSUMTYPE="MD5" SIZE="128300">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00303_0.jpg"/>
+      </file>
+      <file ID="jpg_00303_1" MIMETYPE="image/jpg" CHECKSUM="e07d92affb174535dadf822fdf73a738" CHECKSUMTYPE="MD5" SIZE="168945">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00303_1.jpg"/>
+      </file>
+      <file ID="jpg_00304_0" MIMETYPE="image/jpg" CHECKSUM="11ff8b5fc779206673081318b441232a" CHECKSUMTYPE="MD5" SIZE="189938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00304_0.jpg"/>
+      </file>
+      <file ID="jpg_00304_1" MIMETYPE="image/jpg" CHECKSUM="f16e1285fb69958222874622271df46e" CHECKSUMTYPE="MD5" SIZE="206025">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00304_1.jpg"/>
+      </file>
+      <file ID="jpg_00305_0" MIMETYPE="image/jpg" CHECKSUM="9751825dde37f10ed0faeedb137e5af1" CHECKSUMTYPE="MD5" SIZE="196197">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00305_0.jpg"/>
+      </file>
+      <file ID="jpg_00305_1" MIMETYPE="image/jpg" CHECKSUM="83e136090bc38f5341ae33f58b53861e" CHECKSUMTYPE="MD5" SIZE="161839">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00305_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00303_0" MIMETYPE="text/xml+gzip" CHECKSUM="68b2cb9fe93e2e1a528850f93322bde9" CHECKSUMTYPE="MD5" SIZE="7143">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00303_0.xml.gz"/>
+      </file>
+      <file ID="alto_00303_1" MIMETYPE="text/xml+gzip" CHECKSUM="711a2ef86aafa9a1a4137a14a348d67b" CHECKSUMTYPE="MD5" SIZE="11674">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00303_1.xml.gz"/>
+      </file>
+      <file ID="alto_00304_0" MIMETYPE="text/xml+gzip" CHECKSUM="c2baaa28df1023b4bc377469e9adc47e" CHECKSUMTYPE="MD5" SIZE="12210">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00304_0.xml.gz"/>
+      </file>
+      <file ID="alto_00304_1" MIMETYPE="text/xml+gzip" CHECKSUM="8ae7adebe23ca57a1eb664cc0ab11eb3" CHECKSUMTYPE="MD5" SIZE="12140">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00304_1.xml.gz"/>
+      </file>
+      <file ID="alto_00305_0" MIMETYPE="text/xml+gzip" CHECKSUM="2a574b43be02c931f0a5945347993849" CHECKSUMTYPE="MD5" SIZE="12479">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00305_0.xml.gz"/>
+      </file>
+      <file ID="alto_00305_1" MIMETYPE="text/xml+gzip" CHECKSUM="53f22e052e2d073f0f44a8f086be5d00" CHECKSUMTYPE="MD5" SIZE="9941">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00305_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0089" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="593" lastpage="598">
+              <court pgmap="605" id="b605-8">Supreme Court of the United States.</court>
+              <docketnumber pgmap="605" id="b605-7">No. 153.</docketnumber>
+              <citation pgmap="605" id="b605-5">177 U.S. 15, 20 S.Ct. 533</citation>
+              <parties pgmap="605" id="b605-6">WILLIS THORP v. S. A. BONNIFIELD et al.</parties>
+              <decisiondate pgmap="605" id="AaO">Decided March 19, 1900.</decisiondate>
+              <otherdate pgmap="605" id="b605-9">Argued March 1, 1900.</otherdate>
+              <attorneys pgmap="606" id="b606-5">Mr. J. T. Ronald, for plaintiff in error.</attorneys>
+              <attorneys pgmap="606" id="b606-6">Messrs. S. M. Stockslager and George C. Heard, for de­fendants in error.</attorneys>
+              <opinion type="majority">
+                <author pgmap="606" id="b606-7">Mr. Justice PECKHAM</author>
+                <p pgmap="606" id="AmM">delivered the opinion of the court:</p>
+                <p pgmap="606" id="b606-8">This case has been transferred from the United States circuit court of appeals for the ninth circuit, under and by virtue of an act of Congress (30 Stat. at L. 728) provid­ing for such transfer. The act is set forth in the margin.<footnotemark>†</footnotemark>
+                </p>
+                <p pgmap="606" id="b606-9">By the terms of this act it is to operate only upon those cases of which this court would have had jurisdiction un­der the law existing at the time the case was taken to the circuit court of appeals, if a proper appeal had been taken to this court at the time the case was filed in the circuit court of appeals. If this act be valid, therefore, we must inquire whether the case was one over which this court would have had jurisdiction if a proper appeal had been taken.</p>
+                <p pgmap="607" id="b607-3">The case was commenced in the United States district court for the district of Alaska in April, 1895, for the purpose of recovering moneys alleged to be due under the terms of a contract for the leasing of certain mining proper­ties, situated in that district. The plaintiffs (defendants in error) demanded judgment for $7,231.25, besides costs of the action. The defendant (plaintiff in error) demurred to the complaint on the ground that it did not state facts suffi­cient to constitute a cause of action. The demurrer was overruled and leave given to answer, which the defendant failed to do within the time granted, and judgment was en­tered by default for the amount claimed in the complaint, with costs.</p>
+                <p pgmap="607" id="b607-4">The defendant then moved to vacate and set aside the judgment and that motion was denied, and he sued out a writ of error from the United States circuit court of appeals for the ninth circuit. The' defendants in error moved to dismiss the writ on the ground that the circuit court of ap­peals had no jurisdiction.</p>
+                <p pgmap="607" id="b607-5">The circuit court of appeals certified the question to this court for the purpose of receiving its instruction upon the question of jurisdiction. This court answered the question in the negative, denying the jurisdiction of the circuit court of appeals. 168 U.S. 703, 42 L.Ed. 1207, 18 S.Ct. 947. The mandate from this court was duly issued, and the cir­cuit court of appeals, in conformity therewith, dismissed the writ of error, and on January 4, 1898, it issued its mandate to that effect, directed to the district court of the United States for the district of Alaska, which was filed in the office of the clerk of that court on February 3, 1898, and in obedience to that mandate the writ of error was duly dismissed by the district court.</p>
+                <p pgmap="607" id="b607-6">On March 29, 1898, an execution upon the original judg^ ment was issued from the district court, directed to the United States marshal of the district, under which certain property of the defendant was sold and a return made by the marshal to the court, and on June 14, 1898, the sale was duly confirmed by the district court.</p>
+                <p pgmap="607(32) 608(18)" id="b607-7">It thus appears that nearly a month before the passage of the act of July 8, 1898 (supra), the judgment of the district court of Alaska had been carried into effect, an execution issued, the property sold, a report made of the sale to the court, and that sale confirmed.</p>
+                <p pgmap="608" id="Ay9">The defendants in error made a motion in this court to dismiss the writ for want of jurisdiction. That motion was postponed by the court until the hearing of the case upon its merits, and upon the argument thereof the motion to dismiss was renewed upon the ground (among others) that the act of Congress, if applicable to cases such as this, was -unconstitutional and void.</p>
+                <p pgmap="608" id="b608-4">A further ground for dismissal was set up because, as alleged, it appeared from the record that the amount in dispute between the parties was less than the sum necessary to give jurisdiction to this court. This ground necessitates the statement of a few additional facts, and if it be well founded, it relieves us from a discussion of the constitu­tional question.</p>
+                <p pgmap="608" id="b608-5">After the demurrer of the defendant to the plaintiffs’ complaint had been overruled and leave given to answer, and the defendant made default, judgment was entered for the amount of the plaintiffs’ claim. This was on January 25, 1896. By the complaint it appears that under the lease of the mine by the plaintiffs to the defendant Thorp, the latter agreed to mine, work, and operate the premises, and after making certain payments, etc., he was to retain for himself seven sixteenths of the profits or net proceeds aris­ing from the operation of the mine, and was to pay to the plaintiff's the remaining nine sixteenths in the proportion of seven sixteenths to the plaintiff Bonnifield and two six­teenths to the plaintiff Heid.</p>
+                <p pgmap="608(119) 609(83)" id="b608-6">Immediately after the entry of the judgment it appears by the affidavits in the case, presented for the purpose of setting the judgment aside, that the defendant and the plaintiff Bonnifield entered into negotiations in regard to the judgment, and Bonnifield became satisfied that it had been entered for more than was equitably due from the de­fendant, and, accordingly, upon the payment of a certain sum to him (much less than by the face of the judgment appeared to be due him) Bonnifield “made a complete settle­ment of all his matters and differences with the defendant, and received a full and complete settlement and satis fac­■tion for his interest in the judgment obtained in the case,” and Bonnifield thereupon “executed a satisfaction of all his right, title, and claim in and to said judgment, to wit, seven eighths thereof.” This satisfaction was given the defend­ant on the 28th of January, who filed the same in the clerk’s office on the tenth day of February, 1896. After he had filed the satisfaction, and on the same day, the defendant filed his petition for a writ of error to the United States circuit court of appeals for the ninth circuit.</p>
+                <p pgmap="609" id="b609-4">The judgment in the case continued to stand on the face of the record at its original sum, $7,231.25 recovery and $33.55 costs. By the defendant’s voluntary settlement with and payment to Bonnifield, one of the plaintiffs, the balance remaining unpaid was less than the amount necessary to give this court jurisdiction.</p>
+                <p pgmap="609" id="b609-5">The plaintiff in error cites various cases to maintain the proposition that when the defendant in the case below brings it here for review the amount of the judgment or decree against him governs our jurisdiction, and, as in this case, the judgment is for more than $7,000, he maintains that this court has jurisdiction, notwithstanding the payment and set­tlement above mentioned.</p>
+                <p pgmap="609(201) 610(108)" id="b609-6">But those cases have no application when the defendant by his own action has reduced the judgment by a voluntary settlement and payment below the amount which is neces­sary in order to give this court jurisdiction to review it. The real matter in dispute is in such case the balance still remaining due on the judgment. Otherwise he might vol­untarily settle the controversy and pay the whole judgment, and then seek to review it. In this case it appears there was a “full, final, and complete settlement of all matters and differences” between the defendant and plaintiff Bonnifield, and the latter then executed “a full and complete satisfaction of all his rights, title, and claim in'and to said judgment.” And this was procured by the defendant’s own voluntary act. Clearly there was no matter in dispute relative to that judgment after such voluntary settlement and payment be­yond the sum remaining due thereon. Thus an event has intervened subsequently to the entry of the judgment, and one which owes its existence to the act of the defendant him­self, which has taken away his right of review in this court. It is a compromise or settlement, pro tanto, between the parties; or it is like a case where, pending a suit con­cerning the validity of the assessment of a tax, the tax is paid; or the amount of the tax has been tendered and de­posited in a bank which by statute had the same effect as actual payment and receipt of the money. Dakota County v. Glidden, 113 U.S. 222, 5 S.Ct. 428, 28 L.Ed. 981; Little v. Bowers, 134 U.S. 547, 10 S.Ct. 620, 33 L.Ed. 1016; California v. San Pablo &amp; T. R. Co., 149 U.S. 308, 13 S.Ct. 876, 37 L.Ed. 747. In such cases the writs of error will be dismissed.</p>
+                <p pgmap="610" id="b610-4">The facts as to the settlement and payment appear here in the record, although they may be shown by other evidence, as the above cases hold.</p>
+                <p pgmap="610" id="b610-5">It is urged that the plaintiff Bonnifield had no right un­der the circumstances to make the settlement and to satisfy the judgment to the extent which he did. But this does not answer the objection. As matter of fact he and the defend­ant had a full settlement, and he did satisfy the judgment at the request of the latter, and both defendants in error now join in a motion to dismiss, predicated upon that set­tlement and payment, and they both thus ratify the same and acknowledge its sufficiency. The plaintiff in error is in no position to deny the validity of the settlement and payment made at his own request and by himself, when its sufficiency is acknowledged by the other parties.</p>
+                <p pgmap="610" id="b610-6">Being satisfied that the amount in dispute in this case is less than the amount required by statute to give us juris­diction, and without expressing any opinion upon the other ground for the motion, the writ must be dismissed for the want of jurisdiction, and it is so ordered.</p>
+                <footnote label="†">
+                  <p pgmap="606" id="b606-10">†That all cases, civil and criminal, filed on appeal from the district court of the United States for the district of Alaska, in the United States circuit court of appeals for the ninth judicial circuit, and pend­ing on appeal therein, on and prior to the thirtieth day of December, 1897, of which the Supreme Court of the United States would have had jurisdiction under the then existing law, if a proper appeal had been taken thereto at the time said cases were filed on appeal in said circuit court of appeals, he, and the same are, deemed and treated as regularly filed on appeal in the Supreme Court of the United States as of the date when filed in said circuit court of appeals. The clerk of said circuit couz-t of appeals is directed to transmit to the Supreme Court of the United States, as soon as practicable, the records of such cases, and the clerk of said Supreme Court is directed to receive and file the same for hearing and determination in the Supreme Court of the United States when regulaz-ly z-eached on the docket, subject to any rules made or to be made by said court which may be applicable.</p>
+                  <p pgmap="606" id="b606-11">Approved July 8, 1898.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="605" ORDERLABEL="593" TYPE="page">
+        <fptr FILEID="tiff_00303_0"/>
+        <fptr FILEID="jpg_00303_0"/>
+        <fptr FILEID="alto_00303_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_605.3" BETYPE="IDREF" FILEID="alto_00303_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="606" ORDERLABEL="594" TYPE="page">
+        <fptr FILEID="tiff_00303_1"/>
+        <fptr FILEID="jpg_00303_1"/>
+        <fptr FILEID="alto_00303_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_606.2" BETYPE="IDREF" FILEID="alto_00303_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="607" ORDERLABEL="595" TYPE="page">
+        <fptr FILEID="tiff_00304_0"/>
+        <fptr FILEID="jpg_00304_0"/>
+        <fptr FILEID="alto_00304_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_607.2" BETYPE="IDREF" FILEID="alto_00304_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="608" ORDERLABEL="596" TYPE="page">
+        <fptr FILEID="tiff_00304_1"/>
+        <fptr FILEID="jpg_00304_1"/>
+        <fptr FILEID="alto_00304_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_608.2" BETYPE="IDREF" FILEID="alto_00304_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="609" ORDERLABEL="597" TYPE="page">
+        <fptr FILEID="tiff_00305_0"/>
+        <fptr FILEID="jpg_00305_0"/>
+        <fptr FILEID="alto_00305_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_609.3" BETYPE="IDREF" FILEID="alto_00305_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="610" ORDERLABEL="598" TYPE="page">
+        <fptr FILEID="tiff_00305_1"/>
+        <fptr FILEID="jpg_00305_1"/>
+        <fptr FILEID="alto_00305_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_610.2" BETYPE="IDREF" FILEID="alto_00305_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b608-5" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.6" BETYPE="IDREF" FILEID="alto_00304_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b608-4" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.5" BETYPE="IDREF" FILEID="alto_00304_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b608-6" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.7" BETYPE="IDREF" FILEID="alto_00304_1"/>
+            <area BEGIN="BL_609.1" BETYPE="IDREF" FILEID="alto_00305_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b609-4" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_609.4" BETYPE="IDREF" FILEID="alto_00305_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b609-5" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_609.5" BETYPE="IDREF" FILEID="alto_00305_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b609-6" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_609.6" BETYPE="IDREF" FILEID="alto_00305_0"/>
+            <area BEGIN="BL_610.1" BETYPE="IDREF" FILEID="alto_00305_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmM" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.9" BETYPE="IDREF" FILEID="alto_00303_1"/>
+            <area BEGIN="BL_606.10" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b606-11" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.14" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b606-10" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.13" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b610-5" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_610.5" BETYPE="IDREF" FILEID="alto_00305_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b605-8" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_605.8" BETYPE="IDREF" FILEID="alto_00303_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b605-9" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_605.9" BETYPE="IDREF" FILEID="alto_00303_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b605-5" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_605.5" BETYPE="IDREF" FILEID="alto_00303_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-3" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.3" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b605-6" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_605.6" BETYPE="IDREF" FILEID="alto_00303_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b605-7" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_605.7" BETYPE="IDREF" FILEID="alto_00303_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-6" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.6" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-7" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.7" BETYPE="IDREF" FILEID="alto_00304_0"/>
+            <area BEGIN="BL_608.1" BETYPE="IDREF" FILEID="alto_00304_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-4" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.4" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-5" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.5" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b610-6" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_610.6" BETYPE="IDREF" FILEID="alto_00305_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AaO" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_605.10" BETYPE="IDREF" FILEID="alto_00303_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ay9" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.4" BETYPE="IDREF" FILEID="alto_00304_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b606-7" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.8" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b606-6" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.7" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b606-5" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.6" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b610-4" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_610.4" BETYPE="IDREF" FILEID="alto_00305_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b606-9" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.12" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b606-8" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.11" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,461 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0026" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Ex parte Martin">Ex Parte MARTIN</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 183</citation>
+          <citation category="parallel" type="bluebook">46 F. 482</citation>
+          <decisiondate>1890-09-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:01Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00098_0" MIMETYPE="image/tiff" CHECKSUM="38b427fa8ef1732f1f990fc1a3dbcf6f" CHECKSUMTYPE="MD5" SIZE="20478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00098_0.tif"/>
+      </file>
+      <file ID="tiff_00098_1" MIMETYPE="image/tiff" CHECKSUM="8a13d4597bf26d842dacd2d499ac1bb4" CHECKSUMTYPE="MD5" SIZE="49450">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00098_1.tif"/>
+      </file>
+      <file ID="tiff_00099_0" MIMETYPE="image/tiff" CHECKSUM="19c4b8841b6559a612c729c13373a975" CHECKSUMTYPE="MD5" SIZE="53168">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00099_0.tif"/>
+      </file>
+      <file ID="tiff_00099_1" MIMETYPE="image/tiff" CHECKSUM="ff80d3f01c7cf9ddcbc7f50dec1e69d0" CHECKSUMTYPE="MD5" SIZE="53476">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00099_1.tif"/>
+      </file>
+      <file ID="tiff_00100_0" MIMETYPE="image/tiff" CHECKSUM="5c5de1276023f5d997df8ec82307712a" CHECKSUMTYPE="MD5" SIZE="49930">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00100_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00098_0" MIMETYPE="image/jpg" CHECKSUM="4e7f48e375a5eebc28567ce1781907cd" CHECKSUMTYPE="MD5" SIZE="99746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00098_0.jpg"/>
+      </file>
+      <file ID="jpg_00098_1" MIMETYPE="image/jpg" CHECKSUM="ad2f7e7fbc4907eb78c46c25f9857c76" CHECKSUMTYPE="MD5" SIZE="199939">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00098_1.jpg"/>
+      </file>
+      <file ID="jpg_00099_0" MIMETYPE="image/jpg" CHECKSUM="50a1acacde1927269833bf780b266e61" CHECKSUMTYPE="MD5" SIZE="195137">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00099_0.jpg"/>
+      </file>
+      <file ID="jpg_00099_1" MIMETYPE="image/jpg" CHECKSUM="1e8f79abf4b6145fdea72f047b5ebaeb" CHECKSUMTYPE="MD5" SIZE="201410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00099_1.jpg"/>
+      </file>
+      <file ID="jpg_00100_0" MIMETYPE="image/jpg" CHECKSUM="be7edfc52f533acc183cbe4b6533bebd" CHECKSUMTYPE="MD5" SIZE="180159">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00100_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00098_0" MIMETYPE="text/xml+gzip" CHECKSUM="34885c2cc4eed74bc409b5f3f399b161" CHECKSUMTYPE="MD5" SIZE="5561">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00098_0.xml.gz"/>
+      </file>
+      <file ID="alto_00098_1" MIMETYPE="text/xml+gzip" CHECKSUM="bc2d75551f83a2371e5b9e1787acc8cd" CHECKSUMTYPE="MD5" SIZE="11932">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00098_1.xml.gz"/>
+      </file>
+      <file ID="alto_00099_0" MIMETYPE="text/xml+gzip" CHECKSUM="6a3a4ebb77f1b802868c1cbac981a5dc" CHECKSUMTYPE="MD5" SIZE="12971">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00099_0.xml.gz"/>
+      </file>
+      <file ID="alto_00099_1" MIMETYPE="text/xml+gzip" CHECKSUM="54a4cb997fea80cad23baa3b19acdbf9" CHECKSUMTYPE="MD5" SIZE="13271">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00099_1.xml.gz"/>
+      </file>
+      <file ID="alto_00100_0" MIMETYPE="text/xml+gzip" CHECKSUM="f19c05185310a417e0a92e8b3c4d28ba" CHECKSUMTYPE="MD5" SIZE="11647">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00100_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0026" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="183" lastpage="187">
+              <court pgmap="195" id="b195-7">District Court, D. Alaska.</court>
+              <citation pgmap="195" id="b195-5">46 F. 482</citation>
+              <parties pgmap="195" id="b195-6">Ex Parte MARTIN.</parties>
+              <decisiondate pgmap="195" id="b195-8">Sept. 8, 1890.</decisiondate>
+              <attorneys pgmap="195" id="b195-12">Delaney &amp; Gamel, for petitioner.</attorneys>
+              <opinion type="majority">
+                <author pgmap="195" id="b195-13">BUGBEE, Judge.</author>
+                <p pgmap="195(43) 196(235)" id="b195-14">The return of the marshal to the writ of habeas corpus issued herein August 21, 1890, by Hon. W. R. Hoyt, Unit-, ed States commissioner for Alaska, residing at Juneau, states that he had not on September 1st, the date of the re­turn, nor had he since the said 21st day of August, the said Al. Martin in his custody or power, or under his restraint, but it represents that on the 16th day of August, one Frank H. Poindexter, then a duly-qualified and acting justice of the peace within and for the district and territory of Alas­ka, delivered the commitment herein and the petitioner to a deputy United States marshal; that under and by virtue of, and in obedience to the command of, such commitment, pe­titioner was held in custody until the 21st day of August; that while at Juneau, awaiting a steamer for transportation to Sitka, the writ herein was issued by the commissioner on a petition filed before him; that at the time of issüing such writ the commissioner ordered that said Al. Martin give bond in the penal sum of $200, with sufficient surety, for his appearance at the time and place and in the man­ner mentioned in the writ; that on last-named day peti­tioner executed a bond before said commissioner as re­quired, and that thereupon petitioner was released from custody and had not since been in the custody or power or under the restraint of the marshal or his deputies. An­nexed to and made part of the return are the writ, the order admitting to bail, the bail-bond, and the commitment, which latter is as follows:</p>
+                <blockquote pgmap="196" id="b196-4">“In Justice Court at Chilcat, Alaska, August 16, 1890.</blockquote>
+                <blockquote pgmap="196" id="AYn">“To Orville T. Porter, U. S. Marshal, District of Alaska, or his Deputy.</blockquote>
+                <blockquote pgmap="196" id="b196-5">“United States vs. Al. Martin.</blockquote>
+                <blockquote pgmap="196" id="b196-6">“The above-named Al. Martin having this day been brought before me upon a charge of assault and battery committed upon the person of Flora, (an Indian woman), at Chilcat, Alaska, on the 16th day of August, A. D. 1890, •and the said Al. Martin having pleaded guilty to the charge, and he having been sentenced by me to three months’ im­prisonment in the district jail at Sitka, you are hereby com­manded^ to take charge of said prisoner, Al. Martin, and keep him in custody until the expiration of said sentence.</blockquote>
+                <blockquote pgmap="196" id="b196-7">“Frank H. Poindexter,</blockquote>
+                <blockquote pgmap="196" id="AsS">“Justice of the Peace.”</blockquote>
+                <p pgmap="196(19) 197(373)" id="b196-8">The writ herein commands the marshal to have the body of petitioner before the United States district judge for the district of Alaska at the court-room at Sitka on August 28th, or as soon thereafter as the regular mail steamer from Juneau should arrive at Sitka" and on September 1st, im­mediately upon the arrival of such steamer, petitioner ap­peared in person at the court-room, and submitted himself to the jurisdiction of the court, but without counsel. His counsel, residing at Juneau, had, however, in writing pre­sented in his behalf this single point: That the justice had, under the Oregon laws, which are applicable to this territory, no power to inflict any punishment other than a fine, and that the sentence and commitment were there­fore beyond his jurisdiction, and void. The return is not demurred to nor controverted, and no evidence other than that made part of the return is before the court. But the return assumes the validity of the order admitting to bail, and proceeds upon the theory that because of the admis­sion to bail prisoner is not in the custody of the marshal. This view is incorrect, for the reason that the order admit­ting to bail was and is void; and, in the eye of the law, the petitioner, from the time of the commitment, must be deemed to have been in the custody of the marshal. It ap­pears from the commitment that petitioner was, upon a plea of guilty, convicted of the crime of assault and battery by the justice at Chilcat. There is no provision for ad­mission to bail after conviction, unless defendant has ap­pealed, or when there is a stay of proceedings, neither of which conditions appears here, (Gen.Laws Or. 1843-72, p. 373, § 258) ; nor even then except by the court, or judge thereof, in which the judgment appealed from is given, (Id. § 260) ; and here the order admitting to bail was made by the commissioner at Juneau. It is, however, unneces­sary to amend the return. The petitioner is in court, and has submitted himself to the custody of the marshal. It can make no difference that in his return the marshal dis­claimed the petitioner’s custody. Petitioner has a right to insist on a final adjudication. Pomeroy v. Lappeus, 9 Or. 363.</p>
+                <p pgmap="197(40) 198(122)" id="b197-5">The only point to be considered, then, is whether the justice had power to sentence to imprisonment. Subdi­vision 2, § 2, c. 1, of the Justices’ Code of Oregon, passed December 19, 1865, gives to the justice’s court jurisdiction of the crimes of assault and assault and battery not charged to have been committed with intent to commit a felony, or in the course of a riot, or with a dangerous weapon, or up­on a public officer in the discharge of his duties. This would confine the jurisdiction to cases where a person, not being armed with a dangerous weapon, assaults or commits an assault and battery upon another, the punishment for which, under the statute passed October 19, 1864, (section 537, Crim.Code Or.), was and is imprisonment in the coun­ty jail not less than three months, nor more than one year, or by a fine not less than $50, nor more than $500, (Gen. Laws 1843-72, p. 410).</p>
+                <p pgmap="198(314) 199(336)" id="b198-3">The jurisdiction of the justice’s court was therefore con­current with the circuit court of Oregon in all cases of as­sault and battery or assault not charged to have been com­mitted with intent to commit a felony, and in the other cases mentioned. State v. Sly, 4 Or. 278. The same act that conferred the jurisdiction contained a proviso (sub­division 6) that, “in case of assault and assault and battery over which a justice’s court has jurisdiction, a punishment may be imposed by fine of not less than five nor more than fifty dollars.” From a judgment imposing such punish­ment no appeal lies. Gen.Laws, p. 478, Justices’ Code, § 120. The jurisdiction of this court is similar to that of the circuit court of Oregon in such cases. The anomaly is thus presented that the two courts having concurrent juris­diction of a crime differ so widely in the mode of punish­ment that this court must either sentence to imprisonment, or a fine not less than $50 nor more than $500, while for a precisely similar offense a justice of the peace may im­pose a fine of not less than $5, but may not impose one of more than $50. Is this small fine the limit of the punish­ment a justice may inflict? Is he denied the power of im­prisonment which is given to this court? Is he denied the power which this court has of imposing a fine greater than $50 ? These questions must be answered affirmatively. Under the constitution of Oregon a justice of the peace may be vested with only limited powers. Art. 7, § 1. He has only the authority which the statute in express terms gives to him. Smith v. King, 14 Or. 10, 12 P. 8. He has the power to imprison in cases of larceny where the punish­ment may be imprisonment in the county jail; in cases of injuries to fruit trees, fences, monuments, mile-stones, lamps, signs, etc., of trespasses upon improved lands, of disturbing religious meetings or public assemblies, dis­charging ballast unlawfully, obstructing roads, tearing down posted notices, selling liquor to minors, issuing il­legal license to marry, and of offenses against the act of October 17, 1872. Justices’ Code, § 2, subd. 8. If it be asked what reason existed for denying him the power of imprisonment in cases of simple assault and assault and battery, it may as well be asked what reason existed for denying him the power to fine to a greater extent than $50. No reason is apparent. He is certainly limited to a fine not exceeding $50, and the statute does not in express terms, nor does it by necessary implication, give him any power to imprison. This, it would seem, under the constitution, pro­hibits him from exercising any power of imprisonment in cases of assault and battery. There are cases of assault so trivial in their nature that the smallest punishment this court can inflict would seem cruel; and, although this court has concurrent jurisdiction over them, and must punish the offender with severity, having no discretion otherwise, they properly belong in the inferior tribunal, and may receive the merited punishment there, and are ended, there being no right of appeal. If, under the peculiar wording of the law, the justice may punish the most aggravated case of assault or assault and battery with a fine of from $5 to $50, though it merits punishment such as only this court may inflict, it is an unfortunate result of the law as it stands on the statute-books, with which this court has nothing to do. When in his opinion the offense deserves greater pun­ishment than he is entitled to inflict, the justice may pur­sue the simple course of holding the prisoner to answer, as may be done in other cases of misdemeanor.</p>
+                <p pgmap="199" id="b199-4">It follows that the jurisdiction of the justice of the peace in this instance has been exceeded, that the commitment is not authorized by any valid judgment, and that the prisoner must be discharged.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="195" ORDERLABEL="183" TYPE="page">
+        <fptr FILEID="tiff_00098_0"/>
+        <fptr FILEID="jpg_00098_0"/>
+        <fptr FILEID="alto_00098_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_195.3" BETYPE="IDREF" FILEID="alto_00098_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="196" ORDERLABEL="184" TYPE="page">
+        <fptr FILEID="tiff_00098_1"/>
+        <fptr FILEID="jpg_00098_1"/>
+        <fptr FILEID="alto_00098_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_196.2" BETYPE="IDREF" FILEID="alto_00098_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="197" ORDERLABEL="185" TYPE="page">
+        <fptr FILEID="tiff_00099_0"/>
+        <fptr FILEID="jpg_00099_0"/>
+        <fptr FILEID="alto_00099_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_197.3" BETYPE="IDREF" FILEID="alto_00099_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="198" ORDERLABEL="186" TYPE="page">
+        <fptr FILEID="tiff_00099_1"/>
+        <fptr FILEID="jpg_00099_1"/>
+        <fptr FILEID="alto_00099_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_198.2" BETYPE="IDREF" FILEID="alto_00099_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="199" ORDERLABEL="187" TYPE="page">
+        <fptr FILEID="tiff_00100_0"/>
+        <fptr FILEID="jpg_00100_0"/>
+        <fptr FILEID="alto_00100_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_199.3" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.8" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.7" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.7" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-4" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.4" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-8" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.8" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.6" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-13" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.13" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-14" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.14" BETYPE="IDREF" FILEID="alto_00098_0"/>
+            <area BEGIN="BL_196.1" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.6" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-8" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.10" BETYPE="IDREF" FILEID="alto_00098_1"/>
+            <area BEGIN="BL_197.1" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AsS" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.9" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b198-3" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_198.4" BETYPE="IDREF" FILEID="alto_00099_1"/>
+            <area BEGIN="BL_199.1" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.5" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-4" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.4" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.4" BETYPE="IDREF" FILEID="alto_00099_0"/>
+            <area BEGIN="BL_198.1" BETYPE="IDREF" FILEID="alto_00099_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-12" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.12" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYn" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.5" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

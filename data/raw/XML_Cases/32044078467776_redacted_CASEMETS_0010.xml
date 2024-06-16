@@ -1,0 +1,450 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0010" publicationstatus="published">
+          <court abbreviation="D. Or." jurisdiction="United States">United States District Court for the District of Oregon</court>
+          <name abbreviation="In re Carr">IN RE CARR</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 75</citation>
+          <citation category="parallel" type="bluebook">Fed.Cas.No.2,432</citation>
+          <decisiondate>1875-03-27</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:21:59Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00044_0" MIMETYPE="image/tiff" CHECKSUM="267e53dd5a3b2af13d1509906d5a6f33" CHECKSUMTYPE="MD5" SIZE="12620">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00044_0.tif"/>
+      </file>
+      <file ID="tiff_00044_1" MIMETYPE="image/tiff" CHECKSUM="f1d3c900fc6cea096c1105fc96eda072" CHECKSUMTYPE="MD5" SIZE="33618">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00044_1.tif"/>
+      </file>
+      <file ID="tiff_00045_0" MIMETYPE="image/tiff" CHECKSUM="d16625b36d179fa87097a27d480efbb1" CHECKSUMTYPE="MD5" SIZE="53626">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00045_0.tif"/>
+      </file>
+      <file ID="tiff_00045_1" MIMETYPE="image/tiff" CHECKSUM="4582c2c8053f0e8f8105275cfc3d22fb" CHECKSUMTYPE="MD5" SIZE="52058">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00045_1.tif"/>
+      </file>
+      <file ID="tiff_00046_0" MIMETYPE="image/tiff" CHECKSUM="13b4291850692cd17358013e2fae7d74" CHECKSUMTYPE="MD5" SIZE="13666">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00046_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00044_0" MIMETYPE="image/jpg" CHECKSUM="a5c93d06e113ed44bb48324bdc814919" CHECKSUMTYPE="MD5" SIZE="77877">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00044_0.jpg"/>
+      </file>
+      <file ID="jpg_00044_1" MIMETYPE="image/jpg" CHECKSUM="445eb2411afaf3ea6aeca12ae19fc687" CHECKSUMTYPE="MD5" SIZE="152982">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00044_1.jpg"/>
+      </file>
+      <file ID="jpg_00045_0" MIMETYPE="image/jpg" CHECKSUM="758fc52a63ebf2a7c94a289d5404fa09" CHECKSUMTYPE="MD5" SIZE="196165">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00045_0.jpg"/>
+      </file>
+      <file ID="jpg_00045_1" MIMETYPE="image/jpg" CHECKSUM="d90b6cdb9262d55206dbb605b851a2b8" CHECKSUMTYPE="MD5" SIZE="196943">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00045_1.jpg"/>
+      </file>
+      <file ID="jpg_00046_0" MIMETYPE="image/jpg" CHECKSUM="2e238473594c33d0b7492243ba6efdd0" CHECKSUMTYPE="MD5" SIZE="79549">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00046_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00044_0" MIMETYPE="text/xml+gzip" CHECKSUM="6e6b1e45d767a44a504c3e4ecc4212f0" CHECKSUMTYPE="MD5" SIZE="3722">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00044_0.xml.gz"/>
+      </file>
+      <file ID="alto_00044_1" MIMETYPE="text/xml+gzip" CHECKSUM="f985c17177d8e6be8b73b6eac3fe7294" CHECKSUMTYPE="MD5" SIZE="7959">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00044_1.xml.gz"/>
+      </file>
+      <file ID="alto_00045_0" MIMETYPE="text/xml+gzip" CHECKSUM="a2383e0c1220bde93e77cc947b0e3743" CHECKSUMTYPE="MD5" SIZE="12995">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00045_0.xml.gz"/>
+      </file>
+      <file ID="alto_00045_1" MIMETYPE="text/xml+gzip" CHECKSUM="ca806ca9e85c8218afeef458bd79845e" CHECKSUMTYPE="MD5" SIZE="12327">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00045_1.xml.gz"/>
+      </file>
+      <file ID="alto_00046_0" MIMETYPE="text/xml+gzip" CHECKSUM="ea625aa9d8ad478a19e68c4d7dbd91a0" CHECKSUMTYPE="MD5" SIZE="3753">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00046_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0010" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="75" lastpage="79">
+              <court pgmap="87" id="b87-9">District Court, D. Oregon.</court>
+              <citation pgmap="87" id="b87-7">Fed.Cas.No.2,432</citation>
+              <parties pgmap="87" id="b87-8">IN RE CARR.<footnotemark>1</footnotemark>
+              </parties>
+              <decisiondate pgmap="87" id="b87-10">March 27, 1875.</decisiondate>
+              <attorneys pgmap="88" id="b88-7">Joseph N. Dolph and Joseph Simon, for petitioner.</attorneys>
+              <attorneys pgmap="88" id="b88-8">Rufus Mallory, for respondent.</attorneys>
+              <footnote label="1">
+                <p pgmap="87" id="b87-17">1 Reported by L- S. B. Sawyer, Esq., and here reprinted by permis­sion.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="88" id="b88-9">DEADY, District Judge.</author>
+                <p pgmap="88" id="b88-10">Two questions are made in support of the demurrer to the return: 1. That section 23 of the Indian intercourse act of 1834 (see 25 U.S.C.A. §§ 223, 224 and notes) has not been extended to Alaska, and therefore the military force cannot be employed in the apprehension of persons who may be found introducing spirituous liquors into Alaska; and, 2. That although the military force might have been employed in arresting the petitioner upon such charge, yet he could only be held in such custody five days before removal to the civil authority authorized to proceed against him according to law.</p>
+                <p pgmap="88" id="b88-11">It appears from the petition and return that the petitioner, being the collector of customs at Fort Wrangel, in Alaska, was arrested by Lieutenant Dyer, of the army, in the latter part of September, 1874, upon the charge of violationg sec­tion 20 of the Indian intercourse act, by introducing spiritu­ous liquors into the country, in the month of July, without the consent of the war department; and that the petitioner was kept in custody by direction of Captain J. B. Campbell, commanding the district of Alaska, until the service of the writ herein on December 19, when he was sent in custody of Captain Jocelyn to this place, in obedience to the writ.</p>
+                <p pgmap="89" id="b89-3">Section Í of the Alaska act of July 27, 1868 (15 Stat. 240), having been amended by the act of March 3, 1873 (17 Stat. 530), so as to extend over the territory of Alaska, sections 20 and 21 of the intercourse act of 1834 (see 25 U.S.C.A. §§ 223, 241, 251 and notes). Said territory, so far as the introduction and disposition of spirituous liquors is concerned, became what is known as “Indian Country;” and the military force of the United States may be em­ployed by the president for the arrest of persons found therein violating either of said sections. To accomplish this result it was not necessary for congress to extend sec­tion 23 of the intercourse act by name over Alaska. By force of its own terms that section applies to any territory of the United States declared by congress, either in terms or effect, to be “Indian Country” — that is, a country in which the intercourse between the whites and Indians is regulated and restrained by special acts of congress. So soon, then, as Alaska was made “Indian Country,” so far as the intro­duction and use of spirituous liquors is concerned, section 23 of the act which authorizes the employment of military force became applicable to it, and in force therein.</p>
+                <p pgmap="89" id="b89-4">The president, by means of the proper officers, has au­thorized the employment of the military to make arrests in Alaska for the violation of said sections 20 and 21. If, then, there was sufficient cause to arrest the petitioner for said offense, Lieutenant Dyer was authorized to make it. Of course in so doing he was merely acting as a police officer —as a marshal or constable — for the purpose of enforcing an act of congress, and was not authorized to make the ar­rest unless it appeared upon oath or affirmation that there was propable cause as provided in the fourth amendment to the constitution of the United States. It is a mistake to suppose that the territory of Alaska is under military rule any more than any other part of the country, except as to the introduction of spirituous liquors and the making of arrests for violations of sections 20 and 21 aforesaid, in which case the military really act as civil officers and in subordination to the civil law.</p>
+                <p pgmap="89(31) 90(202)" id="b89-5">As to the second point the demurrer is well taken. The petitioner having been detained over five days — indeed, nearly ninety — before any attempt was made to remove him for trial by the civil authorities, his detention thereafter be­came unlawful and unauthorized. The statute is peremptory upon the subject, and with good reason — “Provided, That no person, apprehended by military force as aforesaid, shall be detained longer than five days after the arrest and before the removal.” If the removal cannot be commenced in that' time the prisoner must be discharged. It was supposed by congress, as this proviso manifests, that these arrests would often be made at remote and out of the way places, where the prisoner would be comparatively helpless, without ac­cess to counsel or friends, and if the officer whose custody he was in was to be judge of when he would or conveniently could remove him to the civil authorities for trial, it might sometimes happen that the detention would be continued captiously or maliciously and the imprisonment -become grossly oppressive. In Barclay v. Goodale, Fed.Cas.No.972, this court, after able argument and full consideration of the premises, held that the defendant who had arrested the plaintiff under section 23 and detained him more than five days before removal, because' he had no sufficient means wherewith to do otherwise was liable for false imprison­ment.</p>
+                <p pgmap="90" id="b90-4">The petitioner is entitled to be discharged. I have also considered whether, upon the facts in the return, I ought now to commit the petitioner upon a charge of introducing spirituous liquors into Alaska, contrary to section 20 afore­said. It is not alleged directly in the return that the petition­er was guilty of this offense, but only that he “was arrested for it.” The evidence upon which the arrest was made is not stated in or attached to the return. I do not think the statement in the return is sufficient evidence or information to authorize a commitment by me.</p>
+                <p pgmap="90" id="b90-5">The respondent then had leave to amend the return, and annex thereto, among other things, the affidavit of W. P. Wilson, taken before Lieutenant Dyer, on September 24, 1874, stating that in July he paid John A. Carr $100 for the privilege of taking a lot of liquors out of the bonded ware­house at Fort Wrangel to be taken to his own house in Wrangel, while at the same time said Carr made out a clear­ance of the goods to Glencora landing, British Columbia.</p>
+                <p pgmap="91" id="b91-3">Objection is made that this affidavit was not made before an officer authorized to administer oaths. But it appears to have been duly taken in pursuance of paragraph 1031 of the army regulations of 1861, and upon it I will commit the petitioner to answer the charge, and fix his bail at $2,500.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="87" ORDERLABEL="75" TYPE="page">
+        <fptr FILEID="tiff_00044_0"/>
+        <fptr FILEID="jpg_00044_0"/>
+        <fptr FILEID="alto_00044_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_87.2" BETYPE="IDREF" FILEID="alto_00044_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="88" ORDERLABEL="76" TYPE="page">
+        <fptr FILEID="tiff_00044_1"/>
+        <fptr FILEID="jpg_00044_1"/>
+        <fptr FILEID="alto_00044_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_88.2" BETYPE="IDREF" FILEID="alto_00044_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="89" ORDERLABEL="77" TYPE="page">
+        <fptr FILEID="tiff_00045_0"/>
+        <fptr FILEID="jpg_00045_0"/>
+        <fptr FILEID="alto_00045_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_89.2" BETYPE="IDREF" FILEID="alto_00045_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="90" ORDERLABEL="78" TYPE="page">
+        <fptr FILEID="tiff_00045_1"/>
+        <fptr FILEID="jpg_00045_1"/>
+        <fptr FILEID="alto_00045_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_90.2" BETYPE="IDREF" FILEID="alto_00045_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="91" ORDERLABEL="79" TYPE="page">
+        <fptr FILEID="tiff_00046_0"/>
+        <fptr FILEID="jpg_00046_0"/>
+        <fptr FILEID="alto_00046_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_91.2" BETYPE="IDREF" FILEID="alto_00046_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-9" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.9" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.8" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-3" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.3" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.7" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.10" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.11" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-9" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.12" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-3" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.3" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.5" BETYPE="IDREF" FILEID="alto_00045_0"/>
+            <area BEGIN="BL_90.1" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.5" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-4" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.4" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-4" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.4" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-10" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.13" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-11" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.14" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-17" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.17" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-10" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.10" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

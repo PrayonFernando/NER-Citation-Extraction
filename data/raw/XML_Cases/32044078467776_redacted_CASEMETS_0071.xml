@@ -1,0 +1,868 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0071" publicationstatus="published">
+          <court abbreviation="9th Cir." jurisdiction="United States">United States Court of Appeals for the Ninth Circuit</court>
+          <name abbreviation="Earle v. United States">THE COQUITLAM. EARLE et al. v. UNITED STATES</name>
+          <docketnumber>No. 200</docketnumber>
+          <citation category="official" type="bluebook">1 Alaska Fed. 483</citation>
+          <citation category="parallel" type="bluebook">77 F. 744</citation>
+          <decisiondate>1896-11-16</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:04Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00248_0" MIMETYPE="image/tiff" CHECKSUM="90b8c3ae6812609f952164a2fd5c6bf2" CHECKSUMTYPE="MD5" SIZE="6160">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00248_0.tif"/>
+      </file>
+      <file ID="tiff_00248_1" MIMETYPE="image/tiff" CHECKSUM="17219d8b43409e9477a3f609ad26ae24" CHECKSUMTYPE="MD5" SIZE="27356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00248_1.tif"/>
+      </file>
+      <file ID="tiff_00249_0" MIMETYPE="image/tiff" CHECKSUM="d9066676cd74fab435baa84f87419a11" CHECKSUMTYPE="MD5" SIZE="54988">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00249_0.tif"/>
+      </file>
+      <file ID="tiff_00249_1" MIMETYPE="image/tiff" CHECKSUM="5e876072ec4d3e4ecabde7f731ccfdea" CHECKSUMTYPE="MD5" SIZE="54076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00249_1.tif"/>
+      </file>
+      <file ID="tiff_00250_0" MIMETYPE="image/tiff" CHECKSUM="a7efc7997cb239d824c479963aa29286" CHECKSUMTYPE="MD5" SIZE="53194">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00250_0.tif"/>
+      </file>
+      <file ID="tiff_00250_1" MIMETYPE="image/tiff" CHECKSUM="483f7a8c1bc96b74d4d731098ea4ed22" CHECKSUMTYPE="MD5" SIZE="53470">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00250_1.tif"/>
+      </file>
+      <file ID="tiff_00251_0" MIMETYPE="image/tiff" CHECKSUM="4b160e0f6b2f09b2d72e4db1a3a48700" CHECKSUMTYPE="MD5" SIZE="51818">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00251_0.tif"/>
+      </file>
+      <file ID="tiff_00251_1" MIMETYPE="image/tiff" CHECKSUM="bbbf2cf9b9ee1e052278c6c996403820" CHECKSUMTYPE="MD5" SIZE="53954">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00251_1.tif"/>
+      </file>
+      <file ID="tiff_00252_0" MIMETYPE="image/tiff" CHECKSUM="a9818bfe186b777dfd47b0308ad9b131" CHECKSUMTYPE="MD5" SIZE="50386">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00252_0.tif"/>
+      </file>
+      <file ID="tiff_00252_1" MIMETYPE="image/tiff" CHECKSUM="c168a56c24add9510ec0c336d811c99c" CHECKSUMTYPE="MD5" SIZE="54348">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00252_1.tif"/>
+      </file>
+      <file ID="tiff_00253_0" MIMETYPE="image/tiff" CHECKSUM="8897a678ce146444a4f2a062b23473e6" CHECKSUMTYPE="MD5" SIZE="53446">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00253_0.tif"/>
+      </file>
+      <file ID="tiff_00253_1" MIMETYPE="image/tiff" CHECKSUM="3ebaef10fba9c00de5eb276e7c87bb32" CHECKSUMTYPE="MD5" SIZE="52646">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00253_1.tif"/>
+      </file>
+      <file ID="tiff_00254_0" MIMETYPE="image/tiff" CHECKSUM="e496d38918a04761e1004bb60be9aa29" CHECKSUMTYPE="MD5" SIZE="52102">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00254_0.tif"/>
+      </file>
+      <file ID="tiff_00254_1" MIMETYPE="image/tiff" CHECKSUM="9a809059a15d1fc4e861830a45b0084f" CHECKSUMTYPE="MD5" SIZE="52374">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00254_1.tif"/>
+      </file>
+      <file ID="tiff_00255_0" MIMETYPE="image/tiff" CHECKSUM="2d432c288fb1605324a770511f82bf41" CHECKSUMTYPE="MD5" SIZE="54404">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00255_0.tif"/>
+      </file>
+      <file ID="tiff_00255_1" MIMETYPE="image/tiff" CHECKSUM="3247aa27ab915630204fd6478ec7753c" CHECKSUMTYPE="MD5" SIZE="31918">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00255_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00248_0" MIMETYPE="image/jpg" CHECKSUM="8b287f47f5773269b3ed1316048b3f54" CHECKSUMTYPE="MD5" SIZE="59711">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00248_0.jpg"/>
+      </file>
+      <file ID="jpg_00248_1" MIMETYPE="image/jpg" CHECKSUM="1b35a2c2fea7053f005fa37fba4bf90e" CHECKSUMTYPE="MD5" SIZE="132425">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00248_1.jpg"/>
+      </file>
+      <file ID="jpg_00249_0" MIMETYPE="image/jpg" CHECKSUM="1f8409e08c05a148540c2ca4f6630c81" CHECKSUMTYPE="MD5" SIZE="202729">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00249_0.jpg"/>
+      </file>
+      <file ID="jpg_00249_1" MIMETYPE="image/jpg" CHECKSUM="35ae0a61d77deb32223122c2fab48f3d" CHECKSUMTYPE="MD5" SIZE="202863">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00249_1.jpg"/>
+      </file>
+      <file ID="jpg_00250_0" MIMETYPE="image/jpg" CHECKSUM="81d4c7417ef0186295640a2844705792" CHECKSUMTYPE="MD5" SIZE="189936">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00250_0.jpg"/>
+      </file>
+      <file ID="jpg_00250_1" MIMETYPE="image/jpg" CHECKSUM="ae472b6a97725af1dc8d6aa3b070ffd4" CHECKSUMTYPE="MD5" SIZE="211055">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00250_1.jpg"/>
+      </file>
+      <file ID="jpg_00251_0" MIMETYPE="image/jpg" CHECKSUM="eb67d939bd1a02e02353be1333f792aa" CHECKSUMTYPE="MD5" SIZE="193408">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00251_0.jpg"/>
+      </file>
+      <file ID="jpg_00251_1" MIMETYPE="image/jpg" CHECKSUM="81e905d8a462902e1b443aa39a6a2bf9" CHECKSUMTYPE="MD5" SIZE="202617">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00251_1.jpg"/>
+      </file>
+      <file ID="jpg_00252_0" MIMETYPE="image/jpg" CHECKSUM="76e1495d63951994b1f56d59cebb97f6" CHECKSUMTYPE="MD5" SIZE="183175">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00252_0.jpg"/>
+      </file>
+      <file ID="jpg_00252_1" MIMETYPE="image/jpg" CHECKSUM="4a10fe55e732a9d51829965f19495891" CHECKSUMTYPE="MD5" SIZE="212698">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00252_1.jpg"/>
+      </file>
+      <file ID="jpg_00253_0" MIMETYPE="image/jpg" CHECKSUM="8cc4c2b4d43eeeca9a4fce4555c6a491" CHECKSUMTYPE="MD5" SIZE="197407">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00253_0.jpg"/>
+      </file>
+      <file ID="jpg_00253_1" MIMETYPE="image/jpg" CHECKSUM="0e97220676a016f5b09fb14e654fba41" CHECKSUMTYPE="MD5" SIZE="198322">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00253_1.jpg"/>
+      </file>
+      <file ID="jpg_00254_0" MIMETYPE="image/jpg" CHECKSUM="b2a478da56610ef36c355d5a018b91bc" CHECKSUMTYPE="MD5" SIZE="190730">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00254_0.jpg"/>
+      </file>
+      <file ID="jpg_00254_1" MIMETYPE="image/jpg" CHECKSUM="65a46fc9d1b79bceb09835f176a78c75" CHECKSUMTYPE="MD5" SIZE="207533">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00254_1.jpg"/>
+      </file>
+      <file ID="jpg_00255_0" MIMETYPE="image/jpg" CHECKSUM="31a73ddae2ca6d3265676ca9f8f353d3" CHECKSUMTYPE="MD5" SIZE="199079">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00255_0.jpg"/>
+      </file>
+      <file ID="jpg_00255_1" MIMETYPE="image/jpg" CHECKSUM="cf7b29109243f9a9dbb9e569bb2705fa" CHECKSUMTYPE="MD5" SIZE="141205">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00255_1.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00248_0" MIMETYPE="text/xml+gzip" CHECKSUM="19f05f3015a0d6410a99c410d84395ac" CHECKSUMTYPE="MD5" SIZE="1879">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00248_0.xml.gz"/>
+      </file>
+      <file ID="alto_00248_1" MIMETYPE="text/xml+gzip" CHECKSUM="44ebba8130c10bc10cd44f781da35c6b" CHECKSUMTYPE="MD5" SIZE="6560">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00248_1.xml.gz"/>
+      </file>
+      <file ID="alto_00249_0" MIMETYPE="text/xml+gzip" CHECKSUM="d287b15bccfa39b4ba01b1a00a47d648" CHECKSUMTYPE="MD5" SIZE="13044">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00249_0.xml.gz"/>
+      </file>
+      <file ID="alto_00249_1" MIMETYPE="text/xml+gzip" CHECKSUM="41c5d3c285d5e6c531974a64a3374ae6" CHECKSUMTYPE="MD5" SIZE="12646">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00249_1.xml.gz"/>
+      </file>
+      <file ID="alto_00250_0" MIMETYPE="text/xml+gzip" CHECKSUM="0bae2522d6d861fc5bba79af897424c0" CHECKSUMTYPE="MD5" SIZE="12723">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00250_0.xml.gz"/>
+      </file>
+      <file ID="alto_00250_1" MIMETYPE="text/xml+gzip" CHECKSUM="7b8076a4e7f61454d6e726e1d64e67b4" CHECKSUMTYPE="MD5" SIZE="12431">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00250_1.xml.gz"/>
+      </file>
+      <file ID="alto_00251_0" MIMETYPE="text/xml+gzip" CHECKSUM="8b50b9f49d65fe27c95d04e0d313b58b" CHECKSUMTYPE="MD5" SIZE="12616">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00251_0.xml.gz"/>
+      </file>
+      <file ID="alto_00251_1" MIMETYPE="text/xml+gzip" CHECKSUM="7b592b09107cdfd78dc16637a0029efb" CHECKSUMTYPE="MD5" SIZE="12696">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00251_1.xml.gz"/>
+      </file>
+      <file ID="alto_00252_0" MIMETYPE="text/xml+gzip" CHECKSUM="a34c4d16c398f152b202c6a84d5467ef" CHECKSUMTYPE="MD5" SIZE="12456">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00252_0.xml.gz"/>
+      </file>
+      <file ID="alto_00252_1" MIMETYPE="text/xml+gzip" CHECKSUM="bd338928dabe672a56b80dcf7cb52c35" CHECKSUMTYPE="MD5" SIZE="13617">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00252_1.xml.gz"/>
+      </file>
+      <file ID="alto_00253_0" MIMETYPE="text/xml+gzip" CHECKSUM="6841d6e6f69171fd2787e7d39c26fe05" CHECKSUMTYPE="MD5" SIZE="13244">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00253_0.xml.gz"/>
+      </file>
+      <file ID="alto_00253_1" MIMETYPE="text/xml+gzip" CHECKSUM="d08ad996153841db60b7212c750e5e27" CHECKSUMTYPE="MD5" SIZE="13143">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00253_1.xml.gz"/>
+      </file>
+      <file ID="alto_00254_0" MIMETYPE="text/xml+gzip" CHECKSUM="537cc62d627d7279affa49986e258781" CHECKSUMTYPE="MD5" SIZE="13060">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00254_0.xml.gz"/>
+      </file>
+      <file ID="alto_00254_1" MIMETYPE="text/xml+gzip" CHECKSUM="e2933a8953dd08f86134ad98e3b61cd0" CHECKSUMTYPE="MD5" SIZE="12538">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00254_1.xml.gz"/>
+      </file>
+      <file ID="alto_00255_0" MIMETYPE="text/xml+gzip" CHECKSUM="ecae79e4cbc0d75e9c243af3f7f36a62" CHECKSUMTYPE="MD5" SIZE="13150">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00255_0.xml.gz"/>
+      </file>
+      <file ID="alto_00255_1" MIMETYPE="text/xml+gzip" CHECKSUM="042530209a6e7f389780b245908e1757" CHECKSUMTYPE="MD5" SIZE="8039">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00255_1.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0071" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="483" lastpage="498">
+              <court pgmap="495" id="b495-7">Circuit Court of Appeals, Ninth Circuit.</court>
+              <docketnumber pgmap="495" id="b495-6">No. 200.</docketnumber>
+              <citation pgmap="495" id="b495-3">77 F. 744</citation>
+              <parties pgmap="495" id="b495-4">THE COQUITLAM. EARLE et al. v. UNITED STATES.</parties>
+              <decisiondate pgmap="495" id="b495-8">Noy. 16, 1896.</decisiondate>
+              <judges pgmap="496" id="b496-7">Before McKENNA and GILBERT, Circuit Judges, and KNOWLES, District Judge.</judges>
+              <attorneys pgmap="496" id="b496-5">E. C. Hughes and J. Hamilton Lewis, for appellants.</attorneys>
+              <attorneys pgmap="496" id="b496-6">Charles A. Garter, for the United States.</attorneys>
+              <opinion type="majority">
+                <author pgmap="496" id="b496-8">GILBERT, Circuit Judge.</author>
+                <p pgmap="496(156) 497(431) 498(236)" id="b496-9">The steamship Coquitlam, with a cargo of 6,190 fur seal skins and some supplies, was seized by the United States revenue cutter Corwin at or near Port Etches, in the terri­tory of Alaska, on June 22, 1892, and was taken by the cutter to Sitka, and turned over to the collector of customs. On the 5th day of July, following, the United States dis­trict attorney for the district of Alaska filed in the district court o'f that territory an information for the seizure of said vessel and her cargo, and the forfeiture of the same, for alleged violations of the provisions of the revenue stat­utes of the United States. The libel of information con­tains four counts. The first count alleges, in substance, that on-or about June 19, 1892, within the limits of the Alaska collection district, and within four leagues of the coast of said district, near the island of Afognak, there were unladen from the schooners Brenda, Umbrina, Sea Lion, Venture, Maud S., and the Walter A. Earle, fur seal skins amounting in the aggregate to 3,893, and that on or about the 20th and 21st days of June, 1892, there were un­laden from the Oscar &amp; Hattie, the Viva, and the Fawn, 2,297 fur seal skins; that each and all of said vessels so unlading said merchandise were from the port of Victoria, in British Columbia, or some other foreign port, were laden with merchandise, were bound for the United States, and on or about June 18, 1892, were anchored in a small bay in Afognak Island and elsewhere in the waters adjacent to the land, and within the collection district of Alaska; that none of said vessels, at the time of so unlading said merchandise, had come to the proper place for the discharge of their cargo, or any part thereof, nor had any of them been au­thorized by the proper officer of customs of said district of Alaska to unlade the same, and that said unlading was not made necessary by any unavoidable accident, necessity, or distress; that all of said merchandise so unladen was at the time of the unlading thereof put and received into the said steamer Coquitlam, with the knowledge and consent of the master thereof, — all contrary to the provisions of sections 2867 and 2868 of the Revised Statutes. The second count alleges that the Coquitlam is a foreign vessel, and that on June 8, 1892, she cleared from the foreign port of Victoria, laden with a large amount of general merchandise; that on June 18, 1892, she arrived in the waters of the United States, to wit, in a small bay in the island of Afognak, with­in the collection district of Alaska, and came to anchor; that the master of said steamer did not report at the office of the deputy collector of customs at Kodiak, nor to any collector of customs for said district, nor obtaifi a special permit to proceed further inland to unlade or take in cargo; that on June 19, 1892, within the collection district of Alaska, and within four leagues of the island of Afognak, the steamer transferred a large amount of general mer­chandise to the British schooners named in the first count, and did receive and take in, as cargo from said schooners, the fur skins mentioned in the first count, contrary to the provisions of section 3109 of the Revised Statutes. The third count contains a restatement of the allegations of the first count, and alleges that the acts therein stated con­stitute an unlading of cargo contrary to the provisions of section 2867 of the Revised Statutes. The fourth count claims the forfeiture of the cargo of the steamer, upon the ground that she is a foreign vessel, owned in Vancouver, in British Columbia; that on June 8, 1892, she cleared from the foreign port of Victoria, in British Columbia, for the North Pacific Ocean; that on or about June 22, 1892, and without having cleared from any other port, she brought into the United States, at port Etches, in the district of Alaska, from a foreign port or ports unknown, a large quantity of merchandise, of the value of $60,000, of which merchandise an itemized account is attached as an exhibit to the libel; that the master of said vessel had on board of said vessel no manifest whatever in writing of said cargo, signed by the master or otherwise; that a large quantity of said merchandise was by law subject to duty, and the duty thereon had not been paid or secured to be paid to the United States; that all of said merchandise was brought into the United States, with the full knowledge of the mas­ter, and contrary to the provisions of sections 2806, 2807, and 2809 of the Revised Statutes, and with the intent to defraud the revenues of the United States.</p>
+                <p pgmap="498(182) 499(41)" id="b498-4">The answer of the Union Steamship Company, Limited, of Vancouver, British Columbia, the owner and claimant of the Coquitlam, admits the transfers of fur seal skins as alleged in the first and third counts of the libel, but denies that any of said schooners were bound to the United States, or that any of said merchandise was from a foreign port, or was bound to the United States, or that any of said transfers were made within the district of Alaska, or with­in four leagues of the coast. Answering the second count, the claimant denies that the merchandise was unladen from the schooners, or received into the steamer within the col­lection district of Alaska, or within the waters of the United States, or within four leagues of any part of the coast of the United States; and, answering the fourth count, it denies that any of the merchandise whatever on board the steamship was subject to duty; and it denies that any merchandise was brought into the United States on said steamship in violation of the provisions of the Revised Statutes of the United States, or with the intent to defraud the revenue laws of the United States. The answer then sets forth an affirmative statement of the facts involved in the case, which it is not necessary here to repeat.</p>
+                <p pgmap="499" id="b499-4">The answer of the owners of the cargo is similar in pur­port to the answer of the claimant of the steamship, but in meeting the allegations of the fourth count, whereby it is sought to forfeit the cargo, it alleges as follows: “That the whole of said cargo belonged and was consigned to the several owners thereof, as hereinbefore stated; and no portion thereof belonged or was consigned to the master, mate, officers, or crew of the said steamship Coquitlam; and no portion of the said cargo of seal skins and mer­chandise and supplies hereinbefore referred to was destined to any port or place in the United States, nor for any citizen or person residing in the United States.”</p>
+                <p pgmap="499(251) 500(307)" id="b499-5">The facts as shown by the record, and which are not disputed, are as follows: The sealing schooners mentioned in the first count of the libel cleared from Victoria, in British Columbia, about the 1st day of March, 1892, on fishing and sealing voyages to the North Pacific Ocean. They were all foreign vessels, duly registered at some port in the dominion of Canada, and were all duly licensed for said voyages. They all had the usual ships’ supplies and stores and outfit for seal fishing. They all had clearance papers, such as are usual with vessels bound on like voyages, and the papers disclosed the nature and purpose of the voy­ages, and declared that the vessels were bound to the North Pacific Ocean, for the purpose of engaging in seal hunting and fishing, thence to return to their respective ports of clearance. Their owners belonged to an association known as the Pacific Sealers’ Association. When these vessels embarked upon their voyages, it had not been determined whether the modus vivendi for the regulation of seal hunt­ing, which had been proclaimed in May, 1891, for the period of one year, would be renewed for the following year; but after it became known, in the spring of 1892, that it would be renewed, the steamer Coquitlam was fitted out at the port of Victoria, by the Pacific Sealers’ Associa­tion, for the purpose of taking supplies to the schooners, and of bringing back the skins that had been tak'en during the first half of the season, and to convey information also to the sealing schooners that the modus vivendi had been renewed. She cleared from the port of Victoria on the 8th day of June, 1892, for the North Pacific Ocean. Her cer­tificate, her license, her clearance, her report outward, all showed the nature and destination of her voyage as above stated. Before the sealing schooners had left Victoria on their voyages, there was an understanding that a vessel might be sent for this purpose; and, after it was known definitely that she would be sent, word was communicated from time to time from one schooner to another, as they met on their sealing voyages, that they should rendezvous at Marmot Island or Tonki Bay, in Afognak Island, or at Port Etches, in Hinchinbrook Island. Accordingly, some of the schooners directed their course to Tonki Bay, where they were met by the Coquitlam, while others sailed for Port Etches. The log book of the Coquitlam, kept by the master, has this entry under date of June 18, 1892: “At noon, Marmot Island abreast. Set course for Cape Tonki. Weathered cape, and steered in for rendezvous.” After the steamer met the vessels in Tonki Bay, on the 19th of June, they all proceeded seaward for the purpose of trans­ferring the cargoes beyond the limits of the waters of the United States. It was supposed by the master of the Co­quitlam and by the masters of the schooners that the limit of the jurisdiction of the United States was two leagues from the shore. It was admitted by the officers of the Coquitlam when she was seized that the purpose of sailing out to sea was'to reach a point beyond this line, in order that' there might be nothing illegal in the transfers of the cargoes.</p>
+                <p pgmap="500(101) 501(318)" id="b500-3">Upon the trial of the cause, the claimants endeavored to prove by the testimony of the masters of the schooners that, before the transfer of cargoes began, the vessels had pro­ceeded out to sea a distance of more than four leagues from the shore, and that, consequently, the acts complained of took place beyond the jurisdiction of the United States. Upon this question the testimony is conflicting. It has been found by the district court that the transfers took place at about seven miles from the shore. In the light of the evidence, which we have carefully considered, together with the circumstances and the probabilities, we cannot say that there was error in this finding. Some discussion has been had concerning the effect to be given on the appeal to this court to the findings of fact of the lower court. It Is con­tended by the appellant that, since the witnesses in this case did not testify in the presence of the court, no presump­tions are to be indulged in favor of the correctness of the facts found in that court. It is well settled that the act of February 16, 1875 (28 U.S.C.A. §§ 771 and note, 772), relieving the supreme court of the necessity of deciding questions of fact in admiralty causes, does not apply to the United States circuit court of appeals. The Havilah, 1 C.C.A. 77, 48 F. 684; The State of California, 1 C.C.A. 224, 49 F. 172; The Philadelphian, 9 C.C.A. 54, 60 F. 423. The supreme court, prior to the enactment of that statute, had, by repeated decisions, established the rule that, where the district and the circuit courts had concurred in findings of fact, such findings would not be disturbed on appeal to the supreme court, unless they were shown to be clearly against the weight of the evidence. The Marcellus, 1 Black, 414; The Baltimore, 8 Wall. 382;- The Lady Pike, 21 Wall. 1. The circuit courts had likewise estab­lished the rule that, on appeal from the district courts, the burden rested upon the appellant to show that the findings of fact appealed from were erroneous, and this notwith­standing that the witnesses may not have testified in the presence óf that court. Baker v. Smith, 1 Holmes, 85, Fed.Cas.No.781; Ayer v. The Glaucus, 4 Cliff. 166, Fed. Cas.No.683; The Grafton, 1 Blatchf. 173, Fed.Cas.No. 5,655; The Sampson (The Iola) 4 Blatchf. 28, Fed.Cas. No. 12,279; Guimarais’ Appeal, 28 F. 528; The Parthian, 48 F. 564.</p>
+                <p pgmap="501" id="b501-4">The principal contention on the appeal concerns the first and the third counts, which charge the. violation of sections 2867 and 2868 of the Revised Statutes, which pro­vide as follows:</p>
+                <blockquote pgmap="501(52) 502(223)" id="b501-5">“Sec. 2867. If after the arrival of any vessel laden with merchandise and bound to the United States, within the limits of any collection district, or within four leagues of the coast any part of the cargo of such vessel shall be un­laden, for any purpose whatever, before such vessel has come to the proper place for the discharge of her cargo, or some part thereof, and has been there duly authorized by. the proper officer of the customs to unlade the same, the master of such vessel and the mate, or other person next in command, shall respectively be liable to a penalty of one thousand dollars for each such offense, and the merchandise so unladen shall be forfeited, except in case of some un­avoidable accident, necessity, or distress of weather. In case of such unavoidable accident, necessity, or distress, the master of such vessel shall give notice to, and, together with two or more of the officers or mariners on board such • vessel, of whom the mate or other person next in command shall be one, shall make proof upon oath before the col­lector, or other chief officer of the customs of the district, within the limits of which such accident, necessity, or dis­tress happened, or before the collector, or other chief officer of the collection district, within the limits of which such vessel shall first afterward arrive, if the accident, necessity, or distress happened not within the limits of any district, but within four leagues of the coast of the United States. The collector, or other chief officer, is hereby authorized and required to administer such oath.</blockquote>
+                <blockquote pgmap="502" id="b502-4">“Sec. 2868. If any merchandise, so unladen from on board any such vessel, shall be put or received into any other vessel, except in the case of such accident, necessity, or distress, to be so notified and proved, the master of any such vessel into which the nierchandise shall be so put and received, and every other person aiding and assisting there­in, shall be liable to a penalty of treble the value of the merchandise, and the vessel in which they shall be so put shall be forfeited.”</blockquote>
+                <p pgmap="502(102) 503(194)" id="b502-5">Section 2867 contemplates the arrival of a vessel laden with merchandise, “and bound to the United States,” and its penalty is denounced against the unlading of the cargo of such vessel before it has arrived at the proper place for the discharge thereof, and has been authorized to do so by the proper officers of the customs. Has the penalty been incurred by the unlading of the cargoes of the schooners in­to the Coquitlam? The schooners, as we have seen, were foreign vessels, which had cleared from their home ports to engage in sealing and fishing in the North Pacific Ocean, thereafter to return to their home ports. So far as their papers were concerned, they were not bound to any port in the United States. When they sailed, it was not known that they would enter the waters of the United States. While engaged upon their voyages, and for the purposes thereof, they received instruction to rendezvous in bays which were within the waters of the United States, not for the purpose of unlading their cargoes within such waters, but for the purpose of meeting the vessel which was to receive their cargoes and bring them supplies. After meet­ing the steamship, and before unlading their cargoes into the same, they proceeded out to sea until their masters sup­posed themselves to be without the waters of the United States, and there the transfers were made. Thereafter they proceeded upon their respective voyages. Were the schooners “bound to the United States,” and did they ar­rive within the waters of one of the collection districts of the United States, as contemplated by the statute, and did they discharge their cargo, or any part thereof, before ar­riving at the proper place for such discharge?</p>
+                <p pgmap="503" id="b503-4">In Harrison v. Vose, 9 How. 372, the meaning of the term “arrival,” as applied to a vessel, was considered by the supreme court. The case was an action for a penalty im­posed by the act of February 28, 1803 (2 Stat. 203), for not depositing with the consul of the United States at Kingston, Jamaica, the register of a vessel. The vessel be­longed to citizens of the United States. She sailed from her home port with a cargo of lumber, consigned to mer­chants of Kingston. She arrived in the harbor of Kingston, and came to anchor at about a quarter of a mile from the town, but did not go up to the town, nor come to an entry, nor discharge any part of her cargo, nor take in cargo or passengers, nor do any business, except to communicate with her consignees. The act declared: “That it shall be the duty of every master or commander of a ship or vessel belonging to citizens of the United States, * * * on his arrival at a foreign port, to deposit his register, sea letter, and Mediterranean passport with the consul, vice consul, commercial agent, or vice commercial agent, if any there be at such port.”</p>
+                <p pgmap="504(447) 505(115)" id="b504-3">The court, after referring to decisions in which it had been held that one should not incur penalty in cases of doubt, and that courts should not extend a construction be­yond what is clear in such cases, said: “Taking this rule of construction with us, the inquiry is whether the words ‘ar­rival at a foreign port,’ as used in the first portion of the second section, and on which arrival the master is to deposit his papers, mean any touching at- a foreign port for any time, however short, or for any purpose or reason what­ever, or only on arrival to transact commercial business, fol­lowed in due time by an entry of the vessel. Sometimes the arrival of a vessel refers, undoubtedly, to her coming into a port from any cause, or for any purpose, and for any period. It is admitted that this may be the literal and gen­eral meaning of the term with lexicographers, but in several cases it is used to denote a coming in for certain special ob­jects of business, and to be followed by remaining there so long as to render an entry of the vessel proper, and a de­posit of her papers with a consul prqdent and useful. * * * On examination, the words ‘arrive’ and ‘arrival,’ when used in respect to matters of this kind in acts of congress, will, in several instances, appear to be used in the last sense, as applicable only to an arrival to enter and clear for business. Thus, in the thirteenth section of the act of December 31, 1792, the requirement that a temporary register of a vessel, instead of one lost, shall be delivered up ‘within ten days after her first arrival within the district to which she belongs,’ means, not touching or inquiring only, but arriving to enter and transáct business. Toler v. White, Ware, 281, Fed.Cas.No.14,079. * * * Our view, then, is that the term ‘arrival,’ as used in this act, must be construed according tó the subject-matter, — to the object of the provision and the expressions in other sections of this act and in other like acts; and that, according to all these, a vessel putting into a foreign port to get informa­tion, and getting it without going at all to the upper harbor or wharfs, and not entering or repairing or breaking bulk, or discharging seamen, or being b'ound homewards, so as to take seamen, or needing the aid of a consul in any respect, but leaving the port in a few hours, not doing any of these, nor being required to, and duly entering and delivering her cargo at a neighboring port where it had been sold, and there depositing her papers with the vice consul, cannot be said to have arrived at the first port, so as to come within the spirit of the penal provision, as to depositing her papers with the consul. So far as regards precedents on this mat­ter, the actual decisions of one court and the opinions of two attorneys general are in favor of our conclusions (see the case of Toler v. White, in 1 Ware, 277, Fed.Cas.No.­14,079); while the decision in Parsons v. Hunter, 2 Sumn. 419, Fed.Cas.No.10,778, is not against it, though the rea­soning is, and seems to unsettle the question.”</p>
+                <p pgmap="505(316) 506(260)" id="b505-4">In U. S. v. Shackford, 5 Mason, 445, Fed.Cas.No. 16, 262, it was attempted to recover a penalty against the master of a vessel for not delivering up a temporary reg­ister within 10 days after her arrival within the district to which she belonged. The vessel belonged to Eastport, and was there enrolled and licensed. She proceeded from her home port to New York, where she took a temporary register, and sailed on a voyage to St. Johns, New Bruns­wick, where she landed her cargo, and took a return cargo and passengers for New York. On her way to the latter place, she stopped at Eastport, in American waters, an­chored off the town, and waited about two hours for the tide, during which period she landed some passengers and their baggage, and took on board some other passengers and small stores, and then proceeded to New York. She did not deliver up her temporary register to the collector of the district within which she belonged. Story, J., in de­termining whether, under the facts, there was an arrival of the vessel within the district of Eastport, in the sense of the act, so that the penalty was incurred, said of the term “arrival”: “It may be used in the most general sense, as importing a mere entry within the local limits of the district, or it may be restrained to such an entry as is purely volun­tary, for objects connected with the voyage, and a part of the enterprise. Whether the one sense or the other is to be adopted depends upon a just survey of the language, and the policy of the statute. * * * In cases of this sort (and many such may be imagined), it is easy to see, if a rigid construction be adopted, that great embarrassments, if not material injuries, may arise to merchants and owners, from causes wholly beyond their control. Could the legis­lature have intended to impose restraints upon trade, un­less for some great and obvious benefit? Ought not mari­time laws, affecting employments so liable to accidents and disasters, and unforeseen emergencies as navigation and trade, to be literally construed in doubtful cases, so as to ward off, rather than to add weight to, the pressure of un­controllable misfortunes? My opinion is that they ought, and that it would be highly inconvenient, not to say unjust, to make every doubtful phrase a dragnet for penalties. It appears to me that the true interpretation of the section under consideration is that the arrival of the vessel pointed at is an arrival within the scope of the voyage, — an ar­rival in the district, not only voluntarily, but as a port of destination or terminus of the voyage. I do not say the sole or the ultimate port of destination, for I readily ad­mit that if the home port constitutes one of the places with­in the contemplation of the parties, where the vessel is to stop for the trade or business of the voyage, that would bring the case within the act, notwithstanding any ulterior destination. But a mere arrival in the district in the transit from one port to another, either accidentally or voluntarily, but for no purpose originally connected with the employ­ment or objects of the voyage, and as a mere emergent incident or fortuitous occurrence, is not within the purview or policy of the act.”</p>
+                <p pgmap="506" id="b506-3">In The Cargo ex Lady Essex, 39 F. 767, a case in which a vessel had been stranded by stress of weather, within the limits of a collection district, Brown, J., said: “It is clear that there was no arrival of the Victor, within the mean­ing of section 2867, since ca vessel is not considered to ar­rive, so as to be regarded as importing her cargo, unless she arrives within a port, and with an intent to enter her cargo.’ Harrison v. Vose, 9 How. 381. It is not enough that she comes within the limits of the district. U. S. v. Vowell, 5 Cranch, 372.”</p>
+                <p pgmap="506(50) 507(89)" id="b506-4">It has been settled by the almost unanimous concurrence of the decisions that the penalties imposed for violations of the general revenue laws are to receive a fair and rea­sonable construction; that such laws are not penal, in the sense which requires them to be strictly construed, but that they are to be interpreted in the light of the context, the purpose of the legislation, its policy, and its spirit, as well as its language; and that the words are to be construed in their ordinary sense, and in the light of commercial usage. U. S. v. Hodson, 10 Wall. 395; Taylor v. U. S., 3 How. 197, 210; U. S. v. Mynderse, 7 Blatchf. 483, Fed.Cas.No.15,­850; Twenty-Eight Cases of Wine, 2 Ben. 63, 66, Fed. Cas.No. 14,281; Ten Cases of Opium, Deady, 62, 70, Fed. Cas.No.13,828.</p>
+                <p pgmap="507(347) 508(82)" id="b507-4">In view of these principles and the facts of this case, we cannot say that the schooners arrived within the waters of the United States, or that they were bound to the United States. The words “and bound to the United States” must be given their reasonable meaning. If it had been intend­ed in the statute to prescribe a penalty for the unlading of the cargo of a foreign vessel merely upon her arrival with­in the waters of the United States, irrespective of the pur­pose for which she entered those waters, it is evident that the words “and bound to the United States” would have no place in the statute. It is not every casual- arrival of a vessel within the waters of the United States, and the un­lading of a portion of her cargo within such waters, there­fore, that comes within the prohibition of the statute. The vessel must also be one bound to the United States, for the purposes of her voyage. The unlading must be of a cargo which is destined to the United States, and to be there discharged. This is contemplated in the words of the statute which confine the penalty to an unlading “before such vessel has come to the proper place for the discharge of her cargo or some part thereof.” It is not contended that any injury has been done to the United States by the acts which are complained of in the libel, or that the Unit­ed States has in any way been defrauded of revenue, or that there was an intention upon the part of the masters or owners of any of the vessels to evade the provisions of the revenue laws. The merchandise was not bound to the United States, nor was it consigned to any person, nor destined to be delivered at any place in the United States. But it is contended that the policy and spirit of the law has been broken by the transfers of the merchandise within the waters of the United States, without permission from the proper authorities; and our attention is directed to the danger of frauds upon the revenues which may result from the permission of such transfers. We must not be diverted from determining what is the fair purport and meaning of the law by considerations such as these. If the statutes, upon a proper interpretation of their meaning and purpose, have not prohibited the act which has been done in this case, the penalty denounced by the statute has not been in­curred.</p>
+                <p pgmap="508" id="b508-4">In the case of Jackson v. U. S., 4 Mason, 186, Fed.Cas. No.7,149, Story, J., in deciding whether a coasting vessel, having on board goods which have not paid duties, is with­in the purview of the fiftieth section of the revenue act of 1799, as to landing foreign goods without a permit, said:</p>
+                <blockquote pgmap="508" id="AkA">“I am aware that this view of the act leaves the revenue system exposed to great frauds, and that if coasting vessels are. exempted, under like circumstances, from obtaining per­mits, there is great probability that the revenue will suffer to an alarming extent by a very easy, and at the same time a very mischievous, process. The remedy, however, lies with congress, and not with courts of law.”</blockquote>
+                <p pgmap="508" id="b508-5">The second count of the libel seeks to forfeit the steam­ship for violation of section 3109 of the Revised Statutes (19 U.S.C.A. § 275 note)-. That section provides as fol­lows: “Sec. 3109. The master of any foreign vessel, laden or in ballast, arriving in the waters of the United States from any foreign territory adjacent to the northern, northeastern, or northwestern frontiers of the United .States, shall report at the office of any collector or deputy collector of the customs, which shall be nearest to the point at which sueh vessel may enter such waters; and such vessel shall not proceed farther inland, either to unlade or take in cargo, without a special permit from such collector or deputy collector, issued under and in accordance with such general or special regulations as the secretary of the treasury may in his discretion, from time to time, prescribe. For any violation of this section such vessel shall be seized and for­feited.”</p>
+                <p pgmap="508(31) 509(227)" id="b508-6">There is here imposed upon the master of any foreign vessel, arriving under the conditions mentioned in the stat­ute, the duty of reporting at the office of any collector or deputy collector of customs, and a prohibition against the vessel proceeding further inland, either to unlade or take in cargo, without a special permit. It is not alleged in the libel that the vessel proceeded further inland after arriving in the waters of the United States, for any purpose; but it is alleged that the master did not report at the office of the collector of customs at Kodiak, nor to any other col­lector of customs for said district. The arrival of the ves­sel here referred to is an arrival for the purpose of dis­charging or receiving cargo, and with the intent to proceed further inland; and, as in the case of the statutes referred to in the first and third counts, it is not violated by the master merely bringing his vessel within the waters of the United States, and failing to report her presence there, but the penalty is incurred only in case such vessel proceeds further inland, either to unlade or take in cargo, without a special permit from the collector. Not only does the libel fail to allege that the Coquitlam, after entering the waters of the United States, proceeded further inland, either to unlade or take in cargo, but there is in the record no proof upon which such an allegation could be sustained if it had been made.</p>
+                <p pgmap="509(195) 510(78)" id="b509-4">The fourth count alleges the violation of Rev.St. §§ 2806, 2807, 2809. The first of those sections provides that no merchandise shall be brought into the United States from any foreign port, in any vessel, unless the master has on board manifests in writing of the cargo, signed by such master. Section 2807 prescribes what the manifest shall contain. Section 2809 imposes the penalty for violation of the two preceding sections, and declares that “the master shall be liable to a penalty equal to the value of such' mer­chandise not included in such manifest, and all such mer­chandise not included in the manifest, belonging or con­signed to the master, mate, officers or crew of such vessel, shall be forfeited.” There is no attempt upon the part of the United States to impose a penalty upon the master for violation of these statutes. It is sought by the libel to for­feit the merchandise only. • The statute makes forfeitable only such merchandise as is consigned to the master, mate, officers, or crew. It is not alleged in the libel that any of the merchandise was so consigned. This would be an es­sential averment to a count claiming the forfeiture of the cargo under the provisions of section 2809. The answer of the owners of the cargo, as already shown, contains the distinct averment that the merchandise was not consigned to the master, officers, or crew, but to the owners thereof, and there is no proof to the contrary. It is unnecessary, therefore, to further consider this count of the libel. The decree will be reversed, and the libel dismissed.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author pgmap="510" id="b510-4">McKENNA, Circuit Judge</author>
+                <p pgmap="510" id="Axs">(concurring).</p>
+                <p pgmap="510" id="b510-5">A careful review and consideration of the facts of this case convince me that the finding of the district court “that on the 19th day of June, 1892, within the United States, in the collection district of Alaska, and within the waters thereof, within four leagues of the coast of Alaska, and within the jurisdiction of this court,” the cargoes of the various vessels were transferred to the Coquitlam, is not sustained by the evidence; and I therefore concur in the judgment of reversal. On the other points decided by the majority of the court I express no opinion.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="495" ORDERLABEL="483" TYPE="page">
+        <fptr FILEID="tiff_00248_0"/>
+        <fptr FILEID="jpg_00248_0"/>
+        <fptr FILEID="alto_00248_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_495.2" BETYPE="IDREF" FILEID="alto_00248_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="496" ORDERLABEL="484" TYPE="page">
+        <fptr FILEID="tiff_00248_1"/>
+        <fptr FILEID="jpg_00248_1"/>
+        <fptr FILEID="alto_00248_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_496.2" BETYPE="IDREF" FILEID="alto_00248_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="497" ORDERLABEL="485" TYPE="page">
+        <fptr FILEID="tiff_00249_0"/>
+        <fptr FILEID="jpg_00249_0"/>
+        <fptr FILEID="alto_00249_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_497.3" BETYPE="IDREF" FILEID="alto_00249_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="498" ORDERLABEL="486" TYPE="page">
+        <fptr FILEID="tiff_00249_1"/>
+        <fptr FILEID="jpg_00249_1"/>
+        <fptr FILEID="alto_00249_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_498.2" BETYPE="IDREF" FILEID="alto_00249_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="499" ORDERLABEL="487" TYPE="page">
+        <fptr FILEID="tiff_00250_0"/>
+        <fptr FILEID="jpg_00250_0"/>
+        <fptr FILEID="alto_00250_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_499.3" BETYPE="IDREF" FILEID="alto_00250_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="500" ORDERLABEL="488" TYPE="page">
+        <fptr FILEID="tiff_00250_1"/>
+        <fptr FILEID="jpg_00250_1"/>
+        <fptr FILEID="alto_00250_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_500.2" BETYPE="IDREF" FILEID="alto_00250_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="501" ORDERLABEL="489" TYPE="page">
+        <fptr FILEID="tiff_00251_0"/>
+        <fptr FILEID="jpg_00251_0"/>
+        <fptr FILEID="alto_00251_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_501.3" BETYPE="IDREF" FILEID="alto_00251_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="502" ORDERLABEL="490" TYPE="page">
+        <fptr FILEID="tiff_00251_1"/>
+        <fptr FILEID="jpg_00251_1"/>
+        <fptr FILEID="alto_00251_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_502.2" BETYPE="IDREF" FILEID="alto_00251_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="503" ORDERLABEL="491" TYPE="page">
+        <fptr FILEID="tiff_00252_0"/>
+        <fptr FILEID="jpg_00252_0"/>
+        <fptr FILEID="alto_00252_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_503.3" BETYPE="IDREF" FILEID="alto_00252_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="504" ORDERLABEL="492" TYPE="page">
+        <fptr FILEID="tiff_00252_1"/>
+        <fptr FILEID="jpg_00252_1"/>
+        <fptr FILEID="alto_00252_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_504.1" BETYPE="IDREF" FILEID="alto_00252_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="505" ORDERLABEL="493" TYPE="page">
+        <fptr FILEID="tiff_00253_0"/>
+        <fptr FILEID="jpg_00253_0"/>
+        <fptr FILEID="alto_00253_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_505.3" BETYPE="IDREF" FILEID="alto_00253_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="506" ORDERLABEL="494" TYPE="page">
+        <fptr FILEID="tiff_00253_1"/>
+        <fptr FILEID="jpg_00253_1"/>
+        <fptr FILEID="alto_00253_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_506.2" BETYPE="IDREF" FILEID="alto_00253_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="507" ORDERLABEL="495" TYPE="page">
+        <fptr FILEID="tiff_00254_0"/>
+        <fptr FILEID="jpg_00254_0"/>
+        <fptr FILEID="alto_00254_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_507.3" BETYPE="IDREF" FILEID="alto_00254_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="508" ORDERLABEL="496" TYPE="page">
+        <fptr FILEID="tiff_00254_1"/>
+        <fptr FILEID="jpg_00254_1"/>
+        <fptr FILEID="alto_00254_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_508.2" BETYPE="IDREF" FILEID="alto_00254_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="509" ORDERLABEL="497" TYPE="page">
+        <fptr FILEID="tiff_00255_0"/>
+        <fptr FILEID="jpg_00255_0"/>
+        <fptr FILEID="alto_00255_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_509.3" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="510" ORDERLABEL="498" TYPE="page">
+        <fptr FILEID="tiff_00255_1"/>
+        <fptr FILEID="jpg_00255_1"/>
+        <fptr FILEID="alto_00255_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_510.2" BETYPE="IDREF" FILEID="alto_00255_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.5" BETYPE="IDREF" FILEID="alto_00253_1"/>
+            <area BEGIN="BL_507.1" BETYPE="IDREF" FILEID="alto_00254_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.4" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.4" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.5" BETYPE="IDREF" FILEID="alto_00251_1"/>
+            <area BEGIN="BL_503.1" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-3" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.3" BETYPE="IDREF" FILEID="alto_00252_1"/>
+            <area BEGIN="BL_505.1" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-6" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.7" BETYPE="IDREF" FILEID="alto_00254_1"/>
+            <area BEGIN="BL_509.1" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.4" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            <area BEGIN="BL_510.1" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkA" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.5" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-3" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.4" BETYPE="IDREF" FILEID="alto_00250_1"/>
+            <area BEGIN="BL_501.1" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.6" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.5" BETYPE="IDREF" FILEID="alto_00251_0"/>
+            <area BEGIN="BL_502.1" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.4" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b495-8" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_495.7" BETYPE="IDREF" FILEID="alto_00248_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.4" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.4" BETYPE="IDREF" FILEID="alto_00253_0"/>
+            <area BEGIN="BL_506.1" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.6" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.4" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.5" BETYPE="IDREF" FILEID="alto_00250_0"/>
+            <area BEGIN="BL_500.1" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.4" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b495-3" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_495.3" BETYPE="IDREF" FILEID="alto_00248_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-3" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.4" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b498-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_498.4" BETYPE="IDREF" FILEID="alto_00249_1"/>
+            <area BEGIN="BL_499.1" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b495-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_495.4" BETYPE="IDREF" FILEID="alto_00248_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b495-7" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_495.6" BETYPE="IDREF" FILEID="alto_00248_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b495-6" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_495.5" BETYPE="IDREF" FILEID="alto_00248_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b496-6" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_496.10" BETYPE="IDREF" FILEID="alto_00248_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b496-7" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_496.11" BETYPE="IDREF" FILEID="alto_00248_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b496-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_496.9" BETYPE="IDREF" FILEID="alto_00248_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b496-8" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_496.12" BETYPE="IDREF" FILEID="alto_00248_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b496-9" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_496.13" BETYPE="IDREF" FILEID="alto_00248_1"/>
+            <area BEGIN="BL_497.1" BETYPE="IDREF" FILEID="alto_00249_0"/>
+            <area BEGIN="BL_498.1" BETYPE="IDREF" FILEID="alto_00249_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b507-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_507.4" BETYPE="IDREF" FILEID="alto_00254_0"/>
+            <area BEGIN="BL_508.1" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Axs" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.5" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

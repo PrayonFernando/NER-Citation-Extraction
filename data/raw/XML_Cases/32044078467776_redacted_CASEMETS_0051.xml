@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078467776_0051" publicationstatus="published">
+          <court abbreviation="D. Alaska" jurisdiction="United States">United States District Court for the District of Alaska</court>
+          <name abbreviation="Esberg-Bachman Leaf-Tobacco Co. v. Heid">ESBERG-BACHMAN LEAF-TOBACCO CO. v. HEID</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">1 Alaska Fed. 377</citation>
+          <citation category="parallel" type="bluebook">62 F. 962</citation>
+          <decisiondate>1894-07-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2015-08-21T15:43:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-10-29T12:23:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-07T14:24:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-07T14:27:38Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>proc0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>compression</eventType>
+            <eventDateTime>2018-10-26T20:22:03Z</eventDateTime>
+            <eventDetail>File compression</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00195_0" MIMETYPE="image/tiff" CHECKSUM="c9fd00cdb886e87a1e5cfc1188a54567" CHECKSUMTYPE="MD5" SIZE="33714">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00195_0.tif"/>
+      </file>
+      <file ID="tiff_00195_1" MIMETYPE="image/tiff" CHECKSUM="ef4659c851757e9d07eaad86c5cdd011" CHECKSUMTYPE="MD5" SIZE="47856">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00195_1.tif"/>
+      </file>
+      <file ID="tiff_00196_0" MIMETYPE="image/tiff" CHECKSUM="84ba32c40af339ff0981969bf437058d" CHECKSUMTYPE="MD5" SIZE="52588">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00196_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jpg">
+      <file ID="jpg_00195_0" MIMETYPE="image/jpg" CHECKSUM="c82d7b6788855c63cfee67e231bd8fc8" CHECKSUMTYPE="MD5" SIZE="145332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00195_0.jpg"/>
+      </file>
+      <file ID="jpg_00195_1" MIMETYPE="image/jpg" CHECKSUM="e037d4f59824ed0c5c50871a0dc23292" CHECKSUMTYPE="MD5" SIZE="188982">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00195_1.jpg"/>
+      </file>
+      <file ID="jpg_00196_0" MIMETYPE="image/jpg" CHECKSUM="d110c530391bb536ca7ef3db90ac7999" CHECKSUMTYPE="MD5" SIZE="194822">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078467776_00196_0.jpg"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00195_0" MIMETYPE="text/xml+gzip" CHECKSUM="45cfbf333d7f00180aed8b5a437368fe" CHECKSUMTYPE="MD5" SIZE="8683">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00195_0.xml.gz"/>
+      </file>
+      <file ID="alto_00195_1" MIMETYPE="text/xml+gzip" CHECKSUM="c14058ab26f70ccfa2be390941ba1c4a" CHECKSUMTYPE="MD5" SIZE="11214">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00195_1.xml.gz"/>
+      </file>
+      <file ID="alto_00196_0" MIMETYPE="text/xml+gzip" CHECKSUM="310bc8e6dba72129ee7c98b72825ded1" CHECKSUMTYPE="MD5" SIZE="12592">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078467776_redacted_ALTO_00196_0.xml.gz"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0051" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="377" lastpage="379">
+              <court pgmap="389" id="b389-6">District Court, D. Alaska.</court>
+              <citation pgmap="389" id="b389-4">62 F. 962</citation>
+              <parties pgmap="389" id="b389-5">ESBERG-BACHMAN LEAF-TOBACCO CO. v. HEID.</parties>
+              <decisiondate pgmap="389" id="b389-7">July 21, 1894.</decisiondate>
+              <attorneys pgmap="390" id="b390-4">Bugbee &amp; Blackett and Lytton Taylor, for plaintiff.</attorneys>
+              <attorneys pgmap="390" id="b390-5">Johnson &amp; Heid, for defendant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="390" id="b390-6">TRUITT, District Judge.</author>
+                <p pgmap="390" id="Avm">This is an action brought on a written guaranty by defendant to pay an indebtedness of one T. Cohen for certain goods, wares, and merchan­dise, of the price and value of $427.79, sold and delivered by plaintiff to said Cohen, for which he agreed to pay at the expiration of four months from the 19th day of Janu­ary, 1892, — the date of the sale of said goods, wares, and merchandise. After alleging the sale and delivery of the goods, the promise to pay, and that the whole of the pur­chase price still remains due and wholly unpaid, the com­plaint sets out the following to show defendant’s liability herein: “That said defendant, for and in consideration of said sale and delivery of said goods, wares, and mer­chandise to said T. Cohen at the times aforesaid, and as a part of the same transaction, promised and agreed, by his certain instrument in writing bearing date December 15, 1891, that he would pay to plaintiff the said indebted­ness of said T. Cohen when and as soon as the same should thereafter become due, viz. on or about May 19, 1892; that said defendant, although knowing full well that said T. Cohen had failed and neglected to pay said indebtedness, or any part thereof, when the same thereafter became due, and although often requested by plaintiff to pay such indebtedness of said T. Cohen, has failed and neglected and refused, and still fails, neglects, and refuses, to pay the same, or any part thereof.”</p>
+                <p pgmap="390(83) 391(407)" id="b390-7">The defendant has interposed a general demurrer as a defense. To sustain the demurrer, it is urged that plain­tiff must allege in the complaint that he has used due dili­gence to collect his demand from the principal debtor, and that he has exhausted all his legal remedies against him without avail, or that he is insolvent and unable to pay the said indebtedness, or any part thereof. But to charge the defendant under such a contract as is alleged in the complaint, the plaintiff is not required to allege or prove either that he has exhausted his legal remedies against the principal debtor, or his insolvency. The terms of the guar­anty must always determine and fix the nature and extent of the guarantor’s liability. In this case there is an abso­lute obligation for the payment of said indebtedness if Cohen failed to pay it as soon as due, not a guaranty that the money can be made out of him by due diligence. It is not a conditional obligation to be affected by contin­gencies, but a plain contract to pay the plaintiff for said goods, wares, and merchandise when payment therefor should become due. Rand.Com.Paper, § 850, makes this distinction very clear. “A guaranty,” says this author, “may be absolute (that is, for the payment of the bill or note), or conditional (that is, a guaranty that it is col­lectible by due diligence). One who guaranties payment becomes absolutely liable on any default of payment by his principal.” In the case of City of Memphis v. Brown, 20 Wall. 294, it is held that “upon guaranty of payment, and not collection merely, a suit may be commenced against the guarantor without any previous suit against the prim cipal.” Also, see Whiting v. Clark, 17 Cal. 407, and Hanna v. Savage, 7 Wash. 414, 35 P. 127, 36 P. 269. But in this case, under the contract alleged in the complaint, I am not certain that the defendant stands in the relation of a guarantor to the plaintiff. It is alleged that, as a part of the transaction of purchasing the said goods, wares, and merchandise, the defendant promised he would pay to plaintiff the said indebtedness “when and as soon as the same should thereafter become due.” Now, it seems to me that the effect of this contract is such as to make defendant the absolute debtor of plaintiff, or at least a joint and several debtor with said Cohen, if considered in connection with the other allegation of the complaint,— that, at the time of the purchase of the goods, Cohen promised to pay for them when payment therefor should become due, — in which case plaintiff might properly sue either one or both of them. But, whether defendant herein be considered as a guarantor or original debtor, the com­plaint shows a good cause of action and the demurrer must be overruled.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="389" ORDERLABEL="377" TYPE="page">
+        <fptr FILEID="tiff_00195_0"/>
+        <fptr FILEID="jpg_00195_0"/>
+        <fptr FILEID="alto_00195_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_389.2" BETYPE="IDREF" FILEID="alto_00195_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="390" ORDERLABEL="378" TYPE="page">
+        <fptr FILEID="tiff_00195_1"/>
+        <fptr FILEID="jpg_00195_1"/>
+        <fptr FILEID="alto_00195_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_390.1" BETYPE="IDREF" FILEID="alto_00195_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="391" ORDERLABEL="379" TYPE="page">
+        <fptr FILEID="tiff_00196_0"/>
+        <fptr FILEID="jpg_00196_0"/>
+        <fptr FILEID="alto_00196_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_391.3" BETYPE="IDREF" FILEID="alto_00196_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-7" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.12" BETYPE="IDREF" FILEID="alto_00195_1"/>
+            <area BEGIN="BL_391.1" BETYPE="IDREF" FILEID="alto_00196_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-6" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.9" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Avm" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.10" BETYPE="IDREF" FILEID="alto_00195_1"/>
+            <area BEGIN="BL_390.11" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-5" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.8" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-4" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.7" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-5" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.6" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-4" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.5" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-7" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.8" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-6" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.7" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>
