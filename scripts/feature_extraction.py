@@ -54,7 +54,7 @@ with open("../data/processed/annotated_data/test_data.jsonl", "r") as f:
     test_data = [json.loads(line) for line in f]
 
 # Train and evaluate the citation model
-citation_classifier, tfidf_vectorizer = train_and_evaluate_model()  # This will train the classifier and return it
+citation_classifier, tfidf_vectorizer = train_and_evaluate_model()
 
 
 max_seq_length = max(len(sample["tokens"]) for sample in train_data)
