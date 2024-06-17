@@ -44,7 +44,7 @@ save_directory = "../../data/processed/annotated_data"  # Create this directory 
 os.makedirs(save_directory, exist_ok=True)
 
 # Load your JSON data
-with open("../../data/raw/CasesMetadata.json", "r") as f:
+with open("../data/raw/CasesMetadata.json", "r") as f:
     data = json.load(f)
 
 # Annotate the data
