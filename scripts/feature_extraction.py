@@ -13,7 +13,7 @@ import logging
 # Load spaCy model for POS tagging
 nlp = spacy.load("en_core_web_sm")
 
-# Initialize label_to_id
+# Initialize label_to_id outside of the functions
 label_to_id = {'O': 0, 'B-CITATION': 1, 'I-CITATION': 2}
 
 
@@ -29,8 +29,8 @@ def extract_features(tokens, citation_classifier, tfidf_vectorizer, max_seq_leng
             token_features.append(doc[0].pos_)
 
             # Character Features (Ensure everything is a string)
-            token_features.append('True' if token[0].isupper() else 'False')  # Convert boolean to string
-            token_features.append('True' if token.isdigit() else 'False')  # Convert boolean to string
+            token_features.append(str(token[0].isupper()))
+            token_features.append(str(token.isdigit()))
 
             # Get predictions from citation classifier only for non-padded tokens
             if token != 'O':
@@ -39,12 +39,12 @@ def extract_features(tokens, citation_classifier, tfidf_vectorizer, max_seq_leng
             else:
                 prob = 0.0  # Set probability to 0 for padded tokens
 
-            token_features.append(str(prob))  # Add citation probability as a feature
+            token_features.append(prob)  # Add citation probability as a feature
             features.append(token_features)
 
-    # Pad features to ensure consistent sequence length (use 0 for numeric padding)
+    # Pad features to ensure consistent sequence length (use 0 for numeric padding, "" for others)
     for i in range(len(features), max_seq_length):
-        features.append(['', 'False', 'False', '0.0'])
+        features.append(['', 'False', 'False', 0.0])  # Added quotes around the False values
 
     return features
 
@@ -73,6 +73,21 @@ def pad_sequences(sequences, max_length, padding_value='O'):
     return padded_sequences
 
 
+def create_label_to_id(labels):
+    """Creates a mapping from labels to numerical indices."""
+    unique_labels = set(labels)
+    label_to_id = {label: i for i, label in enumerate(unique_labels)}
+    return label_to_id
+
+
+def encode_labels(sequences, label_to_id):
+    """Encodes string labels to numerical indices based on a label-to-id mapping."""
+    encoded_sequences = []
+    for seq in sequences:
+        encoded_sequences.append([label_to_id[label] for label in seq])
+    return encoded_sequences
+
+
 # Extract features for training and testing data
 X_train = [extract_features(sample["tokens"], citation_classifier, tfidf_vectorizer, max_seq_length) for sample in
            train_data]
@@ -97,12 +112,8 @@ with open('../models/label_encoder.pkl', 'wb') as f:
     pickle.dump(label_encoder, f)
 
 # Encode labels
-y_train_encoded = label_encoder.transform(np.concatenate(y_train_padded)).reshape(len(y_train_padded), -1)
-y_test_encoded = label_encoder.transform(np.concatenate(y_test_padded)).reshape(len(y_test_padded), -1)
-
-# Convert back to original labels
-y_train = [label_encoder.inverse_transform(seq) for seq in y_train_encoded]
-y_test = [label_encoder.inverse_transform(seq) for seq in y_test_encoded]
+y_train_encoded = encode_labels(y_train_padded, label_to_id)
+y_test_encoded = encode_labels(y_test_padded, label_to_id)
 
 # ------------------MODEL TRAINING-----------------
 crf = sklearn_crfsuite.CRF(
@@ -112,14 +123,14 @@ crf = sklearn_crfsuite.CRF(
     max_iterations=100,
     all_possible_transitions=True
 )
-crf.fit(X_train, y_train)
+crf.fit(X_train, y_train_encoded)
 
 # Evaluate the model
 y_pred = crf.predict(X_test)
 
 # Flatten the predictions
 y_pred_flat = [label for seq in y_pred for label in seq]
-y_test_flat = [label for seq in y_test for label in seq]
+y_test_flat = [label for seq in y_test_padded for label in seq]
 
 # Calculate and print the classification report (using sklearn)
 from sklearn.metrics import classification_report
@@ -131,4 +142,5 @@ print(classification_report(
     digits=3
 ))
 
+# save model
 joblib.dump(crf, '../models/citation_extractor_crf.pkl')  # Save the model
