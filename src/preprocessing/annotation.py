@@ -16,7 +16,8 @@ def annotate_data(data):
 
         # Process each field separately and store its tokens and labels
         for field_name, field_value in case.items():
-            if isinstance(field_value, list) and field_name != 'cites_to':  # Handle lists (except cites_to, as they are not necessary for our task)
+            if isinstance(field_value,
+                          list) and field_name != 'cites_to':  # Handle lists (except cites_to, as they are not necessary for our task)
                 for item in field_value:
                     for sub_field_name, sub_field_value in item.items():
                         if sub_field_name == 'cite':  # Label citations with B-CITATION and I-CITATION
@@ -32,19 +33,23 @@ def annotate_data(data):
                 case_tokens.extend(tokens)
                 case_labels.extend(["O"] * len(tokens))
 
+        # Check for citations and label the entire case accordingly
+        has_citation = any(label != 'O' for label in case_labels)
         annotated_data.append({
             "tokens": case_tokens,
             "labels": case_labels,
+            "has_citation": has_citation
         })
 
     return annotated_data
+
 
 # Specify the directory to save the annotated data
 save_directory = "../../data/processed/annotated_data"  # Create this directory if it doesn't exist
 os.makedirs(save_directory, exist_ok=True)
 
 # Load your JSON data
-with open("../data/raw/CasesMetadata.json", "r") as f:
+with open("../../data/raw/CasesMetadata.json", "r") as f:
     data = json.load(f)
 
 # Annotate the data

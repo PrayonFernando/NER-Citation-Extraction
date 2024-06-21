@@ -14,8 +14,7 @@ import logging
 nlp = spacy.load("en_core_web_sm")
 
 # Initialize label_to_id outside of the functions
-label_to_id = {'O': 0, 'B-CITATION': 1, 'I-CITATION': 2}
-
+# label_to_id = {'O': 0, 'B-CITATION': 1, 'I-CITATION': 2}
 
 def extract_features(tokens, citation_classifier, tfidf_vectorizer, max_seq_length):
     """Extracts features for a sequence of tokens and returns a list of lists of features."""
@@ -29,8 +28,8 @@ def extract_features(tokens, citation_classifier, tfidf_vectorizer, max_seq_leng
             token_features.append(doc[0].pos_)
 
             # Character Features (Ensure everything is a string)
-            token_features.append(str(token[0].isupper()))
-            token_features.append(str(token.isdigit()))
+            token_features.append(str(token[0].isupper()))  # Convert boolean to string
+            token_features.append(str(token.isdigit()))  # Convert boolean to string
 
             # Get predictions from citation classifier only for non-padded tokens
             if token != 'O':
@@ -39,14 +38,16 @@ def extract_features(tokens, citation_classifier, tfidf_vectorizer, max_seq_leng
             else:
                 prob = 0.0  # Set probability to 0 for padded tokens
 
-            token_features.append(prob)  # Add citation probability as a feature
+            token_features.append(str(prob))  # Add citation probability as a feature
             features.append(token_features)
 
-    # Pad features to ensure consistent sequence length (use 0 for numeric padding, "" for others)
-    for i in range(len(features), max_seq_length):
-        features.append(['', 'False', 'False', 0.0])  # Added quotes around the False values
+    # Pad features to ensure consistent sequence length (use 0 for numeric padding)
+    features = np.array(features)
+    padded_features = np.pad(features, ((0, max_seq_length - len(features)), (0, 0)), mode='constant',
+                             constant_values=('', 0))
+    padded_features = padded_features.astype(str)  # Convert all values to strings
 
-    return features
+    return padded_features
 
 
 # Load your annotated training and testing data
@@ -61,7 +62,6 @@ citation_classifier, tfidf_vectorizer = train_and_evaluate_model()  # This will 
 # Calculate max_seq_length (to be used in extract_features)
 max_seq_length = max(len(sample["tokens"]) for sample in train_data)
 
-
 def pad_sequences(sequences, max_length, padding_value='O'):
     """Pads sequences to a specified length with the given padding value."""
     padded_sequences = []
@@ -69,7 +69,7 @@ def pad_sequences(sequences, max_length, padding_value='O'):
         if len(seq) < max_length:
             padded_sequences.append(seq + [padding_value] * (max_seq_length - len(seq)))
         else:
-            padded_sequences.append(seq[:max_length])  # Truncate if longer
+            padded_sequences.append(seq[:max_seq_length])  # Truncate if longer
     return padded_sequences
 
 
@@ -87,8 +87,7 @@ def encode_labels(sequences, label_to_id):
         encoded_sequences.append([label_to_id[label] for label in seq])
     return encoded_sequences
 
-
-# Extract features for training and testing data
+#Extract features for training and testing data
 X_train = [extract_features(sample["tokens"], citation_classifier, tfidf_vectorizer, max_seq_length) for sample in
            train_data]
 X_test = [extract_features(sample["tokens"], citation_classifier, tfidf_vectorizer, max_seq_length) for sample in
@@ -104,16 +103,19 @@ y_test_padded = pad_sequences(y_test, max_seq_length)
 
 # Combine all labels after padding
 all_labels = [label for seq in y_train_padded for label in seq] + [label for seq in y_test_padded for label in seq]
-label_encoder = LabelEncoder()
-label_encoder.fit(all_labels)
 
-# Save the updated label encoder
-with open('../models/label_encoder.pkl', 'wb') as f:
-    pickle.dump(label_encoder, f)
+#Create label to id dictionary
+label_to_id = create_label_to_id(all_labels)
 
 # Encode labels
 y_train_encoded = encode_labels(y_train_padded, label_to_id)
 y_test_encoded = encode_labels(y_test_padded, label_to_id)
+
+# Save the updated label encoder
+with open('../models/label_encoder.pkl', 'wb') as f:
+    pickle.dump(label_to_id, f)
+
+
 
 # ------------------MODEL TRAINING-----------------
 crf = sklearn_crfsuite.CRF(
@@ -134,11 +136,10 @@ y_test_flat = [label for seq in y_test_padded for label in seq]
 
 # Calculate and print the classification report (using sklearn)
 from sklearn.metrics import classification_report
-
 print(classification_report(
     y_test_flat,
     y_pred_flat,
-    labels=list(label_encoder.classes_),
+    labels=list(label_to_id.keys()),
     digits=3
 ))
 
