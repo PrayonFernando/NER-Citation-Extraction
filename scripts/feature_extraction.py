@@ -35,19 +35,18 @@ def extract_features(tokens, citation_classifier, tfidf_vectorizer, max_seq_leng
             if token != 'O':
                 text_tfidf = tfidf_vectorizer.transform([token])
                 prob = citation_classifier.predict_proba(text_tfidf)[0][1]
+                token_features.append(str(prob))  # Add citation probability as a feature
             else:
-                prob = 0.0  # Set probability to 0 for padded tokens
+                # If the token is 'O' (padding), append default values as strings
+                token_features.extend(['', 'False', 'False', '0.0'])
 
-            token_features.append(str(prob))  # Add citation probability as a feature
             features.append(token_features)
 
-    # Pad features to ensure consistent sequence length (use 0 for numeric padding)
-    features = np.array(features)
-    padded_features = np.pad(features, ((0, max_seq_length - len(features)), (0, 0)), mode='constant',
-                             constant_values=('', 0))
-    padded_features = padded_features.astype(str)  # Convert all values to strings
+    # Pad features to ensure consistent sequence length (use '' for string padding)
+    for i in range(len(features), max_seq_length):
+        features.append(['', 'False', 'False', '0.0'])  # Padding with empty strings and 'False' for boolean features
 
-    return padded_features
+    return features  # Return a list of lists of strings
 
 
 # Load your annotated training and testing data
