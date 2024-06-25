@@ -13,7 +13,7 @@ import logging
 # Load spaCy model for POS tagging
 nlp = spacy.load("en_core_web_sm")
 
-# Define label_to_id outside of the functions
+# Define label2id dictionary
 label_to_id = {'O': 0, 'B-CITATION': 1, 'I-CITATION': 2}
 
 
@@ -29,8 +29,8 @@ def extract_features(tokens, citation_classifier, tfidf_vectorizer, max_seq_leng
             token_features.append(doc[0].pos_)
 
             # Character Features (Ensure everything is a string)
-            token_features.append(str(token[0].isupper()))  # Convert boolean to string
-            token_features.append(str(token.isdigit()))  # Convert boolean to string
+            token_features.append(str(token[0].isupper()))
+            token_features.append(str(token.isdigit()))
 
             # Get predictions from citation classifier only for non-padded tokens
             if token != 'O':
@@ -39,17 +39,14 @@ def extract_features(tokens, citation_classifier, tfidf_vectorizer, max_seq_leng
             else:
                 prob = 0.0  # Set probability to 0 for padded tokens
 
-            token_features.append(prob)  # Add citation probability as a feature
+            token_features.append(str(prob))  # Add citation probability as a feature
             features.append(token_features)
 
-    # Pad features to ensure consistent sequence length (use 0 for numeric padding)
-    features = np.array(features)
-    padded_features = np.pad(features, ((0, max_seq_length - len(features)), (0, 0)), mode='constant',
-                             constant_values=('', 0))
-    padded_features[:, 1:3] = padded_features[:, 1:3].astype(str)  # Convert boolean values to strings
-    padded_features = padded_features.tolist()  # Convert to list of lists
+    # Pad features to ensure consistent sequence length (use 0 for numeric padding and "False" for boolean values)
+    for i in range(len(features), max_seq_length):
+        features.append(['', 'False', 'False', '0.0'])  # Padding with empty strings and False for boolean features
 
-    return padded_features
+    return features
 
 
 def pad_sequences(sequences, max_length, padding_value='O'):
