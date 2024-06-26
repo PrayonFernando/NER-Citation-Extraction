@@ -5,54 +5,39 @@ import spacy
 import numpy as np
 from sklearn.preprocessing import LabelEncoder
 from src.models.citation_model import train_and_evaluate_model, preprocess_text
-import sklearn_crfsuite
-from sklearn_crfsuite import metrics
-import joblib
-import logging
-import re
+from spacy.training.example import Example
+from spacy.scorer import Scorer
 
 # Load spaCy model for POS tagging
 nlp = spacy.load("en_core_web_sm")
 
-# Initialize label_to_id
-label_to_id = {'O': 0, 'B-CITATION': 1, 'I-CITATION': 2, 'B-CASE_NAME': 3,
-               'I-CASE_NAME': 4, 'B-COURT_NAME': 5, 'I-COURT_NAME': 6, 'B-DATE': 7, 'I-DATE': 8}
+# Define label_to_id outside of the functions
+label_to_id = {'O': 0, 'B-CITATION': 1, 'I-CITATION': 2,
+               'B-CASE_NAME': 3, 'I-CASE_NAME': 4,
+               'B-COURT_NAME': 5, 'I-COURT_NAME': 6,
+               'B-DATE': 7, 'I-DATE': 8}  # Include all potential labels
 
-
-def extract_features(tokens, citation_classifier, tfidf_vectorizer, max_seq_length):
-    """Extracts features for a sequence of tokens and returns a list of lists of features."""
+def extract_features(tokens, max_seq_length):
+    """Extracts features for a sequence of tokens."""
     features = []
-    if tokens:
-        for i, token in enumerate(tokens):
-            token_features = []
+    for i, token in enumerate(tokens):
+        token_features = []
 
-            # POS Tag
-            doc = nlp(token)
-            token_features.append(doc[0].pos_)
+        # POS Tag
+        doc = nlp(token)
+        token_features.append(doc[0].pos_)
 
-            # Character Features (Ensure everything is a string)
-            token_features.append(str(token[0].isupper()))  # Convert boolean to string
-            token_features.append(str(token.isdigit()))  # Convert boolean to string
+        # Character Features (Ensure everything is a string)
+        token_features.append(str(token[0].isupper()))  # Is capitalized?
+        token_features.append(str(token.isdigit()))  # Is numeric?
 
-            # Get predictions from citation classifier only for non-padded tokens
-            if token != 'O':
-                text_tfidf = tfidf_vectorizer.transform([token])
-                prob = citation_classifier.predict_proba(text_tfidf)[0][1]
-            else:
-                prob = 0.0  # Set probability to 0 for padded tokens
+        features.append(token_features)
 
-            token_features.append(str(prob))  # Add citation probability as a feature
-            features.append(token_features)
+    # Pad features to ensure consistent sequence length (use '' for string padding)
+    for i in range(len(features), max_seq_length):
+        features.append(['', 'False', 'False'])  # Padding with empty strings and 'False' for boolean features
 
-    # Pad features to ensure consistent sequence length (use 0 for numeric padding)
-    features = np.array(features)
-    padded_features = np.pad(features, ((0, max_seq_length - len(features)), (0, 0)), mode='constant',
-                             constant_values=('', 0))
-    padded_features[:, 1:3] = padded_features[:, 1:3].astype(str)  # Convert boolean values to strings
-    padded_features = padded_features.tolist()  # Convert to list of lists
-
-    return padded_features
-
+    return features
 
 def pad_sequences(sequences, max_length, padding_value='O'):
     """Pads sequences to a specified length with the given padding value."""
@@ -61,7 +46,7 @@ def pad_sequences(sequences, max_length, padding_value='O'):
         if len(seq) < max_length:
             padded_sequences.append(seq + [padding_value] * (max_seq_length - len(seq)))
         else:
-            padded_sequences.append(seq[:max_length])  # Truncate if longer
+            padded_sequences.append(seq[:max_seq_length])  # Truncate if longer
     return padded_sequences
 
 def create_label_to_id(labels):
@@ -77,24 +62,18 @@ def encode_labels(sequences, label_to_id):
         encoded_sequences.append([label_to_id[label] for label in seq])
     return encoded_sequences
 
-
 # Load your annotated training and testing data
 with open("../data/processed/annotated_data/train_data.jsonl", "r") as f:
     train_data = [json.loads(line) for line in f]
 with open("../data/processed/annotated_data/test_data.jsonl", "r") as f:
     test_data = [json.loads(line) for line in f]
 
-# Train and evaluate the citation model
-citation_classifier, tfidf_vectorizer = train_and_evaluate_model()  # This will train the classifier and return it
-
 # Calculate max_seq_length (to be used in extract_features)
 max_seq_length = max(len(sample["tokens"]) for sample in train_data)
 
 # Extract features for training and testing data
-X_train = [extract_features(sample["tokens"], citation_classifier, tfidf_vectorizer, max_seq_length) for sample in
-           train_data]
-X_test = [extract_features(sample["tokens"], citation_classifier, tfidf_vectorizer, max_seq_length) for sample in
-          test_data]
+X_train = [extract_features(sample["tokens"], max_seq_length) for sample in train_data]
+X_test = [extract_features(sample["tokens"], max_seq_length) for sample in test_data]
 
 # Extract labels
 y_train = [sample["labels"] for sample in train_data]
@@ -116,31 +95,64 @@ with open('../models/label_encoder.pkl', 'wb') as f:
 # Encode labels
 y_train_encoded = encode_labels(y_train_padded, label_to_id)
 y_test_encoded = encode_labels(y_test_padded, label_to_id)
+
+# Convert labels to spaCy's format
+train_examples = []
+for i in range(len(X_train)):
+    ents = []
+    start = 0
+    for j, label in enumerate(y_train_padded[i]):
+        if label == "O":
+            if start != -1:
+                ents.append((start, j, y_train_padded[i][start]))
+                start = -1
+        elif label.startswith("B-"):
+            if start != -1:
+                ents.append((start, j, y_train_padded[i][start]))
+            start = j
+    if start != -1:
+        ents.append((start, len(y_train_padded[i]), y_train_padded[i][start]))
+    train_examples.append(Example.from_dict(nlp.make_doc(" ".join(train_data[i]["tokens"])), {"entities": ents}))
+
 # ------------------MODEL TRAINING-----------------
-crf = sklearn_crfsuite.CRF(
-    algorithm='lbfgs',
-    c1=0.1,
-    c2=0.1,
-    max_iterations=100,
-    all_possible_transitions=True
-)
-crf.fit(X_train, y_train_encoded)
+# Get the existing NER pipe
+ner = nlp.get_pipe("ner")
+
+# Add new labels to the NER model
+for label in label_encoder.classes_:
+    ner.add_label(label)
+
+# Disable other pipes and re-train the NER model
+other_pipes = [pipe for pipe in nlp.pipe_names if pipe != "ner"]
+with nlp.disable_pipes(*other_pipes):
+    optimizer = nlp.resume_training()
+    for _ in range(10):
+        losses = {}
+        for batch in spacy.util.minibatch(train_examples, size=32):
+            nlp.update(batch, sgd=optimizer, losses=losses)
+        print(losses)
 
 # Evaluate the model
-y_pred = crf.predict(X_test)
+examples = []
+for i in range(len(X_test)):
+    ents = []
+    start = 0
+    for j, label in enumerate(y_test_padded[i]):
+        if label == "O":
+            if start != -1:
+                ents.append((start, j, y_test_padded[i][start]))
+                start = -1
+        elif label.startswith("B-"):
+            if start != -1:
+                ents.append((start, j, y_test_padded[i][start]))
+            start = j
+    if start != -1:
+        ents.append((start, len(y_test_padded[i]), y_test_padded[i][start]))
+    examples.append(Example.from_dict(nlp.make_doc(" ".join(test_data[i]["tokens"])), {"entities": ents}))
 
-# Flatten the predictions
-y_pred_flat = [label for seq in y_pred for label in seq]
-y_test_flat = [label for seq in y_test_padded for label in seq]
+scorer = Scorer()
+scores = scorer.score(examples)
+print(scores)
 
-# Calculate and print the classification report (using sklearn)
-from sklearn.metrics import classification_report
-print(classification_report(
-    y_test_flat,
-    y_pred_flat,
-    labels=list(label_encoder.classes_),
-    digits=3
-))
-
-# save model
-joblib.dump(crf, '../models/citation_extractor_crf.pkl')  # Save the model
+# Save the model
+nlp.to_disk('../models/citation_extractor_spacy_ner')
