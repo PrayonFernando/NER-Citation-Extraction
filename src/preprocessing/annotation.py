@@ -6,36 +6,39 @@ from sklearn.preprocessing import LabelEncoder
 
 
 def annotate_data(data):
-    """Annotates all fields in legal case data with BIO tags."""
+    """Annotates legal case data with BIO tags."""
     annotated_data = []
 
     for case in data:
-        # Initialize an empty list to store labeled tokens for the entire case
-        case_tokens = []
-        case_labels = []
+        # Process the 'name' field
+        name_tokens = case["name"].split()
+        name_labels = ["B-CASE_NAME"] + ["I-CASE_NAME"] * (len(name_tokens) - 1)
 
-        # Process each field separately and store its tokens and labels
-        for field_name, field_value in case.items():
-            if isinstance(field_value, list) and field_name != 'cites_to':  # Handle lists (except cites_to)
-                for item in field_value:
-                    for sub_field_name, sub_field_value in item.items():
-                        if sub_field_name == 'cite':  # Label citations with B-CITATION and I-CITATION
-                            tokens = sub_field_value.split()
-                            labels = ["B-CITATION"] + ["I-CITATION"] * (len(tokens) - 1)
-                        else:  # Label all other tokens as O
-                            tokens = str(sub_field_value).split()
-                            labels = ["O"] * len(tokens)
-                        case_tokens.extend(tokens)
-                        case_labels.extend(labels)
-            else:  # Label all other fields as O
-                tokens = str(field_value).split()
-                case_tokens.extend(tokens)
-                case_labels.extend(["O"] * len(tokens))
+        # Process the 'court_name' field
+        court_tokens = case["court"]["name"].split()
+        court_labels = ["B-COURT_NAME"] + ["I-COURT_NAME"] * (len(court_tokens) - 1)
 
-        # Append the annotated data as a dictionary
+        # Process the 'decision_date' field
+        date_tokens = case["decision_date"].split("-")
+        date_labels = ["B-DATE"] + ["I-DATE"] * (len(date_tokens) - 1)
+
+        # Process the 'citations' field
+        citation_tokens = []
+        citation_labels = []
+        for citation in case.get("citations", []):
+            cite_text = citation["cite"]
+            tokens = cite_text.split()
+            labels = ["B-CITATION"] + ["I-CITATION"] * (len(tokens) - 1)
+            citation_tokens.extend(tokens)
+            citation_labels.extend(labels)
+
+        # Combine tokens and labels from all fields
+        all_tokens = name_tokens + court_tokens + date_tokens + citation_tokens
+        all_labels = name_labels + court_labels + date_labels + citation_labels
+
         annotated_data.append({
-            "tokens": case_tokens,
-            "labels": case_labels,
+            "tokens": all_tokens,
+            "labels": all_labels
         })
 
     return annotated_data
